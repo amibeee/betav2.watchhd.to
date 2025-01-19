@@ -1,0 +1,95 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Checkout
+{% endblock %}
+
+{% block content %}
+<style>
+.input-group input{
+    width: 200px;
+    border-radius:5px;
+    margin-top:0
+}
+.input-group{
+    width: 90%;
+    margin-bottom:0.5em;
+    }
+ .input-group .col-md-11 input{
+        width:100%
+ }
+ .input-group .col-md-7 input{
+            width:100%
+
+ }
+ .input-group .col-md-4 input{
+        width:100%
+
+ }
+ .input-group .col-md-1 input{
+    width:200px
+ }   
+.input-group-btn{
+margin-left :5%}
+.pdkt{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+color:white;
+background: #000000dc;
+padding:2%;
+border-radius: 20px; 
+width: 60%;
+font-size: 1.4em}
+
+</style>
+	<div class="f-settings-container-fluid" style="align-items: center;">
+
+<div class="alert alert-info">Du erhälst deine Premiumlaufzeit ca. 24 Stunden nach deinem Kauf.</div>
+<h1>{{ t('Deine Bestellung') }}</h1>
+<div class="pdkt">
+<strong>{{ t('Produkt') }}:</strong> {{ data.product.name }}
+<br />
+<strong>{{ t('Preis') }}:</strong> {{ sum_format(data.product.price, 2) }} Euro
+</div>
+{{ form_open({encytpe:'multipart/form-data'})|raw }}
+<h1>{{ t('Bitte hinterlege für uns hier die Amazon Geschenke Codes (Es werden nur offline Codes bearbeitet)') }}</h1>
+<div class="alert alert-info">Bild von der Rückseite des Gutscheins bitte bei <a href="https://epvpimg.com/" target="_blank">epvpimg.com</a> oder <a href="https://xup.in/" target="_blank">xup.in</a> hochladen</div>
+<div class="form-group">
+    <label style="color:white">Amazon Geschenke Code (offline)</label>
+    <div id="codes">
+        <div class="input-group">
+            <div class="col-md-7">
+                <input type="text" name="codes[]" class="form-control" placeholder="{{ t('Hier Code eingeben') }}" />
+            </div>
+			<div class="col-md-4">
+        
+				<input type="text" name="images[]" class="form-control" placeholder="{{ t('Hier Link eingeben') }}" />
+            </div>
+            <div class="col-md-1">
+                <input type="number" name="amount[]" class="form-control" placeholder="{{ t('Wert') }}" />
+            </div>
+            <span class="input-group-btn"><button class="btn btn-raised btn-primary addField"><i class="fa fa-plus" aria-hidden="true"></i></button></span>
+        </div>
+    </div>
+</div>
+<input type="submit" class="btn btn-raised btn-success btn-lg btn-block" value="{{ t('jetzt mit Amazon Geschenkekarten zahlen') }}" />
+</div>
+{{ form_close()|raw }}
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+
+   $(document).on('click', '.addField', function(e){
+    e.preventDefault();
+    $('#codes').append('<div class="input-group"><div class="col-md-11"><input type="text" name="codes[]" class="form-control" placeholder="Hier Code eingeben" /></div><div class="col-md-1"><input type="number" name="amount[]" class="form-control" placeholder="Wert" /></div><span class="input-group-btn"><button class="btn btn-raised btn-primary addField"><i class="fa fa-plus" aria-hidden="true"></i></button></span></div>');
+
+   });
+
+});
+</script>
+
+{% endblock %}

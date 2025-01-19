@@ -1,0 +1,91 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	{{ t('Produkte auswählen') }}
+{% endblock %}
+
+{% block content %}
+<div class="f-settings-container-fluid">
+	<h1>{{ t('Produkte auswählen') }}</h1>
+	<div class="friend-settings-container-fluid2">
+		<center>
+			<h3 style="color:white">{{ t('Hier kannst du deine IPTV Line konfigurieren') }}</h3>
+		</center>
+
+		<div align="center">
+			<div class="row">
+				<div class="col-sm-12 col-md-10 col-md-offset-1">
+					<form action="{{ base_url }}buy/premium" method="POST">
+						<input type="hidden" name="line" value="{{ line }}">
+						<input type="hidden" name="type" value="{{ type }}">
+						<table class="table table-hover">
+							<thead>
+								<tr>
+									<th>Produkt</th>
+									<th></th>
+								</tr>
+							</thead>
+							<tbody>
+								<p>Line: {{ line }}</p>
+								<p>Type: {{ type }}</p>
+
+								{% for key, packet in packets %}
+									<tr>
+										<td class="col-sm-10 col-md-8">
+											<div class="media">
+												<div class="media-body">
+													<h4 class="media-heading">
+														<a href="#">{{ packet.name }}</a>
+													</h4>
+													<h5 class="media-heading">by <a href="#">watchhd.to</a></h5>
+													<span>Kanäle: </span>
+													<span class="text-success">
+														<strong>({{ packet.channels }})</strong>
+													</span>
+												</div>
+											</div>
+										</td>
+										<td class="col-sm-1 col-md-1" style="text-align: center">
+											<div class="togglebutton">
+												<label>
+													<input 
+														class="paketOption" 
+														data-paket-id="{{ key }}" 
+														data-price="{{ packet.price > 0 ? sum_format(packet.price, 2) : '0.00' }}" 
+														type="checkbox" 
+														name="paket_options_enabled[{{ key }}]"
+														{% if loop.first %} 
+															checked 
+															disabled
+														{% endif %}
+													/>
+												</label>
+												{% if loop.first %}
+													<!-- Hidden input ensures the first disabled checkbox value is submitted -->
+													<input type="hidden" name="paket_options_enabled[{{ key }}]" value="on">
+												{% endif %}
+											</div>
+										</td>
+									</tr>
+								{% endfor %}
+
+								<tr>
+									<td>Die angezeigten Preise entsprechen der Zahlung mit Kryptowährungen. Preise für Gutscheine können abweichen.</td>
+									<td>
+										<center>
+											<button type="submit" class="btn btn-raised btn-success">
+												Checkout
+												<span class="glyphicon glyphicon-play"></span>
+											</button>
+										</center>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,874 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/3
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/4
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/5
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/359
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/7
+#EXTINF:-1 tvg-id="RTL II" tvg-name="DE: RTL II HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/6
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/41
+#EXTINF:-1 tvg-id="voxup" tvg-name="DE: VOXup" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Free-TV",DE: VOXup
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/625
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/31
+#EXTINF:-1 tvg-id="kk1cla" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/32
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/33
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UHD" tvg-logo="https://forum.watchhd.to/uploads/monthly_2019_11/rtl_uhd.png.d25bff03c4d81d7e48b27589373d1b86.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/34
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/35
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion HD" tvg-logo="http://logo.watchhd.cc/logo/rtlpassion.png" group-title="Free-TV",DE: RTL Passion HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/36
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/crimehdv2.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/37
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_living_hd_500.png" group-title="Free-TV",DE: RTL Living HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/38
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="DE: RTL Plus" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="Free-TV",DE: RTL Plus
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/39
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/40
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/42
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/43
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="DE: Comedy Central HD" tvg-logo="http://logo.watchhd.cc/logo/Comedy_Central_HD.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/44
+#EXTINF:-1 tvg-id="Auto Motor Sport Ch." tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="https://forum.watchhd.to/uploads/monthly_2019_11/auto_motor_sport.png.46d80b60a6ce60f0830e52864a77177c.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/46
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="DE: Anixe Serie HD" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Free-TV",DE: Anixe Serie HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/47
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="DE: Sat. 1 Emotions HD" tvg-logo="http://logo.watchhd.cc/logo/sat1_emotions.png" group-title="Free-TV",DE: Sat. 1 Emotions HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/49
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="DE: Sat. 1 Gold HD" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="Free-TV",DE: Sat. 1 Gold HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/48
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/50
+#EXTINF:-1 tvg-id="MTV" tvg-name="DE: MTV HD" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2622
+#EXTINF:-1 tvg-id="ONE" tvg-name="DE: One HD" tvg-logo="http://logo.watchhd.cc/logo/ard_one.png" group-title="Free-TV",DE: One HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2398
+#EXTINF:-1 tvg-id="sonnenklar.TV" tvg-name="DE: Sonnenklar TV HD" tvg-logo="http://logo.watchhd.cc/logo/sonnenklar_tv.png" group-title="Free-TV",DE: Sonnenklar TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/353
+#EXTINF:-1 tvg-id="UHD1" tvg-name="DE: UHD1" tvg-logo="http://logo.watchhd.cc/logo/UHD1.png" group-title="Free-TV",DE: UHD1
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/9042
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/phoenixhd.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/51
+#EXTINF:-1 tvg-id="WELT" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/53
+#EXTINF:-1 tvg-id="n-tv" tvg-name="DE: N-TV HD" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="Free-TV",DE: N-TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/52
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/n24_doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1944
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="DE: Tagesschau 24 HD" tvg-logo="http://logo.watchhd.cc/logo/tagesschau24.png" group-title="Free-TV",DE: Tagesschau 24 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/8116
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE: Boomerang HD" tvg-logo="http://logo.watchhd.cc/logo/Boomerang.png" group-title="Free-TV",DE: Boomerang HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/394
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE: Cartoon Network HD" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Free-TV",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/54
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Free-TV",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/55
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.watchhd.cc/logo/disneyjunior.png" group-title="Free-TV",DE: Disney Junior HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/57
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="DE: Junior" tvg-logo="http://logo.watchhd.cc/logo/junior.png" group-title="Free-TV",DE: Junior
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/411
+#EXTINF:-1 tvg-id="KiKA" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Free-TV",DE: KiKA HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/58
+#EXTINF:-1 tvg-id="nick/MTV+" tvg-name="DE: Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Free-TV",DE: Nickelodeon
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/59
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="DE: Nicktoons" tvg-logo="http://logo.watchhd.cc/logo/nicktoons.png" group-title="Free-TV",DE: Nicktoons
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/8079
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/360
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="DE: ZDF Info HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDF Info HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/60
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/61
+#EXTINF:-1 tvg-id="ARTE" tvg-name="DE: ARTE HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/965
+#EXTINF:-1 tvg-id="3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/429
+#EXTINF:-1 tvg-id="BR" tvg-name="DE: BR HD" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/433
+#EXTINF:-1 tvg-id="HR" tvg-name="DE: HR HD" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/428
+#EXTINF:-1 tvg-id="MDR" tvg-name="DE: MDR HD" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="Free-TV",DE: MDR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/431
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/430
+#EXTINF:-1 tvg-id="RBB" tvg-name="DE: RBB HD" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/434
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SWR HD" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/432
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SR" tvg-logo="http://logo.watchhd.cc/logo/sr.png" group-title="Free-TV",DE: SR
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2396
+#EXTINF:-1 tvg-id="WDR" tvg-name="DE: WDR HD" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/427
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="DE: Romance TV" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Free-TV",DE: Romance TV
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/62
+#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-name="DE: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/361
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="DE: Heimatkanal" tvg-logo="http://logo.watchhd.cc/logo/heimatkanal.png" group-title="Free-TV",DE: Heimatkanal
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/63
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV" tvg-logo="http://logo.watchhd.cc/logo/atv.png" group-title="Free-TV",AT: ATV
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/65
+#EXTINF:-1 tvg-id="ATV II" tvg-name="AT: ATV //" tvg-logo="http://logo.watchhd.cc/logo/atv_II.png" group-title="Free-TV",AT: ATV //
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/688
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls4 " tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="Free-TV",AT: Puls4 
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/546
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/66
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/67
+#EXTINF:-1 tvg-id="ORF III" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/68
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://logo.watchhd.cc/logo/orfsportplus.png" group-title="Free-TV",AT: ORF Sport+ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/69
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: 3+ HD" tvg-logo="http://logo.watchhd.cc/logo/drei_plus.png" group-title="Swiss",Swiss: 3+ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/510
+#EXTINF:-1 tvg-id="4 HD-SWZ" tvg-name="Swiss: 4+ HD" tvg-logo="http://logo.watchhd.cc/logo/vier_plus_tv.png" group-title="Swiss",Swiss: 4+ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2076
+#EXTINF:-1 tvg-id="5 HD-SWZ" tvg-name="Swiss: 5+ HD" tvg-logo="http://logo.watchhd.cc/logo/5_plus_tv.png" group-title="Swiss",Swiss: 5+ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2077
+#EXTINF:-1 tvg-id="Puls 8 HD-SWZ" tvg-name="Swiss: Puls 8 HD" tvg-logo="http://logo.watchhd.cc/logo/Puls_acht.png" group-title="Swiss",Swiss: Puls 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2078
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: S1 HD" tvg-logo="http://logo.watchhd.cc/logo/s1.png" group-title="Swiss",Swiss: S1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/4677
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info HD" tvg-logo="http://logo.watchhd.cc/logo/srf_info.png" group-title="Swiss",Swiss: SRF Info HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/511
+#EXTINF:-1 tvg-id="SWISS 1-SWZ" tvg-name="Swiss: Swiss 1 HD" tvg-logo="http://logo.watchhd.cc/logo/swiss1.png" group-title="Swiss",Swiss: Swiss 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2079
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="DE: Sky 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Sky Film",DE: Sky 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/630
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="Sky Film",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/89
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows HD" tvg-logo="http://logo.watchhd.cc/logo/sky_serien_shows.png" group-title="Sky Doku",DE: Sky Serien & Shows HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/7388
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/93
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="DE: Sky Cinema Best of HD" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="Sky Film",DE: Sky Cinema Best of HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/97
+#EXTINF:-1 tvg-id="skynostalgie.de" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://logo.watchhd.cc/logo/skynostalgie.png" group-title="Sky Film",DE: Sky Cinema Classics
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/100
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="Sky Film",DE: Sky Cinema Family HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/95
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE: Sky Cinema Fun" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_fun.png" group-title="Sky Film",DE: Sky Cinema Fun
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/96
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Sky Film",DE: Sky Cinema Premieren HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/90
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="http://logo.watchhd.cc/logo/cinema24hd.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/92
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/94
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="Sky Film",DE: Sky Cinema Thriller HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/91
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_comedy.png" group-title="Sky Film",DE: Sky Comedy HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/8056
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE: Sky Krimi HD" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="Sky Film",DE: Sky Krimi HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/99
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bundesliga HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN.png" group-title="Sky Sport",DE: DAZN Bundesliga HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/9383
+#EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/102
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/103
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_UHD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/105
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/623
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/106
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/107
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/108
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/109
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5" tvg-name="DE: Sky Sport Bundesliga 5 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/110
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/111
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 7 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/112
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 8 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/113
+#EXTINF:-1 tvg-id="skysportbundesliga9.de" tvg-name="DE: Sky Sport Bundesliga 9 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/114
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 10 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_10HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/115
+#EXTINF:-1 tvg-id="SKY Sport UHD" tvg-name="DE: Sky Sport UHD" tvg-logo="http://logo.watchhd.cc/logo/SKY_SPORT_UHD.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/116
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/117
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/621
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/118
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/622
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_3HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/119
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_4HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/120
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_5HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/121
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_6HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/122
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_7HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/123
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_8HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/124
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_9HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/125
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_10HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/126
+#EXTINF:-1 tvg-id="skysportaustria.de" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_1.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/127
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_2.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/128
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKy Sport Austria 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_3.png" group-title="Sky Sport",DE: SKy Sport Austria 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/129
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_4.png" group-title="Sky Sport",DE: Sky Sport Austria 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/130
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/131
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="DE: 13th Street HD" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Sky Film",DE: 13th Street HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/133
+#EXTINF:-1 tvg-id="AXN" tvg-name="DE: AXN HD" tvg-logo="http://logo.watchhd.cc/logo/axn.png" group-title="Sky Film",DE: AXN HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/135
+#EXTINF:-1 tvg-id="travelxp 4K" tvg-name="DE: TravelXP UHD" tvg-logo="http://logo.watchhd.cc/logo/travelxp_4k.png" group-title="Free-TV",DE: TravelXP UHD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/352
+#EXTINF:-1 tvg-id="BonGusto.de" tvg-name="DE: Bon Gusto HD" tvg-logo="http://logo.watchhd.cc/logo/bon_gusto.png" group-title="Sky Doku",DE: Bon Gusto HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/354
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="DE: Crime & Investigation HD" tvg-logo="http://logo.watchhd.cc/logo/crime_investigation.png" group-title="Sky Doku",DE: Crime & Investigation HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/134
+#EXTINF:-1 tvg-id="E! Entertainm." tvg-name="DE: E! Entertainment HD" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="Sky Doku",DE: E! Entertainment HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/136
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: Fox HD" tvg-logo="http://logo.watchhd.cc/logo/fox.png" group-title="Sky Film",DE: Fox HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/137
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="DE: Universal TV HD" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="Sky Film",DE: Universal TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/138
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="DE: Kinowelt HD" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Sky Film",DE: Kinowelt HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/139
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="DE: Sony Channel HD" tvg-logo="http://logo.watchhd.cc/logo/Sony_Channel_SW.png" group-title="Sky Film",DE: Sony Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/140
+#EXTINF:-1 tvg-id="TLC" tvg-name="DE: TLC HD" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Sky Doku",DE: TLC HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/141
+#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="DE: TNT Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/tnt_comedy.png" group-title="Sky Film",DE: TNT Comedy HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/142
+#EXTINF:-1 tvg-id="TNT Film HD" tvg-name="DE: TNT Film HD" tvg-logo="http://logo.watchhd.cc/logo/tntfilmhdv2.png" group-title="Sky Film",DE: TNT Film HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/143
+#EXTINF:-1 tvg-id="TNT Serie HD" tvg-name="DE: TNT Serie HD" tvg-logo="http://logo.watchhd.cc/logo/tntseriehdv2.png" group-title="Sky Film",DE: TNT Serie HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/144
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="Sky Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/145
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="Sky Doku",DE: Discovery HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/146
+#EXTINF:-1 tvg-id="GEO.de" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/147
+#EXTINF:-1 tvg-id="Home & Garden TV" tvg-name="DE: HGTV" tvg-logo="http://logo.watchhd.cc/logo/hgtv.png" group-title="Sky Doku",DE: HGTV
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/769
+#EXTINF:-1 tvg-id="HistoryHD" tvg-name="DE: History HD" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Doku",DE: History HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/148
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/265
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/149
+#EXTINF:-1 tvg-id="Planet HD" tvg-name="DE: Planet HD" tvg-logo="http://logo.watchhd.cc/logo/Planet_HD.png" group-title="Sky Doku",DE: Planet HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/150
+#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="DE: Silverline" tvg-logo="http://logo.watchhd.cc/logo/silverline1.png" group-title="Sky Film",DE: Silverline
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/151
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="DE: Spiegel TV Geschichte HD" tvg-logo="http://logo.watchhd.cc/logo/spiegelgeschichte.png" group-title="Sky Doku",DE: Spiegel TV Geschichte HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/152
+#EXTINF:-1 tvg-id="SPIEGEL TV WISSEN" tvg-name="DE: Spiegel TV Wissen" tvg-logo="http://logo.watchhd.cc/logo/Spiegel_TV_Wissen.png" group-title="Sky Doku",DE: Spiegel TV Wissen
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/153
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="DE: SyFy HD" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Sky Film",DE: SyFy HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/154
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/155
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sky Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/156
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2xtra HD" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/157
+#EXTINF:-1 tvg-id="eSports1" tvg-name="DE: eSports1 HD" tvg-logo="http://logo.watchhd.cc/logo/esportshd.png" group-title="Sky Sport",DE: eSports1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/158
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: Sportdigital HD" tvg-logo="http://logo.watchhd.cc/logo/sportdigitalhdv2.png" group-title="Sky Sport",DE: Sportdigital HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/160
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sky Sport",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/159
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 1" tvg-name="DE: Magenta Sport Fussball 1 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_1.png" group-title="Sky Sport",DE: Magenta Sport Fussball 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/162
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 2" tvg-name="DE: Magenta Sport Fussball 2 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_2.png" group-title="Sky Sport",DE: Magenta Sport Fussball 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/163
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 3" tvg-name="DE: Magenta Sport Fussball 3 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_3.png" group-title="Sky Sport",DE: Magenta Sport Fussball 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/164
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 4" tvg-name="DE: Magenta Sport Fussball 4 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_4.png" group-title="Sky Sport",DE: Magenta Sport Fussball 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/165
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 5" tvg-name="DE: Magenta Sport Fussball 5 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_5.png" group-title="Sky Sport",DE: Magenta Sport Fussball 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/166
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 6" tvg-name="DE: Magenta Sport Fussball 6 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_6.png" group-title="Sky Sport",DE: Magenta Sport Fussball 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/167
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 7" tvg-name="DE: Magenta Sport Fussball 7 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_7.png" group-title="Sky Sport",DE: Magenta Sport Fussball 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/168
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 8 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/9450
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 10 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 10 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/9452
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 9 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/9451
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 1" tvg-name="DE: Magenta Sport Eishockey 1 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_eishockey_1.png" group-title="Sky Sport",DE: Magenta Sport Eishockey 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/169
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 2" tvg-name="DE: Magenta Sport Eishockey 2 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_eishockey_2.png" group-title="Sky Sport",DE: Magenta Sport Eishockey 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/170
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 3" tvg-name="DE: Magenta Sport Eishockey 3 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Eishockey 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/171
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 4" tvg-name="DE: Magenta Sport Eishockey 4 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Eishockey 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/173
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 5" tvg-name="DE: Magenta Sport Eishockey 5 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Eishockey 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/176
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 6" tvg-name="DE: Magenta Sport Eishockey 6 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Eishockey 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/175
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magente Sport Eishockey 7 HD" tvg-logo="" group-title="Sky Sport",DE: Magente Sport Eishockey 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/597
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 8" tvg-name="DE: Magenta Sport Eishockey 8 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Eishockey 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/696
+#EXTINF:-1 tvg-id="MyTeam TV - Basketball 1" tvg-name="DE: Magenta Sport Basketball 1 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_basketball_1.png" group-title="Sky Sport",DE: Magenta Sport Basketball 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/405
+#EXTINF:-1 tvg-id="MyTeam TV - Basketball 2" tvg-name="DE: Magenta Sport Basketball 2 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_basketball_2.png" group-title="Sky Sport",DE: Magenta Sport Basketball 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/406
+#EXTINF:-1 tvg-id="MyTeam TV - Basketball 3" tvg-name="DE: Magenta Sport Basketball 3 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_basketball_3.png" group-title="Sky Sport",DE: Magenta Sport Basketball 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/410
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://logo.watchhd.cc/logo/uk:sky_sports_action.png" group-title="UK",UK: Sky Sports Action HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/183
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK: Sky Sports Arena HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_arena.png" group-title="UK",UK: Sky Sports Arena HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/184
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_cricket.png" group-title="UK",UK: Sky Sports Cricket HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/212
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_f1.png" group-title="UK",UK: Sky Sports F1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/213
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: Sky Sports Football HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_football.png" group-title="UK",UK: Sky Sports Football HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/181
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_golf.png" group-title="UK",UK: Sky Sports Golf HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/182
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK: SKy Sports Main Event HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_main_event.png" group-title="UK",UK: SKy Sports Main Event HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/179
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK: Sky Sports MIX HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_mix.png" group-title="UK",UK: Sky Sports MIX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/214
+#EXTINF:-1 tvg-id="premiereleague.uk" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_premier_league.png" group-title="UK",UK: Sky Sports Premier League HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/180
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_racing.png" group-title="UK",UK: Sky Sports Racing HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/393
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 1" tvg-logo="http://logo.watchhd.cc/logo/pdc_darts_1.png" group-title="UK",UK: PDC Darts 1
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/591
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 2" tvg-logo="http://logo.watchhd.cc/logo/pdc_darts_2.png" group-title="UK",UK: PDC Darts 2
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/592
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK: Quest HD" tvg-logo="http://logo.watchhd.cc/logo/quest.png" group-title="UK",UK: Quest HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/699
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport_1.png" group-title="UK",UK: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/700
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport_2.png" group-title="UK",UK: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/701
+#EXTINF:-1 tvg-id="" tvg-name="UK: LaLiga TV HD" tvg-logo="http://logo.watchhd.cc/logo/LaLigaTV.png" group-title="UK",UK: LaLiga TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2239
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="UK: Premier Sports 1 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-premier_sports_1.png" group-title="UK",UK: Premier Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/487
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports 2 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-premier_sports_2.png" group-title="UK",UK: Premier Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/488
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK: BBC One HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_one.png" group-title="UK",UK: BBC One HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/186
+#EXTINF:-1 tvg-id="bbctwowales.uk" tvg-name="UK: BBC Two HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_two.png" group-title="UK",UK: BBC Two HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/187
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC Four " tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_four.png" group-title="UK",UK: BBC Four 
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/508
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC four HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_four.png" group-title="UK",UK: BBC four HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/549
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK: Cartoon Network HD" tvg-logo="http://logo.watchhd.cc/logo/uk-cartoon_network.png" group-title="UK",UK: Cartoon Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/189
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK: CBBC HD" tvg-logo="http://logo.watchhd.cc/logo/uk-cbbc.png" group-title="UK",UK: CBBC HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/509
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-channel_4.png" group-title="UK",UK: Channel 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/887
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-channel_5.png" group-title="UK",UK: Channel 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/888
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN International HD" tvg-logo="http://logo.watchhd.cc/logo/uk-cnn_international.png" group-title="UK",UK: CNN International HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/188
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: Eden HD" tvg-logo="http://logo.watchhd.cc/logo/uk-eden.png" group-title="UK",UK: Eden HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/550
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK: ITV HD" tvg-logo="http://logo.watchhd.cc/logo/uk-itv.png" group-title="UK",UK: ITV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/407
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-itv2.png" group-title="UK",UK: ITV 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/408
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-itv3.png" group-title="UK",UK: ITV 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/409
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-itv4.png" group-title="UK",UK: ITV 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/462
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK: Sky Arts HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_arts.png" group-title="UK",UK: Sky Arts HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/548
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_atlantic.png" group-title="UK",UK: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/178
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_action.png" group-title="UK",UK: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/191
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_comedy.png" group-title="UK",UK: Sky Cinema Comedy HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/192
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_disney.png" group-title="UK",UK: Sky Cinema Disney HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/193
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_family.png" group-title="UK",UK: Sky Cinema Family HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/194
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_hits.png" group-title="UK",UK: Sky Cinema Hits HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/195
+#EXTINF:-1 tvg-id="skycinemapremiere.uk" tvg-name="UK: Sky Cinema Premiere HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_premiere.png" group-title="UK",UK: Sky Cinema Premiere HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/196
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK: Sky Cinema Sci-Fi & Horror HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_scifi_horror.png" group-title="UK",UK: Sky Cinema Sci-Fi & Horror HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/197
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_thriller.png" group-title="UK",UK: Sky Cinema Thriller HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/198
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_news.png" group-title="UK",UK: Sky News HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/199
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: Euronews " tvg-logo="http://logo.watchhd.cc/logo/uk-euronews.png" group-title="UK",UK: Euronews 
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/200
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BoxNation HD" tvg-logo="http://logo.watchhd.cc/logo/uk-BoxNation.png" group-title="UK",UK: BoxNation HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/201
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_espn_hd.png" group-title="UK",UK: BT Sport ESPN HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/202
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_1.png" group-title="UK",UK: BT Sport 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/203
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_2.png" group-title="UK",UK: BT Sport 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/204
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_3.png" group-title="UK",UK: BT Sport 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/205
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="UK: BT Sports Extra 1" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_1.png" group-title="UK",UK: BT Sports Extra 1
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/206
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_2.png" group-title="UK",UK: BT Sport Extra 2
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/207
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="UK: BT Sport Extra 3" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_3.png" group-title="UK",UK: BT Sport Extra 3
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/208
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="UK: BT Sport Extra 4" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_4.png" group-title="UK",UK: BT Sport Extra 4
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/209
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="UK: BT Sport Extra 5" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_5.png" group-title="UK",UK: BT Sport Extra 5
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/210
+#EXTINF:-1 tvg-id="BTSportX6.uk" tvg-name="UK: BT Sport Extra 6" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_extra_6.png" group-title="UK",UK: BT Sport Extra 6
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/211
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos HD" tvg-logo="http://logo.watchhd.cc/logo/es-vamos.png" group-title="Europe",ES: #Vamos HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2590
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn Sports 1 HD" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_1.png" group-title="Europe",ES: Dazn Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2592
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn Sports 2 HD" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_2.png" group-title="Europe",ES: Dazn Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2593
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV HD" tvg-logo="http://logo.watchhd.cc/logo/LaLigaTV.png" group-title="Europe",ES: LaLiga TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/272
+#EXTINF:-1 tvg-id="" tvg-name="ES: Moviestar LaLiga HD" tvg-logo="http://logo.watchhd.cc/logo/es-moviestar_laliga.png" group-title="Europe",ES: Moviestar LaLiga HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/273
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga Campeones HD" tvg-logo="http://logo.watchhd.cc/logo/es-moviestar_liga_campeones.png" group-title="Europe",ES: M.Liga Campeones HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2591
+#EXTINF:-1 tvg-id="beinsport1.fr" tvg-name="FR: BeIN Sports 1 HD" tvg-logo="http://logo.watchhd.cc/logo/fr1bein.png" group-title="Europe",FR: BeIN Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/395
+#EXTINF:-1 tvg-id="beinsport2.fr" tvg-name="FR: BeIN Sports 2 HD" tvg-logo="http://logo.watchhd.cc/logo/fr2bein.png" group-title="Europe",FR: BeIN Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/396
+#EXTINF:-1 tvg-id="beinsport3.fr" tvg-name="FR: Bein Sports 3 HD" tvg-logo="" group-title="Europe",FR: Bein Sports 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/516
+#EXTINF:-1 tvg-id="beinsport4.fr" tvg-name="FR: Bein Sports Max 4 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/517
+#EXTINF:-1 tvg-id="beinsport5.fr" tvg-name="FR: Bein Sports Max 5 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/518
+#EXTINF:-1 tvg-id="beinsport6.fr" tvg-name="FR: Bein Sports Max 6 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/519
+#EXTINF:-1 tvg-id="beinsport7.fr" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/520
+#EXTINF:-1 tvg-id="beinsport8.fr" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/521
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="" group-title="Europe",FR: Canal+ Sport HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/507
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="Europe",FR: RMC Sport 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/268
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="Europe",FR: RMC Sport 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/269
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="" group-title="Europe",FR: RMC Sport 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/270
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="Europe",FR: RMC Sport 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/271
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="" group-title="Europe",FR: RMC Sport Live 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2236
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="" group-title="Europe",FR: RMC Sport Live 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2237
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="Europe",FR: RMC Sport Live 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2235
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1 BAR HD" tvg-logo="" group-title="Europe",IT: DAZN 1 BAR HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/627
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Calcio 1 HD" tvg-logo="" group-title="Europe",IT: Sky Calcio 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/626
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sports Serie A HD" tvg-logo="" group-title="Europe",IT: Sky Sports Serie A HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/628
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 1 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/493
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 2 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/494
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 3 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/495
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 4 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/496
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 5 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/497
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 6 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/498
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="" group-title="Europe",NL: Ziggo Sport Select HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/499
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal HD" tvg-logo="" group-title="Europe",NL: Ziggo Sport Voetbal HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/500
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Europe",PL: ELEVEN SPORTS 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2069
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Europe",PL: ELEVEN SPORTS 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2070
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Europe",PL: ELEVEN SPORTS 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2071
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Europe",PL: ELEVEN SPORTS 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2072
+#EXTINF:-1 tvg-id="Eleven Sports 1 (PT)" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Europe",PT: ELEVEN SPORTS 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2063
+#EXTINF:-1 tvg-id="Eleven Sports 2 (PT)" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Europe",PT: ELEVEN SPORTS 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2064
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Europe",PT: ELEVEN SPORTS 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2065
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="Europe",PT: ELEVEN SPORTS 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2066
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Europe",PT: ELEVEN SPORTS 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2067
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1559.png" group-title="Europe",PT: ELEVEN SPORTS 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2068
+#EXTINF:-1 tvg-id="123.tv" tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://logo.watchhd.cc/logo/beinligtv.png" group-title="Türkei",TR: Bein Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/274
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 2 HD" tvg-logo="http://logo.watchhd.cc/logo/beinligtv.png" group-title="Türkei",TR: Bein Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/275
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 3 HD" tvg-logo="http://logo.watchhd.cc/logo/beinligtv.png" group-title="Türkei",TR: Bein Sports 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/276
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 4 HD" tvg-logo="" group-title="Türkei",TR: Bein Sports 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/512
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="" group-title="Türkei",TR: Tivibu Spor 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/513
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="" group-title="Türkei",TR: Tivibu Spor 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/514
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="" group-title="Türkei",TR: Tivibu Spor 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/515
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="US: ABC HD" tvg-logo="" group-title="USA",US: ABC HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/292
+#EXTINF:-1 tvg-id="amcwest.us" tvg-name="US: AMC" tvg-logo="" group-title="USA",US: AMC
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/293
+#EXTINF:-1 tvg-id="lighttveast.us" tvg-name="US: A&E HD" tvg-logo="" group-title="USA",US: A&E HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/8301
+#EXTINF:-1 tvg-id="beinsports3.us" tvg-name="US: Bein Sports Connect 3 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/489
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: Bein Sports Connect 4 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/490
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: Bein Sports Connect 5 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/491
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: Bein Sports Connect 6 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/492
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports Connect 7 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/545
+#EXTINF:-1 tvg-id="beinsports1.us" tvg-name="US: BeIn Sports HD" tvg-logo="" group-title="USA",US: BeIn Sports HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/219
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="US: Bein Sports LaLiga TV HD" tvg-logo="" group-title="USA",US: Bein Sports LaLiga TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/482
+#EXTINF:-1 tvg-id="big10net2.us" tvg-name="US: Big Ten Network 2 HD" tvg-logo="" group-title="USA",US: Big Ten Network 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/346
+#EXTINF:-1 tvg-id="big10net3.us" tvg-name="US: Big Ten Network 3 HD" tvg-logo="" group-title="USA",US: Big Ten Network 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/348
+#EXTINF:-1 tvg-id="big10net4.us" tvg-name="US: Big Ten Network 4 HD" tvg-logo="" group-title="USA",US: Big Ten Network 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/349
+#EXTINF:-1 tvg-id="" tvg-name="US: Big Ten Network HD" tvg-logo="" group-title="USA",US: Big Ten Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/347
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US: Cartoon Network HD" tvg-logo="" group-title="USA",US: Cartoon Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/6972
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="US: CBS HD" tvg-logo="" group-title="USA",US: CBS HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/294
+#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="US: CBS Sports Network HD" tvg-logo="" group-title="USA",US: CBS Sports Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/295
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN HD" tvg-logo="" group-title="USA",US: CNN HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/296
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: Discovery Channel HD" tvg-logo="" group-title="USA",US: Discovery Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/297
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science HD" tvg-logo="" group-title="USA",US: Discovery Science HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/298
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="US: E! Entertainment HD" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="USA",US: E! Entertainment HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/392
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="" group-title="USA",US: ESPN 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/311
+#EXTINF:-1 tvg-id="espngoalline.us" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="USA",US: ESPN 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/312
+#EXTINF:-1 tvg-id="espncollegex1.us" tvg-name="US: ESPN COLLEGE EXTRA 1 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/314
+#EXTINF:-1 tvg-id="espncollegex2.us" tvg-name="US: ESPN COLLEGE EXTRA 2 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/315
+#EXTINF:-1 tvg-id="espncollegex3.us" tvg-name="US: ESPN COLLEGE EXTRA 3 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/316
+#EXTINF:-1 tvg-id="espncollegex4.us" tvg-name="US: ESPN COLLEGE EXTRA 4 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/317
+#EXTINF:-1 tvg-id="espncollegex5.us" tvg-name="US: ESPN COLLEGE EXTRA 5 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/318
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPN News HD" tvg-logo="" group-title="USA",US: ESPN News HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/350
+#EXTINF:-1 tvg-id="ESPN.01.HD" tvg-name="US: ESPN Plus 1 HD" tvg-logo="" group-title="USA",US: ESPN Plus 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/220
+#EXTINF:-1 tvg-id="ESPN.02.HD" tvg-name="US: ESPN Plus 2 HD" tvg-logo="" group-title="USA",US: ESPN Plus 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/221
+#EXTINF:-1 tvg-id="ESPN.03.HD" tvg-name="US: ESPN Plus 3 HD" tvg-logo="" group-title="USA",US: ESPN Plus 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/222
+#EXTINF:-1 tvg-id="ESPN.04.HD" tvg-name="US: ESPN Plus 4 HD" tvg-logo="" group-title="USA",US: ESPN Plus 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/223
+#EXTINF:-1 tvg-id="ESPN.05.HD" tvg-name="US: ESPN Plus 5 HD" tvg-logo="" group-title="USA",US: ESPN Plus 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/224
+#EXTINF:-1 tvg-id="ESPN.06.HD" tvg-name="US: ESPN Plus 6 HD" tvg-logo="" group-title="USA",US: ESPN Plus 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/225
+#EXTINF:-1 tvg-id="ESPN.07.HD" tvg-name="US: ESPN Plus 7 HD" tvg-logo="" group-title="USA",US: ESPN Plus 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/226
+#EXTINF:-1 tvg-id="ESPN.08.HD" tvg-name="US: ESPN Plus 8 HD" tvg-logo="" group-title="USA",US: ESPN Plus 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/227
+#EXTINF:-1 tvg-id="ESPN.09.HD" tvg-name="US: ESPN Plus 9 HD" tvg-logo="" group-title="USA",US: ESPN Plus 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/228
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US: ESPN Sec Network HD" tvg-logo="" group-title="USA",US: ESPN Sec Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/351
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="" group-title="USA",US: ESPN U HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/313
+#EXTINF:-1 tvg-id="" tvg-name="US: Explorer Nature 8K" tvg-logo="" group-title="USA",US: Explorer Nature 8K
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2248
+#EXTINF:-1 tvg-id="" tvg-name="US: Fashion 4K" tvg-logo="" group-title="USA",US: Fashion 4K
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2247
+#EXTINF:-1 tvg-id="foodnetworkwest.us" tvg-name="US: Food Network HD" tvg-logo="" group-title="USA",US: Food Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/889
+#EXTINF:-1 tvg-id="" tvg-name="US: Formel 1 TV Pit Lane HD" tvg-logo="" group-title="USA",US: Formel 1 TV Pit Lane HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/606
+#EXTINF:-1 tvg-id="" tvg-name="US: Formel 1 TV Quali/Race HD" tvg-logo="" group-title="USA",US: Formel 1 TV Quali/Race HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/605
+#EXTINF:-1 tvg-id="foxcollcental.us" tvg-name="US: Fox College Sports HD" tvg-logo="" group-title="USA",US: Fox College Sports HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/328
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="US: Fox HD" tvg-logo="" group-title="USA",US: Fox HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/300
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel HD" tvg-logo="" group-title="USA",US: Fox News Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/301
+#EXTINF:-1 tvg-id="foxsportssoccer.us" tvg-name="US: Fox Soccer Plus HD" tvg-logo="" group-title="USA",US: Fox Soccer Plus HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/339
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: Fox Sports 1 HD" tvg-logo="" group-title="USA",US: Fox Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/330
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: Fox Sports 2 HD" tvg-logo="" group-title="USA",US: Fox Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/331
+#EXTINF:-1 tvg-id="foxsports.us" tvg-name="US: Fox Sports HD" tvg-logo="" group-title="USA",US: Fox Sports HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/329
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png" group-title="USA",US: Fox Sports NEWS HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/442
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX HD" tvg-logo="" group-title="USA",US: FX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/299
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX HD" tvg-logo="" group-title="USA",US: FXX HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/537
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US: HBO Family HD" tvg-logo="" group-title="USA",US: HBO Family HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/534
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO HD" tvg-logo="" group-title="USA",US: HBO HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/302
+#EXTINF:-1 tvg-id="History.us" tvg-name="US: History Channel HD" tvg-logo="" group-title="USA",US: History Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/303
+#EXTINF:-1 tvg-id="mlbnet.us" tvg-name="US: MLB Network HD" tvg-logo="" group-title="USA",US: MLB Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/333
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Strikezone HD" tvg-logo="" group-title="USA",US: MLB Strikezone HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/332
+#EXTINF:-1 tvg-id="" tvg-name="US: MMA BELLATOR | MAIN CARD" tvg-logo="https://i.pinimg.com/originals/9b/c6/f5/9bc6f50589ec13e98fd727fb8ba7a57e.png" group-title="USA",US: MMA BELLATOR | MAIN CARD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/437
+#EXTINF:-1 tvg-id="" tvg-name="US: MMA BELLATOR | PRELIMS" tvg-logo="https://i.pinimg.com/originals/9b/c6/f5/9bc6f50589ec13e98fd727fb8ba7a57e.png" group-title="USA",US: MMA BELLATOR | PRELIMS
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/436
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC HD" tvg-logo="" group-title="USA",US: MSNBC HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/305
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: Nat Geo HD" tvg-logo="" group-title="USA",US: Nat Geo HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/304
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD" tvg-logo="" group-title="USA",US: NBC Golf HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/536
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="US: NBC HD" tvg-logo="" group-title="USA",US: NBC HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/218
+#EXTINF:-1 tvg-id="nbcsportsnet.us" tvg-name="US: NBC Sports Network" tvg-logo="" group-title="USA",US: NBC Sports Network
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/335
+#EXTINF:-1 tvg-id="nflnet.us" tvg-name="US: NFL Network HD" tvg-logo="" group-title="USA",US: NFL Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/336
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL REDZONE HD" tvg-logo="" group-title="USA",US: NFL REDZONE HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/337
+#EXTINF:-1 tvg-id="nhlnet.us" tvg-name="US: NHL Network HD" tvg-logo="" group-title="USA",US: NHL Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/338
+#EXTINF:-1 tvg-id="" tvg-name="US: Olympic Channel HD" tvg-logo="" group-title="USA",US: Olympic Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/309
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports 6 HD" tvg-logo="" group-title="USA",US: Rush Sports 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/417
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports EPL HD" tvg-logo="" group-title="USA",US: Rush Sports EPL HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/418
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US: Showtime HD" tvg-logo="" group-title="USA",US: Showtime HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/306
+#EXTINF:-1 tvg-id="STARZCinema.us" tvg-name="US: Starz Cinema HD" tvg-logo="" group-title="USA",US: Starz Cinema HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/529
+#EXTINF:-1 tvg-id="STARZComedy.us" tvg-name="US: Starz Comedy HD" tvg-logo="" group-title="USA",US: Starz Comedy HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/530
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Edge HD" tvg-logo="" group-title="USA",US: Starz Edge HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/531
+#EXTINF:-1 tvg-id="STARZENCORE.us" tvg-name="US: Starz Encore HD" tvg-logo="" group-title="USA",US: Starz Encore HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/532
+#EXTINF:-1 tvg-id="STARZ.us" tvg-name="US: Starz HD" tvg-logo="" group-title="USA",US: Starz HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/217
+#EXTINF:-1 tvg-id="STARZInBlack.us" tvg-name="US: Starz in Black HD" tvg-logo="" group-title="USA",US: Starz in Black HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/533
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="US: TBS HD" tvg-logo="" group-title="USA",US: TBS HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/307
+#EXTINF:-1 tvg-id="tennischan.us" tvg-name="US: Tennis Channel HD" tvg-logo="" group-title="USA",US: Tennis Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2397
+#EXTINF:-1 tvg-id="tntwest.us" tvg-name="US: TNT HD" tvg-logo="" group-title="USA",US: TNT HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/308
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 2 HD" tvg-logo="" group-title="USA",US: TSN 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/341
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3 HD" tvg-logo="" group-title="USA",US: TSN 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/342
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 4 HD" tvg-logo="" group-title="USA",US: TSN 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/343
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5 HD" tvg-logo="" group-title="USA",US: TSN 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/344
+#EXTINF:-1 tvg-id="tvlandwest.us" tvg-name="US: TVLAND HD" tvg-logo="" group-title="USA",US: TVLAND HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/842
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC  FIGHT PASS 01  Early Prelims UFC 249" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC  FIGHT PASS 01  Early Prelims UFC 249
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/438
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC  FIGHT PASS 02 Prelims UFC 249" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC  FIGHT PASS 02 Prelims UFC 249
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/439
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC  FIGHT PASS 03 Main Event" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/10/ufc-vector-logo-400x400.png" group-title="USA",US: UFC  FIGHT PASS 03 Main Event
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/440
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC  FIGHT PASS 04 Main Event" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/10/ufc-vector-logo-400x400.png" group-title="USA",US: UFC  FIGHT PASS 04 Main Event
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/441
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass 03 Main Card UFC 249" tvg-logo="" group-title="USA",US: UFC Fight Pass 03 Main Card UFC 249
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1061
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="US: UFC TV" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="USA",US: UFC TV
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/435
+#EXTINF:-1 tvg-id="usanetworkwest.us" tvg-name="US: USA NETWORK TV HD" tvg-logo="" group-title="USA",US: USA NETWORK TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/841
+#EXTINF:-1 tvg-id="wfnfishing.us" tvg-name="US: World fishing Network HD" tvg-logo="" group-title="USA",US: World fishing Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2255
+#EXTINF:-1 tvg-id="wwenetwork.ca" tvg-name="US: WWE Channel HD" tvg-logo="" group-title="USA",US: WWE Channel HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/526
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US: WWE Network HD" tvg-logo="" group-title="USA",US: WWE Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/264
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 01 HD | Dragons at Defenders (02.08.20 | 2PM ET)" tvg-logo="" group-title="USA",US: XFL 01 HD | Dragons at Defenders (02.08.20 | 2PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2047
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="US: Pac-12 Arizona HD" tvg-logo="" group-title="USA",US: Pac-12 Arizona HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/539
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="US: Pac-12 BayArea HD" tvg-logo="" group-title="USA",US: Pac-12 BayArea HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/540
+#EXTINF:-1 tvg-id="pac12la.us" tvg-name="US: Pac-12 Los Angeles" tvg-logo="" group-title="USA",US: Pac-12 Los Angeles
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/541
+#EXTINF:-1 tvg-id="pac12mountain.us" tvg-name="US: Pac-12 Mountain HD" tvg-logo="" group-title="USA",US: Pac-12 Mountain HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/542
+#EXTINF:-1 tvg-id="pac12net.us" tvg-name="US: Pac-12 Network HD" tvg-logo="" group-title="USA",US: Pac-12 Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/538
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="US: Pac-12 Oregon HD" tvg-logo="" group-title="USA",US: Pac-12 Oregon HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/543
+#EXTINF:-1 tvg-id="pac12wash.us" tvg-name="US: Pac-12 Washington HD" tvg-logo="" group-title="USA",US: Pac-12 Washington HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/544
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: Paramount Network HD" tvg-logo="" group-title="USA",US: Paramount Network HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/345
+#EXTINF:-1 tvg-id="redbull.us" tvg-name="US: RedBull TV HD" tvg-logo="" group-title="USA",US: RedBull TV HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/263
+#EXTINF:-1 tvg-id="LESPORTS1.LESPORTS" tvg-name="US: Rush Sports 1 HD" tvg-logo="" group-title="USA",US: Rush Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/412
+#EXTINF:-1 tvg-id="FloSoccer2.FloSoccer" tvg-name="US: Rush Sports 2 HD" tvg-logo="" group-title="USA",US: Rush Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/413
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports 3 HD" tvg-logo="" group-title="USA",US: Rush Sports 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/414
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports 4 HD" tvg-logo="" group-title="USA",US: Rush Sports 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/415
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports 5 HD" tvg-logo="" group-title="USA",US: Rush Sports 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/416
+#EXTINF:-1 tvg-id="nbaleaguepass1.us" tvg-name="US: NBA League Pass 1 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/420
+#EXTINF:-1 tvg-id="nbaleaguepass2.us" tvg-name="US: NBA League Pass 2 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/421
+#EXTINF:-1 tvg-id="nbaleaguepass3.us" tvg-name="US: NBA League Pass 3 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/422
+#EXTINF:-1 tvg-id="nbaleaguepass4.us" tvg-name="US: NBA League Pass 4 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/423
+#EXTINF:-1 tvg-id="nbaleaguepass5.us" tvg-name="US: NBA League Pass 5 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/424
+#EXTINF:-1 tvg-id="nbaleaguepass6.us" tvg-name="US: NBA League Pass 6 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/425
+#EXTINF:-1 tvg-id="nbaleaguepass7.us" tvg-name="US: NBA League Pass 7 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/426
+#EXTINF:-1 tvg-id="nbaleaguepass8.us" tvg-name="US: NBA League  Pass 8 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League  Pass 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/468
+#EXTINF:-1 tvg-id="nbaleaguepass9.us" tvg-name="US: NBA League  Pass 9 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League  Pass 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/469
+#EXTINF:-1 tvg-id="nbaleaguepass10.us" tvg-name="US: NBA League  Pass 10 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League  Pass 10 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/470
+#EXTINF:-1 tvg-id="nbaleaguepass11.us" tvg-name="US: NBA League  Pass 11 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League  Pass 11 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/471
+#EXTINF:-1 tvg-id="nbaleaguepass12.us" tvg-name="US: NBA League Pass 12 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="USA",US: NBA League Pass 12 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/472
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="http://logo.watchhd.cc/logo/nba_tv.png" group-title="USA",US: NBA TV
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/334
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 02 HD | Wildcats at Roughnecks (02.08.20 | 5PM ET)" tvg-logo="" group-title="USA",US: XFL 02 HD | Wildcats at Roughnecks (02.08.20 | 5PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2048
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 03 HD | Vipers at Guardians (02.09.20 | 2PM ET)" tvg-logo="" group-title="USA",US: XFL 03 HD | Vipers at Guardians (02.09.20 | 2PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2049
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 04 HD | Battlehawks at Renegades (02.09.20 | 5PM ET)" tvg-logo="" group-title="USA",US: XFL 04 HD | Battlehawks at Renegades (02.09.20 | 5PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2050
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 05 HD | Guardians at Defenders (02.15.20 | 2PM ET)" tvg-logo="" group-title="USA",US: XFL 05 HD | Guardians at Defenders (02.15.20 | 2PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2051
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 06 HD | Vipers at Dragons (02.15.20 | 5PM ET)" tvg-logo="" group-title="USA",US: XFL 06 HD | Vipers at Dragons (02.15.20 | 5PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2052
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 07 HD | Renegades at Wildcats (02.16.20 | 3PM ET)" tvg-logo="" group-title="USA",US: XFL 07 HD | Renegades at Wildcats (02.16.20 | 3PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2053
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 08 HD | Battlehawks at Roughnecks (02.16.20 | 6PM ET)" tvg-logo="" group-title="USA",US: XFL 08 HD | Battlehawks at Roughnecks (02.16.20 | 6PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2054
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 09 HD | Roughnecks at Vipers (02.22.20 | 2PM ET)" tvg-logo="" group-title="USA",US: XFL 09 HD | Roughnecks at Vipers (02.22.20 | 2PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2055
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 10 HD | Renegades at Dragons (02.22.20 | 5PM ET)" tvg-logo="" group-title="USA",US: XFL 10 HD | Renegades at Dragons (02.22.20 | 5PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2056
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 11 HD | Guardians at Battlehawks (02.23.20 | 3PM ET)" tvg-logo="" group-title="USA",US: XFL 11 HD | Guardians at Battlehawks (02.23.20 | 3PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2057
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 12 HD | Defenders at Wildcats (02.23.20 | 6PM ET)" tvg-logo="" group-title="USA",US: XFL 12 HD | Defenders at Wildcats (02.23.20 | 6PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2058
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 13 HD | Wildcats at Guardians (02.29.20 | 2PM ET)" tvg-logo="" group-title="USA",US: XFL 13 HD | Wildcats at Guardians (02.29.20 | 2PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2059
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 14 HD | Dragons at Battlehawks (02.29.20 | 5PM ET)" tvg-logo="" group-title="USA",US: XFL 14 HD | Dragons at Battlehawks (02.29.20 | 5PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2060
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 15 HD | Roughnecks at Renegades (03.01.20 | 4PM ET)" tvg-logo="" group-title="USA",US: XFL 15 HD | Roughnecks at Renegades (03.01.20 | 4PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2061
+#EXTINF:-1 tvg-id="" tvg-name="US: XFL 16 HD | Defenders at Vipers (03.01.20 | 7PM ET)" tvg-logo="" group-title="USA",US: XFL 16 HD | Defenders at Vipers (03.01.20 | 7PM ET)
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/2062
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1730
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1731
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/1732
+#EXTINF:-1 tvg-id="supersport1.za" tvg-name="ZA: SUPERSPORT 1 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 1 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/445
+#EXTINF:-1 tvg-id="supersport2.za" tvg-name="ZA: SUPERSPORT 2 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 2 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/446
+#EXTINF:-1 tvg-id="supersport3.za" tvg-name="ZA: SUPERSPORT 3 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 3 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/447
+#EXTINF:-1 tvg-id="supersport4.za" tvg-name="ZA: SUPERSPORT 4 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 4 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/448
+#EXTINF:-1 tvg-id="supersport5.za" tvg-name="ZA: SUPERSPORT 5 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 5 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/449
+#EXTINF:-1 tvg-id="supersport6.za" tvg-name="ZA: SUPERSPORT 6 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 6 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/450
+#EXTINF:-1 tvg-id="supersport7.za" tvg-name="ZA: SUPERSPORT 7 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 7 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/451
+#EXTINF:-1 tvg-id="supersport8.za" tvg-name="ZA: SUPERSPORT 8 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 8 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/452
+#EXTINF:-1 tvg-id="supersport9.za" tvg-name="ZA: SUPERSPORT 9 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 9 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/453
+#EXTINF:-1 tvg-id="supersport10.za" tvg-name="ZA: SUPERSPORT 10 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 10 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/454
+#EXTINF:-1 tvg-id="supersport11.za" tvg-name="ZA: SUPERSPORT 11 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 11 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/455
+#EXTINF:-1 tvg-id="supersport12.za" tvg-name="ZA: SUPERSPORT 12 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT 12 HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/456
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT BLITZ HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT BLITZ HD
+http://iptv.watchhd.cc:5050/AxiomGarden/zoik11VBdUsm/457

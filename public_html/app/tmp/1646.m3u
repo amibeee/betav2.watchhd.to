@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4d7fe20dc2fac373ae311850354c4033.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/159.ts
+#EXTINF:-1 tvg-id="WAIDTV" tvg-name="DE: Waidwerk HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6b25093e4d729390576a7f5419751786.png" group-title="Sky Doku",DE: Waidwerk HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/13514.ts
+#EXTINF:-1 tvg-id="6e46e9ffff1bc86cfaefe7cb1e6047a9" tvg-name="DE: Sky Sport News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3c09dc01777dd1d096919829c39f111c.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/131.ts
+#EXTINF:-1 timeshift="5" tvg-id="bedadcc615e541a5333f78b89e030939" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/8753c41ba14554492750c48239b2e15a.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/130804.ts
+#EXTINF:-1 tvg-id="SKY2GHD" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/e2db62bee182d6ccae59704b937e95b3.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/139250.ts
+#EXTINF:-1 tvg-id="SKY11GH" tvg-name="DE: Sky Sport 11 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f1c2cb59aa0aebe6c9860833d23a69dd.png" group-title="Sky Sport",DE: Sky Sport 11 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/16310.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/aefc981a79ef3161e2600551561a8373.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/155.ts
+#EXTINF:-1 tvg-id="a8774b1b46624541bbbf611d4dadc934" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0ad2a166701cbcc8e8a47467dd72b487.png" group-title="Sky Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/156.ts
+#EXTINF:-1 tvg-id="EURSP2" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Eurosport_2_HD.png" group-title="Magenta TV",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/135119.ts
+#EXTINF:-1 tvg-id="EDGEGHD" tvg-name="DE: EDGE Sport HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d494512d31f7039822318a1614c3d672.png" group-title="Sky Sport",DE: EDGE Sport HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/16093.ts
+#EXTINF:-1 tvg-id="2eca6b8eb4017217827c106507895284" tvg-name="DE: Sportdigital HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2db3d00c01cb0cc65c53296f32f3bec5.png" group-title="Sky Sport",DE: Sportdigital HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/160.ts
+#EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dcec101d4c9811f583c2a3c7f945ca46.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113720.ts
+#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/99269c430cf4c9ab0ec928b52fffb069.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113721.ts
+#EXTINF:-1 tvg-id="Sport 3 - myTeamTV" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/743dcc5996799f053b60d9c037dfc9c6.png" group-title="Magenta Sport",DE: Magenta Sport 3 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113722.ts
+#EXTINF:-1 tvg-id="Sport 4 - myTeamTV" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b74ef01d0128612d6ee55c0dd951d25e.png" group-title="Magenta Sport",DE: Magenta Sport 4 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113723.ts
+#EXTINF:-1 tvg-id="Sport 5 - myTeamTV" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/323d574b9edb0c2e6d66089f37de596d.png" group-title="Magenta Sport",DE: Magenta Sport 5 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113724.ts
+#EXTINF:-1 tvg-id="Sport 6 - myTeamTV" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2e40dfb6133d2db779e38a461b8c524e.png" group-title="Magenta Sport",DE: Magenta Sport 6 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113725.ts
+#EXTINF:-1 tvg-id="Sport 7 - myTeamTV" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/29c34e7514b084d019306c3867ae18f2.png" group-title="Magenta Sport",DE: Magenta Sport 7 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113726.ts
+#EXTINF:-1 tvg-id="Sport 8 - myTeamTV" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/30bda42abbba16b9f134188955dbba47.png" group-title="Magenta Sport",DE: Magenta Sport 8 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113727.ts
+#EXTINF:-1 tvg-id="Sport 9 - myTeamTV" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/855544cf99b3e13aa2c4a9ca06ead46d.png" group-title="Magenta Sport",DE: Magenta Sport 9 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113728.ts
+#EXTINF:-1 tvg-id="Sport 10 - myTeamTV" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/009f5bb697fe4f8526117c795460e824.png" group-title="Magenta Sport",DE: Magenta Sport 10 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113729.ts
+#EXTINF:-1 tvg-id="Sport 11 - myTeamTV" tvg-name="DE: Magenta Sport 11 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8e59f94a1f5d417116327fc22e684ba9.png" group-title="Magenta Sport",DE: Magenta Sport 11 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113730.ts
+#EXTINF:-1 tvg-id="Sport 12 - myTeamTV" tvg-name="DE: Magenta Sport 12 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/65b816399ed2d838ccd22d66117c07d1.png" group-title="Magenta Sport",DE: Magenta Sport 12 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113731.ts
+#EXTINF:-1 tvg-id="Sport 13 - myTeamTV" tvg-name="DE: Magenta Sport 13 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e175deec33817ac895ee9d0f85d94620.png" group-title="Magenta Sport",DE: Magenta Sport 13 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113732.ts
+#EXTINF:-1 tvg-id="Sport 14 - myTeamTV" tvg-name="DE: Magenta Sport 14 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d959fc23166954f72bf256bfdca2e789.png" group-title="Magenta Sport",DE: Magenta Sport 14 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113733.ts
+#EXTINF:-1 tvg-id="Sport 15 - myTeamTV" tvg-name="DE: Magenta Sport 15 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ca29783d273598d5158210c6afc95a54.png" group-title="Magenta Sport",DE: Magenta Sport 15 HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/113734.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_1_HD.png" group-title="Magenta TV",DE: Eurosport 1
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/135052.ts
+#EXTINF:-1 tvg-id="f1448d8a18f4a17c9e70cc03763a1136" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://iptv.watchhd.cc:5050/images/400814d946e2fafc780ca4379caae5ef.png" group-title="Österreich - Schweiz",AT: ORF Sport+ HD
+http://iptv.watchhd.cc:5050/HansWurst89/BayernBayern/69.ts

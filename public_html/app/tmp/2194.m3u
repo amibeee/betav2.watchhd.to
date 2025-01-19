@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-id="ebcffc5aef79f0af595d5a84c7dd95ee" tvg-name="DE: Sky Showcase HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Showcase_HD.png" group-title="Sky Film",DE: Sky Showcase HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136087.ts
+#EXTINF:-1 tvg-id="141ae99453b7dc4d9b33cd104c2dbe39" tvg-name="DE: Sky One HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136085.ts
+#EXTINF:-1 tvg-id="SKYAHDK" tvg-name="DE: Sky Atlantic HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Atlantic_HD.png" group-title="Sky Film",DE: Sky Atlantic HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136065.ts
+#EXTINF:-1 tvg-id="251d594509186675e85d0ea2843656f5" tvg-name="DE: Sky Replay HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Replay_HD.png" group-title="Sky Film",DE: Sky Replay HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136086.ts
+#EXTINF:-1 tvg-id="00823ffdff3f6ea723021deefc0685d3" tvg-name="DE: Sky Cinema Action HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Action_HD.png" group-title="Sky Film",DE: Sky Cinema Action HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136067.ts
+#EXTINF:-1 tvg-id="SKCBOHD" tvg-name="DE: Sky Cinema Best Of HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Best-Of_HD.png" group-title="Sky Film",DE: Sky Cinema Best Of HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136069.ts
+#EXTINF:-1 tvg-id="4bb8eb759cfc83307c631cc524383acd" tvg-name="DE: Sky Cinema Classics HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Classics_HD.png" group-title="Sky Film",DE: Sky Cinema Classics HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136070.ts
+#EXTINF:-1 tvg-id="526f96b868f27cd6c557abe9b2e1c317" tvg-name="DE: Sky Cinema Family HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Family_HD.png" group-title="Sky Film",DE: Sky Cinema Family HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136072.ts
+#EXTINF:-1 tvg-id="23847a9abc504233131c666703ef6dc4" tvg-name="DE: Sky Cinema Fun HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Fun_HD.png" group-title="Sky Film",DE: Sky Cinema Fun HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136073.ts
+#EXTINF:-1 tvg-id="add0b9459014950263b03facd359743d" tvg-name="DE: Sky Cinema Premieren HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Premieren_HD.png" group-title="Sky Film",DE: Sky Cinema Premieren HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136077.ts
+#EXTINF:-1 tvg-id="7156f67098febcb201716eb57d9bc95a" tvg-name="DE: Sky Cinema Premieren +24 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Premieren_+24_HD.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136076.ts
+#EXTINF:-1 tvg-id="SKYCIHD" tvg-name="DE: Sky Cinema Special HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Special_HD.png" group-title="Sky Film",DE: Sky Cinema Special HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136079.ts
+#EXTINF:-1 tvg-id="SKYCTHG" tvg-name="DE: Sky Cinema Thriller HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Thriller_HD.png" group-title="Sky Film",DE: Sky Cinema Thriller HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136078.ts
+#EXTINF:-1 tvg-id="2432a2daeff86d4f364774ba36a588af" tvg-name="DE: Sky Comedy HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Comedy_HD.png" group-title="Sky Film",DE: Sky Comedy HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/130858.ts
+#EXTINF:-1 timeshift="5" tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/136094.ts
+#EXTINF:-1 timeshift="7" tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/130804.ts
+#EXTINF:-1 timeshift="5" tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/129356.ts
+#EXTINF:-1 timeshift="5" tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/129357.ts
+#EXTINF:-1 timeshift="7" tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/129358.ts
+#EXTINF:-1 timeshift="5" tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Sat)
+http://iptv.watchhd.cc:5050/PatSal/Z7XLJI4ZgkHr/130798.ts

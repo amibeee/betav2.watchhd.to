@@ -1,0 +1,33 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Hilfe Beitrag bearbeiten
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+		<div class="friend-settings-container-fluid">
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>Titel</label>
+    <input type="text" class="form-control" name="title" value="{{ form_value('title', helper.title) }}" />
+</div>
+<div class="form-group">
+    <label>Kategorie</label>
+    <select name="category" class="form-control">
+        <option value=""{% if form_value('category', helper.category) == '' %} selected=""{% endif %}>Bitte auswählen</option>
+        <option value="Allgemein"{% if form_value('category', helper.category) == 'Allgemein' %} selected=""{% endif %}>Allgemein</option>
+        <option value="Streams"{% if form_value('category', helper.category) == 'Streams' %} selected=""{% endif %}>Streams</option>
+        <option value="Premium"{% if form_value('category', helper.category) == 'Premium' %} selected=""{% endif %}>Premium</option>
+        <option value="Account"{% if form_value('category', helper.category) == 'Account' %} selected=""{% endif %}>Account</option>
+    </select>    
+</div>
+<div class="form-group">
+    <label>Text</label>
+    <textarea class="form-control" rows="10" id="text" name="text">{{ form_value('text', helper.text) }}</textarea>
+</div>
+<div class="form-group">
+    <input type="submit" class="btn btn-success btn-raised btn-block btn-lg" value="speichern" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

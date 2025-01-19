@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live Bundesliga"},"start":1492260900,"stop":1492262100,"channel":"Sky Bundesliga HD 5"},{"title":{"de":"Live BL: RB Leipzig - SC Freiburg, 29. Spieltag"},"start":1492262100,"stop":1492270200,"channel":"Sky Bundesliga HD 5"}]}}

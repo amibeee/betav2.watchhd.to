@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="Sky 1 HD" tvg-name="DE: Sky 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky1hdv2.png" group-title="General Streams",DE: Sky 1 HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/14.ts
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="General Streams",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/5.ts
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="General Streams",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/6.ts
+#EXTINF:-1 tvg-id="Sky Cinema HD" tvg-name="DE: Sky Cinema HD" tvg-logo="http://logo.watchhd.cc/logo/cinemahdv2.png" group-title="General Streams",DE: Sky Cinema HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/7.ts
+#EXTINF:-1 tvg-id="Sky Cinema+1 HD" tvg-name="DE: Sky Cinema +1 HD" tvg-logo="http://logo.watchhd.cc/logo/cinemaplus1hd.png" group-title="General Streams",DE: Sky Cinema +1 HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/175.ts
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="DE: Sky Cinema Comedy" tvg-logo="http://logo.watchhd.cc/logo/comedyhdv2.png" group-title="General Streams",DE: Sky Cinema Comedy
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/50.ts
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="General Streams",DE: Sky Cinema Family HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/21.ts
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-name="DE: Sky Cinema Hits HD" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="General Streams",DE: Sky Cinema Hits HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/8.ts
+#EXTINF:-1 tvg-id="Sky KRIMI" tvg-name="DE: Sky Krimi" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="General Streams",DE: Sky Krimi
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/170.ts

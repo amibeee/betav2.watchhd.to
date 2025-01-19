@@ -1,0 +1,84 @@
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="UK: DAZN 1" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="UK",UK: DAZN 1
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/281865.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN 1 UK HD" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="UK",UK: DAZN 1 UK HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/309923.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN Bein Sports 1 HD" tvg-logo="" group-title="UK",UK: DAZN Bein Sports 1 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/309924.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN Bein Sports 2 HD" tvg-logo="" group-title="UK",UK: DAZN Bein Sports 2 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/309925.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN Bein Sports 3 HD" tvg-logo="" group-title="UK",UK: DAZN Bein Sports 3 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/309926.ts
+#EXTINF:-1 timeshift="7" tvg-id="ba1cd348038447ab732890ba429f8eb7" tvg-name="DE: DAZN 1 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="HEVC FHD",DE: DAZN 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/10088.ts
+#EXTINF:-1 timeshift="7" tvg-id="303bf9795eb8574b64883e002ac9501d" tvg-name="DE: DAZN 2 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="HEVC FHD",DE: DAZN 2 HD (HEVC)
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/10145.ts
+#EXTINF:-1 timeshift="7" tvg-id="49824bf2b22f1d72040f32b17a3fa2db" tvg-name="DE: Sky Krimi HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Krimi_HD.png" group-title="HEVC FHD",DE: Sky Krimi HD (HEVC)
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/10125.ts
+#EXTINF:-1 timeshift="7" tvg-id="23378a8ab89be6dff1de7847cbffae76" tvg-name="DE: Sky Crime HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Crime_HD.png" group-title="HEVC FHD",DE: Sky Crime HD (HEVC)
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/44148.ts
+#EXTINF:-1 tvg-id="49824bf2b22f1d72040f32b17a3fa2db" tvg-name="DE: Sky Krimi HD (Backup)" tvg-logo="" group-title="Sky Komplett (Backup)",DE: Sky Krimi HD (Backup)
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/326317.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Channel HD" tvg-logo="" group-title="USA",US: UFC Channel HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/118577.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Event Early Prelims" tvg-logo="" group-title="USA",US: UFC Event Early Prelims
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/277314.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Event Prelims" tvg-logo="" group-title="USA",US: UFC Event Prelims
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/277315.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Main Event" tvg-logo="" group-title="USA",US: UFC Main Event
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/277316.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 1 HD" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC Feed 1 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/438.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 2 HD" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC Feed 2 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0d8752a7ab1ca9dfd5e80d248c41319a.png" group-title="USA",US: UFC Feed 3 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/440.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0d8752a7ab1ca9dfd5e80d248c41319a.png" group-title="USA",US: UFC Feed 4 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/441.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass 03 Main Card" tvg-logo="" group-title="USA",US: UFC Fight Pass 03 Main Card
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/1061.ts
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="US: UFC TV" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="USA",US: UFC TV
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/435.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 1" tvg-logo="" group-title="Italien",IT: DAZN | Event 1
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140714.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 10" tvg-logo="" group-title="Italien",IT: DAZN | Event 10
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140723.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Dazn Serie A HD" tvg-logo="" group-title="Italien",IT: Dazn Serie A HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140728.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 11" tvg-logo="" group-title="Italien",IT: DAZN | Event 11
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140724.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 12" tvg-logo="" group-title="Italien",IT: DAZN | Event 12
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140725.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 13" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="Italien",IT: DAZN | Event 13
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140726.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 14" tvg-logo="" group-title="Italien",IT: DAZN | Event 14
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140727.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 2" tvg-logo="" group-title="Italien",IT: DAZN | Event 2
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140715.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 3" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="Italien",IT: DAZN | Event 3
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140716.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 4" tvg-logo="" group-title="Italien",IT: DAZN | Event 4
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140717.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 5" tvg-logo="" group-title="Italien",IT: DAZN | Event 5
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140718.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 6" tvg-logo="" group-title="Italien",IT: DAZN | Event 6
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140719.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 7" tvg-logo="" group-title="Italien",IT: DAZN | Event 7
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140720.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 8" tvg-logo="" group-title="Italien",IT: DAZN | Event 8
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140721.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 9" tvg-logo="" group-title="Italien",IT: DAZN | Event 9
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/140722.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga HD" tvg-logo="" group-title="Spanien",ES: DAZN LaLiga HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/130711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 HD" tvg-logo="" group-title="Spanien",ES: DAZN F1 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/62952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 4K" tvg-logo="" group-title="Spanien",ES: DAZN F1 4K
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/330559.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="" group-title="Spanien",ES: DAZN 4 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/45089.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="" group-title="Spanien",ES: DAZN 3 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/45088.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="" group-title="Spanien",ES: DAZN 2 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/45087.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="" group-title="Spanien",ES: DAZN 1 HD
+http://iptv.watchhd.cc:5050/Tea4fun/yLaw660vfBvO/45086.ts

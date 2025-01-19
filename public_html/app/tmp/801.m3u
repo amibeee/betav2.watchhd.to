@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="N-TV" tvg-name="DE: N-TV HD" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="Free-TV",DE: N-TV HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/52
+#EXTINF:-1 tvg-id="WELT" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/53
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK: BBC One HD" tvg-logo="" group-title="UK",UK: BBC One HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/186
+#EXTINF:-1 tvg-id="bbctwowales.uk" tvg-name="UK: BBC Two HD" tvg-logo="" group-title="UK",UK: BBC Two HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/187
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN International HD" tvg-logo="" group-title="UK",UK: CNN International HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/188

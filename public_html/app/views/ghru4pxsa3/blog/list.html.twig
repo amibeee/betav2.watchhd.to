@@ -1,0 +1,51 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Blog
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid" >
+
+<div class="row">
+    <div class="col-md-9 pull-left" style="width:100%">
+        <h1>Blog</h1>
+    </div>
+</div>
+
+<div class="form-group">
+    <a href="{{ base_url() }}ghru4pxsa3/blog/create" class="btn btn-primary btn-raised">Beitrag erstellen</a>
+</div>
+
+<table class="table table-striped table-bordered table-bordered table-hover">
+    <thead>
+        <tr>
+            <th width="15%">Datum</th>
+            <th>Titel</th>
+            <th>Aktionen</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% if posts|length %}
+    
+        {% for post in posts %}
+        <tr>
+            <td>{{ post.created_at|date('d.m.Y H:i') }}</td>
+            <td>{{ post.title }}</td>
+            <td>
+                <a href="{{ base_url() }}ghru4pxsa3/blog/{{ post.id }}/edit" class="btn btn-raised btn-primary btn-sm"><i class="fa fa-pencil"></i></a>
+                <a href="{{ securelink('ghru4pxsa3/blog/'~post.id~'/delete', 'blog.delete.'~post.id) }}" class="btn btn-raised btn-sm btn-danger confirm"><i class="fa fa-trash"></i></a>
+            </td>
+        </tr>
+        {% endfor %}
+    
+    {% else %}
+    <tr>
+        <td colspan="8">We doesnt have any blog post until now.</td>
+    </tr>
+    {% endif %}
+    </tbody>
+</table>
+{{ pagination|raw }}
+
+{% endblock %}

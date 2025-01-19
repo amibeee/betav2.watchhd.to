@@ -1,0 +1,144 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Mein Benutzerkonto') }}
+{% endblock %}
+
+{% block content %}
+    
+    <h1>Mein Benutzerkonto</h1>
+    
+    <table class="table table-bordered table-striped table-hover">
+        <tbody>
+            <tr>
+                <th width="30%">{{ t('Benutzername') }}</th>
+                <td>{{ current_user.username }}</td>
+            </tr>
+    
+        </tbody>
+    </table>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <th colspan="2">Hauptline</th>
+        </thead>
+        <tbody>
+            <tr>
+                <th width="30%">{{ t('ID') }}</th>
+                <td>{{ current_user.username }}</td>
+            </tr>
+      
+    <tr>
+                <th width="30%">{{ t('Kodi Simple TV') }}</th>
+                <td>http://iptv.watchhd.cc:8000/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u_plus&output=ts</td>
+            </tr>
+            <tr>
+                <th width="30%">{{ t('VLC') }}</th>
+                <td>http://iptv.watchhd.cc:8000/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u&output=ts</td>
+            </tr>
+            <tr>
+                <th width="30%">{{ t('Gültig bis') }}</th>
+                <td>
+                {% if current_user.premium_until < timestamp %}<span style="color:red">{{ current_user.premium_until|date('d.m.Y H:i') }} (expired)</span>{% else %}{{ current_user.premium_until|date('d.m.Y H:i') }}{% endif %}
+                                </td>
+            </tr>
+            <tr>
+                <th width="30%">{{ t('Optionen') }}</th>
+                <td>
+                <a href="{{ base_url() }}buy/premium?line={{ current_user.username }}&type=mainline" class="btn btn-sm btn-success btn-raised">{{ t('Line verlängern') }}</a>
+                <button data-toggle="modal" data-target="#linePasswordEditorModal" data-username="{{ current_user.username }}" data-password="{{ current_user.line_password }}" class="btn btn-sm btn-raised btn-default">Passwort ändern</button>
+                 </td>
+            </tr>
+        </tbody>
+    </table>
+
+    {% for line in user.lines %}
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <th colspan="2">Subline #{{ loop.index }}</th>
+        </thead>
+        <tbody>
+            <tr>
+                <th width="30%">{{ t('ID') }}</th>
+                <td>{{ line.username }}</td>
+            </tr>
+           
+    <tr>
+                <th width="30%">{{ t('Kodi Simple TV') }}</th>
+                <td>http://iptv.watchhd.cc:8000/get.php?username={{ line.username }}&password={{ line.password }}&type=m3u_plus&output=ts</td>
+            </tr>
+            <tr>
+                <th width="30%">{{ t('VLC') }}</th>
+                <td>http://iptv.watchhd.cc:8000/get.php?username={{ line.username }}&password={{ line.password }}&type=m3u&output=ts</td>
+            </tr>
+            <tr>
+                <th width="30%">{{ t('Gültig bis') }}</th>
+                <td>
+                                {% if line.premium_until < timestamp %}<span style="color:red">{{ line.premium_until|date('d.m.Y H:i') }} (expired)</span>{% else %}{{ line.premium_until|date('d.m.Y H:i') }}{% endif %}<br /><a href="{{ base_url() }}buy/premium?line={{ line.username }}&type=subline" class="btn btn-sm btn-success btn-raised">{{ t('jetzt verlängern') }}</a>
+                                <button data-toggle="modal" data-target="#linePasswordEditorModal" data-username="{{ line.username }}" data-password="{{ line.password }}" class="btn btn-sm btn-raised btn-default">Passwort ändern</button>
+                {% if line.premium_until < timestamp %}<a href="{{ base_url() }}account?do=deleteLine&line_id={{ line.id }}" class="btn btn-danger btn-raised btn-sm">löschen</a>{% endif %}
+                                </td>
+            </tr>
+        </tbody>
+    </table>
+    {% endfor %}
+
+    {% if (user_lines|length+1) < 5 %}
+    <button class="btn btn-lg btn-block btn-default btn-raised createUserLine">Neue Line erzeugen</button>
+    {% endif %}
+    <h1>Käufe</h1>
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>{{ t('Datum') }}</th>
+                <th>{{ t('Artikel') }}</th>
+                <th>{{ t('Preis') }}</th>
+                <th>{{ t('Status') }}</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for payment in payments %}
+            <tr>
+                <td><abbr title="{{ payment.created_at|date('d.m.Y H:i') }}">{{ payment.created_at|date('d.m.Y') }}</abbr></th>
+                <td>{{ payment.product }}</td>
+                <td>{{ sum_format(payment.amount) }}</td>
+                <td>
+                {% if payment.status == 'declined' %}
+                <span style="color:red;">abgelehnt</span> <i class="fa fa-question-circle" data-toggle="tooltip" title="{{ payment.decline_reason }}" aria-hidden="true"></i>
+                {% else %}
+                {% if payment.status == 'pending' %}<span style="color:orange;">wartend</span>{% endif %}
+                {% if payment.status == 'paid' %}<span style="color:green;">bezahlt</span{% endif %}
+                {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- Modal -->
+<div class="modal fade" id="linePasswordEditorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Passwort ändern</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        {{ form_open()|raw }}
+        <input type="hidden" name="username" id="username" value="" />
+        <div class="form-group">
+            <input type="text" name="password" id="password" value="" class="form-control" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="speichern" class="btn btn-success btn-raised btn-block btn-lg" />
+        </div>
+        {{ form_close()|raw }}
+      </div>    
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fenster schließen</button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

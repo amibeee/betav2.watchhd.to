@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/1
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/2
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/4
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/5
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="DE: Sky 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Sky Film",DE: Sky 1 HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/630
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/93
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Sky Film",DE: Sky Cinema Premieren HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/90
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/Autoopi123/u9Lm9rxJRL/94

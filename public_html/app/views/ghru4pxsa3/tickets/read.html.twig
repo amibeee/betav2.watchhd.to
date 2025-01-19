@@ -1,0 +1,64 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+    Ticket #{{ ticket.id }}
+{% endblock %}
+
+{% block content %}
+		<div class="container">
+
+    <div class="f-settings-container-fluid" style="color:white; padding:0 20%">
+        <div class="step2-bg"></div>
+
+        {% if ticket.closed %}
+            <a href="{{ base_url() }}ghru4pxsa3/ticket/{{ ticket.id }}/open" class="Main-btn-click ">{{ t('Ticket öffnen') }}</a>
+        {% else %}
+            <a href="{{ base_url() }}ghru4pxsa3/ticket/{{ ticket.id }}/close" class="Main-btn-click">{{ t('Ticket schließen') }}</a>
+        {% endif %}
+
+        <h1 style="font-size: clamp(1.5rem, 4vw, 2.5rem); line-height: 1.2; margin-bottom: 0.5rem; word-wrap: break-word;">
+            <span style="display: block; margin-bottom: 0.25rem;">{{ ticket.subject }}</span>
+            <span style="display: inline-block; font-size: 0.8em; color: #666; margin-right: 0.5rem;">({{ ticket.category }})</span>
+            <small style="display: block; font-size: 0.6em; color: #888; font-weight: normal; margin-top: 0.25rem;">{{ ticket.created_at|date('d.m.Y H:i') }}</small>
+        </h1>
+
+{% if ticket.category == 'Testline' %}
+    <form action="{{ base_url() }}ghru4pxsa3/users" method="POST" style="display: inline;">
+        <input type="hidden" name="action" value="credit_time">
+        <input type="hidden" name="user_id" value="{{ ticket.user_id }}">
+        <button type="submit" class="Main-btn-click">24 Stunden Laufzeit gutschreiben</button>
+    </form>
+{% endif %}
+
+
+
+            <p>
+                <strong>{{ ticket.name }}</strong>
+            </p>
+            <q>{{ ticket.contents|nl2br }}</q>
+            <p></p>
+
+            {% for reply in ticket.replies %}
+                <strong>{% if reply.uid == current_user.uid %}Du{% else %}{{ reply.name }}{% endif %}</strong>
+                am
+                {{ reply.created_at|date('d.m.Y H:i') }}
+                <p>
+                    <q>{{ reply.contents|nl2br }}</q>
+                </p>
+            {% endfor %}
+
+            {% if ticket.closed == 0 %}
+                {{ form_open()|raw }}
+                <div class="form-group">
+                        <textarea class="form-control " name="contents" id="contents" rows="5"></textarea>
+                        <br>
+                        <span class="input-group-btn">
+                            <input type="submit" value="{{ t('speichern') }}" class="Main-btn-click"/>
+                        </span>
+                    </div>
+                </div>
+                {{ form_close()|raw }}
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}

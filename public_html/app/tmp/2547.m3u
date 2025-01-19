@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="9ce5ad2529c7e11bacd1b41b4ab5e6a5" tvg-name="DE: Sky Cinema Action HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Action_HD.png" group-title="Sky Film",DE: Sky Cinema Action HD (Sat)
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/136067.ts
+#EXTINF:-1 tvg-id="349dce5e2eb4e7e9b69bd5902469ee61" tvg-name="DE: Sky Cinema Classics HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Classics_HD.png" group-title="Sky Film",DE: Sky Cinema Classics HD (Sat)
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/136070.ts
+#EXTINF:-1 tvg-id="526f96b868f27cd6c557abe9b2e1c317" tvg-name="DE: Sky Cinema Family HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Family_HD.png" group-title="Sky Film",DE: Sky Cinema Family HD (Sat)
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/136072.ts
+#EXTINF:-1 tvg-id="add0b9459014950263b03facd359743d" tvg-name="DE: Sky Cinema Premiere HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Premieren_HD.png" group-title="Sky Film",DE: Sky Cinema Premiere HD (Sat)
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/136077.ts
+#EXTINF:-1 tvg-id="ce8d6d0ac9d866afc986e9c9b4e48f3b" tvg-name="DE: Sky Cinema Highlights HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Special_HD.png" group-title="Sky Film",DE: Sky Cinema Highlights HD (Sat)
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/136079.ts
+#EXTINF:-1 timeshift="7" tvg-id="0e7d270211385af811339c4f7d84184e" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/102.ts
+#EXTINF:-1 tvg-id="a3c5010242de507e274d2183de0acb76" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://iptv.watchhd.cc:5050/takedowndj_7B5xe4XurC/kjtZuJTt82te/103.ts

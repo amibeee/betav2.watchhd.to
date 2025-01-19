@@ -1,0 +1,106 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+    {{ t('Einstellungen') }} |
+{% endblock %}
+
+{% block content %}
+    <div class="container-fluid">
+        <div class="account-settings-container-fluid">
+            {{ form_open()|raw }}
+            <div class="form-account-settings-container">
+
+                <div class="form-group">
+                    <label>{{ t('Benutzername') }}</label>
+                    <input type="text" class="form-control" id="username" name="username" value="{{ current_user.username }}" readonly=""/>
+                </div>
+
+                <div class="form-group">
+                    <div class="btn-settings-acc1">
+                        <label>{{ t('Email Adresse') }}</label>
+                        <div class="center-acc-sett-div">
+                            <input type="email" name="email" readonly="" id="email" class="form-control-settings" value="{{ current_user.email }}"/>
+                            <span class="btn-settings-acc2 btnmail">
+                                <a href="{{ base_url() }}changeemail">{{ t('Email Adresse ändern') }}</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>{{ t('Dein neues Passwort') }}</label>
+                    <input type="password" name="password1" id="password1" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label>{{ t('Dein neues Passwort (wiederholen)') }}</label>
+                    <input type="password" name="password2" id="password2" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label>{{ t('Dein altes Passwort') }}</label>
+                    <input type="password" name="current_password" id="current_password" class="form-control"/>
+                </div>
+
+                <hr/>
+                <h3>Erwachsenen PIN</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Alte PIN</label>
+                            <input type="number" class="form-control" name="pin1" id="pin1"/>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Neue PIN</label>
+                            <input type="number" class="form-control" name="pin2" id="pin2"/>
+                        </div>
+                    </div>
+                </div>
+
+                <hr/>
+                <h3>Benachrichtigungen</h3>
+                <div class="form-group" style="display: flex">
+                    <div class="togglebutton">
+                        <label>
+                            <input id="C-heckbox" type="checkbox" name="email_notification_premium_ends" {% if user.email_notification_premium_ends %} checked="" {% endif %}/>
+                        </label>
+                    </div>
+                    <label for="C-heckbox" style="cursor:pointer; font-size: 16px; color: #333;">{{ t('Benachrichtige mich wenn meine Premium Laufzeit abläuft') }}</label>
+                </div>
+                <div class="form-group" style="display: flex">
+                    <div class="togglebutton">
+                        <label>
+                            <input id="Ch-eckbox" type="checkbox" name="email_notification_record_download_available" {% if user.email_notification_record_download_available %} checked="" {% endif %}/>
+                        </label>
+                    </div>
+                    <label for="Ch-eckbox" style="cursor:pointer; font-size: 16px; color: #333;">{{ t('Benachrichtige mich wenn eine Aufnahme zum Download bereit steht') }}</label>
+                </div>
+                <div class="form-group" style="display: flex">
+                    <div class="togglebutton">
+                        <label>
+                            <input id="Che-ckbox" type="checkbox" name="email_notification_friend_sale" {% if user.email_notification_friend_sale %} checked="" {% endif %}/>
+                        </label>
+                    </div>
+                    <label for="Che-ckbox" style="cursor:pointer; font-size: 16px; color: #333;">{{ t('Benachrichtige mich wenn ein geworbener Freund einen Sale generiert') }}</label>
+                </div>
+
+                <div class="form-group" style="display: flex">
+                    <div class="togglebutton">
+                        <label>
+                            <input id="Che-ckbo-x" type="checkbox" name="enable_2fa" {% if user.two_fa_enabled %} checked="" {% endif %}/>
+                        </label>
+                    </div>
+                    <label for="Che-ckbo-x" style="cursor:pointer; font-size: 16px; color: #333;">{{ t('Aktiviere Zwei-Faktor-Authentifizierung (2FA)') }}</label>
+                </div>
+
+                <div class="form-group">
+                    <input type="hidden" name="action" value="update_settings">
+                    <input type="submit" class="btn btn-primary" value="{{ t('Änderungen speichern') }}" />
+                </div>
+            </div>
+            {{ form_close()|raw }}
+        </div>
+    </div>
+{% endblock %}

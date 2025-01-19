@@ -1,0 +1,74 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/71.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="General Streams",DE: ZDF HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/72.ts
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/78.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/52.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1499.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/75.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1501.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1430.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/54.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="General Streams",DE: RTL 2 HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/55.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="",DE: RTL 2 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1498.ts
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="General Streams",DE: Super RTL HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/162.ts
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="General Streams",DE: VOX HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1472.ts
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="General Streams",DE: VOX HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/56.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1500.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/73.ts
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="General Streams",DE: Kabel1 Doku
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1491.ts
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sixxhd.png" group-title="General Streams",DE: SIXX HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/77.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2072.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/109.ts
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="General Streams",DE: DMAX HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/166.ts
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="DE: RTL Plus" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="General Streams",DE: RTL Plus
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/167.ts
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="General Streams",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/76.ts
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: Sixx HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="General Streams",DE: Sixx HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2302.ts
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="General Streams",DE: Tele 5 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2068.ts
+#EXTINF:-1 tvg-id="SAT.1Gold" tvg-name="DE: Sat 1 GOLD" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="General Streams",DE: Sat 1 GOLD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/176.ts
+#EXTINF:-1 tvg-id="N24" tvg-name="DE: WELT HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="General Streams",DE: WELT HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/169.ts
+#EXTINF:-1 tvg-id="NTV" tvg-name="DE: NTV (SD)" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="General Streams",DE: NTV (SD)
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/168.ts
+#EXTINF:-1 tvg-id="3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="General Streams",DE: 3sat HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2109.ts
+#EXTINF:-1 tvg-id="arte" tvg-name="DE: Arte HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="General Streams",DE: Arte HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2137.ts
+#EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="DE: BR HD" tvg-logo="http://logo.watchhd.cc/logo/brhd.png" group-title="General Streams",DE: BR HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1619.ts
+#EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="DE: MDR  HD" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="General Streams",DE: MDR  HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1474.ts
+#EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="DE: RBB HD" tvg-logo="https://www.gauster.info/wp-content/uploads/2018/04/einzelne-kuchenschrnke-attraktiv-1280-mandantrbb-of-einzelne-kuchenschrnke-500x500.png" group-title="General Streams",DE: RBB HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2176.ts
+#EXTINF:-1 tvg-id="SWR Fernsehen" tvg-name="DE: SWR HD" tvg-logo="http://logo.watchhd.cc/logo/swrhd.png" group-title="General Streams",DE: SWR HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1618.ts
+#EXTINF:-1 tvg-id="WDR" tvg-name="DE: WDR HD" tvg-logo="http://logo.watchhd.cc/logo/wdrhd.png" group-title="General Streams",DE: WDR HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1170.ts
+#EXTINF:-1 tvg-id="ZDFinfo HD" tvg-name="DE: ZDF Info" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="General Streams",DE: ZDF Info
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1487.ts
+#EXTINF:-1 tvg-id="ZDF neo" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="General Streams",DE: ZDF Neo HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/2065.ts

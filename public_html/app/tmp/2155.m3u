@@ -1,0 +1,54 @@
+#EXTINF:-1 timeshift="2" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/1.ts
+#EXTINF:-1 timeshift="2" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/2.ts
+#EXTINF:-1 timeshift="2" tvg-id="DMAXDHD" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/42.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/3.ts
+#EXTINF:-1 tvg-id="RTL2HD" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/6.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/4.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/5.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/33.ts
+#EXTINF:-1 tvg-id="VOXHD" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/41.ts
+#EXTINF:-1 tvg-id="SIXXHD" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/40.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Super_RTL_HD.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/360.ts
+#EXTINF:-1 tvg-id="SPO1HD" tvg-name="DE: Sport1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/43.ts
+#EXTINF:-1 tvg-id="fdaef980ae56dfaec850feebf979d8de" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/159.ts
+#EXTINF:-1 tvg-id="MTVSCH" tvg-name="DE: MTV HD" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/2622.ts
+#EXTINF:-1 tvg-id="DISCHHD" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/55.ts
+#EXTINF:-1 tvg-id="84144bdc2c5e46b551e24384feed7e86" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Kids",DE: KiKA HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/58.ts
+#EXTINF:-1 tvg-id="NIMTVP1" tvg-name="DE: Nick HD" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Kids",DE: Nick HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/111355.ts
+#EXTINF:-1 tvg-id="TOGPLUS" tvg-name="DE: TOGGO Plus HD" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="Kids",DE: TOGGO Plus HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/135266.ts
+#EXTINF:-1 tvg-id="ORF1HD" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Österreich - Schweiz",AT: ORF 1 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/66.ts
+#EXTINF:-1 tvg-id="ORF2OSR" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Österreich - Schweiz",AT: ORF 2 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/67.ts
+#EXTINF:-1 tvg-id="3PLTV" tvg-name="Swiss: 3+ HD" tvg-logo="http://logo.watchhd.cc/logo/swiss_3plus.png" group-title="Österreich - Schweiz",Swiss: 3+ HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/510.ts
+#EXTINF:-1 tvg-id="4PLUS" tvg-name="Swiss: 4+ HD" tvg-logo="http://logo.watchhd.cc/logo/vier_plus_tv.png" group-title="Österreich - Schweiz",Swiss: 4+ HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/2076.ts
+#EXTINF:-1 tvg-id="5PLUSHD" tvg-name="Swiss: 5+ HD" tvg-logo="http://logo.watchhd.cc/logo/5_plus_tv.png" group-title="Österreich - Schweiz",Swiss: 5+ HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/2077.ts
+#EXTINF:-1 tvg-id="6PLUSHD" tvg-name="Swiss: 6+ HD" tvg-logo="http://logo.watchhd.cc/logo/sechs_plus_tv.png" group-title="Österreich - Schweiz",Swiss: 6+ HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/64607.ts
+#EXTINF:-1 timeshift="2" tvg-id="SRFINHD" tvg-name="Swiss: SRF Info HD" tvg-logo="http://logo.watchhd.cc/logo/srf_info.png" group-title="Österreich - Schweiz",Swiss: SRF Info HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/511.ts
+#EXTINF:-1 tvg-id="TV24HD" tvg-name="Swiss: TV24 HD" tvg-logo="http://logo.watchhd.cc/logo/TV24.png" group-title="Österreich - Schweiz",Swiss: TV24 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/64608.ts
+#EXTINF:-1 tvg-id="TV25HD" tvg-name="Swiss: TV25 HD" tvg-logo="http://logo.watchhd.cc/logo/TV25.png" group-title="Österreich - Schweiz",Swiss: TV25 HD
+http://iptv.watchhd.cc:5050/PetS/l8CnRHB7SqYu/64609.ts

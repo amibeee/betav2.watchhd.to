@@ -1,0 +1,213 @@
+    <?php  
+    class Controller_Callback extends Controller_Base_Public
+    {
+     
+        /**
+         * 
+         */
+         public function action_index($token)
+         {
+     
+            if(Input::server('PHP_AUTH_USER', '') == "2f39609fbc98e27af5b8181c92e5ab9f" && Input::server('PHP_AUTH_PW', '') == "FgZ82ksAV73h")
+            {
+     
+                $payment = Model_User_Payment::query()->where('token', '=', $token)->where('status', '!=', 'paid')->get_one();
+                if(!$payment) throw new HttpNotFoundException;
+     
+                $user = Model_User::query()->where('id', '=', $payment->user_id)->get_one();
+                if(!$user) throw new HttpServerErrorException;
+     
+                // Check the original currency to make sure the buyer didn't change it. 
+                if(Input::post('currency1') != 'EUR')
+                { 
+                            throw new \Exception('IPN Error: Original currency mismatch!');
+                }     
+     
+                // Check amount against order total 
+                if(Input::post('amount1') < $payment->amount)
+                { 
+                            throw new \Exception('IPN Error: Amount is less than order total!'); 
+                } 
+     
+                if (Input::post('status') >= 100 || Input::post('status') == 2)
+                { 
+     
+                    $payment->status = 'paid';
+                    $payment->save();
+     
+                    /* Sale Tracking */
+                    if($affiliate = Model_User::query()->where('id', '=', $user->affiliate_id)->get_one())
+                    {
+     
+                        $data['product'] = $payment->product;
+                        $data['amount'] = $payment->amount;
+                        $data['type'] = $payment->type;
+                        $data['payment_id'] = $payment->id;
+                        $data['method'] = $payment->method;
+     
+                        $log = new Model_Affiliate_Log;
+                        $log->affiliate_id = $affiliate->id;
+                        $log->user_id = $user->id;
+                        $log->type = 'sale';
+                        $log->data = json_encode($data);
+                        $log->worth = $payment->amount;
+                        $log->sub_id = '';
+     
+                        /* sub_id holen */
+                        $lead = Model_Affiliate_Log::query()->where('affiliate_id', '=', $affiliate->id)->where('user_id', '=', $user->id)->get_one();
+                        if($lead) $log->sub_id = $lead->sub_id;
+     
+                        $log->save();
+     
+                    }
+                    /* Sale Tracking */
+     
+                    $data = json_decode($payment->data, true);
+     
+                    switch($payment->type)
+                    {
+     
+                        case 'premium':
+     
+                            if(!isset($data['premium_days'])) throw new \Exception('IPN Error: Invalid Data Object!');
+     
+                            $add = ($data['premium_days']*86400);
+     
+                                                    if($data['buy']['type'] == 'subline')
+                                                    {
+                                                            $user = Model_User_Line::query()->where('user_id', $user->id)->where('username', $data['buy']['username'])->get_one();
+                                                    }
+     
+                            if($user->premium_until  == 0) 
+                            {
+     
+                                $base = time();
+                                $user->premium_until = ($base+$add);
+     
+                            }        
+                            else
+                            {
+     
+                                if($user->premium_until > time())
+                                {
+     
+                                    $user->premium_until = ($user->premium_until+$add);
+     
+                                }
+                                else
+                                {
+     
+                                    $base = time();
+                                    $user->premium_until = ($base+$add);
+     
+                                }
+     
+                            }
+     
+                            $user->save(); 
+
+							$defaults = array();
+                            $defaults[] = array(24, 'active', 'IPTV-DACH');
+                            $defaults[] = array(35, 'active', 'IPTV-Europa & Amerika');
+                            $defaults[] = array(23, 'inactive', 'IPTV-XXX');
+                            $defaults[] = array(45, 'active', 'IPTV-VoD');
+                            $defaults[] = array(31, 'inactive', 'IPTV-VoD Premium');
+		
+
+                            $type = isset($data['buy']['type']) && $data['buy']['type'] == 'subline' ? 'subline' : 'mainline'; 
+                            $line_id = $data['buy']['line_id'];
+
+                            foreach($defaults as $default){
+
+                                $packet = Model_User_Packet::query()->where('user_id', $user->id)->where('bouquet_id', $default[0])->get_one();
+                                if($packet){
+
+                                    $booked_packages = isset($data['packages']) ? array_values($data['packages']) : array(24, 35);
+                                    
+									$booked_packages_expanded = $booked_packages;
+									$booked_packages_expanded[] = 35;
+									$booked_packages_expanded[] = 45;
+									$booked_packages_expanded[] = 23;
+									$booked_packages_expanded = array_unique($booked_packages_expanded);
+									$status = in_array($default[0], $booked_packages) ? $default[1] : 'inactive';
+									
+									if(in_array($default[0], $booked_packages_expanded)){
+										$packet->booked_until = ($packet->booked_until < time() ? (time()+$add) : ($packet->booked_until+$add));
+                                    }
+									$packet->status = $status;
+                                    $packet->save();
+
+                                }
+                                else{
+
+									$booked_packages = isset($data['packages']) ? array_values($data['packages']) : array(24, 35);
+                                    
+									$booked_packages_expanded = $booked_packages;
+									$booked_packages_expanded[] = 35;
+									$booked_packages_expanded[] = 45;
+									$booked_packages_expanded[] = 23;
+									$booked_packages_expanded = array_unique($booked_packages_expanded);
+									$status = in_array($default[0], $booked_packages) ? $default[1] : 'inactive';
+									  
+                                    $packet = new Model_User_Packet;
+									$packet->name = $default[2];
+                                    $packet->user_id = $user->id;
+                                    $packet->status = $status;
+                                    $packet->line_type = $type;
+                                    $packet->line_id = $line_id;
+                                    $packet->bouquet_id = $default[0];
+									if(in_array($default[0], $booked_packages_expanded)){
+										
+										/*
+										* kannst du sagen ob es nur bei neuen packages ist oder bei existierenden? Also quasi erst bestellungen oder al
+										*/
+										
+										if($packet->booked_until == 0){
+											$packet->booked_until = (time()+$add);
+										}
+										else{
+											
+											if($packet->booked_until < time()){
+												$packet->booked_until = time(); // also hier wird das (exp)datum auf die aktuelle zeit gesetzt
+											}
+											$packet->booked_until = ($packet->booked_until+$add); // und hier die gebuchte laufzeit aufgerechnet müsste doch richtig sein?
+											
+										}
+										
+									}
+									else{
+										$packet->booked_until = time();
+									}
+                                    $packet->save();
+
+                                }
+
+                            }
+
+
+                            // vom user gebuchte pakete hinzufügen
+
+     
+                        break;
+     
+     
+                    }
+     
+				} else if (Input::post('status') == -1) {
+					$payment->status = 'timeout';
+                    $payment->save();
+     return new Response('payment timeout');
+                } else if (Input::post('status') < 0 && Input::post('status') != -1 ) { 
+                    //payment error, this is usually final but payments will sometimes be reopened if there was no exchange rate conversion or with seller consent 
+                    return new Response('payment error'); 
+                } else { 
+                    return new Response('payment is pending'); 
+                } 
+     
+                return new Response('IPN OK'); 
+     
+            }
+     
+         }
+     
+    }

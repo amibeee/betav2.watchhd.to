@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL UHD
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2116
+#EXTINF:-1 tvg-id="" tvg-name="DE: UHD1 Astra" tvg-logo="http://logo.watchhd.cc/logo/uhd11.png" group-title="DE: Doku",DE: UHD1 Astra
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/8385
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1 #2" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1 #2
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2120
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2117
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga 1 SD" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga 1 SD
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2106
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1 (720p)" tvg-logo="http://logo.watchhd.cc/logo/bulihd1v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1 (720p)
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2121
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2168
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD (720p)
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2196
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD (720p)
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2169
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/2165
+#EXTINF:-1 tvg-id="Sky Nostalgie" tvg-name="DE: Sky Cinema Nostalgie" tvg-logo="http://logo.watchhd.cc/logo/skynostalgie.png" group-title="DE: Filme",DE: Sky Cinema Nostalgie
+http://iptv.watchhd.cc:8000/golfr20/golfr201963/1492

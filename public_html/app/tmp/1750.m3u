@@ -1,0 +1,188 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/2.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/23f625499daa31f8113831c2677f7ec0.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/3.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fefa5021e3b2b1254d052b8f6c0df3a9.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/4.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3cd403413ead9389b021962efae4e6e5.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/33.ts
+#EXTINF:-1 tvg-id="5a51ad65369c8cb0a755645c239d0123" tvg-name="DE: Kabel 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/15604514c61cd96550c3cfc30ef96f9f.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/31.ts
+#EXTINF:-1 tvg-id="PRO7GRH" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/53edc9f80c4bb3e2c5bb6068003a9730.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/5.ts
+#EXTINF:-1 timeshift="7" tvg-id="6bbf9c8de1ca56b460eb09640082b9f9" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3b8a137e3d2159e27ee9e5cb3551e854.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/359.ts
+#EXTINF:-1 tvg-id="PRO7MXCH" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8353d03e59ddc1a6e7842828e7b6fc9b.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/7.ts
+#EXTINF:-1 tvg-id="5a22beb0e12fc2173e002737e7cb01b5" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0e664938262406fd17fc4f8502a4b3dd.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/6.ts
+#EXTINF:-1 tvg-id="702f5305034a9048ee4a235c95f31474" tvg-name="DE: VOX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/41.ts
+#EXTINF:-1 tvg-id="VOXUPHD" tvg-name="DE: VOXup HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5cba257353acd5a724421192ba8ad5a1.png" group-title="Free-TV",DE: VOXup HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/625.ts
+#EXTINF:-1 tvg-id="SIXXHD" tvg-name="DE: SIXX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8b1ee6f8d489a69d9182aa1d1d14a783.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/40.ts
+#EXTINF:-1 tvg-id="97ba5c3c26c22d7aeac56336d341fb48" tvg-name="DE: DMAX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/42.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e6adad6d3c5dc073de79efde93c0d230.png" group-title="Free-TV",DE: Nitro HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/35.ts
+#EXTINF:-1 tvg-id="INSGER" tvg-name="DE: Insight HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f54c7940b54052aa907272f663c159e3.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/10245.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/45138c34d13d9d12a1e666919094a895.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/360.ts
+#EXTINF:-1 tvg-id="f0a514d563471cf1c2eeab5f3c37e2c7" tvg-name="DE: Comedy Central HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1cfe4b1f1e7c9a34fb71ca53b23d7fd3.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/44.ts
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="DE: Tele 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/642a704e1dd30e4d12fde1a789fddad8.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/50.ts
+#EXTINF:-1 tvg-id="7321d1e742b6ba0c69586babb5837c45" tvg-name="DE: Sport1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b05fdcf4b53dfd9870e498d5b8166ca6.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/43.ts
+#EXTINF:-1 tvg-id="37853c571aa4da7c7a081dbae1c18306" tvg-name="DE: Sport1+ HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4d7fe20dc2fac373ae311850354c4033.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/159.ts
+#EXTINF:-1 tvg-id="1bc5bbe08e5a7e95a93bae868c536604" tvg-name="DE: Bild TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/49296fc5f7db218076c7505276b27636.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/69254.ts
+#EXTINF:-1 tvg-id="HEALTHD" tvg-name="DE: Health.TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b9f8a9572e663bc341853d20f91ed634.png" group-title="Free-TV",DE: Health.TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/115503.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Focus TV Reportage" tvg-logo="http://iptv.watchhd.cc:5050/images/882de8804d13021f96ce502aa12c1cfb.png" group-title="Free-TV",DE: Focus TV Reportage
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/115105.ts
+#EXTINF:-1 tvg-id="b06102622898a26e51d3570bddc184fe" tvg-name="DE: N24 Doku" tvg-logo="http://iptv.watchhd.cc:5050/images/4421af456b7fae1236f481845c8022a6.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/1944.ts
+#EXTINF:-1 tvg-id="59afd351061bdb28d41c22425495c3b0" tvg-name="DE: n-tv HD" tvg-logo="http://iptv.watchhd.cc:5050/images/17d29cfa2abb46e6a7b37408f6d1a6d9.png" group-title="Free-TV",DE: n-tv HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/52.ts
+#EXTINF:-1 tvg-id="PHONXHD" tvg-name="DE: Phoenix HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1540af963a8bf01d06b6bcd387974ca3.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/51.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0755ebbe6160b2ed34458910dd92dd70.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/53.ts
+#EXTINF:-1 tvg-id="b59dfd9f03b7502544ce0485fd5e8861" tvg-name="DE: ARD-alpha HD" tvg-logo="http://iptv.watchhd.cc:5050/images/17b5e71b34626aad83f5c1cb258553f9.png" group-title="Free-TV",DE: ARD-alpha HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/100890.ts
+#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDFInfo HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1228112c1aa112fbf99e8b119bbd8160.png" group-title="Free-TV",DE: ZDFInfo HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/60.ts
+#EXTINF:-1 tvg-id="369c5ca30ee2703307eb572dc27adcb8" tvg-name="DE: ZDF Neo HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ccd2c2781851254d2d3d4a146338dfb4.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/61.ts
+#EXTINF:-1 tvg-id="3SATGEH" tvg-name="DE: 3sat HD" tvg-logo="http://iptv.watchhd.cc:5050/images/837be3c594f02da0b33a18efb34deb98.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/429.ts
+#EXTINF:-1 timeshift="3" tvg-id="6058e0608cbe571ef21513b1b1cab8d1" tvg-name="DE: ARTE HD" tvg-logo="http://iptv.watchhd.cc:5050/images/692b543868fd84472209a6ff8195cc02.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/965.ts
+#EXTINF:-1 tvg-id="8cc35d8a8dbce1600a3a9de0572d0baa" tvg-name="DE: BR Fernsehen HD Nord" tvg-logo="http://iptv.watchhd.cc:5050/images/934ab73be3e2c5c3f001f21dabbd5aca.png" group-title="Free-TV",DE: BR Fernsehen HD Nord
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/433.ts
+#EXTINF:-1 tvg-id="c31544fc085ab19eb7a5efb89b7e7bf4" tvg-name="DE: BR Fernsehen HD Süd" tvg-logo="http://iptv.watchhd.cc:5050/images/934ab73be3e2c5c3f001f21dabbd5aca.png" group-title="Free-TV",DE: BR Fernsehen HD Süd
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/13592.ts
+#EXTINF:-1 tvg-id="RADBRHD" tvg-name="DE: Radio Bremen TV" tvg-logo="http://iptv.watchhd.cc:5050/images/3fc1d0433c6dea8b516209c23cc1c3aa.png" group-title="Free-TV",DE: Radio Bremen TV
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/78578.ts
+#EXTINF:-1 tvg-id="bc9ef11783dc72d2f711d2574f914f2c" tvg-name="DE: HR HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3df32e49ef1219427d76ffe2127d8e1e.png" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/428.ts
+#EXTINF:-1 tvg-id="3aef7a09e4aa0d36e6f2b116cd567205" tvg-name="DE: NDR HD Hamburg" tvg-logo="http://iptv.watchhd.cc:5050/images/cb9b0db7655be54bc1f31da70b7f6435.png" group-title="Free-TV",DE: NDR HD Hamburg
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/430.ts
+#EXTINF:-1 tvg-id="f5c5f8bc1d58e4de93bc161405321d6d" tvg-name="DE: MDR HD Thüringen" tvg-logo="http://iptv.watchhd.cc:5050/images/b7353a9ee2bcf1f1de2adfb3916572b7.png" group-title="Free-TV",DE: MDR HD Thüringen
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/13590.ts
+#EXTINF:-1 tvg-id="bd73f4b5d4d0d65c6500cb868158f0b5" tvg-name="DE: RBB HD Berlin" tvg-logo="http://iptv.watchhd.cc:5050/images/12f43029f6a504b426a377e6889b84b7.png" group-title="Free-TV",DE: RBB HD Berlin
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/434.ts
+#EXTINF:-1 tvg-id="83e53fd6f581d2d1c31d3ef581a85139" tvg-name="DE: SWR HD Rheinland-Pfalz" tvg-logo="http://iptv.watchhd.cc:5050/images/5de253162c68a04db94adbdbaa97201b.png" group-title="Free-TV",DE: SWR HD Rheinland-Pfalz
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/13591.ts
+#EXTINF:-1 tvg-id="9183f09f103cd70cbb8618e30c2de841" tvg-name="DE: SR HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8b0ad31369e9f3b6ef367b6593264761.png" group-title="Free-TV",DE: SR HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/2396.ts
+#EXTINF:-1 tvg-id="WDRDORH" tvg-name="DE: WDR HD Dortmund" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Dortmund
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/427.ts
+#EXTINF:-1 tvg-id="DEAKTV" tvg-name="DE: Der Aktionär TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9471ad3d9cf091a03911c60b5264eea1.png" group-title="Free-TV",DE: Der Aktionär TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/113914.ts
+#EXTINF:-1 tvg-id="TAGARHD" tvg-name="DE: Tagesschau24 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4904600644b4b957e8396b3c169e1f76.png" group-title="Free-TV",DE: Tagesschau24 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/8116.ts
+#EXTINF:-1 tvg-id="EUNHDDE" tvg-name="DE: euronews" tvg-logo="http://iptv.watchhd.cc:5050/images/4ac1cd5269fd00840c9165014cfa51e2.png" group-title="Free-TV",DE: euronews
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/107961.ts
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="DE: RedBullTV" tvg-logo="http://iptv.watchhd.cc:5050/images/9d4902ea0a7eef0e156f39739dc416a4.png" group-title="Free-TV",DE: RedBullTV
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/107960.ts
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e47084e5825ecf2c22d45f6f3406c219.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/46.ts
+#EXTINF:-1 tvg-id="33573fa03f78c31bd2ac02cf93fbaf57" tvg-name="DE: Extreme Sports Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e0d08572082f41662df7c6c747ea3594.png" group-title="Free-TV",DE: Extreme Sports Channel HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/113991.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: More Than Sports TV HD Teststream" tvg-logo="http://iptv.watchhd.cc:5050/images/cebc6f2ca3939bdebb2977036216ee9d.png" group-title="Free-TV",DE: More Than Sports TV HD Teststream
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/115486.ts
+#EXTINF:-1 tvg-id="0007ae4f777eb235cf080c9bbe214650" tvg-name="DE: ClipMyHorse.TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3efcfb04c03c53b4cb2a2c1406ac0f78.png" group-title="Free-TV",DE: ClipMyHorse.TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/109905.ts
+#EXTINF:-1 tvg-id="ANXHDGH" tvg-name="DE: Anixe Serie HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0aba072926597cb1b88575dc76ad0c47.png" group-title="Free-TV",DE: Anixe Serie HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/47.ts
+#EXTINF:-1 tvg-id="985c36779ff76afb44f632ef4c1d1cf4" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e20aeaecd1e924403f874b4d3ed37a37.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/32.ts
+#EXTINF:-1 timeshift="3" tvg-id="4da889e90144a99f92b259575615e262" tvg-name="DE: RTL up HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b49be5351245c7732b1091da11cc0702.png" group-title="Free-TV",DE: RTL up HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/39.ts
+#EXTINF:-1 tvg-id="MOTVHD" tvg-name="DE: Motorvision" tvg-logo="http://iptv.watchhd.cc:5050/images/205f6c4ca69f5fbb641cbf5deeaea4c7.png" group-title="Free-TV",DE: Motorvision
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/45.ts
+#EXTINF:-1 tvg-id="7c780d8ffa12e28b6e59bdbc50b3caf2" tvg-name="DE: Sat. 1 Gold HD" tvg-logo="http://iptv.watchhd.cc:5050/images/22361238567a93daf0c55e6cadb3bff8.png" group-title="Free-TV",DE: Sat. 1 Gold HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/48.ts
+#EXTINF:-1 tvg-id="SAT1EMH" tvg-name="DE: Sat.1 Emotions HD" tvg-logo="http://iptv.watchhd.cc:5050/images/55de921d9a867f1f81c503c23db1a37a.png" group-title="Free-TV",DE: Sat.1 Emotions HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/49.ts
+#EXTINF:-1 tvg-id="MTVSCH" tvg-name="DE: MTV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/362770eb29c09110907ce92def8ff37b.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/2622.ts
+#EXTINF:-1 tvg-id="ONEARHD" tvg-name="DE: One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc7d874cfcc551c16065ba575a8fc66b.png" group-title="Free-TV",DE: One HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/2398.ts
+#EXTINF:-1 tvg-id="HSE24G" tvg-name="DE: HSE 24 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0bb3fe6fcecf0c3fb07179a0b01fa5ae.png" group-title="Free-TV",DE: HSE 24 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/15412.ts
+#EXTINF:-1 tvg-id="ffb6615fa5dc03487c29df093817cd01" tvg-name="DE: Sonnenklar TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3320455017e0000f54283860a00a8d1c.png" group-title="Free-TV",DE: Sonnenklar TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/353.ts
+#EXTINF:-1 tvg-id="1e68b42939b0e86427c0faedc471d93d" tvg-name="DE: QVC HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f93f3e1c542318ff391dc5dcf6c190.png" group-title="Free-TV",DE: QVC HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/10244.ts
+#EXTINF:-1 tvg-id="QVC2DEH" tvg-name="DE: QVC 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c4cd06d67a37dee3203c796649e475e3.png" group-title="Free-TV",DE: QVC 2 HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/15413.ts
+#EXTINF:-1 tvg-id="UHD1" tvg-name="DE: UHD1" tvg-logo="http://iptv.watchhd.cc:5050/images/16e2ebe87ad5c9dbcf63bb6c40a8b258.png" group-title="Free-TV",DE: UHD1
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/9042.ts
+#EXTINF:-1 tvg-id="RMNCHDK" tvg-name="DE: Romance TV" tvg-logo="http://iptv.watchhd.cc:5050/images/1349c17cfd879d6831cf29845eb0d333.png" group-title="Free-TV",DE: Romance TV
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/62.ts
+#EXTINF:-1 tvg-id="129345833499bbee7ee94701fb761c2b" tvg-name="DE: Servus TV Deutschland HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7ff468bced6f1a2adf2ce4912eee3a49.png" group-title="Free-TV",DE: Servus TV Deutschland HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/361.ts
+#EXTINF:-1 timeshift="7" tvg-id="HEIMKAN" tvg-name="DE: Heimatkanal" tvg-logo="http://iptv.watchhd.cc:5050/images/29c164e3198674d8ea17151d780998e5.png" group-title="Free-TV",DE: Heimatkanal
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/63.ts
+#EXTINF:-1 tvg-id="2320c9d6a43beb7b510775bb973f4632" tvg-name="DE: Aristo.TV / RNF" tvg-logo="http://iptv.watchhd.cc:5050/images/71096b3f974f0d6f1eb7fe6ff75c80d4.png" group-title="Free-TV",DE: Aristo.TV / RNF
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/114485.ts
+#EXTINF:-1 tvg-id="ASTROTV" tvg-name="DE: Astro TV" tvg-logo="http://iptv.watchhd.cc:5050/images/ebaefaf74b60b2be6f4e496fe9d5572b.png" group-title="Free-TV",DE: Astro TV
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/115339.ts
+#EXTINF:-1 tvg-id="BIBGEHD" tvg-name="DE: Bibel TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f5ac1964163eb8e161e5c49a2aad1e70.png" group-title="Free-TV",DE: Bibel TV HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/109511.ts
+#EXTINF:-1 tvg-id="travelxp 4K" tvg-name="DE: TRAVELXP" tvg-logo="http://iptv.watchhd.cc:5050/images/349ab9b845d96d31d63f5951b5c4e56f.png" group-title="Free-TV",DE: TRAVELXP
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/108799.ts
+#EXTINF:-1 tvg-id="DEAJ3500002EO" tvg-name="DE: Rakuten TV Comedy HD" tvg-logo="" group-title="Free-TV",DE: Rakuten TV Comedy HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120549.ts
+#EXTINF:-1 tvg-id="DEAJ3500003YF" tvg-name="DE: Rakuten TV Drama HD" tvg-logo="" group-title="Free-TV",DE: Rakuten TV Drama HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120550.ts
+#EXTINF:-1 tvg-id="DEAJ3500001Q1" tvg-name="DE: Rakuten TV Actionfilme HD" tvg-logo="" group-title="Free-TV",DE: Rakuten TV Actionfilme HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120548.ts
+#EXTINF:-1 tvg-id="DEBA2200003I0" tvg-name="DE: Rakuten TV Qwest Jazz & Beyond" tvg-logo="" group-title="Free-TV",DE: Rakuten TV Qwest Jazz & Beyond
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120551.ts
+#EXTINF:-1 tvg-id="5e8b0c92783b3f0007a4c7df" tvg-name="DE: Fitness" tvg-logo="" group-title="Free-TV",DE: Fitness
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120546.ts
+#EXTINF:-1 tvg-id="5ad9b7ffe738977e2c312133" tvg-name="DE: FailArmy" tvg-logo="" group-title="Free-TV",DE: FailArmy
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120136.ts
+#EXTINF:-1 tvg-id="5c5c3b948002db3c3e0b262e" tvg-name="DE: Movies" tvg-logo="" group-title="Free-TV",DE: Movies
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120137.ts
+#EXTINF:-1 tvg-id="5ea815a515d149000748ee9b" tvg-name="DE: MTV Cribs" tvg-logo="" group-title="Free-TV",DE: MTV Cribs
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120133.ts
+#EXTINF:-1 tvg-id="5ad9b648e738977e2c312131" tvg-name="DE: Retro Kids" tvg-logo="" group-title="Kids",DE: Retro Kids
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120545.ts
+#EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" tvg-name="DE: Retro Toons" tvg-logo="" group-title="Free-TV",DE: Retro Toons
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120134.ts
+#EXTINF:-1 tvg-id="5d767ab2b456c8cf265ce921" tvg-name="DE: Sitcoms" tvg-logo="" group-title="Free-TV",DE: Sitcoms
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120138.ts
+#EXTINF:-1 tvg-id="6054a9f4bc8a5f000771504c" tvg-name="DE: Takeshis Castle" tvg-logo="" group-title="Free-TV",DE: Takeshis Castle
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/120135.ts
+#EXTINF:-1 timeshift="2" tvg-id="56cb470aaf433abc11846b924aa8e90a" tvg-name="DE: Cartoon Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4fb2201e86699ae18718eabc7b58a6c7.png" group-title="Kids",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/54.ts
+#EXTINF:-1 tvg-id="BOOMDHD" tvg-name="DE: Boomerang HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a3f8f148e26573304c6ef57ced547f6e.png" group-title="Kids",DE: Boomerang HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/394.ts
+#EXTINF:-1 tvg-id="DISCHHD" tvg-name="DE: Disney Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c83ee3f33cf47d3aedec69656d00de99.png" group-title="Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/55.ts
+#EXTINF:-1 tvg-id="aced96b51724cc88d35b14cea8bf0bd6" tvg-name="DE: Junior" tvg-logo="http://iptv.watchhd.cc:5050/images/1f63f38a5028703009c512515d03685e.png" group-title="Kids",DE: Junior
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/411.ts
+#EXTINF:-1 tvg-id="5654fe0d999d363d9c031a2c965590a1" tvg-name="DE: KiKA HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cefd53818a23a589388093fa94f0ca96.png" group-title="Kids",DE: KiKA HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/58.ts
+#EXTINF:-1 tvg-id="FIXFOXV" tvg-name="DE: Fix & Foxi SD" tvg-logo="http://iptv.watchhd.cc:5050/images/ee4be05b6381f627d7afa45bae990e2a.png" group-title="Kids",DE: Fix & Foxi SD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/90681.ts
+#EXTINF:-1 tvg-id="fb8b419ba2be3a26f960bd1ff07eea32" tvg-name="DE: Nick HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2bca42e547ef5fc12e78798e7ec74029.png" group-title="Kids",DE: Nick HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/111355.ts
+#EXTINF:-1 tvg-id="NICKJDH" tvg-name="DE: Nick Jr." tvg-logo="http://iptv.watchhd.cc:5050/images/2fcf9efe650eb64333ebc2edc688ce17.png" group-title="Kids",DE: Nick Jr.
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/15349.ts
+#EXTINF:-1 tvg-id="RICRCHD" tvg-name="DE: RiC" tvg-logo="http://iptv.watchhd.cc:5050/images/cdc28bd4fe50fc1205a134cd01b6f6f1.png" group-title="Kids",DE: RiC
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/16353.ts
+#EXTINF:-1 tvg-id="SKY1DEH" tvg-name="DE: Sky One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/eaa5b90a7cecdefed8281b7e4add2cd0.png" group-title="Sky Film",DE: Sky One HD
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/630.ts
+#EXTINF:-1 tvg-id="c90650fea1e9ad4a942c7f131d01a322" tvg-name="DE: TOGGO plus" tvg-logo="http://iptv.watchhd.cc:5050/images/6323726eca4db23c20f76e134a05bd53.png" group-title="Kids",DE: TOGGO plus
+http://iptv.watchhd.cc:5050/Antonia/AMqIphEshHVE/15348.ts

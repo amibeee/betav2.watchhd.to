@@ -1,0 +1,46 @@
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Amazon Prime Sport HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c1b4012988c14ed320f566d04962f6a6.png" group-title="Sky Sport",DE: Amazon Prime Sport HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/9313.ts
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Prime Video Sportsbar HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c1b4012988c14ed320f566d04962f6a6.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/79717.ts
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Prime Video Sportsbar HD (720p)" tvg-logo="" group-title="Sky Sport",DE: Prime Video Sportsbar HD (720p)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/99434.ts
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD: NFL ENDZN" tvg-logo="http://iptv.watchhd.cc:5050/images/324e77d32ce916177d0c8211582f4842.png" group-title="Sky Sport",DE: DAZN Event Stream HD: NFL ENDZN
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/9383.ts
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN 1 HD (variable Bitrate) Test" tvg-logo="" group-title="Sky Sport",DE: DAZN 1 HD (variable Bitrate) Test
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/68482.ts
+#EXTINF:-1 tvg-id="09e2e9a519f45ab870b7521c3c755f58" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/102.ts
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD #2
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/25959.ts
+#EXTINF:-1 timeshift="3" tvg-id="DAZN1HD" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/357.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DE: DAZN Bar 1 Mobile" tvg-logo="http://iptv.watchhd.cc:5050/images/d66b4696e485b5fff6febadde53cd1f3.png" group-title="Sky Sport",DE: DAZN Bar 1 Mobile
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/10240.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/103.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD #2
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/25961.ts
+#EXTINF:-1 timeshift="3" tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/358.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 Mobile" tvg-logo="http://iptv.watchhd.cc:5050/images/bdf12072c3b708c4b566c1b1bcf03af6.png" group-title="Sky Sport",DE: DAZN Bar 2 Mobile
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/10241.ts
+#EXTINF:-1 tvg-id="0cf7418f9e8e5d90d09853cc540ef002" tvg-name="DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/68481.ts
+#EXTINF:-1 tvg-id="cb3a505c9f21b1dc5ae14c34ca7d3777" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/6d291917ce8c437891a0d481742e7f41.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/623.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cb25512e7c76edbb195603cca0277ff0.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/107.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/cb25512e7c76edbb195603cca0277ff0.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD #2
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/25944.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/117.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/621.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/7b0f16a654148643b0435e5c9f806ee3.png" group-title="Sky Sport",DE: Sky Sport 2 HD #2
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/118.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/7b0f16a654148643b0435e5c9f806ee3.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/622.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9306bbb893fcad45bda46f08b4e76392.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/119.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/9306bbb893fcad45bda46f08b4e76392.png" group-title="Sky Sport",DE: Sky Sport 3 HD #2
+http://iptv.watchhd.cc:5050/kazach99/fiKpLitBghkJ/77133.ts

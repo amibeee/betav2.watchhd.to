@@ -1,0 +1,6 @@
+#EXTINF:-1 timeshift="7" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/priest9R/Hwtvu9s21G9d/4678.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/priest9R/Hwtvu9s21G9d/4740.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/23f625499daa31f8113831c2677f7ec0.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/priest9R/Hwtvu9s21G9d/379.ts

@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/66
+#EXTINF:-1 tvg-id="servustv.de" tvg-name="DE: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/361
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="Free-TV",AT: ATV
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/65
+#EXTINF:-1 tvg-id="ATV II" tvg-name="AT: ATV //" tvg-logo="https://www.satlogo.com/hires/aa/atv2_at.png" group-title="Free-TV",AT: ATV //
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/688
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls4 " tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="Europe",AT: Puls4 
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/546
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/67
+#EXTINF:-1 tvg-id="ORF III" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/68
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://logo.watchhd.cc/logo/orfsportplus.png" group-title="Free-TV",AT: ORF Sport+ HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/69
+#EXTINF:-1 tvg-id="Puls 8 HD-SWZ" tvg-name="Swiss: Puls 8 HD" tvg-logo="" group-title="Swiss",Swiss: Puls 8 HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/2078
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info HD" tvg-logo="http://logo.watchhd.cc/logo/srf_info.png" group-title="Swiss",Swiss: SRF Info HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/511
+#EXTINF:-1 tvg-id="SWISS 1-SWZ" tvg-name="Swiss: Swiss 1 HD" tvg-logo="" group-title="Swiss",Swiss: Swiss 1 HD
+http://iptv.watchhd.cc:5050/mankri/vNDYJuwJDSKc/2079

@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Phantastische Tierwesen und wo sie zu finden sind"},"start":1492364700,"stop":1492373700,"channel":"Sky Select 3"},{"title":{"de":"Phantastische Tierwesen und wo sie zu finden sind"},"start":1492373700,"stop":1492381200,"channel":"Sky Select 3"}]}}

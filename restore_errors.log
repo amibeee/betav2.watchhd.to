@@ -1,0 +1,3 @@
+tar: logs/watchhd.to.error.log: Funktion open fehlgeschlagen: Die Datei existiert bereits
+tar: logs/watchhd.to.log: Funktion open fehlgeschlagen: Die Datei existiert bereits
+tar: Beende mit Fehlerstatus aufgrund vorheriger Fehler

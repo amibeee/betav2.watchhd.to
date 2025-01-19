@@ -1,0 +1,4 @@
+#EXTINF:-1 timeshift="5" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/r4pid/Y4a7w5bUoC2v/1.ts
+#EXTINF:-1 timeshift="5" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/r4pid/Y4a7w5bUoC2v/2.ts

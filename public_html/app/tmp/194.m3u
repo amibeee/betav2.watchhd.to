@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="Musik: VH1" tvg-logo="" group-title="General Streams",Musik: VH1
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/1495.ts
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="Musik: MTV Live HD" tvg-logo="http://logo.watchhd.cc/logo/mtvlivehd.png" group-title="Auslands-TV",Musik: MTV Live HD
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/727.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="Musik: MTV Hits" tvg-logo="http://logo.watchhd.cc/logo/mtvhits.png" group-title="Auslands-TV",Musik: MTV Hits
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/728.ts
+#EXTINF:-1 tvg-id="mtvdance.uk" tvg-name="Musik: MTV Dance HD" tvg-logo="http://logo.watchhd.cc/logo/mtvdance.png" group-title="Auslands-TV",Musik: MTV Dance HD
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Musik: Electrosound" tvg-logo="http://logo.watchhd.cc/logo/electrosound.png" group-title="Auslands-TV",Musik: Electrosound
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Musik: Deluxe Music" tvg-logo="http://logo.watchhd.cc/logo/deluxemusic.png" group-title="General Streams",Musik: Deluxe Music
+http://iptv.watchhd.cc:8000/live/hippo1/QvbAwxjLJFGwkY1W/141.ts

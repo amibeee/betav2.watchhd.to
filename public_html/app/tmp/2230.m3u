@@ -1,0 +1,94 @@
+#EXTINF:-1 tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310121.ts
+#EXTINF:-1 tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/278.ts
+#EXTINF:-1 tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310120.ts
+#EXTINF:-1 timeshift="7" tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130804.ts
+#EXTINF:-1 tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310119.ts
+#EXTINF:-1 timeshift="2" tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/10424.ts
+#EXTINF:-1 tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/122092.ts
+#EXTINF:-1 timeshift="5" tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/136094.ts
+#EXTINF:-1 tvg-id="SKSPBUH" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_UHD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/105.ts
+#EXTINF:-1 timeshift="5" tvg-id="SKYB2HD" tvg-name="DE: Sky Sport Bundesliga 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/129356.ts
+#EXTINF:-1 tvg-id="SKYB2HD" tvg-name="DE: Sky Sport Bundesliga 2 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310122.ts
+#EXTINF:-1 tvg-id="SKYB2HD" tvg-name="DE: Sky Sport Bundesliga 2 HD (ersatz)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (ersatz)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/25944.ts
+#EXTINF:-1 tvg-id="SKYB2HD" tvg-name="DE: Sky Sport Bundesliga 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/279.ts
+#EXTINF:-1 tvg-id="SKYB2HD" tvg-name="DE: Sky Sport Bundesliga 2 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310123.ts
+#EXTINF:-1 timeshift="5" tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/129357.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310124.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Ersatz)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Ersatz)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/25948.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/280.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310125.ts
+#EXTINF:-1 timeshift="7" tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/129358.ts
+#EXTINF:-1 tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310126.ts
+#EXTINF:-1 tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/281.ts
+#EXTINF:-1 tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310127.ts
+#EXTINF:-1 timeshift="5" tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130798.ts
+#EXTINF:-1 tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/282.ts
+#EXTINF:-1 tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310128.ts
+#EXTINF:-1 tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310129.ts
+#EXTINF:-1 timeshift="5" tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130799.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310130.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/283.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310131.ts
+#EXTINF:-1 timeshift="5" tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 7 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130800.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 7 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310132.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 7 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/10275.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 7 HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310133.ts
+#EXTINF:-1 timeshift="5" tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130801.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310134.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/10276.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310135.ts
+#EXTINF:-1 timeshift="5" tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130802.ts
+#EXTINF:-1 tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310136.ts
+#EXTINF:-1 tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/10277.ts
+#EXTINF:-1 tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310137.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (Sat)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130803.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310138.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/10278.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 (Web 720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/310139.ts

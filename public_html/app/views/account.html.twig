@@ -1,0 +1,331 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	{{ t('Mein Benutzerkonto') }}
+{% endblock %}
+
+{% block content %}
+	<div class="container-fluid">
+		<div class="account-responsive-container">
+			<h1>Mein Benutzerkonto</h1>
+
+			<table class="table table-bordered table-striped table-hover">
+				<tbody>
+					<tr>
+						<th width="30%">{{ t('Benutzername') }}</th>
+						<td>{{ current_user.username }}</td>
+					</tr>
+
+
+				</tbody>
+			</table>
+			<script>
+				$(document).ready(function () {
+
+				$('.mega').on('click', function (e) {
+
+				$(this).html($(this).attr('data-link'));
+
+				});
+
+				});
+
+  				$(document).ready(function() {
+    			// Use event delegation to target dynamically added elements
+   				 $('body').on('click', 'a[data-toggle="tab"]', function(e) {
+      			var target = $(this).attr('href'); // Get the target tab ID
+      
+      			if (target !== '#mainline') {
+        		$('#mainline').hide(); // Hide the mainline content
+        		$('.tab-pane').not(target).hide(); // Hide other tabs' content
+        		$(target).show(); // Show the clicked tab's content
+      			} else {
+       			$('#mainline').show(); // Show mainline content if 'Hauptline' tab is clicked
+        		$('.tab-pane').not('#mainline').hide(); // Hide other lines' content
+      			}
+   			 	});
+
+    			// Initially hide all created line contents except MainLine
+   				 $('.tab-pane').not('#mainline').hide();
+  				});
+			</script>
+
+			<ul class="nav nav-tabs">
+				<li class="li-styling active">
+					<a data-toggle="tab" href="#mainline">Hauptline</a>
+				</li>
+				{% for line in user.lines %}
+					<li class="li-styling ">
+						<a data-toggle="tab" href="#line{{ loop.index }}">{{ (line.display_name ? line.display_name : 'Line #'~loop.index) }}</a>
+					</li>
+				{% endfor %}
+			</ul>
+
+			<div class="accountfull-table">
+				<div id="mainline" class="tab-pane table-account fade in active">
+					<table class="">
+
+						<tbody>
+						<tr 						{% if not payment.data.multiline %}style="display:none;"{% endif %}
+>
+								<th width="30%">{{ t('Multi-Line Status') }}</th>
+								<td class="options-btn-acc">
+								<p>Multi-Line</p>
+								</td>
+							</tr>
+								<th width="30%">{{ t('Multi-Line Status') }}</th>
+	<td>
+		{% if multiline_status[user.username] == 1 %}
+			<span style="color:green;">{{ t('Aktiv') }}</span>
+		{% else %}
+			<span style="color:red;">{{ t('Nicht aktiv') }}</span>
+		{% endif %}
+	</td>
+</tr>
+
+							<tr>
+								<th width="30%">{{ t('Kodi Plugin v19') }}</th>
+								<td class="options-btn-acc">
+									<a class="mirrors-btns-acc" href="http://xup.in/dl,16022932" target="_blank">Mirror 1</a>
+									<a class="mirrors-btns-acc" href="https://www98.zippyshare.com/v/p8N9VUvT/file.html" target="_blank">Mirror 2 (offline)</a>
+								</td>
+							</tr>
+
+							<tr>
+								<th width="30%">{{ t('Kodi Simple TV') }}</th>
+								<td style="text-align: left; word-wrap: break-word; word-break: break-all;">
+									<span data-link="http://iptv.watchhd.cc:5050/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u_plus&output=ts" class="mega">Link anzeigen</span>
+								</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('VLC') }}</th>
+								<td style="text-align: left; word-wrap: break-word; word-break: break-all;">
+									<span data-link="http://iptv.watchhd.cc:5050/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u&output=ts" class="mega">Link anzeigen</span>
+								</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('Stalker Portal') }}</th>
+								<td>http://iptv.watchhd.cc:5050/c1/</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('Senderlogs') }}</th>
+								<td>http://logo.watchhd.cc/logo/</td>
+							</tr>
+
+
+							<tr>
+								<th width="30%">{{ t('EPG') }}</th>
+								<td style="text-align: left; word-wrap: break-word; word-break: break-all;">http://iptv.watchhd.cc:5050/xmltv.php?username={{ current_user.username }}&password={{ user.line_password }}</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('Gültig bis') }}</th>
+								<td>
+										{% if user.premium_until < timestamp %}
+											<span style="color:red">{{ user.premium_until|date('d.m.Y H:i') }}
+												(expired)</span>
+										{% else %}
+											<span style="color:green">{{ user.premium_until|date('d.m.Y H:i') }}
+											</span>
+											
+										{% endif %}
+								</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('Eigene Playlists') }}</th>
+								<td>
+									{% if playlists[current_user.username] %}
+										{% for playlist in playlists[current_user.username] %}
+											<div class="form-group">
+												<div class="input-group">
+													<input type="text" value="{{ base_url() }}playlist/{{ playlist.public_token }}" class="form-control"/>
+													<span class="input-group-addon">
+														<i onclick="window.location = '{{ base_url() }}line/customizer?line={{ current_user.username }}&type=mainline&cpid={{ playlist.id }}';" style="color:blue" class="fa fa-pencil"></i>
+														<i onclick="if(window.confirm('Wirklich löschen?')){ window.location = '{{ base_url() }}line/customizer?line={{ current_user.username }}&type=mainline&cpid={{ playlist.id }}&action=delete'; } else { return false; }" style="color:red" class="fa fa-trash"></i>
+													</span>
+												</div>
+											</div>
+										{% endfor %}
+									{% endif %}
+								</td>
+							</tr>
+							<tr>
+								<th width="30%">{{ t('Optionen') }}</th>
+								<td class="options-btn-acc">
+									<a href="{{ base_url() }}buy?line={{ current_user.username }}&type=mainline" class="mirrors-btns-acc">{{ t('Line verlängern') }}</a>
+									<button data-toggle="modal" data-target="#linePasswordEditorModal" data-username="{{ current_user.username }}" data-password="{{ current_user.line_password }}" class="mirrors-btns-acc">Passwort ändern</button>
+									<a href="{{ base_url() }}line/customizer?line={{ current_user.username }}&type=mainline" class="mirrors-btns-acc">Line personalisieren</>
+									<a href="{{ base_url() }}line/packages?line={{ current_user.username }}&type=mainline" class="mirrors-btns-acc">Pakete aktivieren / deaktivieren</>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				{% for line in user.lines %}
+					<div id="line{{ loop.index }}" class="tab-pane fade">
+						<table class="table table-bordered table-striped table-hover">
+							<thead>
+								<th colspan="2">Subline #{{ loop.index }}</th>
+							</thead>
+							<tbody>
+							<tr>
+	<th width="30%">{{ t('Multi-Line Status') }}</th>
+	<td>
+		{% if multiline_status[line.username] == 1 %}
+			<span style="color:green;">{{ t('Aktiv') }}</span>
+		{% else %}
+			<span style="color:red;">{{ t('Nicht aktiv') }}</span>
+		{% endif %}
+	</td>
+</tr>
+						
+								<tr>
+									<th width="30%">{{ t('ID') }}</th>
+									<
+									<td>{{ line.username }}</td>
+								</tr>
+
+								<tr>
+									<th width="30%">{{ t('Kodi Simple TV') }}</th>
+									<td>
+										<span data-link="http://iptv.watchhd.cc:5050/get.php?username={{ line.username }}&password={{ line.password }}&type=m3u_plus&output=ts" class="mega">Link anzeigen</span>
+									</td>
+								</tr>
+								<tr>
+									<th width="30%">{{ t('VLC') }}</th>
+									<td>
+										<span data-link="http://iptv.watchhd.cc:5050/get.php?username={{ line.username }}&password={{ line.password }}&type=m3u&output=ts" class="mega">Link anzeigen</span>
+									</td>
+								</tr>
+
+								<tr>
+									<th width="30%">{{ t('Eigene Playlists') }}</th>
+									<td>
+										{% if playlists[line.username] %}
+											{% for playlist in playlists[line.username] %}
+												<div class="form-group">
+													<div class="input-group">
+														<input type="text" value="{{ base_url() }}playlist/{{ playlist.public_token }}" class="form-control"/>
+														<span class="input-group-addon">
+															<i onclick="window.location = '{{ base_url() }}line/customizer?line={{ line.username }}&type=subline&cpid={{ playlist.id }}';" style="color:blue" class="fa fa-pencil"></i>
+															<i onclick="if(window.confirm('Wirklich löschen?')){ window.location = '{{ base_url() }}line/customizer?line={{ line.username }}&type=subline&cpid={{ playlist.id }}&action=delete'; } else { return false; }" style="color:red" class="fa fa-trash"></i>
+														</span>
+													</div>
+												</div>
+											{% endfor %}
+										{% endif %}
+									</td>
+								</tr>
+								<tr>
+									<th width="30%">{{ t('Gültig bis') }}</th>
+									<td>
+										{% if line.premium_until < timestamp %}
+											<span style="color:red">{{ line.premium_until|date('d.m.Y H:i') }}
+												(expired)</span>
+										{% else %}
+											<span style="color:green">{{ line.premium_until|date('d.m.Y H:i') }}
+											</span>
+											
+										{% endif %}
+									</td>
+								</tr>
+								<tr>
+									<th width="30%">{{ t('Optionen') }}</th>
+
+									<td class="options-btn-acc">
+<form action="{{ base_url() }}buy" method="POST" style="display: inline;">
+    <input type="hidden" name="line" value="{{ line.username }}">
+    <input type="hidden" name="type" value="subline">
+    <button type="submit" class="mirrors-btns-acc">{{ t('jetzt verlängern') }}</button>
+</form>
+										<button data-toggle="modal" data-target="#linePasswordEditorModal" data-username="{{ line.username }}" data-password="{{ line.password }}" class="mirrors-btns-acc">Passwort ändern</button>
+										<a href="{{ base_url() }}line/customizer?line={{ line.username }}&type=subline" class="mirrors-btns-acc">Line personalisieren</>
+										<a href="{{ base_url() }}line/packages?line={{ line.username }}&type=subline" class="mirrors-btns-acc">Pakete aktivieren / deaktivieren</>
+										<a>
+										{% if line.premium_until < timestamp %}
+    <form method="post" action="{{ base_url() }}account" style="display: inline;">
+        <input type="hidden" name="do" value="deleteLine">
+        <input type="hidden" name="line_id" value="{{ line.id }}">
+        <button type="submit" class="mirrors-btns-acc">löschen</button>
+    </form>
+{% endif %}
+										</a>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				{% endfor %}
+
+
+			</div>
+
+
+			{% if (user.lines|length+1) < 5 %}
+				<button class="mirrors-btns-acc createUserLine" style="margin-top:2rem">Neue Line erzeugen</button>
+			{% endif %}
+			<h1>Käufe</h1>
+			<table class="table table-bordered table-striped table-hover">
+				<thead>
+					<tr>
+						<th>{{ t('Datum') }}</th>
+						<th>{{ t('Artikel') }}</th>
+						<th>{{ t('Preis') }}</th>
+						<th>{{ t('Status') }}</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for payment in payments %}
+					
+						<tr>
+							<td>
+								<abbr title="{{ payment.created_at|date('d.m.Y H:i') }}">{{ payment.created_at|date('d.m.Y') }}</abbr>
+							</td>
+							<td>{{ payment.product }}</td>
+							<td>{{ sum_format(payment.amount) }}</td>
+							<td>
+								{% if payment.status == 'declined' %}
+									<span style="color:red;">abgelehnt</span>
+									<i class="fa fa-question-circle" data-toggle="tooltip" title="{{ payment.decline_reason }}" aria-hidden="true"></i>
+								{% elseif payment.status == 'pending' %}
+									<span style="color:orange;">wartend</span>
+								{% elseif payment.status == 'in_exchange' %}
+									<span style="color:orange;">beim Exchanger</span>
+								{% elseif payment.status == 'paid' %}
+									<span style="color:green;">bezahlt</span>
+								{% elseif payment.status == 'timeout' %}
+									<span style="color:red;">abgelaufen</span>
+								{% endif %}
+							</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+
+			<!-- Modal -->
+			<div class="modal fade" id="linePasswordEditorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="exampleModalLabel">Passwort ändern</h5>
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body">
+							{{ form_open()|raw }}
+							<input type="hidden" name="username" id="username" value=""/>
+							<div class="form-group">
+								<input type="text" name="password" id="password" value="" class="form-control"/>
+							</div>
+							<div class="form-group">
+								<input type="submit" value="speichern" class="btn-primarysett"/>
+							</div>
+							{{ form_close()|raw }}
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn-primarysett" data-dismiss="modal">Fenster schließen</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		{% endblock %}

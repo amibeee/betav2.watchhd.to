@@ -1,0 +1,69 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Benutzer bearbeiten
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+		<div class="friend-settings-container-fluid">
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>Benutzername</label>
+    <input type="text" class="form-control" name="username" value="{{ form_value('username', user.username) }}" />
+</div>
+<div class="form-group">
+    <label>Emailadresse</label>
+    <input type="email" class="form-control" name="email" value="{{ form_value('email', user.email) }}" />
+</div>
+<div class="form-group">
+    <label>Benutzergruppe</label>
+    <select name="group" class="form-control">
+        <option value=""{% if form_value('group', user.group) == '' %} selected=""{% endif %}>Bitte auswählen</option>
+        <option value="1"{% if form_value('group', user.group) == '1' %} selected=""{% endif %}>Benutzer</option>
+        <option value="25"{% if form_value('group', user.group) == '25' %} selected=""{% endif %}>Werbepartner</option>
+        <option value="75"{% if form_value('group', user.group) == '75' %} selected=""{% endif %}>Moderatoren</option>
+        <option value="100"{% if form_value('group', user.group) == '100' %} selected=""{% endif %}>Administatoren</option>
+    </select>
+</div>
+<div class="fom-group">
+    <label>Premium Laufzeit</label>
+	<div class="row">
+		<div class="col-md-8">
+			<input type="date" class="form-control" name="exp_date[date]" id="premium_until" value="{{ user.premium_until|date('Y-m-d')  }}" />
+		</div>
+		<div class="col-md-4">
+			<input type="time" class="form-control" name="exp_date[time]" id="premium_until" value="{{ user.premium_until|date('H:i')  }}" />
+		</div>
+	</div>
+        
+</div>
+
+<div class="form-group">
+    <label>Tracking ID</label>
+    <input type="text" class="form-control" name="affiliate_tracking_id" value="{{ form_value('affiliate_tracking_id', user.affiliate_tracking_id) }}" />
+</div>
+
+<div class="form-group">
+    <label>Neues Password</label>
+    <input type="text" class="form-control" name="password1" />
+</div>
+
+<div class="form-group">
+    <label>Neues Password (wiederholen)</label>
+    <input type="text" class="form-control" name="password2" />
+</div>
+<div>
+<div class="form-group">
+    <label>Letzter Zahlungsstatus</label>
+    <input type="text" class="form-control" name="last_payment_status" value="{{ mSTAT }}" readonly />
+</div>
+<div class="form-group">
+    <label>Line Password</label>
+    <input type="text" class="form-control" name="line_password" value="{{ user.line_password }}" />
+</div>
+<div class="form-group">
+    <input type="submit" class="btn btn-success btn-raised btn-block btn-lg" value="speichern" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

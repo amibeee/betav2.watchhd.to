@@ -1,0 +1,90 @@
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/2.ts
+#EXTINF:-1 timeshift="5" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/1.ts
+#EXTINF:-1 tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/356630.ts
+#EXTINF:-1 timeshift="5" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/4678.ts
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/177153.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ZDF" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/4740.ts
+#EXTINF:-1 timeshift="3" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/3.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (Kabel)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/130704.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/379.ts
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="UHD",DE: RTL UHD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/34.ts
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL PLUS HD" tvg-logo="http://my.unistb.com:2082/picons/croatia/rtlplus.hr.png" group-title="Ex-Yu Kroatien",HR: RTL PLUS HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/335054.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC UHD" tvg-logo="http://logo.watchhd.cc/logo/UK/uk_bbc_uhd.png" group-title="UHD",UK: BBC UHD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/120710.ts
+#EXTINF:-1 tvg-id="DE: Discovery" tvg-name="DE: Discovery Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Discovery_Channel_HD.png" group-title="Magenta TV",DE: Discovery Channel HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/135113.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 1 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event 1 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336217.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 2 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_2.png" group-title="DAZN & RTL+",DE: RTL+ Event 2 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336218.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 3 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_3.png" group-title="DAZN & RTL+",DE: RTL+ Event 3 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336219.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 4 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_4.png" group-title="DAZN & RTL+",DE: RTL+ Event 4 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336220.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 5 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_5.png" group-title="DAZN & RTL+",DE: RTL+ Event 5 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336221.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 6 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_6.png" group-title="DAZN & RTL+",DE: RTL+ Event 6 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336222.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 7 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_7.png" group-title="DAZN & RTL+",DE: RTL+ Event 7 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336223.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 8 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_8.png" group-title="DAZN & RTL+",DE: RTL+ Event 8 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336224.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 9 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_9.png" group-title="DAZN & RTL+",DE: RTL+ Event 9 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336225.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 10 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_10.png" group-title="DAZN & RTL+",DE: RTL+ Event 10 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336226.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 11 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_11.png" group-title="DAZN & RTL+",DE: RTL+ Event 11 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336227.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 12 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_12.png" group-title="DAZN & RTL+",DE: RTL+ Event 12 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336228.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 13 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_13.png" group-title="DAZN & RTL+",DE: RTL+ Event 13 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336229.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 14 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_14.png" group-title="DAZN & RTL+",DE: RTL+ Event 14 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336230.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 15 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_15.png" group-title="DAZN & RTL+",DE: RTL+ Event 15 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336231.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 16 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_16.png" group-title="DAZN & RTL+",DE: RTL+ Event 16 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336232.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 17 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_17.png" group-title="DAZN & RTL+",DE: RTL+ Event 17 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336233.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 18 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_18.png" group-title="DAZN & RTL+",DE: RTL+ Event 18 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336234.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 19 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_19.png" group-title="DAZN & RTL+",DE: RTL+ Event 19 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336235.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event 20 HD (WEB)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_20.png" group-title="DAZN & RTL+",DE: RTL+ Event 20 HD (WEB)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/336236.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 1" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 1
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357254.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 2" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 2
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357247.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 3" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 3
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357248.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 4" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 4
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357249.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 5" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 5
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357250.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 6" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 6
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357251.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 7" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 7
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357252.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 10" tvg-logo="" group-title="DAZN & RTL+",DE: RTL+ SPORT EVENT 10
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/357253.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 9" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_9.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 9
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/110298.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 8" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_8.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 8
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/110297.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 7" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_7.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 7
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/110296.ts

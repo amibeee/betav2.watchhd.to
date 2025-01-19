@@ -1,0 +1,27 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Checkout
+{% endblock %}
+
+{% block content %}
+<div class="alert alert-info">Du erhälst deine Premiumlaufzeit ca. 1 Stunde nach deinem Kauf.</div>
+<h1>{{ t('Deine Bestellung') }}</h1>
+
+<strong>{{ t('Produkt') }}:</strong> {{ data.product.name }}
+<br />
+<strong>Preis:</strong> {{ sum_format(data.product.price, 2) }} Euro
+<br />
+<strong>Zahlungsmethode:</strong> Monero
+
+{{ form_open()|raw }}
+{% if data.product.type == 'premium' %}
+<div class="form-group">
+    <label>{{ t('Gutschein (optional)') }}</label>
+    <input type="text" name="voucher" id="voucher" class="form-control" />
+</div>
+{% endif %}
+<input type="submit" class="btn btn-raised btn-success btn-lg btn-block" value="{{ t('jetzt mit Monero zahlen') }}" />
+{{ form_close()|raw }}
+
+{% endblock %}

@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6edaf73e0213d3a484061f985b24155f.png" group-title="Free-TV",AT: ATV HD
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/65.ts
+#EXTINF:-1 tvg-id="078d0bd05787aa23adc988cff792577f" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/66.ts
+#EXTINF:-1 tvg-id="3ccda9e2b9523d55b22656ea8465091a" tvg-name="AT: ORF 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d0b7bdf400c91d0dada124fff01d824e.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/67.ts
+#EXTINF:-1 tvg-id="a86ed8f401c4a7f07a123d3919e50c31" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/68.ts
+#EXTINF:-1 tvg-id="2ec1f07aaed0b600ec8d4873ca64290f" tvg-name="AT: Servus TV Österreich HD" tvg-logo="" group-title="Free-TV",AT: Servus TV Österreich HD
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/15414.ts
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/atv.png" group-title="HEVC FHD",AT: ATV HD (HEVC)
+http://iptv.watchhd.cc:5050/kyrillvoronin/KLJPZMQpEQcR/10108.ts

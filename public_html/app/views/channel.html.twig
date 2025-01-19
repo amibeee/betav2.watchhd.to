@@ -1,0 +1,171 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}{{ t('Du guckst') }} {{ channel.name }}{% endblock %}
+
+{% block content %}
+<style type="text/css">
+.chat {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.chat li {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #B3A9A9;
+}
+
+.chat li.right .chat-body {
+    margin-right: 60px;
+}
+
+.chat li .chat-body p {
+    margin: 0;
+    color: #777777;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon {
+    margin-right: 5px;
+}
+</style>
+<link href="https://vjs.zencdn.net/5.19.1/video-js.css" rel="stylesheet">
+<div class="row">
+
+    <div class="col-md-10" align="center">
+
+        <div class="pull-right size">
+        <i class="fa fa-arrows-alt bs" aria-hidden="true"></i>
+        </div>
+        <div class="clearfix"></div>
+<script src="https://vjs.zencdn.net/5.19.1/video.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.4.1/videojs-contrib-hls.min.js"></script>
+
+        <h3>{{ t('Du guckst') }}: <strong>{{ channel.name }}</strong></h3>
+	<video id="example-video" width="700" height="400" class="video-js vjs-default-skin" controls>
+  <source
+     src="{{ stream_url }}"
+     type="application/x-mpegURL">
+</video>
+
+<script>
+var player = videojs('example-video');
+player.play();
+</script>               <!-- Chat -->
+        <div class="chatbox" style="width: 720px;">
+
+
+					<embed wmode="transparent" src="//www.xatech.com/web_gear/chat/chat.swf" quality="high" width="720" height="350" name="chat" FlashVars="id=218917327" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://xat.com/update_flash.php" /><br><small><a target="_BLANK" href="http://xat.com/web_gear/?cb">Get your own Chat Box!</a> <a target="_BLANK" href="http://xat.com/web_gear/chat/go_large.php?id=218917327"></a></small><br>
+
+
+
+
+
+        </div>
+        <!-- Chat -->
+
+    </div>
+    <div class="col-md-2" style="border-left: 1px solid black; min-height: 100%;" align="center">
+
+        <h3>{{ t('Kanal Info') }}</h3>
+        <strong id="uc">{{ channel.viewers }}</strong> {{ t('Benutzer gucken mit dir') }} <strong>{{ channel.name }}</strong>
+        <p></p>
+
+        <table class="table" align="center" style="text-align: center;">
+        <tr>
+            <th colspan="2" align="center" style="text-align: center;">{{ t('jetzt & gleich') }}</th>
+        </tr>
+
+            {% set on_tv = on_tv(channel.tvguideapi_id) %}
+<tr>
+
+                <td width="20%">{{ t('Jetzt') }}</td>
+                <td>{{ on_tv.title.de }} {% if on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ on_tv.subTitle.de }}</small>
+                            {% endif %}</td>
+            </tr>
+            {% for programm in continuous_channel_programm_list(channel.tvguideapi_id, 5) %}
+           <tr>
+
+                <td width="20%">{{ programm.start|date('H:i') }}</td>
+                <td>{{ programm.title.de }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <h3>Sender wechseln</h3>
+        <div class="form-group">
+            <div class="input-group">
+                <select name="channel" data-width="auto" data-live-search="false" id="channel" class="form-control selectpicker">
+                    {% for c in channels  %}
+                    <option data-tokens="{{ c.name }}" data-content="<img src='{{ base_url() }}channellogo/{{ c.id }}/100x100' />" value="{{ base_url() }}channel/{{ c.public_id }}"{% if c.id  == channel.id %} selected=""{% endif %} {% if c.id  == channel.id %} disabled=""{% endif %}>{{ c.name }}</option>
+                    {% endfor %}
+                </select>
+                <script type="text/javascript">
+                $(document).ready(function(){
+                $('select.selectpicker').selectpicker();
+                });
+                </script>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+
+    setInterval(function(){
+
+        $.post(base_url+'ajax/channel/heartbeat', {'channel_id':'{{ channel.id }}'}, function(response){
+            //if(response.success == false) window.location = base_url+'logout';
+        });
+
+    }, 30000);
+
+    setInterval(function(){
+      $.getJSON(base_url+'ajax/channel/uc/{{ channel.id }}', function(response){
+        $('#uc').text(response.users);
+
+      })
+
+    }, 60000);
+
+
+    $('.bs').off('click').on('click', function(e){
+
+        if($('.chatbox').width() == '720')
+        {
+            $('.chatbox').width('960px');
+        }
+        else
+        {
+            $('.chatbox').width('720px');
+        }
+
+        if (player.getWidth() ==  720) {
+            player.resize(960, 540);
+        } else {
+            player.resize(720, 400);
+        }
+
+
+    });
+
+
+
+
+
+
+});
+</script>
+{% endblock %}

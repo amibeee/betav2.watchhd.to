@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/22091
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/22092
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="DE: Sport",DE: Sky Sport 1 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/67
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="DE: Sport",DE: Sky Sport 2 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/22086
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/tcsport1.png" group-title="DE: Sport",Swiss: TC Sport 1 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1153
+#EXTINF:-1 tvg-id="TCSport2.ch" tvg-name="Swiss: TC Sport 2 HD" tvg-logo="" group-title="DE: Sport",Swiss: TC Sport 2 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1502
+#EXTINF:-1 tvg-id="SRF 1 HD" tvg-name="Swiss: SRF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/srf1.png" group-title="Auslands-TV",Swiss: SRF 1 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1172
+#EXTINF:-1 tvg-id="SRF zwei HD" tvg-name="Swiss: SRF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/srf2.png" group-title="Auslands-TV",Swiss: SRF 2 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1171
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="General Streams",AT: ORF 1 HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/142
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls 4" tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="General Streams",AT: Puls 4
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1236
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="General Streams",AT: ATV HD
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/1235
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV 2" tvg-logo="https://live-pse-download.drei.com/tv/images/logos/atv2_v2.png" group-title="General Streams",AT: ATV 2
+http://iptv.watchhd.cc:8000/zimtfisch/fussel246skippy/14961

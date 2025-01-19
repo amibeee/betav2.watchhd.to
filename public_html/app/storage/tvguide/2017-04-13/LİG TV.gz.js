@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Haber"},"start":1492117200,"stop":1492119000,"channel":"L\u0130G TV"},{"title":{"de":"Avrupa Ligi \u00d6zel"},"start":1492119000,"stop":1492120800,"channel":"L\u0130G TV"}]}}

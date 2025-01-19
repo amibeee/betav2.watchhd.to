@@ -1,0 +1,1258 @@
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/3.ts
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/34.ts
+#EXTINF:-1 tvg-id="3ade284d7ac52adf8d6847a521b68179" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/4.ts
+#EXTINF:-1 tvg-id="ae0b361a7c780dddb98f4bee13273ae3" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/33.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/31.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/5.ts
+#EXTINF:-1 timeshift="7" tvg-id="PRO7FHD" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/359.ts
+#EXTINF:-1 timeshift="2" tvg-id="PROMXHD" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/7.ts
+#EXTINF:-1 tvg-id="1a1c6f010335a1c69f353d531e8d8317" tvg-name="DE: ProSiebenSat.1 UHD" tvg-logo="http://logo.watchhd.cc/logo/p7_sat1_uhd.png.e1b0d4d1128e4f8536d3abf8ec6436a9.png" group-title="Free-TV",DE: ProSiebenSat.1 UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/68047.ts
+#EXTINF:-1 tvg-id="RTL2HD" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/6.ts
+#EXTINF:-1 tvg-id="702f5305034a9048ee4a235c95f31474" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/41.ts
+#EXTINF:-1 tvg-id="VOXUPHD" tvg-name="DE: VOXup HD" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Free-TV",DE: VOXup HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/625.ts
+#EXTINF:-1 tvg-id="SIXXHD" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/40.ts
+#EXTINF:-1 timeshift="2" tvg-id="DMAXDHD" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/42.ts
+#EXTINF:-1 tvg-id="INSGER" tvg-name="DE: Insight HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_InsightTV_HD.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10245.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_NITRO_HD.png" group-title="Free-TV",DE: Nitro HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/35.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Super_RTL_HD.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/360.ts
+#EXTINF:-1 tvg-id="COCECH" tvg-name="DE: Comedy Central HD" tvg-logo="http://logo.watchhd.cc/logo/cchd.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44.ts
+#EXTINF:-1 tvg-id="e976321f64d998fd918d97077dfa9ac9" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/tele_5.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/50.ts
+#EXTINF:-1 tvg-id="7321d1e742b6ba0c69586babb5837c45" tvg-name="DE: Sport1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/43.ts
+#EXTINF:-1 tvg-id="ddd93b3216e6858f725b0e5d35718467" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/159.ts
+#EXTINF:-1 tvg-id="DE: BILD" tvg-name="DE: Bild TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_BILD_TV.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/69254.ts
+#EXTINF:-1 tvg-id="HEALTHD" tvg-name="DE: Health.TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Health_TV.png" group-title="Free-TV",DE: Health.TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115503.ts
+#EXTINF:-1 tvg-id="DEAJ0500413A" tvg-name="DE: Focus TV Reportage" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Focus_TV_Reportage.png" group-title="Free-TV",DE: Focus TV Reportage
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115105.ts
+#EXTINF:-1 tvg-id="N24DOKU" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/N24_Doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1944.ts
+#EXTINF:-1 tvg-id="59afd351061bdb28d41c22425495c3b0" tvg-name="DE: n-tv HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_NTV_HD.png" group-title="Free-TV",DE: n-tv HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/52.ts
+#EXTINF:-1 tvg-id="PHONXHD" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/51.ts
+#EXTINF:-1 tvg-id="8ba7b0c82081c6355a65b1fddeedc544" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/53.ts
+#EXTINF:-1 tvg-id="b59dfd9f03b7502544ce0485fd5e8861" tvg-name="DE: ARD-alpha HD" tvg-logo="http://logo.watchhd.cc/logo/ard-alpha.png" group-title="Free-TV",DE: ARD-alpha HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/100890.ts
+#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDFInfo HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDFInfo HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/60.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFNGHD" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/61.ts
+#EXTINF:-1 tvg-id="3SATGEH" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_3Sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/429.ts
+#EXTINF:-1 timeshift="7" tvg-id="6058e0608cbe571ef21513b1b1cab8d1" tvg-name="DE: ARTE HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/965.ts
+#EXTINF:-1 tvg-id="8cc35d8a8dbce1600a3a9de0572d0baa" tvg-name="DE: BR Fernsehen HD Nord" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR Fernsehen HD Nord
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/433.ts
+#EXTINF:-1 tvg-id="RADBRHD" tvg-name="DE: Radio Bremen TV" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Radio_Bremen_HD.png" group-title="Free-TV",DE: Radio Bremen TV
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/78578.ts
+#EXTINF:-1 timeshift="7" tvg-id="bc9ef11783dc72d2f711d2574f914f2c" tvg-name="DE: HR HD" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/428.ts
+#EXTINF:-1 tvg-id="d0798286e8a0eca853ce9b3b0dac61b1" tvg-name="DE: NDR HD Schleswig-Holstein" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Schleswig-Holstein
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/13515.ts
+#EXTINF:-1 tvg-id="0f65f5b55e3e512dfe6aed95639b8035" tvg-name="DE: MDR HD S-Anhalt" tvg-logo="http://logo.watchhd.cc/logo/mdr_hd.png" group-title="Free-TV",DE: MDR HD S-Anhalt
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/431.ts
+#EXTINF:-1 tvg-id="bd73f4b5d4d0d65c6500cb868158f0b5" tvg-name="DE: RBB HD Berlin" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD Berlin
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/434.ts
+#EXTINF:-1 tvg-id="SWRSRHD" tvg-name="DE: SR HD" tvg-logo="http://logo.watchhd.cc/logo/sr.png" group-title="Free-TV",DE: SR HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2396.ts
+#EXTINF:-1 timeshift="7" tvg-id="WDRKHD" tvg-name="DE: WDR HD Köln" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Köln
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/13584.ts
+#EXTINF:-1 tvg-id="OBPFTVH" tvg-name="DE: TV Oberpfalz" tvg-logo="http://fanc.tmsimg.com/assets/s103406_h3_aa.png" group-title="Free-TV",DE: TV Oberpfalz
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/192068.ts
+#EXTINF:-1 tvg-id="OBRFRHD" tvg-name="DE: TV Oberfranken" tvg-logo="http://fanc.tmsimg.com/assets/s102983_ll_h3_ab.png" group-title="Free-TV",DE: TV Oberfranken
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/192069.ts
+#EXTINF:-1 tvg-id="DEAKTV" tvg-name="DE: Der Aktionär TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Der_Aktionaer_TV.png" group-title="Free-TV",DE: Der Aktionär TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113914.ts
+#EXTINF:-1 tvg-id="TAGARHD" tvg-name="DE: Tagesschau24 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Tagesschau_24_HD.png" group-title="Free-TV",DE: Tagesschau24 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/8116.ts
+#EXTINF:-1 tvg-id="EUNHDDE" tvg-name="DE: euronews" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Euronews.png" group-title="Free-TV",DE: euronews
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/107961.ts
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="DE: RedBullTV" tvg-logo="http://logo.watchhd.cc/logo/red_bull_tv.png" group-title="Free-TV",DE: RedBullTV
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/107960.ts
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/46.ts
+#EXTINF:-1 tvg-id="EXTRSP" tvg-name="DE: Extreme Sports Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Extreme_Sport_Channel.png" group-title="Free-TV",DE: Extreme Sports Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113991.ts
+#EXTINF:-1 tvg-id="DEBA1500026EV" tvg-name="DE: More Than Sports TV HD Teststream" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_More_Than_Sports_HD.png" group-title="Free-TV",DE: More Than Sports TV HD Teststream
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115486.ts
+#EXTINF:-1 tvg-id="da6a8024331d4ddbcd2974aeaf08e497" tvg-name="DE: ClipMyHorse.TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ClipMyHorseTV_HD.png" group-title="Free-TV",DE: ClipMyHorse.TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/109905.ts
+#EXTINF:-1 tvg-id="68b7b76694e5c8712edcd688d2dcc911" tvg-name="DE: Anixe Serie HD" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Free-TV",DE: Anixe Serie HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/47.ts
+#EXTINF:-1 tvg-id="KEINCLH" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Classics_HD.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/32.ts
+#EXTINF:-1 timeshift="7" tvg-id="4da889e90144a99f92b259575615e262" tvg-name="DE: RTL up HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UP_HD.png" group-title="Free-TV",DE: RTL up HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/39.ts
+#EXTINF:-1 tvg-id="MOTVHD" tvg-name="DE: Motorvision HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/45.ts
+#EXTINF:-1 tvg-id="SAT1EMH" tvg-name="DE: Sat.1 Emotions HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_Emotions_HD.png" group-title="Free-TV",DE: Sat.1 Emotions HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/49.ts
+#EXTINF:-1 tvg-id="7c780d8ffa12e28b6e59bdbc50b3caf2" tvg-name="DE: Sat. 1 Gold HD" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="Free-TV",DE: Sat. 1 Gold HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/48.ts
+#EXTINF:-1 tvg-id="MTVSCH" tvg-name="DE: MTV HD" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2622.ts
+#EXTINF:-1 tvg-id="ONEARHD" tvg-name="DE: One HD" tvg-logo="http://logo.watchhd.cc/logo/ard_one.png" group-title="Free-TV",DE: One HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2398.ts
+#EXTINF:-1 tvg-id="HSEITHD" tvg-name="DE: HSE 24 HD" tvg-logo="http://logo.watchhd.cc/logo/hse24.png" group-title="Free-TV",DE: HSE 24 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15412.ts
+#EXTINF:-1 tvg-id="SONTVHD" tvg-name="DE: Sonnenklar TV HD" tvg-logo="http://logo.watchhd.cc/logo/sonnenklar_tv.png" group-title="Free-TV",DE: Sonnenklar TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/353.ts
+#EXTINF:-1 tvg-id="QVCDEUT" tvg-name="DE: QVC HD" tvg-logo="http://logo.watchhd.cc/logo/qvc.png" group-title="Free-TV",DE: QVC HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10244.ts
+#EXTINF:-1 tvg-id="QVC2DEH" tvg-name="DE: QVC 2 HD" tvg-logo="http://logo.watchhd.cc/logo/qvc2.png" group-title="Free-TV",DE: QVC 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15413.ts
+#EXTINF:-1 tvg-id="QVCGHD" tvg-name="DE: QVC UHD" tvg-logo="http://logo.watchhd.cc/logo/qvc_uhd.png" group-title="Free-TV",DE: QVC UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44149.ts
+#EXTINF:-1 tvg-id="QVC2DEH" tvg-name="DE: QVC Zwei UHD" tvg-logo="http://logo.watchhd.cc/logo/qvc2_uhd.png" group-title="Free-TV",DE: QVC Zwei UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44150.ts
+#EXTINF:-1 tvg-id="UHD1" tvg-name="DE: UHD1" tvg-logo="http://logo.watchhd.cc/logo/UHD1.png" group-title="Free-TV",DE: UHD1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9042.ts
+#EXTINF:-1 tvg-id="RMNCHDK" tvg-name="DE: Romance TV HD" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Free-TV",DE: Romance TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/62.ts
+#EXTINF:-1 tvg-id="SERVDHD" tvg-name="DE: Servus TV Deutschland HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Servus_TV_Deutschland_HD.png" group-title="Free-TV",DE: Servus TV Deutschland HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/361.ts
+#EXTINF:-1 timeshift="7" tvg-id="HEIMKAN" tvg-name="DE: Heimatkanal" tvg-logo="http://logo.watchhd.cc/logo/heimatkanal.png" group-title="Free-TV",DE: Heimatkanal
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/63.ts
+#EXTINF:-1 tvg-id="MAINTVH" tvg-name="DE: Mainfranken TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVMainfranken_2019.png" group-title="Free-TV",DE: Mainfranken TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185622.ts
+#EXTINF:-1 tvg-id="ARISTO" tvg-name="DE: Aristo.TV / RNF" tvg-logo="http://logo.watchhd.cc/logo/aristo_tv.png" group-title="Free-TV",DE: Aristo.TV / RNF
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/114485.ts
+#EXTINF:-1 tvg-id="ASTROTV" tvg-name="DE: Astro TV" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Astro_TV.png" group-title="Free-TV",DE: Astro TV
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115339.ts
+#EXTINF:-1 tvg-id="TRAXPSD" tvg-name="DE: TravelXP" tvg-logo="http://logo.watchhd.cc/logo/travelxp.png" group-title="Free-TV",DE: TravelXP
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130641.ts
+#EXTINF:-1 tvg-id="travelxp 4K" tvg-name="DE: TRAVELXP 4K" tvg-logo="http://logo.watchhd.cc/logo/travelxp_4k.png" group-title="Free-TV",DE: TRAVELXP 4K
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108799.ts
+#EXTINF:-1 tvg-id="DEAJ3500002EO" tvg-name="DE: Rakuten TV Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/rakuten_tv_comedy.png" group-title="Free-TV",DE: Rakuten TV Comedy HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120549.ts
+#EXTINF:-1 tvg-id="DEAJ3500001Q1" tvg-name="DE: Rakuten TV Actionfilme HD" tvg-logo="http://logo.watchhd.cc/logo/rakuten_tv_action.png" group-title="Free-TV",DE: Rakuten TV Actionfilme HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120548.ts
+#EXTINF:-1 tvg-id="DEAJ3500003YF" tvg-name="DE: Rakuten TV Drama HD" tvg-logo="http://logo.watchhd.cc/logo/rakuten_tv_drama.png" group-title="Free-TV",DE: Rakuten TV Drama HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120550.ts
+#EXTINF:-1 tvg-id="DEBA2200003I0" tvg-name="DE: Rakuten TV Qwest Jazz & Beyond" tvg-logo="http://logo.watchhd.cc/logo/rakuten_tv_qwest_jazz_beyond.png" group-title="Free-TV",DE: Rakuten TV Qwest Jazz & Beyond
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120551.ts
+#EXTINF:-1 tvg-id="5dc29179c928a600093a7747" tvg-name="DE: Pluto TV Christmas HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pluto_Christmas.png" group-title="Free-TV",DE: Pluto TV Christmas HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/178337.ts
+#EXTINF:-1 tvg-id="5ad9b7ffe738977e2c312133" tvg-name="DE: FailArmy" tvg-logo="http://logo.watchhd.cc/logo/pluto_tv_failarmy.png" group-title="Free-TV",DE: FailArmy
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120136.ts
+#EXTINF:-1 tvg-id="5e8b0c92783b3f0007a4c7df" tvg-name="DE: Fitness" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Fitness.png" group-title="Free-TV",DE: Fitness
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120546.ts
+#EXTINF:-1 tvg-id="5c5c3b948002db3c3e0b262e" tvg-name="DE: Movies" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Movies.png" group-title="Free-TV",DE: Movies
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120137.ts
+#EXTINF:-1 tvg-id="5ea815a515d149000748ee9b" tvg-name="DE: MTV Cribs" tvg-logo="http://logo.watchhd.cc/logo/mtv_cribs.png" group-title="Free-TV",DE: MTV Cribs
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120133.ts
+#EXTINF:-1 tvg-id="5d767ab2b456c8cf265ce921" tvg-name="DE: Sitcoms" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Sitcoms.png" group-title="Free-TV",DE: Sitcoms
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120138.ts
+#EXTINF:-1 tvg-id="6054a9f4bc8a5f000771504c" tvg-name="DE: Takeshis Castle" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Takeshis_Castle.png" group-title="Free-TV",DE: Takeshis Castle
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120135.ts
+#EXTINF:-1 tvg-id="705c9cb5cf471b88634f648f7817d48f" tvg-name="DE: Motorvision TV (Sat)" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision TV (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136060.ts
+#EXTINF:-1 tvg-id="BOOMDHD" tvg-name="DE: Boomerang HD" tvg-logo="http://logo.watchhd.cc/logo/Boomerang.png" group-title="Kids",DE: Boomerang HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/394.ts
+#EXTINF:-1 timeshift="7" tvg-id="ddd961f870e0c8f4138b9a61f3db5d2c" tvg-name="DE: Cartoon Network HD" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Kids",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/54.ts
+#EXTINF:-1 tvg-id="DISCHHD" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/55.ts
+#EXTINF:-1 tvg-id="84144bdc2c5e46b551e24384feed7e86" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Kids",DE: KiKA HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/58.ts
+#EXTINF:-1 tvg-id="FIXFOXV" tvg-name="DE: Fix & Foxi" tvg-logo="http://logo.watchhd.cc/logo/fix_und_foxy.png" group-title="Kids",DE: Fix & Foxi
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/90681.ts
+#EXTINF:-1 tvg-id="NICKJDH" tvg-name="DE: Nick Jr." tvg-logo="http://logo.watchhd.cc/logo/nick_jr.png" group-title="Kids",DE: Nick Jr.
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15349.ts
+#EXTINF:-1 tvg-id="a3030b1a005477a08b15b44fbb8b1873" tvg-name="DE: Nick HD" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Kids",DE: Nick HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/111355.ts
+#EXTINF:-1 tvg-id="NIMTVP1" tvg-name="DE:  Nick / Comedy Central +1 HD" tvg-logo="http://logo.watchhd.cc/logo/comedy_central_plus_1.png" group-title="Free-TV",DE:  Nick / Comedy Central +1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/134994.ts
+#EXTINF:-1 tvg-id="NICKTON" tvg-name="DE: Nicktoons" tvg-logo="http://logo.watchhd.cc/logo/nicktoons.png" group-title="Kids",DE: Nicktoons
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/8079.ts
+#EXTINF:-1 tvg-id="RICRCHD" tvg-name="DE: RiC" tvg-logo="http://logo.watchhd.cc/logo/ric.png" group-title="Kids",DE: RiC
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/16353.ts
+#EXTINF:-1 tvg-id="5ad9b648e738977e2c312131" tvg-name="DE: Retro Kids" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Kids.png" group-title="Kids",DE: Retro Kids
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120545.ts
+#EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" tvg-name="DE: Retro Toons" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Retro_Toons.png" group-title="Kids",DE: Retro Toons
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/120134.ts
+#EXTINF:-1 tvg-id="TOGPLUS" tvg-name="DE: TOGGO Plus HD" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="Kids",DE: TOGGO Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135266.ts
+#EXTINF:-1 tvg-id="SKY1DEH" tvg-name="DE: Sky One HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/630.ts
+#EXTINF:-1 tvg-id="SKYAHDK" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Atlantic_HD.png" group-title="Sky Film",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/89.ts
+#EXTINF:-1 tvg-id="a5fae8df0d6143e22f1b3b776ff80064" tvg-name="DE: Sky Replay HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Replay_HD.png" group-title="Sky Film",DE: Sky Replay HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/137.ts
+#EXTINF:-1 tvg-id="acda0e7fb8904c0e06347a2e6b8a759b" tvg-name="DE: Sky Showcase HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Showcase_HD.png" group-title="Sky Film",DE: Sky Showcase HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130705.ts
+#EXTINF:-1 tvg-id="543c118c4d260a504d728d4433559ab2" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Action_HD.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/93.ts
+#EXTINF:-1 tvg-id="3da7b8700093bb6585c4009c192e5198" tvg-name="DE: Sky Cinema Best of HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Best-Of_HD.png" group-title="Sky Film",DE: Sky Cinema Best of HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/97.ts
+#EXTINF:-1 tvg-id="ded9cc286d67561247d4f521f812f710" tvg-name="DE: Sky Cinema Classics HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Classics_HD.png" group-title="Sky Film",DE: Sky Cinema Classics HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136070.ts
+#EXTINF:-1 tvg-id="b13287c74e37d54180a40de75aac1e86" tvg-name="DE: Sky Cinema Family HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Family_HD.png" group-title="Sky Film",DE: Sky Cinema Family HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136072.ts
+#EXTINF:-1 tvg-id="eb6f2dff7ce7b8780cc6b8d6f58be4ba" tvg-name="DE: Sky Cinema Fun HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Fun_HD.png" group-title="Sky Film",DE: Sky Cinema Fun HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136073.ts
+#EXTINF:-1 tvg-id="e79850d879d7b162d4b2a5ac12ad3379" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Premieren_HD.png" group-title="Sky Film",DE: Sky Cinema Premieren HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/90.ts
+#EXTINF:-1 tvg-id="ab9cd0cee90e34952a573155671a7bf5" tvg-name="DE: Sky Cinema Premieren +24 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Premieren_+24_HD.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136076.ts
+#EXTINF:-1 tvg-id="SKYCIHD" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Special_HD.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/94.ts
+#EXTINF:-1 tvg-id="SKYCTHG" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Thriller_HD.png" group-title="Sky Film",DE: Sky Cinema Thriller HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/91.ts
+#EXTINF:-1 tvg-id="c5c595764d1ca4738c94ab67e7190751" tvg-name="DE: Sky Comedy HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Comedy_HD.png" group-title="Sky Film",DE: Sky Comedy HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130858.ts
+#EXTINF:-1 tvg-id="f83d92e0e6664dfbe887c6ced7dae893" tvg-name="DE: Sky Crime HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Crime_HD.png" group-title="Sky Film",DE: Sky Crime HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130857.ts
+#EXTINF:-1 tvg-id="95ca231ee53ca20f57e552dda1fef009" tvg-name="DE: Sky Krimi HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Krimi_HD.png" group-title="Sky Film",DE: Sky Krimi HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136083.ts
+#EXTINF:-1 tvg-id="150bef032707c7d619c6b5c198b00879" tvg-name="DE: 13th Street HD" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Sky Film",DE: 13th Street HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/133.ts
+#EXTINF:-1 tvg-id="KINTVHD" tvg-name="DE: Kinowelt HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kinowelt_HD.png" group-title="Sky Film",DE: Kinowelt HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/139.ts
+#EXTINF:-1 tvg-id="cf0dc17425986cd01c0ce9b77e608294" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_CRIME_HD.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/37.ts
+#EXTINF:-1 tvg-id="RTLLVHD" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_Living_HD.png" group-title="Free-TV",DE: RTL Living HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/38.ts
+#EXTINF:-1 tvg-id="RTLPSHD" tvg-name="DE: RTL Passion HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_PASSION_HD.png" group-title="Free-TV",DE: RTL Passion HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/36.ts
+#EXTINF:-1 tvg-id="SILVLHD" tvg-name="DE: Silverline HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Silverline_TV_HD.png" group-title="Sky Film",DE: Silverline HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/151.ts
+#EXTINF:-1 tvg-id="AXNDKD" tvg-name="DE: Sony AXN HD" tvg-logo="http://logo.watchhd.cc/logo/sony_axn.png" group-title="Sky Film",DE: Sony AXN HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10246.ts
+#EXTINF:-1 tvg-id="SNYEHDK" tvg-name="DE: Sony Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_SONY_Channel.png" group-title="Sky Film",DE: Sony Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140.ts
+#EXTINF:-1 tvg-id="SYFYHDK" tvg-name="DE: SyFy HD" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Sky Film",DE: SyFy HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/154.ts
+#EXTINF:-1 tvg-id="735db528cf68df810156f69e24540763" tvg-name="DE: Warner TV Comedy HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_comedy.png" group-title="Sky Film",DE: Warner TV Comedy HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118056.ts
+#EXTINF:-1 tvg-id="b74023179ae25420c58a6738f69a394e" tvg-name="DE: Warner TV Film HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_film.png" group-title="Sky Film",DE: Warner TV Film HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118055.ts
+#EXTINF:-1 tvg-id="4cd9ee1c870f32b6404de01afe69bd7e" tvg-name="DE: Warner TV Serie HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_serie.png" group-title="Sky Film",DE: Warner TV Serie HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118057.ts
+#EXTINF:-1 tvg-id="730b0540896ec53d4e89765959b86711" tvg-name="DE: Universal TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_UniversalTV_HD.png" group-title="Sky Film",DE: Universal TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/138.ts
+#EXTINF:-1 tvg-id="ANPGEHD" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Animal_Planet_HD.png" group-title="Sky Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/145.ts
+#EXTINF:-1 tvg-id="BONGUST" tvg-name="DE: Bon Gusto HD" tvg-logo="http://logo.watchhd.cc/logo/bon_gusto.png" group-title="Sky Doku",DE: Bon Gusto HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/354.ts
+#EXTINF:-1 tvg-id="e549c070c6732974d0b11640c2abb48f" tvg-name="DE: Bergblick HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Bergblick_HD.png" group-title="Sky Doku",DE: Bergblick HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/150.ts
+#EXTINF:-1 tvg-id="CIDEHD" tvg-name="DE: Crime & Investigation HD" tvg-logo="http://logo.watchhd.cc/logo/crime_investigation.png" group-title="Sky Doku",DE: Crime & Investigation HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/134.ts
+#EXTINF:-1 tvg-id="DISHDKD" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Discovery_Channel_HD.png" group-title="Sky Doku",DE: Discovery HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/146.ts
+#EXTINF:-1 tvg-id="GEOTHD" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/147.ts
+#EXTINF:-1 tvg-id="d2fc13791a124996a158494c9686025a" tvg-name="DE: Home Garten TV HD" tvg-logo="http://logo.watchhd.cc/logo/hgtv.png" group-title="Sky Doku",DE: Home Garten TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115487.ts
+#EXTINF:-1 tvg-id="d2fc13791a124996a158494c9686025a" tvg-name="DE: HGTV HD" tvg-logo="http://logo.watchhd.cc/logo/hgtv.png" group-title="Sky Doku",DE: HGTV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/769.ts
+#EXTINF:-1 tvg-id="MPTVHD" tvg-name="DE: Marco Polo TV HD" tvg-logo="http://logo.watchhd.cc/logo/marco_polo.png" group-title="Sky Doku",DE: Marco Polo TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/134654.ts
+#EXTINF:-1 tvg-id="f719a73b513976b6a3ee2df846694324" tvg-name="DE: History HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Doku",DE: History HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/148.ts
+#EXTINF:-1 tvg-id="NGWKDG" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/265.ts
+#EXTINF:-1 tvg-id="NATGEKD" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/149.ts
+#EXTINF:-1 tvg-id="WELTDW" tvg-name="DE: Welt der Wunder" tvg-logo="http://logo.watchhd.cc/logo/welt_der_wunder.png" group-title="Sky Doku",DE: Welt der Wunder
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/107959.ts
+#EXTINF:-1 tvg-id="WAIDTV" tvg-name="DE: Waidwerk HD" tvg-logo="http://logo.watchhd.cc/logo/waidwerk.png" group-title="Sky Doku",DE: Waidwerk HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/13514.ts
+#EXTINF:-1 tvg-id="160575af124f76866f270aa3093e2882" tvg-name="DE: Sky Nature HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Nature_HD.png" group-title="Sky Doku",DE: Sky Nature HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/78229.ts
+#EXTINF:-1 tvg-id="2ab47537d7f69344c77b378405a45ad0" tvg-name="DE: Sky Documentaries HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Documentaries_HD.png" group-title="Sky Doku",DE: Sky Documentaries HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/78230.ts
+#EXTINF:-1 tvg-id="SPIEGHD" tvg-name="DE: Spiegel TV Geschichte HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_SpiegelGeschichte_HD.png" group-title="Sky Doku",DE: Spiegel TV Geschichte HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/152.ts
+#EXTINF:-1 tvg-id="0e5e0baa8141154b3dc8b5d23adede14" tvg-name="DE: Curiosity Channel powered by Spiegel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Curiosity_Channel_HD.png" group-title="Sky Doku",DE: Curiosity Channel powered by Spiegel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/153.ts
+#EXTINF:-1 tvg-id="TLCGHD" tvg-name="DE: TLC HD" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Sky Doku",DE: TLC HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prime Video Sportsbar HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Web)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9313.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prime Video Sportsbar HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/79717.ts
+#EXTINF:-1 tvg-id="6e46e9ffff1bc86cfaefe7cb1e6047a9" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_News_HD.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/131.ts
+#EXTINF:-1 tvg-id="e56f4dfaa518d51d94eae86f3fc0b632" tvg-name="DE: Sky Sport F1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_F1_HD.png" group-title="Sky Sport",DE: Sky Sport F1 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/72199.ts
+#EXTINF:-1 tvg-id="Sky Sport Top Event" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Top_Event_HD.png" group-title="Sky Sport",DE: Sky Sport Top Event HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122094.ts
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="DE: Sky Sport Golf HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_golf_HD.png" group-title="Sky Sport",DE: Sky Sport Golf HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136096.ts
+#EXTINF:-1 tvg-id="fcba1881b857161abbef0d99f8c1338f" tvg-name="DE: Sky Sport Mix HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_MIX_HD.png" group-title="Sky Sport",DE: Sky Sport Mix HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122090.ts
+#EXTINF:-1 tvg-id="71ed6dcdf51884339fb69c7f40069d06" tvg-name="DE: Sky Sport Premier League HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Premier_League.png" group-title="Sky Sport",DE: Sky Sport Premier League HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122091.ts
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Tennis_HD.png" group-title="Sky Sport",DE: Sky Sport Tennis HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122089.ts
+#EXTINF:-1 tvg-id="5e7ccb47596c7a7f9a4e7cb75b1169b4" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_UHD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/105.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga" tvg-name="DE: Sky Sport Bundesliga HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122092.ts
+#EXTINF:-1 tvg-id="bedadcc615e541a5333f78b89e030939" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/623.ts
+#EXTINF:-1 tvg-id="9096009a3ca468a77460236df666f9a3" tvg-name="DE: Sky Sport Bundesliga 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/25944.ts
+#EXTINF:-1 tvg-id="3134116d3dc4a483e478f77aa682a9ba" tvg-name="DE: Sky Sport Bundesliga 3 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/25948.ts
+#EXTINF:-1 tvg-id="7435e15f6f0da81fbd29912df4d1a231" tvg-name="DE: Sky Sport Bundesliga 4 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/25949.ts
+#EXTINF:-1 tvg-id="7b2212b70c831981c0e2a3b67d59220c" tvg-name="DE: Sky Sport Bundesliga 5 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77107.ts
+#EXTINF:-1 tvg-id="72bfd6812754d263b559cb28dd6e73b2" tvg-name="DE: Sky Sport Bundesliga 6 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77108.ts
+#EXTINF:-1 tvg-id="a7ea29f67f81527bc09efbc2629ff2d3" tvg-name="DE: Sky Sport Bundesliga 7 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/78637.ts
+#EXTINF:-1 tvg-id="c380e5b33bf612fae21bcb14883debb1" tvg-name="DE: Sky Sport Bundesliga 8 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/78638.ts
+#EXTINF:-1 tvg-id="4bf86263b0b6779ccde50647c23c0f7f" tvg-name="DE: Sky Sport Bundesliga 9 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77109.ts
+#EXTINF:-1 tvg-id="17631c67e2466a8aa41ec1b2498ba947" tvg-name="DE: Sky Sport Bundesliga 10 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77110.ts
+#EXTINF:-1 tvg-id="SKYSPUH" tvg-name="DE: Sky Sport UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_UHD.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/116.ts
+#EXTINF:-1 tvg-id="SKY1GHD" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_1_HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/117.ts
+#EXTINF:-1 tvg-id="24a2125f624bd33168d1a9bb49ae2543" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="https://logo.watchhd.cc/logo/test/Logo_Sky_Sport_2_HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118.ts
+#EXTINF:-1 tvg-id="12137629c134b26a099842cae33c0e11" tvg-name="DE: Sky Sport 3 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_3_HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77133.ts
+#EXTINF:-1 tvg-id="SKYS4HD" tvg-name="DE: Sky Sport 4 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_4_HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77134.ts
+#EXTINF:-1 tvg-id="3d24b801029905d3180c4e5a025d9790" tvg-name="DE: Sky Sport 5 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_5_HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77135.ts
+#EXTINF:-1 tvg-id="5e756f116a3e7215dcdca08e71f44115" tvg-name="DE: Sky Sport 6 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_6_HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77137.ts
+#EXTINF:-1 tvg-id="SKYS7HD" tvg-name="DE: Sky Sport 7 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_7_HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/77139.ts
+#EXTINF:-1 tvg-id="SKYS8HD" tvg-name="DE: Sky Sport 8 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_8_HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/100190.ts
+#EXTINF:-1 tvg-id="33c46c07f2e37b11c447a4cec12b2673" tvg-name="DE: Sky Sport 9 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_9_HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/100191.ts
+#EXTINF:-1 tvg-id="3f2bff6c9efd766f337ddea3c442798b" tvg-name="DE: Sky Sport 10 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_10_HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD (Kabel)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/100192.ts
+#EXTINF:-1 tvg-id="SKY11GH" tvg-name="DE: Sky Sport 11 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_11_HD.png" group-title="Sky Sport",DE: Sky Sport 11 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/16310.ts
+#EXTINF:-1 tvg-id="d3b9d6863f18c34569c0092acdbd6fab" tvg-name="DE: Sky Sport Austria 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_1_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136088.ts
+#EXTINF:-1 tvg-id="SKYSA2H" tvg-name="DE: Sky Sport Austria 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_2_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136089.ts
+#EXTINF:-1 tvg-id="b1b0a58200fd0e9b53d33631028d229d" tvg-name="DE: Sky Sport Austria 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_3_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 3 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136090.ts
+#EXTINF:-1 tvg-id="7cfc164e0575afa97d1e3fc8bc841aa9" tvg-name="DE: Sky Sport Austria 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_4_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 4 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136091.ts
+#EXTINF:-1 tvg-id="013a4e766525cb546edecbb04f9e617b" tvg-name="DE: Sky Sport Austria 5 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_5_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 5 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136092.ts
+#EXTINF:-1 tvg-id="52de7b162d4622c977618862af6815a7" tvg-name="DE: Sky Sport Austria 6 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_6_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 6 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136112.ts
+#EXTINF:-1 tvg-id="d1a79c835d9d86b134774ffe3e4182fc" tvg-name="DE: Sky Sport Austria 7 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_7_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 7 HD (Sat)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136093.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_1_HD.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/155.ts
+#EXTINF:-1 tvg-id="EURS2HD" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Eurosport_2_HD.png" group-title="Sky Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/156.ts
+#EXTINF:-1 tvg-id="E3601A" tvg-name="DE: Eurosport360 HD 1" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_1_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15847.ts
+#EXTINF:-1 tvg-id="E3602A" tvg-name="DE: Eurosport360 HD 2" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_2_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 2
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15848.ts
+#EXTINF:-1 tvg-id="E3603A" tvg-name="DE: Eurosport360 HD 3" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_3_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 3
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15849.ts
+#EXTINF:-1 tvg-id="E3604A" tvg-name="DE: Eurosport360 HD 4" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_4_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 4
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15953.ts
+#EXTINF:-1 tvg-id="E3605A" tvg-name="DE: Eurosport360 HD 5" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_5_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 5
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/75182.ts
+#EXTINF:-1 tvg-id="E3606A" tvg-name="DE: Eurosport360 HD 6" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_6_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 6
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/75181.ts
+#EXTINF:-1 tvg-id="E3607A" tvg-name="DE: Eurosport360 HD 7" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_7_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 7
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/75180.ts
+#EXTINF:-1 tvg-id="E3608A" tvg-name="DE: Eurosport360 HD 8" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_8_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 8
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/75179.ts
+#EXTINF:-1 tvg-id="E3609A" tvg-name="DE: Eurosport360 HD 9" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_9_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 9
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/75178.ts
+#EXTINF:-1 tvg-id="EDGEGHD" tvg-name="DE: EDGE Sport HD" tvg-logo="http://logo.watchhd.cc/logo/edge_sport.png" group-title="Sky Sport",DE: EDGE Sport HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/16093.ts
+#EXTINF:-1 tvg-id="ESPO1HD" tvg-name="DE: eSports1 HD" tvg-logo="http://logo.watchhd.cc/logo/eSport1_HD.png" group-title="Sky Sport",DE: eSports1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/158.ts
+#EXTINF:-1 tvg-id="SPODHD" tvg-name="DE: Sportdigital HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sportdigital_HD.png" group-title="Sky Sport",DE: Sportdigital HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/160.ts
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="DE: Tennis Channel" tvg-logo="http://logo.watchhd.cc/logo/tennis_channel.png" group-title="Sky Sport",DE: Tennis Channel
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/112939.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184812.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 2 HD ( WM der Männer: Finale - Frankreich vs. Dänemark)" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 2 HD ( WM der Männer: Finale - Frankreich vs. Dänemark)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184813.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184815.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 4 HD" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184816.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 5 HD" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184817.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Deutschland.TV 6 HD" tvg-logo="http://logo.watchhd.cc/logo/Sportdeutschland/SportdeutschlandHD.jpg" group-title="Sport Deutschland.TV",DE: Sport Deutschland.TV 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185358.ts
+#EXTINF:-1 timeshift="7" tvg-id="0ec6589b25035aa6df29cb3941867d35" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/102.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/103.ts
+#EXTINF:-1 tvg-id="0ec6589b25035aa6df29cb3941867d35" tvg-name="DE: DAZN 1 HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (Web)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/129973.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD (Web)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130156.ts
+#EXTINF:-1 tvg-id="6eca08d5c0b6a8424337b06fea3f2a34" tvg-name="DE: DAZN Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_1_HD.png" group-title="DAZN & RTL+",DE: DAZN Eurosport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/129971.ts
+#EXTINF:-1 tvg-id="a8774b1b46624541bbbf611d4dadc934" tvg-name="DE: DAZN Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_2_HD.png" group-title="DAZN & RTL+",DE: DAZN Eurosport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/129972.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NBA TV HD" tvg-logo="http://logo.watchhd.cc/logo/dazn_nba.png" group-title="DAZN & RTL+",DE: DAZN NBA TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/129970.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 1 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_01.png" group-title="DAZN & RTL+",DE: DAZN Event 1 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108575.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 2 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_02.png" group-title="DAZN & RTL+",DE: DAZN Event 2 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108576.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 3 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_03.png" group-title="DAZN & RTL+",DE: DAZN Event 3 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108577.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 4 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_04.png" group-title="DAZN & RTL+",DE: DAZN Event 4 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108578.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 5 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_05.png" group-title="DAZN & RTL+",DE: DAZN Event 5 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 6 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_06.png" group-title="DAZN & RTL+",DE: DAZN Event 6 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 7 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_07.png" group-title="DAZN & RTL+",DE: DAZN Event 7 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 8 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="DAZN & RTL+",DE: DAZN Event 8 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108582.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 9 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_09.png" group-title="DAZN & RTL+",DE: DAZN Event 9 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108585.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 10 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_10.png" group-title="DAZN & RTL+",DE: DAZN Event 10 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108643.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 11 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_11.png" group-title="DAZN & RTL+",DE: DAZN Event 11 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122053.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 12 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_12.png" group-title="DAZN & RTL+",DE: DAZN Event 12 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/112898.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 13 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_13.png" group-title="DAZN & RTL+",DE: DAZN Event 13 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122055.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 14 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_14.png" group-title="DAZN & RTL+",DE: DAZN Event 14 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122056.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 15 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_15.png" group-title="DAZN & RTL+",DE: DAZN Event 15 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122057.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 16 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_16.png" group-title="DAZN & RTL+",DE: DAZN Event 16 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122058.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 17 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="DAZN & RTL+",DE: DAZN Event 17 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/122059.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 18 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_18.png" group-title="DAZN & RTL+",DE: DAZN Event 18 HD (Backup)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130089.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 1" tvg-name="DE: RTL+ Event HD 1" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108532.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 2" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_2.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 2
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/108533.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 3" tvg-name="DE: RTL+ Event HD 3" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_3.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 3
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110292.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 4" tvg-name="DE: RTL+ Event HD 4" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_4.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 4
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110293.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 5" tvg-name="DE: RTL+ Event HD 5" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_5.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 5
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110294.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 6" tvg-name="DE: RTL+ Event HD 6" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_6.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 6
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110295.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 7" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_7.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 7
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110296.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 8" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_8.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 8
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110297.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 9" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_9.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 9
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110298.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 10" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_10.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 10
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/110299.ts
+#EXTINF:-1 tvg-id="GEOTEL" tvg-name="DE: RTLplus | GEO Television HD" tvg-logo="http://fanc.tmsimg.com/assets/s94714_ll_h3_aa.png" group-title="DAZN & RTL+",DE: RTLplus | GEO Television HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135007.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Programmübersicht" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_Programm.png" group-title="Magenta Sport",DE: Magenta Sport Programmübersicht
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113719.ts
+#EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113720.ts
+#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113721.ts
+#EXTINF:-1 tvg-id="Sport 3 - myTeamTV" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Magenta Sport",DE: Magenta Sport 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113722.ts
+#EXTINF:-1 tvg-id="Sport 4 - myTeamTV" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_4.png" group-title="Magenta Sport",DE: Magenta Sport 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113723.ts
+#EXTINF:-1 tvg-id="Sport 5 - myTeamTV" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_5.png" group-title="Magenta Sport",DE: Magenta Sport 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113724.ts
+#EXTINF:-1 tvg-id="Sport 6 - myTeamTV" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_6.png" group-title="Magenta Sport",DE: Magenta Sport 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113725.ts
+#EXTINF:-1 tvg-id="Sport 7 - myTeamTV" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_7.png" group-title="Magenta Sport",DE: Magenta Sport 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113726.ts
+#EXTINF:-1 tvg-id="Sport 8 - myTeamTV" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_8.png" group-title="Magenta Sport",DE: Magenta Sport 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113727.ts
+#EXTINF:-1 tvg-id="Sport 9 - myTeamTV" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_9.png" group-title="Magenta Sport",DE: Magenta Sport 9 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113728.ts
+#EXTINF:-1 tvg-id="Sport 10 - myTeamTV" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_10.png" group-title="Magenta Sport",DE: Magenta Sport 10 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113729.ts
+#EXTINF:-1 tvg-id="Sport 11 - myTeamTV" tvg-name="DE: Magenta Sport 11 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_11.png" group-title="Magenta Sport",DE: Magenta Sport 11 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113730.ts
+#EXTINF:-1 tvg-id="Sport 12 - myTeamTV" tvg-name="DE: Magenta Sport 12 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_12.png" group-title="Magenta Sport",DE: Magenta Sport 12 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113731.ts
+#EXTINF:-1 tvg-id="Sport 13 - myTeamTV" tvg-name="DE: Magenta Sport 13 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_13.png" group-title="Magenta Sport",DE: Magenta Sport 13 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113732.ts
+#EXTINF:-1 tvg-id="Sport 14 - myTeamTV" tvg-name="DE: Magenta Sport 14 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_14.png" group-title="Magenta Sport",DE: Magenta Sport 14 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113733.ts
+#EXTINF:-1 tvg-id="Sport 15 - myTeamTV" tvg-name="DE: Magenta Sport 15 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_15.png" group-title="Magenta Sport",DE: Magenta Sport 15 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113734.ts
+#EXTINF:-1 tvg-id="Sport 16 - myTeamTV" tvg-name="DE: Magenta Sport 16 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_16.png" group-title="Magenta Sport",DE: Magenta Sport 16 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113735.ts
+#EXTINF:-1 tvg-id="Sport 17 - myTeamTV" tvg-name="DE: Magenta Sport 17 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_17.png" group-title="Magenta Sport",DE: Magenta Sport 17 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113736.ts
+#EXTINF:-1 tvg-id="Sport 18 - myTeamTV" tvg-name="DE: Magenta Sport 18 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_18.png" group-title="Magenta Sport",DE: Magenta Sport 18 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113737.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 19 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_19.png" group-title="Magenta Sport",DE: Magenta Sport 19 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113738.ts
+#EXTINF:-1 tvg-id="ESPO1HD" tvg-name="DE: eSPORTS1 HD" tvg-logo="http://logo.watchhd.cc/logo/eSport1_HD.png" group-title="Magenta TV",DE: eSPORTS1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135123.ts
+#EXTINF:-1 tvg-id="SPODHD" tvg-name="DE: SPORTDIGITAL FUSSBALL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sportdigital_HD.png" group-title="Magenta TV",DE: SPORTDIGITAL FUSSBALL HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135124.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MagentaTV Info HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Magenta_Info.png" group-title="Magenta TV",DE: MagentaTV Info HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135130.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MS SPORT" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Magenta_MS_Sport.png" group-title="Magenta TV",DE: MS SPORT
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135131.ts
+#EXTINF:-1 tvg-id="EXTRSPO" tvg-name="DE: Extreme Sports" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Extreme_Sport_Channel.png" group-title="Magenta TV",DE: Extreme Sports
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/135120.ts
+#EXTINF:-1 tvg-id="TELESP1" tvg-name="Swiss: blue Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Blue_Sport_1.png" group-title="Österreich - Schweiz",Swiss: blue Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/85.ts
+#EXTINF:-1 tvg-id="TESP2HD" tvg-name="Swiss: blue Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Blue_Sport_2.png" group-title="Österreich - Schweiz",Swiss: blue Sport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/86.ts
+#EXTINF:-1 tvg-id="blue Sport 1" tvg-name="Swiss: blue Sport Event 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Blue_Sport_EVENT_1.png" group-title="Österreich - Schweiz",Swiss: blue Sport Event 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/14963.ts
+#EXTINF:-1 tvg-id="blue Sport 2" tvg-name="Swiss: Blue Sport Event 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Blue_Sport_EVENT_2.png" group-title="Österreich - Schweiz",Swiss: Blue Sport Event 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/62831.ts
+#EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="UK: BT Sport Box Office HD" tvg-logo="" group-title="UK",UK: BT Sport Box Office HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140768.ts
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="UK: BT Sports Ultimate 4K" tvg-logo="" group-title="UK",UK: BT Sports Ultimate 4K
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140375.ts
+#EXTINF:-1 timeshift="2" tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_2.png" group-title="UK",UK: BT Sport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/204.ts
+#EXTINF:-1 timeshift="1" tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_1.png" group-title="UK",UK: BT Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/203.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bt_sport_3.png" group-title="UK",UK: BT Sport 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/205.ts
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: BT Sport 4 HD" tvg-logo="" group-title="UK",UK: BT Sport 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132462.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b7071f1050e622cc1ecbc35553fcd3c4.png" group-title="UK",UK: BT Sport 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/206.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2a87a7768ba8bfefa7f105ae1ecb6120.png" group-title="UK",UK: BT Sport 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/209.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1a2e9a4586bde25766bd3b6e00d2d857.png" group-title="UK",UK: BT Sport 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/208.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/88b57b63813be90ed10396f5bb978801.png" group-title="UK",UK: BT Sport 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/207.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport 9 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/97542959bc2c34b0b59f504683eaf236.png" group-title="UK",UK: BT Sport 9 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/210.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT Sport Extra 6" tvg-logo="http://iptv.watchhd.cc:5050/images/a0fb67dee106cfa9aee522038d7db3ff.png" group-title="UK",UK: BT Sport Extra 6
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/211.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="UK: DAZN 1" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="UK",UK: DAZN 1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/281865.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Eurosport_1_HD.png" group-title="UK",UK: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/700.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Eurosport_2_HD.png" group-title="UK",UK: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/701.ts
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: Free Sports HD" tvg-logo="http://logo.watchhd.cc/logo/uk-free_spots.png" group-title="UK",UK: Free Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/12582.ts
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLiga TV HD" tvg-logo="http://logo.watchhd.cc/logo/LaLigaTV.png" group-title="UK",UK: LaLiga TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2239.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 1" tvg-logo="http://logo.watchhd.cc/logo/pdc_darts_1.png" group-title="UK",UK: PDC Darts 1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/591.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 2" tvg-logo="http://logo.watchhd.cc/logo/pdc_darts_2.png" group-title="UK",UK: PDC Darts 2
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/592.ts
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="UK: Sky Sports Box Office HD" tvg-logo="" group-title="UK",UK: Sky Sports Box Office HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/186732.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://logo.watchhd.cc/logo/uk:sky_sports_action.png" group-title="UK",UK: Sky Sports Action HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/183.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_arena.png" group-title="UK",UK: Sky Sports Arena HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_cricket.png" group-title="UK",UK: Sky Sports Cricket HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/212.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_f1.png" group-title="UK",UK: Sky Sports F1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118270.ts
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="UK: Sky Sports Football HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_football.png" group-title="UK",UK: Sky Sports Football HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/181.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_golf.png" group-title="UK",UK: Sky Sports Golf HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/182.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_main_event.png" group-title="UK",UK: Sky Sports Main Event HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/179.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_mix.png" group-title="UK",UK: Sky Sports MIX HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/214.ts
+#EXTINF:-1 tvg-id="SSPONED" tvg-name="UK: Sky Sports News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="UK",UK: Sky Sports News HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10452.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_premier_league.png" group-title="UK",UK: Sky Sports Premier League HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140769.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_racing.png" group-title="UK",UK: Sky Sports Racing HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/393.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BeIN Sports 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f504e23dfcc20fec4452c6845278a3a3.png" group-title="Frankreich",FR: BeIN Sports 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/395.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BeIN Sports 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/46a035cd1085d23d2e7a47ab8f074307.png" group-title="Frankreich",FR: BeIN Sports 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/396.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: Bein Sports 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a70e37f0660004e8c2f12b141c894359.png" group-title="Frankreich",FR: Bein Sports 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/516.ts
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: Bein Sports Max 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2420c5bf1fb57293292e5b079a35b33b.png" group-title="Frankreich",FR: Bein Sports Max 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/517.ts
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: Bein Sports Max 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d875403247a02a16251765198b2bbed1.png" group-title="Frankreich",FR: Bein Sports Max 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/518.ts
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: Bein Sports Max 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1abe3c6f0fa9fff93a8dbb4e1aeb9707.png" group-title="Frankreich",FR: Bein Sports Max 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/519.ts
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/eafa1518ccfa32681db898be1b5151ed.png" group-title="Frankreich",FR: Bein Sports Max 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/520.ts
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9ec27f00b71284c5771cd7d21f347438.png" group-title="Frankreich",FR: Bein Sports Max 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/521.ts
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1aa0a76a64121bbb2e922c9a6664834d.png" group-title="Frankreich",FR: Canal+ Sport HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/507.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5f6bf3c5785a676590c70f72f77fea1d.png" group-title="Frankreich",FR: RMC Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/268.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/390849a534c2877df75b9c47e506a647.png" group-title="Frankreich",FR: RMC Sport 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/269.ts
+#EXTINF:-1 tvg-id="RMCSP3" tvg-name="FR: RMC Sport 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/40357a41167bd377851c1c67c8d0470d.png" group-title="Frankreich",FR: RMC Sport 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/270.ts
+#EXTINF:-1 tvg-id="RMCSP4" tvg-name="FR: RMC Sport 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e71cfb148269ad197c264b8e9b3267a4.png" group-title="Frankreich",FR: RMC Sport 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/271.ts
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0298cb75288390001dbf0add1e6e80d1.png" group-title="Frankreich",FR: RMC Sport Live 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2236.ts
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/16c4f6521fb89be071a56c50c7350d78.png" group-title="Frankreich",FR: RMC Sport Live 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2237.ts
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a843cddd9a72b95200c35ce9349962f5.png" group-title="Frankreich",FR: RMC Sport Live 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9954.ts
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6839999f100074fa43741c6f449685db.png" group-title="Frankreich",FR: RMC Sport Live 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9955.ts
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1524c2d8e70ae01169441d31eb8c1c3a.png" group-title="Frankreich",FR: RMC Sport Live 9 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2235.ts
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/98b98497d843455d3c185b738ad5e92d.png" group-title="Frankreich",FR: RMC Sport Live 10 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9956.ts
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3af24e66029c5d913e2ff3e402d4fedb.png" group-title="Frankreich",FR: RMC Sport Live 11 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9957.ts
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7354d47ab209c00a2f0d98d08db09695.png" group-title="Frankreich",FR: RMC Sport Live 12 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9958.ts
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5678fbcdd0f2a3f04c82ac5397204a43.png" group-title="Frankreich",FR: RMC Sport Live 13 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9959.ts
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fc3511a386836da11c6da9d1a37924f1.png" group-title="Frankreich",FR: RMC Sport Live 14 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9960.ts
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/23150f6621690fea066b725ae11c9b73.png" group-title="Frankreich",FR: RMC Sport Live 15 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9961.ts
+#EXTINF:-1 tvg-id="rmcsportlive16.fr" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6424b771f0e6dce34f74aa09e4d4b025.png" group-title="Frankreich",FR: RMC Sport Live 16 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9962.ts
+#EXTINF:-1 tvg-id="rmcsportuhd.fr" tvg-name="FR: RMC Sport News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c0ecd533e8070c5e90152db4e156cdd0.png" group-title="Frankreich",FR: RMC Sport News HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/9963.ts
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="" group-title="Polen",PL: CANAL+ SPORT 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11660.ts
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="" group-title="Polen",PL: CANAL+ SPORT 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11661.ts
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL: CANAL+ SPORT 4 HD" tvg-logo="" group-title="Polen",PL: CANAL+ SPORT 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11662.ts
+#EXTINF:-1 tvg-id="canalplussport5.pl" tvg-name="PL: CANAL+ SPORT 5 HD" tvg-logo="" group-title="Polen",PL: CANAL+ SPORT 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11731.ts
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL+ SPORT HD" tvg-logo="" group-title="Polen",PL: CANAL+ SPORT HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11663.ts
+#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="PL: Extreme Sports HD" tvg-logo="" group-title="Polen",PL: Extreme Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/11692.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="" group-title="Spanien",ES: DAZN 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/45086.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="" group-title="Spanien",ES: DAZN 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/45087.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="" group-title="Spanien",ES: DAZN 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/45088.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="" group-title="Spanien",ES: DAZN 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/45089.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 HD" tvg-logo="" group-title="Spanien",ES: DAZN F1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/62952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga HD" tvg-logo="" group-title="Spanien",ES: DAZN LaLiga HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DreamWorks HD" tvg-logo="" group-title="Spanien",ES: DreamWorks HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/62953.ts
+#EXTINF:-1 tvg-id="SportTVNBA.pt" tvg-name="PT: Sport TV NBA HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%20NBA.png" group-title="Portugal",PT: Sport TV NBA HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292360.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%201%20HD.png" group-title="Portugal",PT: Sport TV 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/27423.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%202%20HD.png" group-title="Portugal",PT: Sport TV 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/27424.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%203%20HD.png" group-title="Portugal",PT: Sport TV 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/27425.ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT: Sport TV+" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%20+.png" group-title="Portugal",PT: Sport TV+
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118907.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%204%20HD.png" group-title="Portugal",PT: Sport TV 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118889.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/SPORT%20TV%205%20HD.png" group-title="Portugal",PT: Sport TV 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118888.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Dazn Serie A HD" tvg-logo="" group-title="Italien",IT: Dazn Serie A HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140728.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 1" tvg-logo="" group-title="Italien",IT: DAZN | Event 1
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140714.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 2" tvg-logo="" group-title="Italien",IT: DAZN | Event 2
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140715.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 3" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="Italien",IT: DAZN | Event 3
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140716.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 4" tvg-logo="" group-title="Italien",IT: DAZN | Event 4
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140717.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 5" tvg-logo="" group-title="Italien",IT: DAZN | Event 5
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140718.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 6" tvg-logo="" group-title="Italien",IT: DAZN | Event 6
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140719.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 7" tvg-logo="" group-title="Italien",IT: DAZN | Event 7
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140720.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 8" tvg-logo="" group-title="Italien",IT: DAZN | Event 8
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140721.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 9" tvg-logo="" group-title="Italien",IT: DAZN | Event 9
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140722.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 10" tvg-logo="" group-title="Italien",IT: DAZN | Event 10
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140723.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 11" tvg-logo="" group-title="Italien",IT: DAZN | Event 11
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140724.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 12" tvg-logo="" group-title="Italien",IT: DAZN | Event 12
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140725.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 13" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="Italien",IT: DAZN | Event 13
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140726.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Event 14" tvg-logo="" group-title="Italien",IT: DAZN | Event 14
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/140727.ts
+#EXTINF:-1 tvg-id="SSPFTHD" tvg-name="IT: Sky Sport Football HD" tvg-logo="http://fanc.tmsimg.com/assets/s86302_ll_h3_aa.png" group-title="Italien",IT: Sky Sport Football HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/20677.ts
+#EXTINF:-1 tvg-id="SERIEAH" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="http://iptv.watchhd.cc:5050/images/67054f23d05834e1aa3abbc4eabdc4da.png" group-title="Europe",IT: Sky Sport Serie A HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/628.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="Europe",NL: ESPN 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="Europe",NL: ESPN 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="Europe",NL: ESPN 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 HD" tvg-logo="" group-title="Europe",NL: ESPN 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/496.ts
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%201.png" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2063.ts
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%202.png" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2064.ts
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%203.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2065.ts
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%204.png" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2066.ts
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%205.png" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2067.ts
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="http://logo.watchhd.cc/logo/Portugal/ELEVEN%20SPORTS%206.png" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/2068.ts
+#EXTINF:-1 tvg-id="3+" tvg-name="RS: Sportklub 1 HD" tvg-logo="" group-title="Europe",RS: Sportklub 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15692.ts
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sportklub 2 HD" tvg-logo="" group-title="Europe",RS: Sportklub 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15693.ts
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sportklub 3 HD" tvg-logo="" group-title="Europe",RS: Sportklub 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/15694.ts
+#EXTINF:-1 tvg-id="VIAULT" tvg-name="SW: V Sport Ultra HD" tvg-logo="http://fanc.tmsimg.com/assets/s100631_ll_h3_aa.png" group-title="Schweden",SW: V Sport Ultra HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176684.ts
+#EXTINF:-1 tvg-id="VIASMHD" tvg-name="SW: V Sport Motor HD" tvg-logo="http://fanc.tmsimg.com/assets/s77712_ll_h3_aa.png" group-title="Schweden",SW: V Sport Motor HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176686.ts
+#EXTINF:-1 tvg-id="VHOCKHD" tvg-name="SW: V Sport Hockey HD" tvg-logo="http://fanc.tmsimg.com/assets/s83537_ll_h3_aa.png" group-title="Schweden",SW: V Sport Hockey HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176687.ts
+#EXTINF:-1 tvg-id="VIAFOHD" tvg-name="SW: V Sport Fotboll HD" tvg-logo="http://fanc.tmsimg.com/assets/s77730_ll_h3_aa.png" group-title="Schweden",SW: V Sport Fotboll HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176688.ts
+#EXTINF:-1 tvg-id="VGOLFHD" tvg-name="SW: V Sport Golf HD" tvg-logo="http://fanc.tmsimg.com/assets/s83504_ll_h3_aa.png" group-title="Schweden",SW: V Sport Golf HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176689.ts
+#EXTINF:-1 tvg-id="VIASPEX" tvg-name="SW: V Sport Extra HD" tvg-logo="http://fanc.tmsimg.com/assets/s113493_ll_h3_aa.png" group-title="Schweden",SW: V Sport Extra HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176691.ts
+#EXTINF:-1 tvg-id="VIASPHD" tvg-name="SW: V Sport 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s82271_ll_h3_aa.png" group-title="Schweden",SW: V Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176692.ts
+#EXTINF:-1 tvg-id="VIASPOH" tvg-name="SW: V Sport Premium HD" tvg-logo="http://fanc.tmsimg.com/assets/s100128_h3_aa.png" group-title="Schweden",SW: V Sport Premium HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176693.ts
+#EXTINF:-1 tvg-id="CMLIVE" tvg-name="SW: C More Live 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s78749_ll_h3_aa.png" group-title="Schweden",SW: C More Live 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113716.ts
+#EXTINF:-1 tvg-id="CML2HDS" tvg-name="SW: C More Live 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s105064_ll_h3_aa.png" group-title="Schweden",SW: C More Live 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113717.ts
+#EXTINF:-1 tvg-id="" tvg-name="SW: C More Live 3 HD" tvg-logo="" group-title="Schweden",SW: C More Live 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176696.ts
+#EXTINF:-1 tvg-id="CML4HDS" tvg-name="SW: C More Live 4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s105067_ll_h3_aa.png" group-title="Schweden",SW: C More Live 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176697.ts
+#EXTINF:-1 tvg-id="" tvg-name="SW: C More Live 5 HD" tvg-logo="" group-title="Schweden",SW: C More Live 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176698.ts
+#EXTINF:-1 tvg-id="CMFHDSA" tvg-name="SW: C More Fotboll HD" tvg-logo="http://fanc.tmsimg.com/assets/s105062_ll_h3_aa.png" group-title="Schweden",SW: C More Fotboll HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113718.ts
+#EXTINF:-1 tvg-id="CMHHDSA" tvg-name="SW: C More Hockey HD" tvg-logo="http://fanc.tmsimg.com/assets/s105063_ll_h3_aa.png" group-title="Schweden",SW: C More Hockey HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/113698.ts
+#EXTINF:-1 tvg-id="CMGHDSA" tvg-name="SW: C More Golf HD" tvg-logo="http://fanc.tmsimg.com/assets/s105080_ll_h3_aa.png" group-title="Schweden",SW: C More Golf HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/176701.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League HD" tvg-logo="" group-title="Norwegen",NO: V Sport Premier League HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177684.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 1 HD" tvg-logo="" group-title="Norwegen",NO: V Sport Premier League 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177685.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 2 HD" tvg-logo="" group-title="Norwegen",NO: V Sport Premier League 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177686.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 3 HD" tvg-logo="" group-title="Norwegen",NO: V Sport Premier League 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177687.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 4 HD" tvg-logo="" group-title="Norwegen",NO: V Sport Premier League 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177688.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Golf" tvg-logo="" group-title="Norwegen",NO: V Sport Golf
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177689.ts
+#EXTINF:-1 tvg-id="VIAULT" tvg-name="NO: V Ultra HD" tvg-logo="http://fanc.tmsimg.com/assets/s100631_ll_h3_aa.png" group-title="Norwegen",NO: V Ultra HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177690.ts
+#EXTINF:-1 tvg-id="VISPOR1" tvg-name="NO: Viasat Sport 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s110055_ll_h3_ac.png" group-title="Norwegen",NO: Viasat Sport 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177691.ts
+#EXTINF:-1 tvg-id="VISPOR2" tvg-name="NO: Viasat Sport 2" tvg-logo="http://fanc.tmsimg.com/assets/s110058_ll_h3_aa.png" group-title="Norwegen",NO: Viasat Sport 2
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177692.ts
+#EXTINF:-1 tvg-id="VISPOR3" tvg-name="NO: Viasat Sport 3" tvg-logo="http://fanc.tmsimg.com/assets/s110059_ll_h3_aa.png" group-title="Norwegen",NO: Viasat Sport 3
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177693.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Live 4" tvg-logo="" group-title="Norwegen",NO: V Sport Live 4
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177694.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Live 5" tvg-logo="" group-title="Norwegen",NO: V Sport Live 5
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177695.ts
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="RU: Match! Futbol 1 HD" tvg-logo="http://logo.watchhd.cc/logo/RU/Logo_RU_Match_Futbol_1.png" group-title="Russland",RU: Match! Futbol 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/290928.ts
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="RU: Match! Futbol 2 HD" tvg-logo="http://logo.watchhd.cc/logo/RU/Logo_RU_Match_Futbol_2.png" group-title="Russland",RU: Match! Futbol 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/290927.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH! HD" tvg-logo="http://logo.watchhd.cc/logo/RU/Logo_RU_Match.png" group-title="Russland",RU: MATCH! HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/290926.ts
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="RU: Match! Futbol 3 HD" tvg-logo="http://logo.watchhd.cc/logo/RU/Logo_RU_Match_Futbol_3.png" group-title="Russland",RU: Match! Futbol 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/290929.ts
+#EXTINF:-1 tvg-id="BEINS1C" tvg-name="CA: Bein Sports HD" tvg-logo="http://iptv.watchhd.cc:5050/images/bafe8bf2f06e28bbb7f619882e747e22.png" group-title="Canada",CA: Bein Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115628.ts
+#EXTINF:-1 tvg-id="SN360H" tvg-name="CA: Sportsnet 360 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cdd30bfbd8adc220f97169c28f48eac1.png" group-title="Canada",CA: Sportsnet 360 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115624.ts
+#EXTINF:-1 tvg-id="DPSNEHD" tvg-name="CA: Sportsnet East HD" tvg-logo="http://iptv.watchhd.cc:5050/images/568ccfcabfe8b215a2f22384caae627e.png" group-title="Canada",CA: Sportsnet East HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115625.ts
+#EXTINF:-1 tvg-id="SPOHDTV" tvg-name="CA: Sportsnet One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/364b430eaa3e1980068678d60e699e1e.png" group-title="Canada",CA: Sportsnet One HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115626.ts
+#EXTINF:-1 tvg-id="SNOHD" tvg-name="CA: Sportsnet Ontario HD" tvg-logo="http://fanc.tmsimg.com/assets/s62111_ll_h3_ac.png" group-title="Canada",CA: Sportsnet Ontario HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177636.ts
+#EXTINF:-1 tvg-id="DPSNPHD" tvg-name="CA: Sportsnet Pacific HD" tvg-logo="http://fanc.tmsimg.com/assets/s61714_ll_h3_aa.png" group-title="Canada",CA: Sportsnet Pacific HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177637.ts
+#EXTINF:-1 tvg-id="DPSNWHD" tvg-name="CA: Sportsnet West HD" tvg-logo="http://fanc.tmsimg.com/assets/s61742_ll_h3_aa.png" group-title="Canada",CA: Sportsnet West HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/177638.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Sportsnet WWE HD" tvg-logo="" group-title="Canada",CA: Sportsnet WWE HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/116267.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 267 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 267 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115827.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 368 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 368 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115828.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 422 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 422 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115829.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 431/476 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 431/476 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115830.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 432/472 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 432/472 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115831.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 433 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 433 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115832.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 434 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 434 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115833.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 435 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 435 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115834.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 436 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 436 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115835.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 437 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 437 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115836.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 438 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 438 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115837.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 439 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 439 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115838.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 440 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 440 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115839.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 441 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 441 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115840.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 442 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 442 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115841.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 443 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 443 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115842.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 444 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 444 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 450 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 450 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115844.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 453 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 453 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115846.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 452 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 452 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115845.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 454/477 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 454/477 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115847.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 455/478 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 455/478 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115848.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 456/479 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 456/479 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115849.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 457/480 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 457/480 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115850.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 458/481 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 458/481 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115851.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 459/482 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 459/482 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 460/483 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 460/483 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115853.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 461 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 461 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115854.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 462 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 462 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115855.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 464 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 464 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 465 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 465 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115857.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 473 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 473 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115858.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 474 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 474 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115859.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 475 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 475 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115860.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 476 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 476 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115861.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER SPORTS CH 477 HD" tvg-logo="" group-title="Canada",CA: SUPER SPORTS CH 477 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115862.ts
+#EXTINF:-1 tvg-id="TSN1" tvg-name="CA: TSN 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2daaa183fcb41df860b886ebeca0b9fa.png" group-title="Canada",CA: TSN 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/340.ts
+#EXTINF:-1 tvg-id="TSN2" tvg-name="CA: TSN 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/295d785e563d75e9600adcfb9a317432.png" group-title="Canada",CA: TSN 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/341.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA: TSN 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b8b8d55ac8814a8a94e10684d1bb3f48.png" group-title="Canada",CA: TSN 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/342.ts
+#EXTINF:-1 tvg-id="TSN4HD" tvg-name="CA: TSN 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2fdcd98dd0a53a2c96aa63b404b7f4ba.png" group-title="Canada",CA: TSN 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/343.ts
+#EXTINF:-1 tvg-id="TSN5HD" tvg-name="CA: TSN 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0fefee7375c98b62cd80eb063f501956.png" group-title="Canada",CA: TSN 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/344.ts
+#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="US: Bally Sports Arizona HD" tvg-logo="http://iptv.watchhd.cc:5050/images/990d733248b32a4a920d67d65bc6ad99.png" group-title="USA",US: Bally Sports Arizona HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44317.ts
+#EXTINF:-1 tvg-id="ballysportsarizonaplus.us" tvg-name="US: Bally Sports Arizona Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Arizona Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104063.ts
+#EXTINF:-1 tvg-id="ballysportsohiocincinnati.us" tvg-name="US: Bally Sports Cincinnati HD" tvg-logo="" group-title="USA",US: Bally Sports Cincinnati HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184499.ts
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US: Bally Sports Detroit HD" tvg-logo="" group-title="USA",US: Bally Sports Detroit HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104064.ts
+#EXTINF:-1 tvg-id="ballysportsdetroitplus.us" tvg-name="US: Bally Sports Detroit Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Detroit Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104065.ts
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US: Bally Sports Florida HD" tvg-logo="http://iptv.watchhd.cc:5050/images/215d512e285ad623448fd45d61e7421b.png" group-title="USA",US: Bally Sports Florida HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44318.ts
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="US: Bally Sports Great Lakes HD" tvg-logo="" group-title="USA",US: Bally Sports Great Lakes HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104066.ts
+#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="US: Bally Sports Indiana HD" tvg-logo="" group-title="USA",US: Bally Sports Indiana HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104067.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Indiana Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Indiana Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104068.ts
+#EXTINF:-1 tvg-id="ballysportsmidwestkansascity.us" tvg-name="US: Bally Sports Kansas City HD" tvg-logo="" group-title="USA",US: Bally Sports Kansas City HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104069.ts
+#EXTINF:-1 tvg-id="ballysportsmidwestkansascity.us" tvg-name="US: Bally Sports Kansas City Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Kansas City Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104070.ts
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="US: Bally Sports Midwest HD" tvg-logo="" group-title="USA",US: Bally Sports Midwest HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104071.ts
+#EXTINF:-1 tvg-id="ballysportsmidwestplusstlouis.us" tvg-name="US: Bally Sports Midwest Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Midwest Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104072.ts
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="US: Bally Sports New Orleans HD" tvg-logo="" group-title="USA",US: Bally Sports New Orleans HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104073.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports New Orleans Plus HD" tvg-logo="" group-title="USA",US: Bally Sports New Orleans Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104074.ts
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="US: Bally Sports North HD" tvg-logo="" group-title="USA",US: Bally Sports North HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104075.ts
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="US: Bally Sports North Plus HD" tvg-logo="" group-title="USA",US: Bally Sports North Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104076.ts
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="US: Bally Sports Ohio HD" tvg-logo="http://iptv.watchhd.cc:5050/images/86cf7b8c1129a064bdc9180bc2a94108.png" group-title="USA",US: Bally Sports Ohio HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/44319.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Ohio Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Ohio Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104077.ts
+#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="US: Bally Sports Oklahoma HD" tvg-logo="" group-title="USA",US: Bally Sports Oklahoma HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104078.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Oklahoma Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Oklahoma Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104079.ts
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="US: Bally Sports San Diego HD" tvg-logo="" group-title="USA",US: Bally Sports San Diego HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104080.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports San Diego Plus HD" tvg-logo="" group-title="USA",US: Bally Sports San Diego Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104081.ts
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="US: Bally Sports SoCal HD" tvg-logo="" group-title="USA",US: Bally Sports SoCal HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184498.ts
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US: Bally Sports South HD" tvg-logo="" group-title="USA",US: Bally Sports South HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104082.ts
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US: Bally Sports South Plus HD" tvg-logo="" group-title="USA",US: Bally Sports South Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104083.ts
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="US: Bally Sports Southeast HD" tvg-logo="" group-title="USA",US: Bally Sports Southeast HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104084.ts
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="US: Bally Sports Southwest HD" tvg-logo="" group-title="USA",US: Bally Sports Southwest HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104085.ts
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="US: Bally Sports Sun HD" tvg-logo="" group-title="USA",US: Bally Sports Sun HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104086.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Tennessee HD" tvg-logo="" group-title="USA",US: Bally Sports Tennessee HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184500.ts
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="US: Bally Sports Wisconsin HD" tvg-logo="" group-title="USA",US: Bally Sports Wisconsin HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104087.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Wisconsin Plus HD" tvg-logo="" group-title="USA",US: Bally Sports Wisconsin Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/104088.ts
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="US: Bally Sports West HD" tvg-logo="" group-title="USA",US: Bally Sports West HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/184497.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: BeIn Sports HD" tvg-logo="http://iptv.watchhd.cc:5050/images/45dad58f58fe51cdec7f6aeb21a8a1b3.png" group-title="USA",US: BeIn Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/219.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="US: Bein Sports LaLiga TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ba60d4bf4c7e38ffd7773ced97ee9497.png" group-title="USA",US: Bein Sports LaLiga TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/482.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: Bein Sports Connect 4 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/490.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: Bein Sports Connect 5 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/491.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: Bein Sports Connect 6 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/492.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: Bein Sports Connect 7 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/545.ts
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="US: Bein Sports Xtra HD" tvg-logo="" group-title="USA",US: Bein Sports Xtra HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/13372.ts
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US: CBS Sports Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6e3e28c0fa174a1286f274a789d94d5d.png" group-title="USA",US: CBS Sports Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/295.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/00be9482010b4b6e018427bc71f49805.png" group-title="USA",US: ESPN 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/311.ts
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="US: Eleven Sports HD" tvg-logo="http://iptv.watchhd.cc:5050/images/78c11b381bdb7dcdc5bef62101fd281a.png" group-title="USA",US: Eleven Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/535.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a2f9e63ebb330b53f0696d669ade7397.png" group-title="USA",US: ESPN 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/312.ts
+#EXTINF:-1 tvg-id="espncollegeextra1.us" tvg-name="US: ESPN COLLEGE EXTRA 1 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/314.ts
+#EXTINF:-1 tvg-id="espncollegeextra2.us" tvg-name="US: ESPN COLLEGE EXTRA 2 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/315.ts
+#EXTINF:-1 tvg-id="espncollegeextra3.us" tvg-name="US: ESPN COLLEGE EXTRA 3 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/316.ts
+#EXTINF:-1 tvg-id="espncollegeextra4.us" tvg-name="US: ESPN COLLEGE EXTRA 4 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/317.ts
+#EXTINF:-1 tvg-id="espncollegeextra5.us" tvg-name="US: ESPN COLLEGE EXTRA 5 HD" tvg-logo="" group-title="USA",US: ESPN COLLEGE EXTRA 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/318.ts
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US: ESPN Deportes HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1e488f6d440a9aeb72e42fc872c3ae91.png" group-title="USA",US: ESPN Deportes HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/16709.ts
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPN News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8a263672cefc5ac7c4c3669d76cbb401.png" group-title="USA",US: ESPN News HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/350.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US: ESPN Sec Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b6429ddf71a30832ca80b37a0704502e.png" group-title="USA",US: ESPN Sec Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/351.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="" group-title="USA",US: ESPN U HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/313.ts
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US: Fox Soccer Plus HD" tvg-logo="http://iptv.watchhd.cc:5050/images/72b443dc89ea1d82fa832b3ee884bf11.png" group-title="USA",US: Fox Soccer Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/339.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: Fox Sports 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/668973bde1ff5813fff12187624991d1.png" group-title="USA",US: Fox Sports 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/330.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: Fox Sports 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ba4e4a0dc1fc9232a46006ddd59f57ad.png" group-title="USA",US: Fox Sports 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/331.ts
+#EXTINF:-1 tvg-id="foxsportsneworleans.us" tvg-name="US: Fox Sports NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png" group-title="USA",US: Fox Sports NEWS HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/442.ts
+#EXTINF:-1 tvg-id="foxsportsprimeticket.us" tvg-name="US: Fox Sports Prime Ticket HD" tvg-logo="http://iptv.watchhd.cc:5050/images/40d23f32dfa4331a80e5323096259bb3.png" group-title="USA",US: Fox Sports Prime Ticket HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/329.ts
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="US: Fubo Sports Network HD" tvg-logo="" group-title="USA",US: Fubo Sports Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/131613.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MMA BELLATOR | MAIN CARD" tvg-logo="https://i.pinimg.com/originals/9b/c6/f5/9bc6f50589ec13e98fd727fb8ba7a57e.png" group-title="USA",US: MMA BELLATOR | MAIN CARD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/437.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MMA BELLATOR | PRELIMS" tvg-logo="https://i.pinimg.com/originals/9b/c6/f5/9bc6f50589ec13e98fd727fb8ba7a57e.png" group-title="USA",US: MMA BELLATOR | PRELIMS
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/436.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US: MSG HD" tvg-logo="" group-title="USA",US: MSG HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185915.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="US: MSG 2 HD" tvg-logo="" group-title="USA",US: MSG 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185916.ts
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="US: MSG SPORTSNET HD" tvg-logo="" group-title="USA",US: MSG SPORTSNET HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185914.ts
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV HD" tvg-logo="http://logo.watchhd.cc/logo/nba_tv.png" group-title="USA",US: NBA TV HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/334.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: NBC Golf HD" tvg-logo="http://iptv.watchhd.cc:5050/images/aaa2d30bf24bde566ebda83a5ff0bd36.png" group-title="USA",US: NBC Golf HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/536.ts
+#EXTINF:-1 tvg-id="NBCSNHD" tvg-name="US: NBC Sports Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b639cc3b2ee3270fbcaa78c213c23345.png" group-title="USA",US: NBC Sports Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/335.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBCSN Bay Area HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Bay Area HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10072.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US: NBCSN Boston HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Boston HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10073.ts
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US: NBCSN California HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN California HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10074.ts
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US: NBCSN Chicago HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Chicago HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10076.ts
+#EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="US: NBCSN Chicago Plus HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Chicago Plus HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10075.ts
+#EXTINF:-1 tvg-id="nbcsportsnorthwest.us" tvg-name="US: NBCSN Northwest HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b639cc3b2ee3270fbcaa78c213c23345.png" group-title="USA",US: NBCSN Northwest HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10078.ts
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US: NBCSN Philadelphia HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Philadelphia HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10079.ts
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="US: NBCSN Washington HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2093f3f44de7b9727a3d4b4fe6608520.png" group-title="USA",US: NBCSN Washington HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/10080.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="US: NESN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9a735ba6a6525e18e06e04fa8bbf9878.png" group-title="USA",US: NESN HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/18498.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="US: NESN UHD" tvg-logo="" group-title="USA",US: NESN UHD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/185879.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/053c24d23c0a6562bd288f09cb1e8c3a.png" group-title="USA",US: NFL Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/336.ts
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US: NHL Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/299f3eb8a5d66c2600301853eedda652.png" group-title="USA",US: NHL Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/338.ts
+#EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="US: Root Sports 1 HD" tvg-logo="" group-title="USA",US: Root Sports 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136565.ts
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US: The Fight Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/01f3200445e78c4812ae993a7591aa83.png" group-title="USA",US: The Fight Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/327.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Channel HD" tvg-logo="" group-title="USA",US: UFC Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/118577.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Event Early Prelims" tvg-logo="" group-title="USA",US: UFC Event Early Prelims
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/277314.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Event Prelims" tvg-logo="" group-title="USA",US: UFC Event Prelims
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/277315.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Main Event" tvg-logo="" group-title="USA",US: UFC Main Event
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/277316.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 1 HD" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC Feed 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/438.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 2 HD" tvg-logo="http://dmxg5wxfqgb4u.cloudfront.net/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?7mxF.pwu6yXgqgna3tgEFlqwDr4H55y9" group-title="USA",US: UFC Feed 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0d8752a7ab1ca9dfd5e80d248c41319a.png" group-title="USA",US: UFC Feed 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/440.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Feed 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0d8752a7ab1ca9dfd5e80d248c41319a.png" group-title="USA",US: UFC Feed 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/441.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass 03 Main Card" tvg-logo="" group-title="USA",US: UFC Fight Pass 03 Main Card
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1061.ts
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="US: UFC TV" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="USA",US: UFC TV
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/435.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Woman Sports HD" tvg-logo="" group-title="USA",US: Woman Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136566.ts
+#EXTINF:-1 tvg-id="PTVDEWP" tvg-name="US: World Poker Tour HD" tvg-logo="" group-title="USA",US: World Poker Tour HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/136564.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1ae8706bc127bb170e2afd7c89bbf05.png" group-title="USA",US: WWE Channel HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/526.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ab5058cda70b3cc8c1b83752b852ea94.png" group-title="USA",US: WWE Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/264.ts
+#EXTINF:-1 tvg-id="nbaleaguepass1.us" tvg-name="US: NBA League Pass 1 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/420.ts
+#EXTINF:-1 tvg-id="nbaleaguepass2.us" tvg-name="US: NBA League Pass 2 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/421.ts
+#EXTINF:-1 tvg-id="nbaleaguepass3.us" tvg-name="US: NBA League Pass 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cb7ff5b9f2ca239cfa7da51c3cdab429.png" group-title="US Gamepass",US: NBA League Pass 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/422.ts
+#EXTINF:-1 tvg-id="nbaleaguepass4.us" tvg-name="US: NBA League Pass 4 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/423.ts
+#EXTINF:-1 tvg-id="nbaleaguepass5.us" tvg-name="US: NBA League Pass 5 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/424.ts
+#EXTINF:-1 tvg-id="nbaleaguepass6.us" tvg-name="US: NBA League Pass 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cb7ff5b9f2ca239cfa7da51c3cdab429.png" group-title="US Gamepass",US: NBA League Pass 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/425.ts
+#EXTINF:-1 tvg-id="nbaleaguepass7.us" tvg-name="US: NBA League Pass 7 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/426.ts
+#EXTINF:-1 tvg-id="nbaleaguepass8.us" tvg-name="US: NBA League  Pass 8 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League  Pass 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/468.ts
+#EXTINF:-1 tvg-id="nbaleaguepass9.us" tvg-name="US: NBA League  Pass 9 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League  Pass 9 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/469.ts
+#EXTINF:-1 tvg-id="nbaleaguepass10.us" tvg-name="US: NBA League  Pass 10 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League  Pass 10 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/470.ts
+#EXTINF:-1 tvg-id="nbaleaguepass750.us" tvg-name="US: NBA League  Pass 11 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League  Pass 11 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/471.ts
+#EXTINF:-1 tvg-id="nbaleaguepass751.us" tvg-name="US: NBA League Pass 12 HD" tvg-logo="http://logo.watchhd.cc/logo/nba_league_pass.png" group-title="US Gamepass",US: NBA League Pass 12 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/472.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Big Inning HD" tvg-logo="" group-title="US Gamepass",US: MLB Big Inning HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/115627.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US: MLB Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3538ab9a7f8ec18e736aac0e088329d8.png" group-title="USA",US: MLB Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/333.ts
+#EXTINF:-1 tvg-id="mlbstrikezone.us" tvg-name="US: MLB Strikezone HD" tvg-logo="" group-title="US Gamepass",US: MLB Strikezone HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/332.ts
+#EXTINF:-1 tvg-id="RUSH" tvg-name="US: Rush Sports HD" tvg-logo="http://fanc.tmsimg.com/assets/s111803_ll_h3_aa.png" group-title="USA",US: Rush Sports HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/130786.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Atlanta United (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_ATLANTA.png" group-title="US Gamepass",US: MLS Atlanta United (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292366.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Austin FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_AUSTIN.png" group-title="US Gamepass",US: MLS Austin FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292368.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS CF Montreal (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_MONTREAL.png" group-title="US Gamepass",US: MLS CF Montreal (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292370.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Charlotte FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_CHARLOTTE.png" group-title="US Gamepass",US: MLS Charlotte FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292372.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Chicago Fire FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_CHICAGO.png" group-title="US Gamepass",US: MLS Chicago Fire FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292374.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Colorado Rapids (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_COLORADO.png" group-title="US Gamepass",US: MLS Colorado Rapids (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292376.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Columbus Crew (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_COLUMBUS.png" group-title="US Gamepass",US: MLS Columbus Crew (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292378.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS D.C United (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_DCUNITED.png" group-title="US Gamepass",US: MLS D.C United (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292380.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS FC Cincinnati (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_CINCINNATI.png" group-title="US Gamepass",US: MLS FC Cincinnati (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292382.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS FC Dallas (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_DALLAS.png" group-title="US Gamepass",US: MLS FC Dallas (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292384.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Houston Dynamo FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_HOUSTON.png" group-title="US Gamepass",US: MLS Houston Dynamo FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292386.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Inter Miami CF (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_MIAMI.png" group-title="US Gamepass",US: MLS Inter Miami CF (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292388.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS LA Galaxy (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_LAGALAXY.png" group-title="US Gamepass",US: MLS LA Galaxy (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292390.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Los Angeles Football Club (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_LOSANGELES.png" group-title="US Gamepass",US: MLS Los Angeles Football Club (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292392.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Minnesota United (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_MINNESOTA.png" group-title="US Gamepass",US: MLS Minnesota United (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292394.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Nashville SC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_NASHVILLE.png" group-title="US Gamepass",US: MLS Nashville SC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292396.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS New England Revolution (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_NEWENGLAND.png" group-title="US Gamepass",US: MLS New England Revolution (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292398.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS New York City Football Club (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_NEWYORKCITY.png" group-title="US Gamepass",US: MLS New York City Football Club (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292400.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS New York Red Bulls (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_NEWYORKREDBULL.png" group-title="US Gamepass",US: MLS New York Red Bulls (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292402.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Orlando City (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_ORLANDO.png" group-title="US Gamepass",US: MLS Orlando City (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292404.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Philadelphia Union (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_PHILADELPHIA.png" group-title="US Gamepass",US: MLS Philadelphia Union (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292406.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Portland Timbers (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_PORTLAND.png" group-title="US Gamepass",US: MLS Portland Timbers (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292408.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Real Salt Lake (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_SALTLAKE.png" group-title="US Gamepass",US: MLS Real Salt Lake (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292410.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS San Jose Earthquakes (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_SANJOSE.png" group-title="US Gamepass",US: MLS San Jose Earthquakes (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292412.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Seattle Sounders FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_SEATTLE.png" group-title="US Gamepass",US: MLS Seattle Sounders FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292414.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Sporting Kansas City (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_KANSAS.png" group-title="US Gamepass",US: MLS Sporting Kansas City (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292416.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS St. Louis City SC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_STLOUIS.png" group-title="US Gamepass",US: MLS St. Louis City SC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292418.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Toronto DC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_TORONTO.png" group-title="US Gamepass",US: MLS Toronto DC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292420.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLS Vancouver Whitecaps FC (HD)" tvg-logo="http://logo.watchhd.cc/logo/usa/MLS/Logo_US_MLS_VANCOUVER.png" group-title="US Gamepass",US: MLS Vancouver Whitecaps FC (HD)
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/292422.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports Golazo Network HD" tvg-logo="" group-title="USA",US: CBS Sports Golazo Network HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/300433.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1730.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1731.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3 HD" tvg-logo="" group-title="Australia",AU: beIN Sports 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/1732.ts
+#EXTINF:-1 tvg-id="NowSports4kEn.hk" tvg-name="HK: NOW Premier Sports 4K" tvg-logo="" group-title="Rest der Welt",HK: NOW Premier Sports 4K
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132627.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1En.hk" tvg-name="HK: NOW PREMIER SPORTS 1 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132103.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2En.hk" tvg-name="HK: NOW PREMIER SPORTS 2 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132104.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3En.hk" tvg-name="HK: NOW PREMIER SPORTS 3 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132105.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 4" tvg-name="HK: NOW PREMIER SPORTS 4 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132106.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 5" tvg-name="HK: NOW PREMIER SPORTS 5 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 5 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132107.ts
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 6" tvg-name="HK: NOW PREMIER SPORTS 6 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 6 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132108.ts
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 7 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 7 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132109.ts
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 8 HD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="Rest der Welt",HK: NOW PREMIER SPORTS 8 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/132110.ts
+#EXTINF:-1 tvg-id="HD7" tvg-name="ZA: Supersport Action HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ba2cce4d4b6b94b44a980b0c8fd7b977.png" group-title="USA",ZA: Supersport Action HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/451.ts
+#EXTINF:-1 tvg-id="BLITZHD" tvg-name="ZA: SUPERSPORT BLITZ HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT BLITZ HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/457.ts
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="ZA: Supersport Cricket HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: Supersport Cricket HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/456.ts
+#EXTINF:-1 tvg-id="MSH" tvg-name="ZA: Supersport Football HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: Supersport Football HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/452.ts
+#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="ZA: Supersport Grandstand HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: Supersport Grandstand HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/448.ts
+#EXTINF:-1 tvg-id="SSH" tvg-name="ZA: Supersport LaLiga HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: Supersport LaLiga HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/445.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Motorsport HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: SUPERSPORT Motorsport HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/450.ts
+#EXTINF:-1 tvg-id="PSL" tvg-name="ZA: Supersport PSL HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: Supersport PSL HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/446.ts
+#EXTINF:-1 tvg-id="TS2" tvg-name="ZA: Supersport Premier League HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: Supersport Premier League HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/447.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Variety 1 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT Variety 1 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/449.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Variety 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: SUPERSPORT Variety 2 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/453.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Variety 3 HD" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="USA",ZA: SUPERSPORT Variety 3 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/454.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Variety 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: SUPERSPORT Variety 4 HD
+http://iptv.watchhd.cc:5050/CharlesdeGoals/Scheisse2022!/455.ts

@@ -1,0 +1,80 @@
+#EXTINF:-1 timeshift="5" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/1.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/2.ts
+#EXTINF:-1 timeshift="3" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/3.ts
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/4.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins Doku" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/33.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/31.ts
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/5.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ProSieben FUN" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/359.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/7.ts
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/6.ts
+#EXTINF:-1 tvg-id="DE: VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/41.ts
+#EXTINF:-1 tvg-id="DE: VOXup" tvg-name="DE: VOXup HD" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Free-TV",DE: VOXup HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/625.ts
+#EXTINF:-1 tvg-id="DE: SIXX" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/40.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/42.ts
+#EXTINF:-1 tvg-id="INSGER" tvg-name="DE: Inplus HD" tvg-logo="http://logo.watchhd.cc/logo/inultra.png" group-title="Free-TV",DE: Inplus HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/10245.ts
+#EXTINF:-1 tvg-id="DE: NITRO" tvg-name="DE: Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_NITRO_HD.png" group-title="Free-TV",DE: Nitro HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Now! (Web 720p)" tvg-logo="https://forum.watchhd.to/uploads/monthly_2023_09/rtl_now.png.d5b977d8334626bc334c0d84dd545850.png" group-title="Free-TV",DE: RTL Now! (Web 720p)
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/310052.ts
+#EXTINF:-1 tvg-id="DE: Super RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Super_RTL_HD.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/360.ts
+#EXTINF:-1 tvg-id="DE: Comedy Central" tvg-name="DE: Comedy Central HD" tvg-logo="http://logo.watchhd.cc/logo/cchd.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/44.ts
+#EXTINF:-1 tvg-id="DE: TELE 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/tele_5.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/50.ts
+#EXTINF:-1 tvg-id="DE: SPORT1" tvg-name="DE: Sport1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/43.ts
+#EXTINF:-1 tvg-id="DE: SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/159.ts
+#EXTINF:-1 tvg-id="DEAJ0500413A" tvg-name="DE: Focus TV Reportage" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Focus_TV_Reportage.png" group-title="Free-TV",DE: Focus TV Reportage
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/115105.ts
+#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/N24_Doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/1944.ts
+#EXTINF:-1 tvg-id="DE: N-TV" tvg-name="DE: n-tv HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_NTV_HD.png" group-title="Free-TV",DE: n-tv HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/52.ts
+#EXTINF:-1 tvg-id="DE: Phoenix" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/51.ts
+#EXTINF:-1 tvg-id="DE: WELT" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/53.ts
+#EXTINF:-1 tvg-id="DE: ARD alpha" tvg-name="DE: ARD-alpha HD" tvg-logo="http://logo.watchhd.cc/logo/ard-alpha.png" group-title="Free-TV",DE: ARD-alpha HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/100890.ts
+#EXTINF:-1 tvg-id="DE: ZDFinfo" tvg-name="DE: ZDFInfo HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDFInfo HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/60.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ZDFneo" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/61.ts
+#EXTINF:-1 tvg-id="DE: 3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_3Sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/429.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: RTLup" tvg-name="DE: RTL up HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UP_HD.png" group-title="Free-TV",DE: RTL up HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/39.ts
+#EXTINF:-1 tvg-id="DEAJ2900003CN" tvg-name="DE: Zee One HD" tvg-logo="http://logo.watchhd.cc/logo/zee_one.png" group-title="Free-TV",DE: Zee One HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/330534.ts
+#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="DE: Terra X HD" tvg-logo="http://logo.watchhd.cc/logo/terra_x.png" group-title="Free-TV",DE: Terra X HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/332990.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ARTE" tvg-name="DE: ARTE HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/965.ts
+#EXTINF:-1 tvg-id="c880adeb72b44612d11eab019fb8be09" tvg-name="DE: SWR HD Baden-Württemberg" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD Baden-Württemberg
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/432.ts
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/46.ts
+#EXTINF:-1 tvg-id="EXTRSP" tvg-name="DE: Extreme Sports Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Extreme_Sport_Channel.png" group-title="Free-TV",DE: Extreme Sports Channel HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/113991.ts
+#EXTINF:-1 tvg-id="DE: More Than Sports TV" tvg-name="DE: More Than Sports TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_More_Than_Sports_HD.png" group-title="Free-TV",DE: More Than Sports TV HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/115486.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: Motorvision" tvg-name="DE: Motorvision HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision HD
+http://iptv.watchhd.cc:5050/sehlmack/JIkVAMoLVknW/45.ts

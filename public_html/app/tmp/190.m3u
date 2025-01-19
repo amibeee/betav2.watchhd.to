@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/71.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="General Streams",DE: ZDF HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/72.ts
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/78.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/75.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD (720p)
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/73.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/1501.ts
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="DE: Kabel1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="General Streams",DE: Kabel1 Classics HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/1190.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD
+http://iptv.watchhd.cc:8000/live/X/S9YUqJ1WrAX/1500.ts

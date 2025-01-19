@@ -1,0 +1,72 @@
+<?php
+class Controller_Buy extends Controller_Base_User
+{
+
+    /**
+     *  
+     */     
+    public function action_index($type = 'premium')
+    {   
+        
+        if(Input::method() == 'POST')
+        {
+            
+            $product_id = trim(Input::post('packet_id', ''));
+            $voucher = trim(Input::post('voucher', ''));
+            
+            $product = Model_Product::query()->where('id', '=', $product_id)->get_one();
+            if(!$product) throw new HttpNotFoundException;
+            
+            $coupon = Model_Coupon::query()->where('code', '=', $voucher)->get_one();
+            
+            if($product->type == 'premium')
+            {
+                
+                if(!empty($voucher) && !$coupon)
+                {
+                    
+                    Session::set_flash('input.old', Input::post());
+                    
+                    \Messages::error('Ungültiger Gutschein Code.');
+                    \Messages::redirect(Uri::current());
+                    
+                }
+                
+            }
+            
+            $payment = new Model_User_Payment;
+            if($coupon && $product->type == 'premium')
+            {
+                
+                $discount = (($product->price/100)*$coupon->discount);
+                $payment->amount = ($product->price-$discount); 
+                
+            }
+            else
+            {
+                $payment->amount = $product->price;   
+            }
+            do{
+                $payment->token = Str::random('sha1');  
+            }
+            while(Model_User_Payment::query()->where('token', '=', $payment->token)->count());
+            $payment->product = $product->name;
+            $payment->user_id = $this->user['uid'];
+            $payment->status = 'pending';
+            $payment->type = $product->type;
+            $payment->data = $product->data;
+            $payment->save();
+            
+            if($coupon) $coupon->delete();
+            
+            Response::redirect('pay/'.$payment->id);
+            
+        }
+        
+        $data['packets'] = Model_Product::query()->where('type', '=', $type)->get();
+            
+        return Response::forge(View::forge('buy.html.twig', isset($data) ? $data : array(), false)); 
+    
+    }
+    
+}

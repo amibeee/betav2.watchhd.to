@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Free-TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:25461/live/EmBesch/P3zLukBCR0OB/4.ts
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:25461/live/EmBesch/P3zLukBCR0OB/3.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:25461/images/JAmQYleQyLQmaZNyre6IOKjTKBVbrs70.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:25461/live/EmBesch/P3zLukBCR0OB/2.ts

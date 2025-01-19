@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="cb3a505c9f21b1dc5ae14c34ca7d3777" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/6d291917ce8c437891a0d481742e7f41.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/106.ts
+#EXTINF:-1 tvg-id="cb3a505c9f21b1dc5ae14c34ca7d3777" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/6d291917ce8c437891a0d481742e7f41.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/623.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/68481.ts
+#EXTINF:-1 timeshift="2" tvg-id="ca7984478cccf974b49d44cb9ac19368" tvg-name="DE: Sky Sport Bundesliga 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/159c464c53f5370dd2140997727439db.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (720p)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/278.ts

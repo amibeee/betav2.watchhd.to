@@ -1,0 +1,23 @@
+<?php
+class Controller_Page extends Controller_Base_Public
+{
+    
+    /**
+     * 
+     */
+    public function action_index($slug)
+    {
+        
+        $page = Model_Page::query()->where('slug', '=', $slug)->get_one();
+        if(!$page) throw new HttpNotFoundException;
+		
+		Cookie::set('page-'.$slug, 'visit', (30*86400)); # cookie livetime 30 days
+        
+        $data['page'] = $page;
+        
+        return Response::forge(View::forge('page.html.twig', isset($data) ? $data : array(), false)); 
+        
+        
+    }
+    
+}

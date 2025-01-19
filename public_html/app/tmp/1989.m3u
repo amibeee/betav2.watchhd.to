@@ -1,0 +1,36 @@
+#EXTINF:-1 tvg-id="NGWKDG" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/265.ts
+#EXTINF:-1 tvg-id="NATGEKD" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/149.ts
+#EXTINF:-1 tvg-id="NGWHDKD" tvg-name="DE: Nat Geo Wild HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/266.ts
+#EXTINF:-1 tvg-id="NATGEKD" tvg-name="DE: National Geographic HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/384.ts
+#EXTINF:-1 tvg-id="d4c1ccaf2f850e93a7a7e3bb42a778bf" tvg-name="DE: Sky Nature HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Nature_HD.png" group-title="Sky Doku",DE: Sky Nature HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/78229.ts
+#EXTINF:-1 tvg-id="d4c1ccaf2f850e93a7a7e3bb42a778bf" tvg-name="DE: Sky Nature HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Nature_HD.png" group-title="Sky Doku",DE: Sky Nature HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/98847.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga" tvg-name="DE: Sky Sport Bundesliga HD" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/122092.ts
+#EXTINF:-1 timeshift="2" tvg-id="Sky Sport Bundesliga" tvg-name="DE: Sky Sport Bundesliga HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/10424.ts
+#EXTINF:-1 timeshift="7" tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/102.ts
+#EXTINF:-1 tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/357.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/103.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/358.ts
+#EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/113720.ts
+#EXTINF:-1 timeshift="7" tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Magenta Sport 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/169.ts
+#EXTINF:-1 timeshift="7" tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Magenta Sport 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/170.ts
+#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/113721.ts
+#EXTINF:-1 tvg-id="Sport 3 - myTeamTV" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Magenta Sport",DE: Magenta Sport 3 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/113722.ts
+#EXTINF:-1 timeshift="7" tvg-id="Sport 3 - myTeamTV" tvg-name="DE: Magenta Sport 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Magenta Sport",DE: Magenta Sport 3 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/171.ts

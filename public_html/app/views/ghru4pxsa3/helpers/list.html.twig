@@ -1,0 +1,49 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Hilfe Beiträge
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+        <div class="row">
+    <div class="col-md-9 pull-left" style="width:100%">
+        <h1 >Hilfe Beiträge</h1>
+    </div>
+</div>
+
+
+<div class="form-group">
+    <a href="{{ base_url() }}ghru4pxsa3/helpers/create" class="btn btn-primary btn-raised">Hilfe Beitrag erstellen</a>
+</div>
+
+<table class="table table-striped table-bordered table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Titel</th>
+            <th>Aktionen</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% if helpers|length %}
+    
+        {% for helper in helpers %}
+        <tr>
+            <td>{{ helper.title }}</td>
+            <td>
+                <a href="{{ base_url() }}ghru4pxsa3/helper/{{ helper.id }}/edit" class="btn btn-raised btn-primary btn-sm"><i class="fa fa-pencil"></i></a>
+                <a href="{{ securelink('ghru4pxsa3/helper/'~helper.id~'/delete', 'helper.delete.'~helper.id) }}" class="btn btn-raised btn-sm btn-danger confirm"><i class="fa fa-trash"></i></a>
+            </td>
+        </tr>
+        {% endfor %}
+    
+    {% else %}
+    <tr>
+        <td colspan="8">We doesnt have any helpers until now.</td>
+    </tr>
+    {% endif %}
+    </tbody>
+</table>
+{{ pagination|raw }}
+
+{% endblock %}

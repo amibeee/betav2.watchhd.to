@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="ebcffc5aef79f0af595d5a84c7dd95ee" tvg-name="DE: Sky Showcase HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Showcase_HD.png" group-title="Sky Film",DE: Sky Showcase HD (Web 1080p)
+http://iptv.watchhd.cc:80/Sauerkraut/s6A2rPNB/310081.ts
+#EXTINF:-1 tvg-id="3ec472a4574b7d82e823e813518e1c07" tvg-name="DE: Sky One HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Sat)
+http://iptv.watchhd.cc:80/Sauerkraut/s6A2rPNB/136085.ts
+#EXTINF:-1 tvg-id="3ec472a4574b7d82e823e813518e1c07" tvg-name="DE: Sky One HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Web 1080p)
+http://iptv.watchhd.cc:80/Sauerkraut/s6A2rPNB/310077.ts
+#EXTINF:-1 tvg-id="SKYAHDK" tvg-name="DE: Sky Atlantic HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Atlantic_HD.png" group-title="Sky Film",DE: Sky Atlantic HD (Web 1080p)
+http://iptv.watchhd.cc:80/Sauerkraut/s6A2rPNB/310053.ts

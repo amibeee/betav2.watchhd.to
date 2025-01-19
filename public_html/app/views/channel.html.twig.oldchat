@@ -1,0 +1,272 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}Du guckst {{ channel.name }}{% endblock %}
+
+{% block content %}
+<style type="text/css">
+.chat {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.chat li {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #B3A9A9;
+}
+
+.chat li.right .chat-body {
+    margin-right: 60px;
+}
+
+.chat li .chat-body p {
+    margin: 0;
+    color: #777777;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon {
+    margin-right: 5px;
+}
+</style>
+<div class="row">
+    
+    <div class="col-md-10" align="center">
+        
+        <div class="pull-right size">
+        <i class="fa fa-arrows-alt bs" aria-hidden="true"></i>
+        </div>
+        <div class="clearfix"></div>
+        
+        <h3>Du guckst: <strong>{{ channel.name }}</strong></h3>
+        
+        <script  src="//content.jwplatform.com/libraries/eX4mp13.js"></script>  <script src="{{ base_url() }}jwplayer.js"  ></script>  <script>jwplayer.key="NmFq93RR/ioemxMEtxGgvNDNjp55xLjEW5XrEA==";</script>
+<div id="myElement"></div>
+<div id="player"></div>
+<script>var player = jwplayer("player").setup({  sources: [{ file: "{{ stream_url|replace({'&amp;':'&'})|raw }}" }],  height: 400, width: 720, autostart: "true", stretching: "exactfit"});</script>
+
+        
+        <!-- Chat -->
+        
+        <div class="panel panel-default chatbox" style="width: 720px;">
+            <div class="panel-heading" id="accordion">
+                <div class="input-group">
+                    <input type="text" class="form-control input-sm" name="channelMessage" id="channelMessage" placeholder="Hier Nachricht eingeben" vk_18c1e="subscribed" />
+                   <span class="input-group-btn">
+                        <button class="btn btn-raised btn-primary btn-sm toggleChannelChatSmilies"><i class="fa fa-smile-o" aria-hidden="true"></i></button>
+                        <button class="btn btn-raised btn-success btn-sm sendChannelMessage" data-channel-id="{{ channel.id }}">
+                            <i class="fa fa-pencil" aria-hidden="true"></i>                                
+                        </button>
+                    </span>
+                </div>
+                <div id="channelChatSmilies" style="background-color: white; display:none;">
+                {% for smilie in smilies %}
+                <img class="insertSmilie" src="{{ smilie.url }}" data-insert="{{ smilie.identifier }}" alt="{{ smilie.identifier }}" />
+                {% endfor %}
+                </div>
+            </div>
+            <div class="panel-collapse collapse in" id="collapseOne">
+                <div class="panel-body">
+		             
+ <ul id="channelMessagesList" class="chat" style="height: 200px; overflow: auto">
+                                    
+                       
+                    </ul>
+</div>
+
+                
+            </div>
+        </div>
+    
+        <!-- Chat -->
+    
+    </div>
+    <div class="col-md-2" style="border-left: 1px solid black; min-height: 100%;" align="center">
+    
+        <h3>Kanal Info</h3>
+        <strong>{{ channel.viewers }}</strong> Benutzer gucken mit dir <strong>{{ channel.name }}</strong> 
+        <p></p>
+        
+        <table class="table" align="center" style="text-align: center;"> 
+        <tr>
+            <th colspan="2" align="center" style="text-align: center;">Was geht ab?</th>
+        </tr>
+            
+            {% set on_tv = on_tv(channel.tvguideapi_id) %}
+<tr>
+        
+                <td width="20%">Jetzt</td>
+                <td>{{ on_tv.title.de }}</td>
+            </tr>
+            {% for programm in continuous_channel_programm_list(channel.tvguideapi_id, 5) %}
+           <tr>
+        
+                <td width="20%">{{ programm.start|date('H:i') }}</td>
+                <td>{{ programm.title.de }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        
+        <h3>Sender wechseln</h3>
+        <div class="form-group">
+            <div class="input-group">
+                <select name="channel" id="channel" class="form-control">
+                    {% for c in channels  %}
+                    <option value="{{ base_url() }}channel/{{ c.public_id }}"{% if c.id  == channel.id %} selected=""{% endif %} {% if c.id  == channel.id %} disabled=""{% endif %}>{{ c.name }}</option>
+                    {% endfor %}
+                </select>
+               <button type="button" class="btn btn-raised btn-block btn-lg btn-success channelSwitch">wechseln</button>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+var last = 0;
+
+var entityMap = {
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  '"': '&quot;',
+  "'": '&#39;',
+  "/": '&#x2F;'
+};
+
+function escapeHtml(string) {
+  return String(string).replace(/[&<>"'\/]/g, function (s) {
+    return entityMap[s];
+  });
+}
+
+function cleanup(){
+    
+    $('.chatmessage').each(function(){
+        
+        var seconds_left = (Math.floor(Date.now() / 1000) - $(this).attr('data-chat-message-created'));
+        if(seconds_left > 600) $(this).remove();
+        
+    });
+    
+}
+
+function replace_smilies(){
+    if($('.chat-body').length){
+        $('.chat-body').each(function(){
+           $(this).html( $(this).html().replace(/\:([^\d\W]+)\:/g, '<img src="'+base_url+'assets/img/smilies/$1.png" />') );
+        });
+    }
+}
+
+    function refreshChannelChat(channel_id){
+        
+        $.getJSON(base_url+'ajax/channel/messages', {'channel_id':channel_id, 'last':last}, function(response){
+                
+                if(response.success)
+                {
+                    
+                    $.each(response.data.messages, function(index, data){
+                        $('#channelMessagesList').append('<li data-chat-message-created="'+data.created_at+'" class="right clearfix chatmessage"><div class="chat-body clearfix"><div class="header"><small class="text-muted"><time class="timeago" datetime="'+data.timeago+'">'+data.time+'</time></small><strong class="pull-right primary-font">'+data.username+'</strong></div><p>'+escapeHtml(data.comment)+'</p></div></li>');
+                    });
+                    replace_smilies();
+                    if(response.data.last_message_id != 0) last = response.data.last_message_id;
+                    $("time.timeago").timeago();
+		    var ul = $("#channelMessagesList");
+    		    ul.scrollTop(div.prop('scrollHeight'));
+                    
+                }
+                
+            });
+        
+    }
+$(document).ready(function(){
+    
+     setInterval(function(){
+        cleanup();
+     }, 60000)
+    
+    setInterval(function(){
+        
+        $.post(base_url+'ajax/channel/heartbeat', {'channel_id':'{{ channel.id }}'}, function(response){
+            if(response.success == false) window.location = base_url+'logout';
+        });
+        
+    }, 30000);
+    
+    
+    $('.bs').off('click').on('click', function(e){
+        
+        if($('.chatbox').width() == '720')
+        {
+            $('.chatbox').width('960px');
+        } 
+        else 
+        {
+            $('.chatbox').width('720px');
+        }
+        
+        if (player.getWidth() ==  720) {
+            player.resize(960, 540);
+        } else {
+            player.resize(720, 400);
+        }
+        
+        
+    });
+    
+    $('#channelMessage').on('keypress', function (e) {
+        if (e.which == 13) {
+    $('.sendChannelMessage').trigger('click');
+    return false;    //<---- Add this line
+  }
+});
+    
+    $('.sendChannelMessage').off('click').on('click', function(){
+        
+        var channelMessage = $('input[name=channelMessage]');
+        var channel_id = $(this).attr('data-channel-id');
+        
+        if(channelMessage.val().length == 0)
+        {
+            alert('Bitte gebe eine Nachricht an');
+            return;
+        }
+        
+        $.post(base_url+'ajax/channel/message/push', {'channel_message':channelMessage.val(),'channel_id':channel_id}, function(response){
+            
+            if(response.success)
+            {
+                
+        		last = response.data.last_message_id;		
+        
+        		$('#channelMessagesList').prepend('<li data-chat-message-created="'+response.data.message.created_at+'" class="right clearfix chatmessage"><div class="chat-body clearfix"><div class="header"><small class="text-muted"><time class="timeago" datetime="'+response.data.message.timeago+'">'+response.data.message.time+'</time></small><strong class="pull-right primary-font">'+response.data.message.username+'</strong></div><p>'+escapeHtml(response.data.message.comment)+'</p></div></li>');
+                channelMessage.val('');     
+                replace_smilies();
+           
+            }
+            else
+            {
+                
+            }
+            
+        });
+        
+    });
+
+    
+    setInterval(function(){    
+        refreshChannelChat('{{ channel.id }}');
+        replace_smilies();
+    }, 5000);
+    
+});
+</script>
+
+{% endblock %}

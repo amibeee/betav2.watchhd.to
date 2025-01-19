@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="2e7d61fbe711fd5ae3e04a83498b0b4d" tvg-name="DE: Sky Sport News HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_News_HD.png" group-title="Sky Sport",DE: Sky Sport News HD (Web 1080p)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/310089.ts
+#EXTINF:-1 timeshift="7" tvg-id="0e7d270211385af811339c4f7d84184e" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/102.ts
+#EXTINF:-1 tvg-id="a3c5010242de507e274d2183de0acb76" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/103.ts
+#EXTINF:-1 tvg-id="1e50b3cf9a6b6d2d1ceca63eb71b7047" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_UHD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/105.ts
+#EXTINF:-1 timeshift="5" tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/130804.ts
+#EXTINF:-1 timeshift="5" tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Sat)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/129356.ts
+#EXTINF:-1 tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (720p)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/279.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/310124.ts
+#EXTINF:-1 timeshift="5" tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Sat)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/129357.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 1 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_01.png" group-title="DAZN Backups",DE: DAZN Event 1 HD (Backup)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/108575.ts
+#EXTINF:-1 timeshift="5" tvg-id="d4949a12c28d43e2a10f1216e1722d6a" tvg-name="DE: Sky Sport Bundesliga 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Sat)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/129358.ts
+#EXTINF:-1 timeshift="7" tvg-id="a8613361176f2c6da097651edd0a179c" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_1_HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/139249.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 2 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_02.png" group-title="DAZN Backups",DE: DAZN Event 2 HD (Backup)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/108576.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 3 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_03.png" group-title="DAZN Backups",DE: DAZN Event 3 HD (Backup)
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/108577.ts
+#EXTINF:-1 tvg-id="DE: Magenta Sport 1" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/113720.ts
+#EXTINF:-1 tvg-id="DE: Magenta Sport 2" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/CaseIH/Lykershausen12!/113721.ts

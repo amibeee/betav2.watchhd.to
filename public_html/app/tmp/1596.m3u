@@ -1,0 +1,234 @@
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Amazon Prime Sport HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c1b4012988c14ed320f566d04962f6a6.png" group-title="Sky Sport",DE: Amazon Prime Sport HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/9313.ts
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Prime Video Sportsbar HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c1b4012988c14ed320f566d04962f6a6.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/79717.ts
+#EXTINF:-1 tvg-id="034917ebfe1e21e072221336a5aadd49" tvg-name="DE: Prime Video Sportsbar HD (720p)" tvg-logo="" group-title="Sky Sport",DE: Prime Video Sportsbar HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/99434.ts
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD: NFL ENDZN" tvg-logo="http://iptv.watchhd.cc:5050/images/324e77d32ce916177d0c8211582f4842.png" group-title="Sky Sport",DE: DAZN Event Stream HD: NFL ENDZN
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/9383.ts
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN 1 HD (variable Bitrate) Test" tvg-logo="" group-title="Sky Sport",DE: DAZN 1 HD (variable Bitrate) Test
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/68482.ts
+#EXTINF:-1 tvg-id="09e2e9a519f45ab870b7521c3c755f58" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/102.ts
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25959.ts
+#EXTINF:-1 timeshift="3" tvg-id="DAZN1HD" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/ded68ac5d741f22d898ddbc23b1b878b.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/357.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DE: DAZN Bar 1 Mobile" tvg-logo="http://iptv.watchhd.cc:5050/images/d66b4696e485b5fff6febadde53cd1f3.png" group-title="Sky Sport",DE: DAZN Bar 1 Mobile
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10240.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/103.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25961.ts
+#EXTINF:-1 timeshift="3" tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/d9f8e48f14c67bf7e141f56e4ba043b6.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/358.ts
+#EXTINF:-1 tvg-id="d34d4389dcf60027d8aef6687cd4cfff" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/e0477e0e736d7e84ed58b3e98c0a1ef6.png" group-title="Sky Sport",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/105.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE: DAZN Bar 2 Mobile" tvg-logo="http://iptv.watchhd.cc:5050/images/bdf12072c3b708c4b566c1b1bcf03af6.png" group-title="Sky Sport",DE: DAZN Bar 2 Mobile
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10241.ts
+#EXTINF:-1 tvg-id="0cf7418f9e8e5d90d09853cc540ef002" tvg-name="DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (variable Bitrate) Test
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/68481.ts
+#EXTINF:-1 tvg-id="cb3a505c9f21b1dc5ae14c34ca7d3777" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/6d291917ce8c437891a0d481742e7f41.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/623.ts
+#EXTINF:-1 tvg-id="cb3a505c9f21b1dc5ae14c34ca7d3777" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/6d291917ce8c437891a0d481742e7f41.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/106.ts
+#EXTINF:-1 timeshift="2" tvg-id="ca7984478cccf974b49d44cb9ac19368" tvg-name="DE: Sky Sport Bundesliga 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/159c464c53f5370dd2140997727439db.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/278.ts
+#EXTINF:-1 tvg-id="ca7984478cccf974b49d44cb9ac19368" tvg-name="DE: Sky Sport Bundesliga 1 (Mobil)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/391.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/cb25512e7c76edbb195603cca0277ff0.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/107.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/cb25512e7c76edbb195603cca0277ff0.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25944.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/083114059efd0af55aaf28cdecc1aed5.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/279.ts
+#EXTINF:-1 tvg-id="2b3c5758c2604f733a7a93ce59cc0b10" tvg-name="DE: Sky Sport Bundesliga 2 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10439.ts
+#EXTINF:-1 tvg-id="SKYBU3" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/89d6d4d3d261f21d6090b2c6214920d8.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/108.ts
+#EXTINF:-1 tvg-id="SKYB3HD" tvg-name="DE: Sky Sport Bundesliga 3 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/89d6d4d3d261f21d6090b2c6214920d8.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25948.ts
+#EXTINF:-1 tvg-id="SKYBU3" tvg-name="DE: Sky Sport Bundesliga 3 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/b6d103758b04e5b15c41a0e5e5823f2b.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/280.ts
+#EXTINF:-1 tvg-id="SKYB3HD" tvg-name="DE: Sky Sport Bundesliga 3 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10440.ts
+#EXTINF:-1 tvg-id="63e1df0dc30145ca51a6c18289ef2b03" tvg-name="DE: Sky Sport Bundesliga 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3306b0dc459ccef0feff4b80ce6585dd.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/109.ts
+#EXTINF:-1 tvg-id="63e1df0dc30145ca51a6c18289ef2b03" tvg-name="DE: Sky Sport Bundesliga 4 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/3306b0dc459ccef0feff4b80ce6585dd.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25949.ts
+#EXTINF:-1 tvg-id="63e1df0dc30145ca51a6c18289ef2b03" tvg-name="DE: Sky Sport Bundesliga 4 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/f7d4fc2d498e2486d272fb152f138636.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/281.ts
+#EXTINF:-1 tvg-id="63e1df0dc30145ca51a6c18289ef2b03" tvg-name="DE: Sky Sport Bundesliga 4 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10441.ts
+#EXTINF:-1 tvg-id="eebb0d99fd3a9dc4b1a111e7eeacc4f5" tvg-name="DE: Sky Sport Bundesliga 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f9edb297dfb029bae74536c3568c2148.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/110.ts
+#EXTINF:-1 tvg-id="eebb0d99fd3a9dc4b1a111e7eeacc4f5" tvg-name="DE: Sky Sport Bundesliga 5 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/f9edb297dfb029bae74536c3568c2148.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77107.ts
+#EXTINF:-1 tvg-id="eebb0d99fd3a9dc4b1a111e7eeacc4f5" tvg-name="DE: Sky Sport Bundesliga 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/282.ts
+#EXTINF:-1 tvg-id="eebb0d99fd3a9dc4b1a111e7eeacc4f5" tvg-name="DE: Sky Sport Bundesliga 5 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27173.ts
+#EXTINF:-1 tvg-id="7451a98218b487b835f2231b8cb3b94a" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/242a795ba147f23207cfa77cbc5eca1a.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/111.ts
+#EXTINF:-1 tvg-id="7451a98218b487b835f2231b8cb3b94a" tvg-name="DE: Sky Sport Bundesliga 6 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/a50332da9a9876f3961b305600588e73.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77108.ts
+#EXTINF:-1 tvg-id="7451a98218b487b835f2231b8cb3b94a" tvg-name="DE: Sky Sport Bundesliga 6 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/aa5e6e864130e2f050150518453cd110.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/283.ts
+#EXTINF:-1 tvg-id="7451a98218b487b835f2231b8cb3b94a" tvg-name="DE: Sky Sport Bundesliga 6 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27174.ts
+#EXTINF:-1 tvg-id="63fd788ecfb49b1f94a84b690e84192e" tvg-name="DE: Sky Sport Bundesliga 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f76fa0adf565b15d08f710683c63555b.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/112.ts
+#EXTINF:-1 tvg-id="63fd788ecfb49b1f94a84b690e84192e" tvg-name="DE: Sky Sport Bundesliga 7 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/f76fa0adf565b15d08f710683c63555b.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/78637.ts
+#EXTINF:-1 tvg-id="63fd788ecfb49b1f94a84b690e84192e" tvg-name="DE: Sky Sport Bundesliga 7 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/f76fa0adf565b15d08f710683c63555b.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10275.ts
+#EXTINF:-1 tvg-id="70bd66b69e03547b29a70f620f016f00" tvg-name="DE: Sky Sport Bundesliga 7 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27175.ts
+#EXTINF:-1 tvg-id="1aa960cb74383d58d0b416b0bb796539" tvg-name="DE: Sky Sport Bundesliga 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4e5eb16351149ac6437c9c819a3dfb45.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/113.ts
+#EXTINF:-1 tvg-id="1aa960cb74383d58d0b416b0bb796539" tvg-name="DE: Sky Sport Bundesliga 8 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/4e5eb16351149ac6437c9c819a3dfb45.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/78638.ts
+#EXTINF:-1 tvg-id="a6a54341ce488e9515e3191aeed7697f" tvg-name="DE: Sky Sport Bundesliga 8 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e5eb16351149ac6437c9c819a3dfb45.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10276.ts
+#EXTINF:-1 tvg-id="068cb5f14b87a7981ca407a84f676c08" tvg-name="DE: Sky Sport Bundesliga 8 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27176.ts
+#EXTINF:-1 tvg-id="7e2888218df224f10c14ea405dea3eab" tvg-name="DE: Sky Sport Bundesliga 9 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5e3a02bdd5683856711cfe13a17fc76e.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/114.ts
+#EXTINF:-1 tvg-id="7e2888218df224f10c14ea405dea3eab" tvg-name="DE: Sky Sport Bundesliga 9 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/b337d1de9b052712f9f23a44e0a6a3f8.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77109.ts
+#EXTINF:-1 tvg-id="7e2888218df224f10c14ea405dea3eab" tvg-name="DE: Sky Sport Bundesliga 9 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10277.ts
+#EXTINF:-1 tvg-id="7e2888218df224f10c14ea405dea3eab" tvg-name="DE: Sky Sport Bundesliga 9 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27177.ts
+#EXTINF:-1 tvg-id="bf4d77bacc060219a792ce41cc82058f" tvg-name="DE: Sky Sport Bundesliga 10 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/124d44ca023e3acb29bfa17fb3f1b8a3.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/115.ts
+#EXTINF:-1 tvg-id="bf4d77bacc060219a792ce41cc82058f" tvg-name="DE: Sky Sport Bundesliga 10 HD #2" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77110.ts
+#EXTINF:-1 tvg-id="bf4d77bacc060219a792ce41cc82058f" tvg-name="DE: Sky Sport Bundesliga 10 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/124d44ca023e3acb29bfa17fb3f1b8a3.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10278.ts
+#EXTINF:-1 tvg-id="bf4d77bacc060219a792ce41cc82058f" tvg-name="DE: Sky Sport Bundesliga 10 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27187.ts
+#EXTINF:-1 tvg-id="b1e9d0d735bdf6b602ba2ead3d6864ce" tvg-name="DE: Sky Sport UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/ff8dc8b825ce55a28e88654b2aad6dd7.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/116.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/621.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/117.ts
+#EXTINF:-1 timeshift="3" tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/284.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 (Mobil)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/444.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/7b0f16a654148643b0435e5c9f806ee3.png" group-title="Sky Sport",DE: Sky Sport 2 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/118.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/7b0f16a654148643b0435e5c9f806ee3.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/622.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 2 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/10442.ts
+#EXTINF:-1 tvg-id="2a6a056930a7f517bc284810df6f1e44" tvg-name="DE: Sky Sport 2 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/7b0f16a654148643b0435e5c9f806ee3.png" group-title="Sky Sport",DE: Sky Sport 2 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/285.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9306bbb893fcad45bda46f08b4e76392.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/119.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/9306bbb893fcad45bda46f08b4e76392.png" group-title="Sky Sport",DE: Sky Sport 3 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77133.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_3HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/286.ts
+#EXTINF:-1 tvg-id="f3fa2df8765c06bf2c7b7eb29f95c49a" tvg-name="DE: Sky Sport 3 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 3 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27178.ts
+#EXTINF:-1 tvg-id="8af39bf104ffb0725c741c4acba17874" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0db7151e7eed1dfebb995677788b7010.png" group-title="Sky Sport",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/120.ts
+#EXTINF:-1 tvg-id="8af39bf104ffb0725c741c4acba17874" tvg-name="DE: Sky Sport 4 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/0db7151e7eed1dfebb995677788b7010.png" group-title="Sky Sport",DE: Sky Sport 4 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77134.ts
+#EXTINF:-1 tvg-id="8af39bf104ffb0725c741c4acba17874" tvg-name="DE: Sky Sport 4 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/0db7151e7eed1dfebb995677788b7010.png" group-title="Sky Sport",DE: Sky Sport 4 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/287.ts
+#EXTINF:-1 tvg-id="b8740a7e53baf0128f508b70d44332aa" tvg-name="DE: Sky Sport 4 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 4 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27179.ts
+#EXTINF:-1 tvg-id="7eea3bfc96ab97b4ce1c54bc33852e9c" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a31f392db59a5e941c43a5a5bc87d40d.png" group-title="Sky Sport",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/121.ts
+#EXTINF:-1 tvg-id="7eea3bfc96ab97b4ce1c54bc33852e9c" tvg-name="DE: Sky Sport 5 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/a31f392db59a5e941c43a5a5bc87d40d.png" group-title="Sky Sport",DE: Sky Sport 5 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77135.ts
+#EXTINF:-1 tvg-id="7eea3bfc96ab97b4ce1c54bc33852e9c" tvg-name="DE: Sky Sport 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_5HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/288.ts
+#EXTINF:-1 tvg-id="7eea3bfc96ab97b4ce1c54bc33852e9c" tvg-name="DE: Sky Sport 5 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 5 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27180.ts
+#EXTINF:-1 tvg-id="4cb0480955d304c4b676eec3d524ff52" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2aac71fc29113ca65ae133d009c19481.png" group-title="Sky Sport",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/122.ts
+#EXTINF:-1 tvg-id="4cb0480955d304c4b676eec3d524ff52" tvg-name="DE: Sky Sport 6 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/2aac71fc29113ca65ae133d009c19481.png" group-title="Sky Sport",DE: Sky Sport 6 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77137.ts
+#EXTINF:-1 tvg-id="4cb0480955d304c4b676eec3d524ff52" tvg-name="DE: Sky Sport 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_6HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/289.ts
+#EXTINF:-1 tvg-id="4cb0480955d304c4b676eec3d524ff52" tvg-name="DE: Sky Sport 6 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 6 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27181.ts
+#EXTINF:-1 tvg-id="a21f9a9ae202fce3ef6d6047ff52851b" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3c9debc406d052179cb56d05b2022b57.png" group-title="Sky Sport",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/123.ts
+#EXTINF:-1 tvg-id="a21f9a9ae202fce3ef6d6047ff52851b" tvg-name="DE: Sky Sport 7 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/3c9debc406d052179cb56d05b2022b57.png" group-title="Sky Sport",DE: Sky Sport 7 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/77139.ts
+#EXTINF:-1 tvg-id="a21f9a9ae202fce3ef6d6047ff52851b" tvg-name="DE: Sky Sport 7 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_7HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16334.ts
+#EXTINF:-1 tvg-id="a21f9a9ae202fce3ef6d6047ff52851b" tvg-name="DE: Sky Sport 7 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 7 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27182.ts
+#EXTINF:-1 tvg-id="SKYS8HD" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/bbc6f29faf374b79283ac48614750a41.png" group-title="Sky Sport",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/124.ts
+#EXTINF:-1 tvg-id="SKYS8HD" tvg-name="DE: Sky Sport 8 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/bbc6f29faf374b79283ac48614750a41.png" group-title="Sky Sport",DE: Sky Sport 8 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/100190.ts
+#EXTINF:-1 tvg-id="SKYS8HD" tvg-name="DE: Sky Sport 8 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/bbc6f29faf374b79283ac48614750a41.png" group-title="Sky Sport",DE: Sky Sport 8 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16335.ts
+#EXTINF:-1 tvg-id="SKYS8HD" tvg-name="DE: Sky Sport 8 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 8 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27183.ts
+#EXTINF:-1 tvg-id="927cf55827c1ee8e0f5eca2fc2fafe83" tvg-name="DE: Sky Sport 9 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/121e036c63448b0c94335e3e6616334f.png" group-title="Sky Sport",DE: Sky Sport 9 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/100191.ts
+#EXTINF:-1 tvg-id="927cf55827c1ee8e0f5eca2fc2fafe83" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/121e036c63448b0c94335e3e6616334f.png" group-title="Sky Sport",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/125.ts
+#EXTINF:-1 tvg-id="927cf55827c1ee8e0f5eca2fc2fafe83" tvg-name="DE: Sky Sport 9 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/121e036c63448b0c94335e3e6616334f.png" group-title="Sky Sport",DE: Sky Sport 9 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16339.ts
+#EXTINF:-1 tvg-id="927cf55827c1ee8e0f5eca2fc2fafe83" tvg-name="DE: Sky Sport 9 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 9 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27184.ts
+#EXTINF:-1 tvg-id="08bf3a2107dd1f98fec4ff3cb75ca684" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ae5368550f2612b3fee9f6ff58900ceb.png" group-title="Sky Sport",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/126.ts
+#EXTINF:-1 tvg-id="08bf3a2107dd1f98fec4ff3cb75ca684" tvg-name="DE: Sky Sport 10 HD #2" tvg-logo="http://iptv.watchhd.cc:5050/images/ae5368550f2612b3fee9f6ff58900ceb.png" group-title="Sky Sport",DE: Sky Sport 10 HD #2
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/100192.ts
+#EXTINF:-1 tvg-id="08bf3a2107dd1f98fec4ff3cb75ca684" tvg-name="DE: Sky Sport 10 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_10HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16340.ts
+#EXTINF:-1 tvg-id="08bf3a2107dd1f98fec4ff3cb75ca684" tvg-name="DE: Sky Sport 10 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 10 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27185.ts
+#EXTINF:-1 tvg-id="5f42a185f384864ad57f07f4b60261f8" tvg-name="DE: Sky Sport 11 HD" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 11 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16310.ts
+#EXTINF:-1 tvg-id="5f42a185f384864ad57f07f4b60261f8" tvg-name="DE: Sky Sport 11 HD (720p)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 11 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/16341.ts
+#EXTINF:-1 tvg-id="5f42a185f384864ad57f07f4b60261f8" tvg-name="DE: Sky Sport 11 (Mobil)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 11 (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27188.ts
+#EXTINF:-1 tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27117.ts
+#EXTINF:-1 tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD (Kabel)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/72199.ts
+#EXTINF:-1 timeshift="3" tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/27171.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d1c231f363553ba225f029e3285b95dd.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/155.ts
+#EXTINF:-1 tvg-id="4c43f62ba52fa117284f3afe84e0ee2e" tvg-name="DE: Eurosport 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/d1c231f363553ba225f029e3285b95dd.png" group-title="Sky Sport",DE: Eurosport 1 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25981.ts
+#EXTINF:-1 tvg-id="4c43f62ba52fa117284f3afe84e0ee2e" tvg-name="DE: Eurosport 1 HD (Mobil)" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="Sky Sport",DE: Eurosport 1 HD (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25983.ts
+#EXTINF:-1 tvg-id="95b07115a8a25f11c02addeef48eb7c6" tvg-name="DE: Eurosport 2 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/a67d320dfcf6f80fb97f9442773e6bb6.png" group-title="Sky Sport",DE: Eurosport 2 HD (720p)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25982.ts
+#EXTINF:-1 tvg-id="95b07115a8a25f11c02addeef48eb7c6" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a67d320dfcf6f80fb97f9442773e6bb6.png" group-title="Sky Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/156.ts
+#EXTINF:-1 tvg-id="95b07115a8a25f11c02addeef48eb7c6" tvg-name="DE: Eurosport 2 HD (Mobil)" tvg-logo="http://iptv.watchhd.cc:5050/images/a67d320dfcf6f80fb97f9442773e6bb6.png" group-title="Sky Sport",DE: Eurosport 2 HD (Mobil)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/25984.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Fußball  HD (Vorbereitungsspiele etc.)" tvg-logo="" group-title="Sky Sport",DE: Magenta Fußball  HD (Vorbereitungsspiele etc.)
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/67525.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 1" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6969b726996b50e6e3499c1836e9b3b1.png" group-title="Sky Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/169.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 2" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3f10e31ade846faac377922c1b1cbfef.png" group-title="Sky Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/170.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 3" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 3 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/171.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 4" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 4 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/173.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 5" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 5 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/176.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 6" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 6 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/175.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 7" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 7 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/597.ts
+#EXTINF:-1 tvg-id="MyTeam TV - Eishockey 8" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport 8 HD
+http://iptv.watchhd.cc:5050/maximolo/YRe79wP1A2/696.ts

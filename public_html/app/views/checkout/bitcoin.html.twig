@@ -1,0 +1,37 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Checkout
+{% endblock %}
+
+{% block content %}
+	<div class="f-settings-container-fluid">
+<h1>{{ t('Deine Bestellung') }}</h1>
+	<div class="friend-settings-container-fluid">
+	
+					<div class="alert alert-warning notification" id='notification2'>
+						<span class="close-btn" onclick="closeNotification('notification2')">&times;</span>
+<div class="notifications"><center>Du erhälst deine Premiumlaufzeit ca. 1 Stunde nach deinem Kauf.</center></div>
+</div>
+<center>
+<strong><p>{{ t('Produkt') }}:</strong> {{ data.product.name }}</p>
+
+
+<strong><p>Zahlungsmethode:</strong> Trocador</p>
+<br>
+</div>
+</center>
+
+	<div class="friend-settings-container-fluid">
+
+{{ form_open()|raw }}
+{% if data.product.type == 'premium' %}
+<div class="form-group">
+    <label>{{ t('Gutschein (optional)') }}</label>
+    <input type="text" name="voucher" id="voucher" class="form-control" />
+</div>
+{% endif %}
+<input type="submit" class="btn btn-raised btn-success btn-lg btn-block" value="{{ t('jetzt mit Trocador zahlen') }}" />
+{{ form_close()|raw }}
+</div>
+{% endblock %}

@@ -1,0 +1,14 @@
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/4740.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_NITRO_HD.png" group-title="Free-TV",DE: Nitro HD
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/35.ts
+#EXTINF:-1 timeshift="2" tvg-id="MOTVHD" tvg-name="DE: Motorvision HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision HD
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/45.ts
+#EXTINF:-1 tvg-id="RMNCHDK" tvg-name="DE: Romance TV HD" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Free-TV",DE: Romance TV HD
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/62.ts
+#EXTINF:-1 tvg-id="141ae99453b7dc4d9b33cd104c2dbe39" tvg-name="DE: Sky One HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Sat)
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/136085.ts
+#EXTINF:-1 tvg-id="4bb8eb759cfc83307c631cc524383acd" tvg-name="DE: Sky Cinema Classics HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Cinema_Classics_HD.png" group-title="Sky Film",DE: Sky Cinema Classics HD (Web 1080p)
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/310059.ts
+#EXTINF:-1 tvg-id="2432a2daeff86d4f364774ba36a588af" tvg-name="DE: Sky Comedy HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Comedy_HD.png" group-title="Sky Film",DE: Sky Comedy HD (720p)
+http://iptv.watchhd.cc:5050/wawawala4556/ScFelhewUlPx/43776.ts

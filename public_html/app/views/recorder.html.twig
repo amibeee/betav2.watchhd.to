@@ -1,0 +1,31 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Videorecorder |  
+{% endblock %}
+
+{% block content %}
+    <a href="{{ base_url() }}recorderwizward" class="btn btn-primary btn-lg btn-block btn-raised">Neue Aufnahme planen</a>
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Datum</th>
+                <th>Titel</th>
+                <th>Sender</th>
+                <th>Laufzeit</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12.10.2016</td>
+                <td>Die Liebe seines Lebens - The Railway Man</td>
+                <td>Sky Cinema</td>
+                <td>120 Min.</td>
+                <td>Aufnahme läuft</td>
+                <td><a href="#" class="btn btn-raised btn-default btn-xs" style="margin: 0;">Download</a></td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}

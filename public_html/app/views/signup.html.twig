@@ -1,0 +1,39 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}{{ t('Benutzerkonto erstellen') }}{% endblock %}
+
+{% block content %}
+<div class="login-container">
+    <div class="logocontainerlog">
+        <img src="{{ base_url() }}/assets/assets/icons/Logowhite.svg" alt="Logo" class="logo-loginpage">
+        <h2 class="welcomesign">{{ t('Willkommen!') }}</h2>
+        <p class="subtitlesign">{{ t('Erstelle ein Konto, um das HD-Erlebnis zu genießen.') }}</p>
+    </div>
+
+    <form method="POST"class="signinputs">
+{{ form_open({'action': base_url() ~ 'signup', 'method': 'post'})|raw }}
+<input type="hidden" name="friend" value="{{ input_post('friend') }}">
+        
+        <input type="text" name="fG73qkmf3xFsk6sp5J722GqPbFyC6zdzAnfX6Rv34G" id="fG73qkmf3xFsk6sp5J722GqPbFyC6zdzAnfX6Rv34G" class="input-username" placeholder="{{ t('Benutzername') }}" value="{{ form_value('fG73qkmf3xFsk6sp5J722GqPbFyC6zdzAnfX6Rv34G') }}" />
+        
+        <input type="email" name="Sqx8gVsJKHpkEQyCcMBRa6mh5QjgzR6BnjwtQKhVrv" id="Sqx8gVsJKHpkEQyCcMBRa6mh5QjgzR6BnjwtQKhVrv" class="input-username" placeholder="{{ t('Email Adresse') }}" value="{{ form_value('Sqx8gVsJKHpkEQyCcMBRa6mh5QjgzR6BnjwtQKhVrv') }}" />
+        
+        <div class="captcha">
+            {{ captcha|raw }}
+        </div>
+
+        <button type="submit" name="submitBtn" class="button-login">{{ t('Benutzerkonto erstellen') }}</button>
+        {{ form_close()|raw }}
+    </form>
+</div>
+<script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const friend = urlParams.get('friend');
+                    if (friend) {
+                        console.log(friend);
+                    }
+                    document.querySelector('input[name="friend"]').value = friend;
+                });
+            </script>
+{% endblock %}

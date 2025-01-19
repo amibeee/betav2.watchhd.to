@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/2.ts
+#EXTINF:-1 timeshift="5" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/1.ts
+#EXTINF:-1 tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/356630.ts
+#EXTINF:-1 timeshift="5" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/4678.ts
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/177153.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: ZDF" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/4740.ts
+#EXTINF:-1 timeshift="3" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/3.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (Kabel)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/130704.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/379.ts
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="UHD",DE: RTL UHD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/34.ts
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL PLUS HD" tvg-logo="http://my.unistb.com:2082/picons/croatia/rtlplus.hr.png" group-title="Ex-Yu Kroatien",HR: RTL PLUS HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/335054.ts

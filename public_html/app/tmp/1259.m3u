@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN.png" group-title="Sky Sport",DE: DAZN Event Stream HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/9383
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/102
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/357
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_1.png" group-title="Sky Sport",DE: DAZN Bar 1 Mobile
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/10240
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/103
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/358
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_2.png" group-title="Sky Sport",DE: DAZN Bar 2 Mobile
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/10241

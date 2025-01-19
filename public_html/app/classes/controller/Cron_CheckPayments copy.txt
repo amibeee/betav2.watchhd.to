@@ -1,0 +1,162 @@
+<?php
+// Database connection settings
+$host = 'localhost';
+$dbname = 'sucuk_site';
+$username = 'sucuk_site';
+$password = '6LVHAtKbaM6v1HGV';
+
+// API Key and configuration
+define('API_KEY', 'ik3r4BL9WcXwVB6qa61mNaf3Tc5YUY');
+define('STATUS_URL', 'https://trocador.app/de/anonpay/status/');
+define('MAX_RETRIES', 3);
+define('RETRY_DELAY', 0); // seconds
+
+// Status mappings
+$status_mappings = [
+    'anonpaynew' => 'pending',
+    'waiting' => 'pending',
+    'confirming' => 'confirming',
+    'sending' => 'processing',
+    'paid partially' => 'partial',
+    'finished' => 'paid',
+    'failed' => 'failed',
+    'expired' => 'expired',
+    'halted' => 'failed',
+    'refunded' => 'refunded'
+];
+
+// Create a new MySQLi connection
+$mysqli = createDatabaseConnection($host, $username, $password, $dbname);
+
+// Fetch all pending payments with idtrc not null
+$query = "SELECT id, idtrc, status_trc FROM user_payments 
+          WHERE status IN ('pending', 'in_exchange') 
+          AND idtrc IS NOT NULL";
+$result = $mysqli->query($query);
+
+if ($result) {
+    while ($row = $result->fetch_assoc()) {
+        $idtrc = $row['idtrc'];
+        $payment_id = $row['id'];
+
+        $status = fetchPaymentStatus($idtrc);
+        if ($status !== null) {
+            updatePaymentStatus($mysqli, $payment_id, $idtrc, $status, $status_mappings);
+        }
+    }
+} else {
+    error_log("Error fetching payments: " . $mysqli->error);
+}
+
+// Close the database connection
+$mysqli->close();
+
+/**
+ * Create a new MySQLi database connection.
+ */
+function createDatabaseConnection($host, $username, $password, $dbname)
+{
+    $mysqli = new mysqli($host, $username, $password, $dbname);
+    if ($mysqli->connect_error) {
+        error_log("Database connection failed: " . $mysqli->connect_error);
+        die("Connection failed: " . $mysqli->connect_error);
+    }
+    return $mysqli;
+}
+
+/**
+ * Fetch the payment status from the API.
+ */
+function fetchPaymentStatus($idtrc)
+{
+    $headers = [
+        "API-Key: " . API_KEY,
+        "Content-Type: application/json",
+        "Accept: application/json"
+    ];
+
+    $options = [
+        "http" => [
+            "method" => "GET",
+            "header" => implode("\r\n", $headers)
+        ]
+    ];
+
+    $context = stream_context_create($options);
+
+    for ($retry = 0; $retry < MAX_RETRIES; $retry++) {
+        $apiUrl = STATUS_URL . $idtrc;
+        $response = @file_get_contents($apiUrl, false, $context);
+
+        if ($response === false) {
+            sleep(RETRY_DELAY);
+            continue;
+        }
+
+        $data = json_decode($response, true);
+        if (isset($data['Status'])) {
+            error_log("Fetched status for idtrc {$idtrc}: {$data['Status']}");
+            return strtolower($data['Status']);
+        }
+
+        error_log("Invalid response for idtrc {$idtrc}: {$response}");
+        return null;
+    }
+
+    return null;
+}
+
+/**
+ * Update payment status in the database.
+ */
+function updatePaymentStatus($mysqli, $payment_id, $idtrc, $status, $status_mappings)
+{
+    $mapped_status = $status_mappings[$status] ?? 'pending';
+
+    $mysqli = createDatabaseConnection($GLOBALS['host'], $GLOBALS['username'], $GLOBALS['password'], $GLOBALS['dbname']);
+
+
+    $mysqli->begin_transaction();
+    try {
+        // Logic to determine the appropriate status
+        if ($status === 'finished') {
+            $mapped_status = 'paid';
+        } elseif ($status === 'declined') {
+            $mapped_status = 'declined';
+        } elseif ($status === 'expired') {
+            $mapped_status = 'timeout';
+        } elseif ($status === 'in_exchange') {
+            $mapped_status = 'in_exchange';
+        } else {
+            $mapped_status = $status_mappings[$status] ?? 'pending'; // Default to 'pending' if status isn't found in mappings
+        }
+    
+        // Prepare the statement to update both status_trc and status
+        $stmt = $mysqli->prepare("UPDATE user_payments SET status_trc = ?, status = ? WHERE id = ?");
+        if (!$stmt) {
+            throw new Exception("Prepare failed: " . $mysqli->error);
+        }
+    
+        // Bind the parameters (status_trc, status, payment_id)
+        if (!$stmt->bind_param("ssi", $status, $mapped_status, $payment_id)) {
+            throw new Exception("Bind failed: " . $stmt->error);
+        }
+    
+        // Execute the query
+        if (!$stmt->execute()) {
+            throw new Exception("Execute failed: " . $stmt->error);
+        }
+    
+        // Close the statement
+        $stmt->close();
+    
+        // Commit the transaction
+        $mysqli->commit();
+        error_log("Payment ID {$payment_id} updated with status_trc: {$status} and status: {$mapped_status}");
+    } catch (Exception $e) {
+        // Rollback in case of error
+        $mysqli->rollback();
+        error_log("Failed to update payment ID {$payment_id}: " . $e->getMessage());
+    }
+    
+}

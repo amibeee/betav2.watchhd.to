@@ -1,0 +1,199 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Zahlungsmethode auswählen') }}
+{% endblock %}
+
+{% block content %}
+<div class="f-settings-container-fluid" style="color:white">
+    <div align="center">
+        <div id="step1">
+            <h1>{{ t('Zahlungsmethode auswählen') }}</h1>
+            <p>{{ t('Bitte wähle die gewünschte Zahlungsmethode aus') }}</p>
+            <p>Du verlängerst deine <strong>{{ type }}</strong> mit der ID <strong>{{ line.username }} {{line.premium_until |date('d.m.Y') }} vs current {{ timestamp |date('d.m.Y')}}</strong></p>
+
+            <div class="form-group">
+
+                {% if line.premium_until >= timestamp %}
+                    {% if statmultiline == 1 %}
+                        <p>Multiline Option is already active. You cannot renew with a single line.</p>
+                    {% else %}
+                        <label class="custom-checkbox-container">
+                            <input type="checkbox" id="multiline-option" name="multiline" class="custom-checkbox" >
+                            <span class="checkbox-label">( Single Active )
+                                Multiline Option 
+                                <span class="price-increase">(70% price increase)</span>
+                            </span>
+                        </label>
+                    {% endif %}
+                {% else %}
+                    <label class="custom-checkbox-container">
+                        <input type="checkbox" id="multiline-option" name="multiline" class="custom-checkbox">
+                        <span class="checkbox-label">
+                            Multiline Option 
+                            <span class="price-increase">(70% price increase)</span>
+                        </span>
+                    </label>
+                {% endif %}
+            </div>
+
+            <center>
+                <h1>Kryptowährungen</h1>
+                <div class="alert alert-info"><b> Bitte sendet die Coins <u>NICHT</u> von Börsen. Besorgt euch eine Zwischenwallet wie Exodus oder Atomic Wallet!</div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button data-method="bitcoin" class="btn btn-raised btn-default btn-block btn-lg selectPaymentMethod">
+                            Trocador (Multiple Cryptocurrencies)
+                        </button>
+                    </div>
+                </div>
+                
+                <h1>Gutschein Einzahlungen</h1>
+                <div class="alert alert-info">Die Freischaltung bei Bezahlung mit Gutscheinen kann bis zu 48 Std. dauern.</div>
+                <div class="row">
+                    <div class="col-md-6">
+                        {% if paysafecard_allowed %}
+                        <button data-method="psc" class="btn btn-raised btn-default btn-block btn-lg selectPaymentMethod">Paysafecard</button>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-6">
+                        {% if amazon_allowed %}
+                        <button data-method="amazoncode" class="btn btn-raised btn-default btn-block btn-lg selectPaymentMethod">Amazon Gutschein</button>
+                        {% endif %}
+                    </div>
+                </div>
+            </center>
+        </div>
+
+        <div id="step2" style="display: none;">
+            <h1>{{ t('Paket auswählen') }}</h1>
+            <p>{{ t('Bitte wähle das Paket aus das du erwerben willst.') }}</p>
+            <p>Du verlängerst deine <strong>{{ type }}</strong> mit der ID <strong>{{ line.username }}</strong></p>
+            <div id="multiline-status"></div>
+            <br>
+            <div id="packets" class="packets"></div>
+            <br>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var method = '';
+    var isMultiline = {% if statmultiline == 1 %}true{% else %}false{% endif %};
+    
+    function updatePaymentButtons() {
+        if (isMultiline) {
+            $('button[data-method="psc"], button[data-method="amazoncode"]').prop('disabled', true).addClass('disabled');
+        } else {
+            $('button[data-method="psc"], button[data-method="amazoncode"]').prop('disabled', false).removeClass('disabled');
+        }
+    }
+    
+    $('#multiline-option').on('change', function() {
+        isMultiline = $(this).is(':checked');
+        updatePaymentButtons();
+    });
+    
+    $('.selectPaymentMethod').on('click', function(e){
+        method = $(this).attr('data-method');
+        console.log('Payment method selected:', method);
+        
+        var ajaxUrl = '{{ base_url() }}ajax/packets';
+        console.log('AJAX URL:', ajaxUrl);
+        
+        var ajaxData = {
+            type: '{{ uri_segment(2) }}',
+            method: method,
+            multiline: {% if statmultiline == 1 %}'1'{% else %}isMultiline ? '1' : '0'{% endif %}
+        };
+        console.log('AJAX data:', ajaxData);
+        
+        $.ajax({
+            url: ajaxUrl,
+            method: 'post',
+            data: ajaxData,
+            dataType: 'json',
+            success: function(response) {
+                console.log('AJAX success. Response:', response);
+                if (response.success) {
+                    $('#packets').empty();
+                    $('#multiline-status').text({% if statmultiline == 1 %}
+                        'Multiline Option aktiviert (Preise bereits angepasst)'
+                    {% else %}
+                        isMultiline ? 'Multiline Option aktiviert (70% Preiserhöhung)' : 'Multiline Option deaktiviert'
+                    {% endif %});
+                    
+                    if (response.data.packets && response.data.packets.length > 0) {
+                        $.each(response.data.packets, function(index, packet){
+                            var price = packet.price;  // Use price directly from server
+                            $('#packets').append(
+                                '<div class="col-md-12">' +
+                                    '<button data-product="'+packet.id+'" data-multiline="'+({% if statmultiline == 1 %}'1'{% else %}isMultiline ? '1' : '0'{% endif %})+'" data-price="'+price+'" class="Main-btn-click selectProduct">' +
+                                        packet.name + '<br>' +
+                                        'Preis: ' + (isMultiline ? (price * 1.7).toFixed(2) : price.toFixed(2)) + ' €<br>' +
+                                    '</button> <br><br>' +
+                                '</div>'
+                            );
+                        });
+                    } else {
+                        $('#packets').append('<p>No packets available for this payment method.</p>');
+                    }
+                    
+                    $('#step1').hide();
+                    $('#step2').show();
+                } else {
+                    console.error('Error fetching packets:', response.message);
+                    alert('Error fetching packets. Please try again.');
+                }
+            },
+            error: function(xhr, status, error) {
+                console.error('AJAX error:', status, error);
+                console.error('Response Text:', xhr.responseText);
+                alert('Error fetching packets. Please try again.');
+            }
+        });
+    });
+    
+    $(document).on('click', '.selectProduct', function(e){
+        var productId = $(this).attr('data-product');
+        var isMultilineProduct = {% if statmultiline == 1 %}true{% else %}$(this).attr('data-multiline') === '1'{% endif %};
+        var selectedPrice = $(this).attr('data-price');
+
+        localStorage.setItem('selectedPrice', selectedPrice);
+        localStorage.setItem('isMultiline', isMultilineProduct);
+
+        
+        var checkoutData = {
+            method: method,
+            product: productId,
+            multiline: isMultilineProduct ? '1' : '0'
+        };
+        
+        console.log('Checkout data:', checkoutData);
+        
+        $.ajax({
+            url: '{{ base_url() }}ajax/checkout',
+            method: 'POST',
+            data: checkoutData,
+            dataType: 'json',
+            success: function(response){
+                console.log('Checkout response:', response);
+                if(response.success) {
+                    window.location = '{{ base_url() }}checkout/' + response.data.checkout_token;
+                } else {
+                    alert(response.message);
+                }
+            },
+            error: function(xhr, status, error) {
+                console.error('AJAX error:', status, error);
+                console.error('Response Text:', xhr.responseText);
+                alert('Error / Timeout after 10 Mns during checkout. Please try again.');
+            }
+        });
+    });
+
+    updatePaymentButtons();
+});
+</script>
+{% endblock %}

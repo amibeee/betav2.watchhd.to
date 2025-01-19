@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/1.ts
+#EXTINF:-1 tvg-id="SuperSlamHD" tvg-name="ZA: SUPERSPORT Variety 4 HD" tvg-logo="http://iptv.watchhd.cc:80/images/5864f6cd25ede663c87f521d8b61179c.png" group-title="USA",ZA: SUPERSPORT Variety 4 HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/455.ts
+#EXTINF:-1 timeshift="7" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/4678.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/2.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (Kabel)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/177153.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/4740.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/3.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (Kabel)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/130704.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/379.ts
+#EXTINF:-1 tvg-id="RTLUHD" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/34.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/4.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD (Kabel)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/130785.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/380.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/33.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD (720p)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/18480.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/31.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Free-TV",DE: Kabel 1 HD (720p)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/372.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/5.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/356.ts
+#EXTINF:-1 timeshift="7" tvg-id="PRO7FHD" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:80/RenateFrieda/Hani2408/359.ts

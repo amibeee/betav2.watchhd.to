@@ -1,0 +1,276 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/71.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="General Streams",DE: ZDF HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/72.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1499.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1501.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1500.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/54.ts
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="DE: Kabel1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="General Streams",DE: Kabel1 Classics HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1190.ts
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="General Streams",DE: Kabel1 Doku
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1491.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/109.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL UHD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2116.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="",DE: RTL 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1498.ts
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="DE: RTL Plus" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="General Streams",DE: RTL Plus
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/167.ts
+#EXTINF:-1 tvg-id="SWR Fernsehen" tvg-name="DE: SWR HD" tvg-logo="http://logo.watchhd.cc/logo/swrhd.png" group-title="General Streams",DE: SWR HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1618.ts
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: Sixx HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="General Streams",DE: Sixx HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2302.ts
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="General Streams",DE: Super RTL HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/162.ts
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="DE: Toggo Plus" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="General Streams",DE: Toggo Plus
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1473.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang" tvg-logo="" group-title="General Streams",DE: Boomerang
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2267.ts
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="General Streams",DE: VOX HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/56.ts
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="General Streams",DE: DMAX HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/166.ts
+#EXTINF:-1 tvg-id="Sport1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="General Streams",DE: Sport 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/90.ts
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="DE: Motorvision" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="General Streams",DE: Motorvision
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1527.ts
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="DE: Auto Motor Channel HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="General Streams",DE: Auto Motor Channel HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/965.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe HD" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="General Streams",DE: Anixe HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2066.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="DE: MTV HD" tvg-logo="http://logo.watchhd.cc/logo/mtvhd.png" group-title="General Streams",DE: MTV HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/74.ts
+#EXTINF:-1 tvg-id="SAT.1Gold" tvg-name="DE: Sat 1 GOLD" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="General Streams",DE: Sat 1 GOLD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/176.ts
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="General Streams",DE: Tele 5 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2068.ts
+#EXTINF:-1 tvg-id="N24" tvg-name="DE: WELT HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="General Streams",DE: WELT HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/169.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="General Streams",DE: Disney Channel HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/61.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="DE: Disney Cinemagic HD" tvg-logo="http://logo.watchhd.cc/logo/cinemagic.png" group-title="General Streams",DE: Disney Cinemagic HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/173.ts
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.watchhd.cc/logo/disneyjunior.png" group-title="General Streams",DE: Disney Junior HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1366.ts
+#EXTINF:-1 tvg-id="xd.disney.de" tvg-name="DE: Disney XD" tvg-logo="http://logo.watchhd.cc/logo/disneyxd.png" group-title="",DE: Disney XD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/155.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="DE: Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="General Streams",DE: Nickelodeon
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/977.ts
+#EXTINF:-1 tvg-id="KI.KA" tvg-name="DE: Kika HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="General Streams",DE: Kika HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1233.ts
+#EXTINF:-1 tvg-id="3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="General Streams",DE: 3sat HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2109.ts
+#EXTINF:-1 tvg-id="arte" tvg-name="DE: Arte HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="General Streams",DE: Arte HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2137.ts
+#EXTINF:-1 tvg-id="NTV" tvg-name="DE: NTV (SD)" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="General Streams",DE: NTV (SD)
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/168.ts
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/78.ts
+#EXTINF:-1 tvg-id="BR Fernsehen Süd HD" tvg-name="DE: BR HD" tvg-logo="http://logo.watchhd.cc/logo/brhd.png" group-title="General Streams",DE: BR HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1619.ts
+#EXTINF:-1 tvg-id="MDR Thüringen" tvg-name="DE: MDR  HD" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="General Streams",DE: MDR  HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1474.ts
+#EXTINF:-1 tvg-id="rbb Berlin HD" tvg-name="DE: RBB HD" tvg-logo="https://www.gauster.info/wp-content/uploads/2018/04/einzelne-kuchenschrnke-attraktiv-1280-mandantrbb-of-einzelne-kuchenschrnke-500x500.png" group-title="General Streams",DE: RBB HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2176.ts
+#EXTINF:-1 tvg-id="WDR" tvg-name="DE: WDR HD" tvg-logo="http://logo.watchhd.cc/logo/wdrhd.png" group-title="General Streams",DE: WDR HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1170.ts
+#EXTINF:-1 tvg-id="ZDFinfo HD" tvg-name="DE: ZDF Info" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="General Streams",DE: ZDF Info
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1487.ts
+#EXTINF:-1 tvg-id="ZDF neo" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="General Streams",DE: ZDF Neo HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2065.ts
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="DE: Romance TV" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="",DE: Romance TV
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1616.ts
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="General Streams",AT: ATV HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1235.ts
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="General Streams",AT: ORF 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/142.ts
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="General Streams",AT: ORF 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/976.ts
+#EXTINF:-1 tvg-id="ORFSportPlus" tvg-name="AT: ORF Sport + HD" tvg-logo="http://logo.watchhd.cc/logo/orfsportplus.png" group-title="General Streams",AT: ORF Sport + HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/974.ts
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls 4" tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="General Streams",AT: Puls 4
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1236.ts
+#EXTINF:-1 tvg-id="ServusTV HD" tvg-name="AT: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="General Streams",AT: Servus TV HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1486.ts
+#EXTINF:-1 tvg-id="MySports 1" tvg-name="Swiss: Mysports 1 FHD" tvg-logo="http://logo.watchhd.cc/logo/MySports_ONE.png" group-title="Auslands-TV",Swiss: Mysports 1 FHD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1415.ts
+#EXTINF:-1 tvg-id="SRF 1 HD" tvg-name="Swiss: SRF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/srf1.png" group-title="Auslands-TV",Swiss: SRF 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1172.ts
+#EXTINF:-1 tvg-id="SRF zwei HD" tvg-name="Swiss: SRF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/srf2.png" group-title="Auslands-TV",Swiss: SRF 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1171.ts
+#EXTINF:-1 tvg-id="TCCinema.ch" tvg-name="Swiss: TC Cinema HD" tvg-logo="http://logo.watchhd.cc/logo/tccinema.png" group-title="Auslands-TV",Swiss: TC Cinema HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1151.ts
+#EXTINF:-1 tvg-id="TCPrime.ch" tvg-name="Swiss: TC Emotion HD" tvg-logo="http://logo.watchhd.cc/logo/tcprime.png" group-title="Auslands-TV",Swiss: TC Emotion HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sky Sport 1 HD" tvg-logo="" group-title="Auslands-TV",Swiss: TC Sky Sport 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1" tvg-logo="" group-title="",Swiss: TC Sport 1
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1240.ts
+#EXTINF:-1 tvg-id="TCStar.ch" tvg-name="Swiss: TC Action HD" tvg-logo="http://logo.watchhd.cc/logo/tcstar.png" group-title="Auslands-TV",Swiss: TC Action HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1165.ts
+#EXTINF:-1 tvg-id="Sky 1 HD" tvg-name="DE: Sky 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky1hdv2.png" group-title="General Streams",DE: Sky 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/14.ts
+#EXTINF:-1 tvg-id="SkyArts" tvg-name="DE: Sky Arts HD" tvg-logo="http://logo.watchhd.cc/logo/skyartshd.png" group-title="General Streams",DE: Sky Arts HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1496.ts
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="General Streams",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/5.ts
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="General Streams",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/6.ts
+#EXTINF:-1 tvg-id="Sky Cinema HD" tvg-name="DE: Sky Cinema HD" tvg-logo="http://logo.watchhd.cc/logo/cinemahdv2.png" group-title="General Streams",DE: Sky Cinema HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/7.ts
+#EXTINF:-1 tvg-id="Sky Cinema+1 HD" tvg-name="DE: Sky Cinema +1 HD" tvg-logo="http://logo.watchhd.cc/logo/cinemaplus1hd.png" group-title="General Streams",DE: Sky Cinema +1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/175.ts
+#EXTINF:-1 tvg-id="Sky Cinema+24 HD" tvg-name="DE: Sky Cinema +24 HD" tvg-logo="http://logo.watchhd.cc/logo/cinema24hd.png" group-title="General Streams",DE: Sky Cinema +24 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/161.ts
+#EXTINF:-1 tvg-id="Sky Emotion" tvg-name="DE: Sky Cinema Emotion" tvg-logo="http://logo.watchhd.cc/logo/skyemotion.png" group-title="General Streams",DE: Sky Cinema Emotion
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1364.ts
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="General Streams",DE: Sky Cinema Family HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/21.ts
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="DE: Sky Cinema Comedy" tvg-logo="http://logo.watchhd.cc/logo/comedyhdv2.png" group-title="General Streams",DE: Sky Cinema Comedy
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/50.ts
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-name="DE: Sky Cinema Hits HD" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="General Streams",DE: Sky Cinema Hits HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/8.ts
+#EXTINF:-1 tvg-id="Sky KRIMI" tvg-name="DE: Sky Krimi" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="General Streams",DE: Sky Krimi
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/170.ts
+#EXTINF:-1 tvg-id="Sky Nostalgie" tvg-name="DE: Sky Cinema Nostalgie" tvg-logo="http://logo.watchhd.cc/logo/skynostalgie.png" group-title="General Streams",DE: Sky Cinema Nostalgie
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1492.ts
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="General Streams",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2165.ts
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="General Streams",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2168.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="General Streams",DE: Sky Bundesliga HD 1
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2117.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1 #2" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="General Streams",DE: Sky Bundesliga HD 1 #2
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2120.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="DE: Sky Bundesliga HD 2" tvg-logo="http://logo.watchhd.cc/logo/bulihd22v2.png" group-title="General Streams",DE: Sky Bundesliga HD 2
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2124.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="DE: Sky Bundesliga HD 3" tvg-logo="http://logo.watchhd.cc/logo/bulihd33v2.png" group-title="General Streams",DE: Sky Bundesliga HD 3
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2127.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="DE: Sky Bundesliga HD 4" tvg-logo="http://logo.watchhd.cc/logo/bulihd4v2.png" group-title="General Streams",DE: Sky Bundesliga HD 4
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2132.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="DE: Sky Bundesliga HD 5" tvg-logo="http://logo.watchhd.cc/logo/bulihd55v2.png" group-title="General Streams",DE: Sky Bundesliga HD 5
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2130.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="DE: Sky Bundesliga HD 6" tvg-logo="http://logo.watchhd.cc/logo/bulihd66v2.png" group-title="General Streams",DE: Sky Bundesliga HD 6
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2119.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 7" tvg-name="DE: Sky Bundesliga HD 7" tvg-logo="http://logo.watchhd.cc/logo/bulihd77v2.png" group-title="General Streams",DE: Sky Bundesliga HD 7
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1179.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 8" tvg-name="DE: Sky Bundesliga HD 8" tvg-logo="http://logo.watchhd.cc/logo/bulihd88v2.png" group-title="General Streams",DE: Sky Bundesliga HD 8
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/961.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 9" tvg-name="DE: Sky Bundesliga HD 9" tvg-logo="http://logo.watchhd.cc/logo/bulihd99v2.png" group-title="General Streams",DE: Sky Bundesliga HD 9
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/962.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 10" tvg-name="DE: Sky Bundesliga HD 10" tvg-logo="http://logo.watchhd.cc/logo/bulihd10v2.png" group-title="General Streams",DE: Sky Bundesliga HD 10
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/963.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="General Streams",DE: Sky Sport 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD (1440p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="General Streams",DE: Sky Sport 1 HD (1440p)
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1845.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="General Streams",DE: Sky Sport 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/33.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 3" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd33v2.png" group-title="General Streams",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/41.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 4" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd44v2.png" group-title="General Streams",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/42.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 5" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd55v2.png" group-title="General Streams",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/43.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 6" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd66v2.png" group-title="General Streams",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1189.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 7" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd7.png" group-title="General Streams",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1188.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 8" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd8.png" group-title="General Streams",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1191.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 9" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd9.png" group-title="General Streams",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1192.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 10" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd10.png" group-title="General Streams",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1194.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria HD" tvg-name="DE: Sky Sport Austria HD" tvg-logo="http://logo.watchhd.cc/logo/sportaustriahd.png" group-title="General Streams",DE: Sky Sport Austria HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/138.ts
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="General Streams",DE: Sky Sport News HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/9.ts
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="DE: 13th Street HD" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="General Streams",DE: 13th Street HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/35.ts
+#EXTINF:-1 tvg-id="AE" tvg-name="DE: A&E" tvg-logo="http://logo.watchhd.cc/logo/a&ehd.png" group-title="General Streams",DE: A&E
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1257.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="DE: AXN" tvg-logo="http://logo.watchhd.cc/logo/axn.png" group-title="General Streams",DE: AXN
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/978.ts
+#EXTINF:-1 tvg-id="E! Entertainm. HD" tvg-name="DE: E! Entertainment" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="General Streams",DE: E! Entertainment
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1150.ts
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: Fox HD" tvg-logo="http://logo.watchhd.cc/logo/foxhdv2.png" group-title="General Streams",DE: Fox HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/10.ts
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="DE: Universal Channel HD" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="General Streams",DE: Universal Channel HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/700.ts
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/crimehdv2.png" group-title="General Streams",DE: RTL Crime HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/68.ts
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.watchhd.cc/logo/rtllivinghd.png" group-title="General Streams",DE: RTL Living HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2077.ts
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion HD" tvg-logo="http://logo.watchhd.cc/logo/rtlpassion.png" group-title="General Streams",DE: RTL Passion HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/156.ts
+#EXTINF:-1 tvg-id="Pro7 Fun HD" tvg-name="DE: Prosieben Fun HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="General Streams",DE: Prosieben Fun HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/158.ts
+#EXTINF:-1 tvg-id="Kinowelt TV" tvg-name="DE: kinowelt.tv" tvg-logo="http://logo.watchhd.cc/logo/kinowelttv.png" group-title="General Streams",DE: kinowelt.tv
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/174.ts
+#EXTINF:-1 tvg-id="Sony TV" tvg-name="DE: Sony Channel HD" tvg-logo="http://logo.watchhd.cc/logo/Sony_Channel_SW.png" group-title="General Streams",DE: Sony Channel HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2069.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="DE: TLC HD" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="General Streams",DE: TLC HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2070.ts
+#EXTINF:-1 tvg-id="TNT Comedy HD" tvg-name="DE: TNT Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/tntcomedyhdv3.png" group-title="General Streams",DE: TNT Comedy HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/24.ts
+#EXTINF:-1 tvg-id="TNT Film (TCM)" tvg-name="DE: TNT Film HD" tvg-logo="http://logo.watchhd.cc/logo/tntfilmhdv2.png" group-title="General Streams",DE: TNT Film HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/31.ts
+#EXTINF:-1 tvg-id="TNT Serie HD" tvg-name="DE: TNT Serie HD" tvg-logo="http://logo.watchhd.cc/logo/tntseriehdv2.png" group-title="General Streams",DE: TNT Serie HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/32.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="General Streams",DE: Animal Planet HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1365.ts
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="General Streams",DE: Discovery HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/22.ts
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="DE: Geo Television HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="General Streams",DE: Geo Television HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2136.ts
+#EXTINF:-1 tvg-id="History HD" tvg-name="DE: History HD" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="General Streams",DE: History HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Insight HD" tvg-logo="http://logo.watchhd.cc/logo/INsight_TV_HD.png" group-title="General Streams",DE: Insight HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2139.ts
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="DE: National Geo HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="General Streams",DE: National Geo HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/12.ts
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="General Streams",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/26.ts
+#EXTINF:-1 tvg-id="PLANET HD" tvg-name="DE: Planet HD" tvg-logo="http://logo.watchhd.cc/logo/Planet_HD.png" group-title="General Streams",DE: Planet HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2138.ts
+#EXTINF:-1 tvg-id="Spiegel Geschichte HD" tvg-name="DE: Spiegel Geschichte" tvg-logo="http://logo.watchhd.cc/logo/spiegelgeschichte.png" group-title="General Streams",DE: Spiegel Geschichte
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="General Streams",DE: Spiegel TV Wissen HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2301.ts
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="DE: Syfy HD" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="General Streams",DE: Syfy HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/104.ts
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE: Sport 1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="General Streams",DE: Sport 1+ HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/15.ts
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="DE: Sport 1 US HD" tvg-logo="http://logo.watchhd.cc/logo/sportushdv2.png" group-title="General Streams",DE: Sport 1 US HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/16.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="General Streams",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/23.ts
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="General Streams",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/66.ts
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD XTRA" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="General Streams",DE: Eurosport 2 HD Xtra
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/1185.ts
+#EXTINF:-1 tvg-id="Sportdigital HD" tvg-name="DE: Sportdigital HD" tvg-logo="http://logo.watchhd.cc/logo/sportdigitalhdv2.png" group-title="General Streams",DE: Sportdigital HD
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 1" tvg-logo="http://logo.watchhd.cc/logo/tsf1.png" group-title="",DE: Telekom Fussball 1
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2079.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/tsf2.png" group-title="General Streams",DE: Telekom Fussball 2
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2080.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/tsf3.png" group-title="General Streams",DE: Telekom Fussball 3
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2086.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/tsf4.png" group-title="General Streams",DE: Telekom Fussball 4
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2085.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 5" tvg-logo="http://logo.watchhd.cc/logo/tsf5.png" group-title="General Streams",DE: Telekom Fussball 5
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2084.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball  6" tvg-logo="http://logo.watchhd.cc/logo/tsf6.png" group-title="General Streams",DE: Telekom Fussball  6
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/tsf7.png" group-title="General Streams",DE: Telekom Fussball 7
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2082.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/tsf8.png" group-title="General Streams",DE: Telekom Fussball 8
+http://iptv.watchhd.cc:8000/live/Doc291275/melvin4112/2081.ts

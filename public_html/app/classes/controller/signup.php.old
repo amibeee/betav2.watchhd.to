@@ -1,0 +1,267 @@
+<?php
+
+// Retrieve and sanitize the 'friend' parameter from the POST request
+
+echo "<script>
+        // Get the full URL
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // Retrieve the 'friend' parameter
+        const friend = urlParams.get('friend');
+
+        // Display a message based on the parameter
+        const messageElement = document.getElementById('message');
+        if (friend) {
+           console.log('Friend parameter found: ' + friend);
+        } else {
+           console.log('No friend parameter found.');
+        }
+    </script>";
+
+
+class Controller_Signup extends Controller_Base_Public
+
+{
+
+    function create_xc_user($username){
+    
+        $api_url = 'http://iptv.watchhd.cc:5050/api/api.php?action=create_user';
+        
+        $post_data = array(
+            
+            'username' => $username 
+        );
+    
+    
+           $opts = array( 'http' => array(
+           'ignore_errors' => true,
+            'method' => 'POST',
+            'header' => 'Content-type: application/x-www-form-urlencoded',
+            'content' => http_build_query( $post_data ) ) );
+    
+        $context = stream_context_create( $opts );
+       
+        $body = @file_get_contents( $api_url, false, $context );
+        $api_result = json_decode( $body, true );
+    
+        if ( isset($api_result['success']) && $api_result['success'] )
+        {
+            return $api_result['data']['user'];
+        }
+        else{
+            return false;
+        }
+    
+    }
+    
+
+        public $friend_user_id;
+
+        public function action_index() {
+            echo "<script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const friend = urlParams.get('friend');
+                    if (friend) {
+                        // Send friend parameter via POST
+                        fetch(window.location.href, {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/x-www-form-urlencoded',
+                            },
+                            body: 'friend_user_id=' + encodeURIComponent(friend)
+                        });
+                    }
+                });
+            </script>";
+    
+            // Get friend_user_id from POST
+            $friend_user_id=$this->friend_user_id = filter_var(Input::post('friend_user_id'), FILTER_VALIDATE_INT);
+            
+        \Log::info('Signup process started.');
+        if (Input::method() == 'POST')
+        {
+            $username = trim(Input::post('fG73qkmf3xFsk6sp5J722GqPbFyC6zdzAnfX6Rv34G', ''));
+            $email = trim(Input::post('Sqx8gVsJKHpkEQyCcMBRa6mh5QjgzR6BnjwtQKhVrv', ''));
+            \Log::error($this->friend_user_id);
+
+            \Log::info('Received POST data. Username: ' . $username . ', Email: ' . $email . ', Friend User ID: ' . $friend_user_id);
+
+            $friend = Model_User::query()->where('id', '=', $friend_user_id)->get_one();
+
+            $errors = array();
+
+
+
+            // Validate username
+            if (empty($username))
+            {
+                $errors[] = i18n::t('Bitte gebe einen Benutzernamen an.');
+                \Log::error('Username is empty.');
+            }
+            
+            if (!empty($username) && !preg_match('/^[A-Za-z][A-Za-z0-9]{3,20}$/', $username))
+            {
+                $errors[] = i18n::t('Der Benutzername enthält ungültige Zeichen.');
+                \Log::error('Username contains invalid characters.');
+            }
+            
+            if (!empty($username) && Model_User::query()->where('username', '=', $username)->count())
+            {
+                $errors[] = i18n::t('Dieser Benutzername wird bereits genutzt.');
+                \Log::error('Username is already taken.');
+            }
+        
+            // Validate email
+            if (empty($email))
+            {
+                $errors[] = i18n::t('Bitte gebe deine Email Adresse an.');
+                \Log::error('Email address is empty.');
+            }
+            
+            if (!empty($email) && !filter_var($email, FILTER_VALIDATE_EMAIL))
+            {
+                $errors[] = i18n::t('Bitte gebe eine gültige Email Adresse an.');
+                \Log::error('Invalid email address format.');
+            }
+            
+            if (!empty($email) && Model_User::query()->where('email', '=', $email)->count())
+            {
+                $errors[] = i18n::t('Diese Email Adresse wird bereits genutzt.');
+                \Log::error('Email address is already taken.');
+            }
+            
+            if (Input::post('email', '') != '')
+            {
+                $errors[] = i18n::t('Du bist in unseren Honigtopf getreten. :p');
+                \Log::error('Spam detected in email field.');
+            }
+
+            if (count($errors) == 0)
+            {
+                \Log::info('No validation errors. Proceeding with user creation.');
+
+                $activation_token = Str::random('sha1');
+                $password = Str::random();
+                $user = new Model_User;
+                $user->username = $username;
+                $user->group = 1;
+                $user->email = $email;
+                $user->password = Auth::instance()->hash_password($password);
+                $user->salt = Str::random('sha1'); // Ensure salt is set
+                $user->last_login = time();
+                $user->login_hash = Str::random('sha1');
+                $user->profile_fields = '';
+                $user->password_recovery_token = '';
+                $user->password_recovery_token_requested_at = 0;
+                $user->activated = 0;
+                $user->tokens = 0;
+                $user->premium_until = 0;
+                $user->activated_at = 0;
+                $user->activation_token = $activation_token;
+                $user->email_notification_premium_ends = 1;
+                $user->email_notification_record_download_available = 1;
+                $user->email_notification_friend_sale = 1;
+                $user->referred_user_id = ($friend ? $friend->id : 0);
+                $user->affiliate_tracking_id = '';
+                $user->account_balance = 0.00;
+                $user->reminder_send_at = 0;
+                $user->pin = '';
+                $user->line_password = '';
+                $user->two_fa_enabled = 0;
+
+                $affiliate_id = 0;
+                if ($affiliate = Session::get('affiliate', false))
+                {
+                    if (Model_User::query()->where('id', '=', $affiliate[0])->count())
+                    {
+                        $affiliate_id = $affiliate[0];
+                    }
+                }
+                
+                $user->affiliate_id = $affiliate_id;
+
+                try {
+                    $user->save();
+                    \Log::info('User created successfully: ' . $user->username);
+                    echo "User created successfully<br>";
+                } catch (Exception $e) {
+                    \Log::error('Failed to create user: ' . $e->getMessage());
+                    echo "Failed to create user: " . $e->getMessage() . "<br>";
+                }
+
+                // Create Line
+                $line = $this->create_xc_user($username);
+                if (!$line)
+                {
+                    $user->delete();
+                    \Messages::error("Wir konnten dein Benutzerkonto nicht erstellen da keine Line für dich erzeugt werden konnte. Bitte wende dich an den Support oder probiere es später nochmal.");
+                    \Log::error('Failed to create user line. Rolling back user creation.');
+                    \Messages::redirect('signup');
+                }
+
+                $user->line_password = $line['password'];
+                $user->save();
+
+                if ($affiliate_id)
+                {
+                    $log = new Model_Affiliate_Log;
+                    $log->affiliate_id = $affiliate_id;
+                    $log->user_id = $user->id;
+                    $log->type = 'lead';
+                    $log->data = json_encode(array());
+                    $log->sub_id = $affiliate[1];
+                    $log->worth = 0.00;
+                    $log->save();
+                    \Log::info('Affiliate log saved for user: ' . $user->username);
+                }
+
+                // Email sending
+                \Log::info('Preparing to send email to: ' . $user->email);
+
+                $email = Email::forge();
+                $email->to($user->email);
+                $email->subject('[watchhd.to] Dein Benutzerkonto');
+                echo "Preparing email<br>";
+
+                $email_data = array(
+                    'username' => $username,
+                    'password' => $password,
+                    'link' => Uri::base().'verify/'.$user->id.','.$activation_token
+                );
+
+                // Test with a plain text body first to isolate HTML issues
+                $email->body("Username: $username\nPassword: $password\nActivation Link: " . Uri::base().'verify/'.$user->id.','.$activation_token);
+                \Log::info('Email body set.');
+
+                // Optional: If HTML is needed, ensure the view path is correct
+                $email->html_body(\View::forge('email/signup.html.twig', $email_data));
+                \Log::info('HTML email body set.');
+
+                try {
+                    $email->send();
+                    \Log::info('Email sent successfully to: ' . $user->email);
+                    echo "Email sent successfully to: " . $user->email . "<br>";
+                } catch(\EmailSendingFailedException $e) {
+                    \Log::error('Failed to send email to: ' . $user->email . '. Error: ' . $e->getMessage());
+                    echo "Failed to send email to: " . $user->email . ". Error: " . $e->getMessage() . "<br>";
+                    \Messages::error('Es gab ein Problem beim Versenden der E-Mail. Bitte versuche es später erneut oder wende dich an den Support.');
+                }
+
+                \Messages::success(i18n::t('Glückwunsch, dein Benutzerkonto wurde erstellt. Deine Zugangsdaten hast du soeben per E-Mail erhalten. Siehe bitte auch im Spam-Ordner nach!'));
+                \Log::info('Signup process completed successfully for username: ' . $username);
+                \Messages::redirect('');
+            }
+            else
+            {
+                \Log::info('Validation errors found: ' . implode(", ", $errors));
+                Session::set_flash('input.old', Input::post());
+                Session::set_flash('error', implode("<br />", $errors));
+                \Messages::redirect(Uri::current());
+            }
+        }
+
+        $data['captcha'] = Captcha::forge('recaptcha')->html('recaptcha/2015');
+        return Response::forge(View::forge('signup.html.twig', isset($data) ? $data : array(), false));
+    }
+}

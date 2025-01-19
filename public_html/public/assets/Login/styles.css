@@ -1,0 +1,187 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+  background: url('assets/img/img110.png') no-repeat center center fixed;
+  background-size: cover;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  margin: 0;
+  height: 100vh; /* Ensure body takes up full viewport height */
+  overflow: hidden;
+}
+
+
+
+.login-container,
+.login-container * {
+  font-family: "Montserrat";
+  box-sizing: border-box;
+}
+.login-container {
+  height: 100vh;
+  margin-bottom: 3%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  position: relative;
+  z-index: 1;
+}
+.logocontainerlog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 50%;
+  position: relative;
+}
+.logo-loginpage {
+  flex-shrink: 0;
+  width: 187px;
+  height: 187px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.welcome {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.subtitle {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  width: 100%
+  ;
+}
+.signinputs {
+  margin-top: 1%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  width: 50%;
+}
+
+.input-username, .input-password {
+  font-size: 1rem;
+  background: #d9d9d9;
+  border-radius: 10px;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  width: 90%;
+  height: 55px;
+  max-width: 70%;
+  min-width: 70%;
+
+  border: 2px solid transparent; /* Transparent border initially */
+  transition: border 0.3s ease, filter 0.2s ease; /* Smooth transitions */
+}
+
+.input-username:hover, .input-password:hover,
+.input-username:focus, .input-password:focus {
+    border: 2px solid #4f33ef; /* Blue border on hover/focus */
+    filter: brightness(1.1); /* Slightly brighten the input */
+    outline: none; /* Remove default outline */
+}
+
+.captcha {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 302px;
+  height: 80px;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.checkbox {
+  width: 24px;
+  height: 24px;
+}
+
+.i-m-not-a-robot {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.forgot-password {
+  text-decoration: none;
+  color: #5b62ff;
+  font-size:1rem;
+  font-weight: 500;
+}
+
+.button-login {
+  background: #4f33ef;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 60px;
+  
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  border: none; /* Remove default border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+  transition: background 0.2s ease, transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
+}
+
+.button-login:hover {
+  background: #1d20ec; /* Slightly darker shade on hover */
+  transform: scale(1.05); /* Slightly enlarge on hover */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* More pronounced shadow on hover */
+}
+
+.button-login:active {
+  background: #3a27a0; /* Even darker shade on active */
+  transform: scale(1); /* Reset scale on click */
+}
+
+
+
+@media (max-width: 730px) {
+  .signinputs {
+    width: 100%;
+    padding: 20px; /* Optional: add padding for better spacing */
+  }
+
+  .input-username, .input-password, .captcha {
+    max-width: 100%; /* Ensure input fields take up full width */
+  }
+  
+  .captcha {
+    width: auto; /* Adjust width for captcha to fit */
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

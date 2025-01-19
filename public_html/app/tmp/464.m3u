@@ -1,0 +1,52 @@
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/78
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/75
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/73
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1430
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2072
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/52
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL UHD
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2116
+#EXTINF:-1 tvg-id="" tvg-name="DE: UHD1 Astra" tvg-logo="http://logo.watchhd.cc/logo/uhd11.png" group-title="DE: Doku",DE: UHD1 Astra
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/8385
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="General Streams",DE: RTL 2 HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/55
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="General Streams",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/76
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sixxhd.png" group-title="General Streams",DE: SIXX HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/77
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="General Streams",DE: VOX HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1472
+#EXTINF:-1 tvg-id="Sport1" tvg-name="DE: Sport1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="DE: Sport",DE: Sport1 HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2134
+#EXTINF:-1 tvg-id="MySports HD D" tvg-name="Swiss: Mysports Basis HD" tvg-logo="http://logo.watchhd.cc/logo/mysports.png" group-title="DE: Sport",Swiss: Mysports Basis HD
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/7608
+#EXTINF:-1 tvg-id="MySports 1" tvg-name="Swiss: Mysports 1 FHD" tvg-logo="http://logo.watchhd.cc/logo/MySports_ONE.png" group-title="DE: Sport",Swiss: Mysports 1 FHD
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1415
+#EXTINF:-1 tvg-id="MySports 2/Sky 2" tvg-name="Swiss: MySports 2 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_2.png" group-title="DE: Sport",Swiss: MySports 2 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1414
+#EXTINF:-1 tvg-id="MySports 3/Sky 3" tvg-name="Swiss: MySports 3 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_3.png" group-title="DE: Sport",Swiss: MySports 3 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1413
+#EXTINF:-1 tvg-id="MySports 4/Sky 4" tvg-name="Swiss: MySports 4 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_4.png" group-title="DE: Sport",Swiss: MySports 4 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1412
+#EXTINF:-1 tvg-id="MySports 5/Sky 5" tvg-name="Swiss: MySports 5 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_5.png" group-title="DE: Sport",Swiss: MySports 5 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1411
+#EXTINF:-1 tvg-id="MySports 6/Sky 6" tvg-name="Swiss: MySports 6 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_6.png" group-title="DE: Sport",Swiss: MySports 6 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/1410
+#EXTINF:-1 tvg-id="MySports 7Sky 7" tvg-name="Swiss: MySports 7 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_7.png" group-title="DE: Sport",Swiss: MySports 7 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2197
+#EXTINF:-1 tvg-id="MySports 8Sky 8" tvg-name="Swiss: MySports 8 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_8.png" group-title="DE: Sport",Swiss: MySports 8 FHD (CH)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2198
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-name="DE: Sky Cinema Action HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="DE: Filme",DE: Sky Cinema Action HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/685
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="DE: Serie",DE: Sky Atlantic HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/686
+#EXTINF:-1 tvg-id="Sky Cinema HD" tvg-name="DE: Sky Cinema HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/cinemahdv2.png" group-title="DE: Filme",DE: Sky Cinema HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/2074
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-name="DE: Sky Cinema BOX-Legende HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/hitssd.png" group-title="DE: Filme",DE: Sky Cinema BOX-Legende HD (720p)
+http://iptv.watchhd.cc:8000/clown/saYlBgKb4d/179

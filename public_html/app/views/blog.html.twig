@@ -1,0 +1,49 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}News |
+	{{ parent() }}
+{% endblock %}
+
+{% block content %}
+	<div class="news-container2" style="width:100%">
+		<div class="heronews">
+			<img src="/assets/assets/icons/news.svg" alt="News Logo" class="news-logo">
+			<h1 id="news" class="news-title">News</h1>
+		</div>
+
+		<div class="newscontainerbg"></div>
+		<div class="containernews">
+			<div class="welcomingnews">
+				<h1 class="welcomingnews-title" style=" font-size: 2em;">Welcome to the WatchHD News Page</h1>
+				<p class="welcomingnews-subtitle" style=" font-size: 2em;">Stay updated on WatchHD's latest features, offers, and news</p>
+			</div>
+
+			<div class="newspage" >
+				{% for post in posts %}
+					<div class="news-1">
+						<div class="titlenewss" style=" font-size: 2em;">
+							<i class="fas fa-bullhorn"></i>
+							{{ post.title }}</div>
+						<div class="datenews" style=" font-size: 1.5em;">
+							<i class="fas fa-calendar-alt"></i>Posted on
+							{{ post.created_at|date('F, d Y H:i') }}</div>
+						<div class="contentnews" style=" font-size: 2em;">
+							{{ post.contents|raw }}
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+
+		<!-- Scroll to Top Button -->
+		<button id="scrollToTopBtn" title="Go to top">
+			<img src="/assets/assets/icons/gg_arrow-up.svg" alt="">
+		</button>
+	</div>
+{% endblock %}
+
+{% block javascripts %}
+	{{ parent() }}
+	<script src="/script.js"></script>
+	<script src="/navbarscript.js"></script>
+{% endblock %}

@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Redlight HD" tvg-logo="http://logo.watchhd.cc/logo/redlight.png" group-title="Auslands-TV",XXX: Redlight HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RealityKings" tvg-logo="" group-title="Auslands-TV",XXX: RealityKings
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/2268.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Penthouse.png" group-title="Auslands-TV",XXX: Penthouse 1 HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/2108.ts
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/71.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="General Streams",DE: ZDF HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/72.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/73.ts
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="DE: Doku",DE: Kabel1 Doku
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1491.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1501.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/75.ts
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/78.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1500.ts
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="DE: Kabel1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="DE: Filme",DE: Kabel1 Classics HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1190.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="General Streams",DE: RTL 2 HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/55.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL UHD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/2116.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1499.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/52.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/109.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/2072.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/54.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:8000/live/MrShizzle/uByBLXQHsP/1430.ts

@@ -1,0 +1,4 @@
+#EXTINF:-1 timeshift="3" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Bot123456/3ineAmLY0o5Q/3.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/Bot123456/3ineAmLY0o5Q/379.ts

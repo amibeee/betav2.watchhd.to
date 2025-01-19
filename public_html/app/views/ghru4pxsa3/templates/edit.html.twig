@@ -1,0 +1,25 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}Template erstellen{% endblock %}
+
+{% block content %}
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>Name</label>
+    <input type="text" class="form-control" name="name" id="name" value="{{ form_value('name', template.name) }}" />
+</div>
+<div class="form-group">
+    <label>Sender</label>
+    <div id="channels">
+    <select multiple name="channels[]" class="channels form-control">
+        {% for channel in channels %}
+        <option value="{{ channel.id }}"{% if channel.id in selected_channels  %} selected{% endif %}>{{ channel.name }}</option>
+        {% endfor %}
+    </select>    
+    </div>
+</div>
+<div class="form-group">
+    <input type="submit" class="btn btn-success btn-raised btn-block btn-lg" value="speichern" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

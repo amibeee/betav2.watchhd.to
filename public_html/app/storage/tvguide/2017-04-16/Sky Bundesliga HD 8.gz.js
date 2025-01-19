@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live 2. Bundesliga"},"start":1492339200,"stop":1492340400,"channel":"Sky Bundesliga HD 8"},{"title":{"de":"Live 2. BL: Karlsruher SC - 1. FC Heidenheim, 29. Spieltag"},"start":1492340400,"stop":1492349100,"channel":"Sky Bundesliga HD 8"}]}}

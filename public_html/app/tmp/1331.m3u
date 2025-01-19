@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD (#2)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD (#2)
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/22809
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN.png" group-title="Sky Sport",DE: DAZN Event Stream HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/9383
+#EXTINF:-1 tvg-id="" tvg-name="DE: RiC" tvg-logo="http://logo.watchhd.cc/logo/ric.png" group-title="Sky Doku",DE: RiC
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/16353
+#EXTINF:-1 tvg-id="Planet HD" tvg-name="DE: doxx HD" tvg-logo="http://logo.watchhd.cc/logo/doxx.png" group-title="Sky Doku",DE: doxx HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/150
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="DE: TOGGO plus" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="Free-TV",DE: TOGGO plus
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15348
+#EXTINF:-1 tvg-id="QVC2" tvg-name="DE: QVC 2 HD" tvg-logo="http://logo.watchhd.cc/logo/qvc2.png" group-title="Free-TV",DE: QVC 2 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15413
+#EXTINF:-1 tvg-id="Eurosport360 HD 1" tvg-name="DE: Eurosport360 HD 1" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 1
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15847
+#EXTINF:-1 tvg-id="Eurosport360 HD 2" tvg-name="DE: Eurosport360 HD 2" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 2
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15848
+#EXTINF:-1 tvg-id="Eurosport360 HD 3" tvg-name="DE: Eurosport360 HD 3" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 3
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15849
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport360 HD 4" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 4
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/15953
+#EXTINF:-1 tvg-id="" tvg-name="DE: EDGE Sport HD" tvg-logo="" group-title="Sky Sport",DE: EDGE Sport HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/16093
+#EXTINF:-1 tvg-id="5378def8c16a45e18bafa37789584f2a" tvg-name="DE: Waidwerk HD" tvg-logo="" group-title="Sky Sport",DE: Waidwerk HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/13514
+#EXTINF:-1 tvg-id="" tvg-name="AT: Kronehit" tvg-logo="" group-title="Free-TV",AT: Kronehit
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/17702
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: blue Sport Event 1 HD" tvg-logo="" group-title="Swiss",Swiss: blue Sport Event 1 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/14963

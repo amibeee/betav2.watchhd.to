@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="General Streams",AT: ORF 1 HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/142
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="General Streams",AT: ORF 2 HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/976
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="General Streams",AT: ATV HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1235
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls 4" tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="General Streams",AT: Puls 4
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1236
+#EXTINF:-1 tvg-id="SRF 1 HD" tvg-name="Swiss: SRF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/srf1.png" group-title="Auslands-TV",Swiss: SRF 1 HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1172
+#EXTINF:-1 tvg-id="SRF zwei HD" tvg-name="Swiss: SRF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/srf2.png" group-title="Auslands-TV",Swiss: SRF 2 HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1171
+#EXTINF:-1 tvg-id="TC Cinema" tvg-name="Swiss: TC Cinema HD" tvg-logo="http://logo.watchhd.cc/logo/tccinema.png" group-title="DE: Filme",Swiss: TC Cinema HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1151
+#EXTINF:-1 tvg-id="History HD" tvg-name="DE: History HD" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="DE: Doku",DE: History HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/11
+#EXTINF:-1 tvg-id="Geo" tvg-name="DE: Geo Television HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="DE: Doku",DE: Geo Television HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/2136
+#EXTINF:-1 tvg-id="PLANET HD" tvg-name="DE: Planet HD" tvg-logo="http://logo.watchhd.cc/logo/Planet_HD.png" group-title="DE: Doku",DE: Planet HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/2138
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="DE: Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1365
+#EXTINF:-1 tvg-id="AE" tvg-name="DE: A&E HD" tvg-logo="http://logo.watchhd.cc/logo/a&ehd.png" group-title="General Streams",DE: A&E HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/1257
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One HD" tvg-logo="http://logo.watchhd.cc/logo/bbcone.png" group-title="Auslands-TV",UK: BBC One HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/734
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two HD" tvg-logo="http://logo.watchhd.cc/logo/bbctwo.png" group-title="Auslands-TV",UK: BBC Two HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/735
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News" tvg-logo="" group-title="Auslands-TV",UK: Sky News
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/972
+#EXTINF:-1 tvg-id="cbsboston.us" tvg-name="US: CBS HD" tvg-logo="" group-title="Auslands-TV",US: CBS HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/4541
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: Fox News HD" tvg-logo="" group-title="Auslands-TV",US: Fox News HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/7810
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="Musik: MTV Live HD" tvg-logo="http://logo.watchhd.cc/logo/mtvlivehd.png" group-title="Auslands-TV",Musik: MTV Live HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/727
+#EXTINF:-1 tvg-id="" tvg-name="Musik: NRJ TV HD" tvg-logo="http://logo.watchhd.cc/logo/nrjtv.png" group-title="General Streams",Musik: NRJ TV HD
+http://iptv.watchhd.cc:8000/marlinnl/spUrAOCs31/8396

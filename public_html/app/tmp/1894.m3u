@@ -1,0 +1,74 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/2.ts
+#EXTINF:-1 tvg-id="COCECH" tvg-name="DE: Comedy Central HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1cfe4b1f1e7c9a34fb71ca53b23d7fd3.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/44.ts
+#EXTINF:-1 tvg-id="6054a9f4bc8a5f000771504c" tvg-name="DE: Takeshis Castle" tvg-logo="http://logo.watchhd.cc/logo/Logo_Pluto_Takeshis_Castle.png" group-title="Free-TV",DE: Takeshis Castle
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/120135.ts
+#EXTINF:-1 timeshift="2" tvg-id="ddd961f870e0c8f4138b9a61f3db5d2c" tvg-name="DE: Cartoon Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4fb2201e86699ae18718eabc7b58a6c7.png" group-title="Kids",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/54.ts
+#EXTINF:-1 tvg-id="DISCHHD" tvg-name="DE: Disney Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c83ee3f33cf47d3aedec69656d00de99.png" group-title="Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/55.ts
+#EXTINF:-1 tvg-id="SKY1DEH" tvg-name="DE: Sky One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/eaa5b90a7cecdefed8281b7e4add2cd0.png" group-title="Sky Film",DE: Sky One HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/630.ts
+#EXTINF:-1 tvg-id="SKYAHDK" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b7898fbe725ccf07888bd6aaa7e16f51.png" group-title="Sky Film",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/89.ts
+#EXTINF:-1 tvg-id="SKYANHK" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://iptv.watchhd.cc:5050/images/227af0e8858d64bf07ea4fd6995cedcf.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/93.ts
+#EXTINF:-1 tvg-id="ded9cc286d67561247d4f521f812f710" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://iptv.watchhd.cc:5050/images/730d63240050a7f6b035bf6ad5b442b3.png" group-title="Sky Film",DE: Sky Cinema Classics
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Tennessee Titans @ Green Bay Packers" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Tennessee Titans @ Green Bay Packers
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176545.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Chicago Bears @ Atlanta Falcons" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Chicago Bears @ Atlanta Falcons
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176546.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Carolina Panthers @ Baltimore Ravens" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Carolina Panthers @ Baltimore Ravens
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176547.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Cleveland Browns @ Buffalo Bills" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Cleveland Browns @ Buffalo Bills
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176548.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Washington Commanders @ Houston Texans" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Washington Commanders @ Houston Texans
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176549.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Philadelphia Eagles @ Indianapolis Colts" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Philadelphia Eagles @ Indianapolis Colts
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176550.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | New York Jets @ New England Patriots" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | New York Jets @ New England Patriots
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176551.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Los Angeles Rams @ New Orleans Saints" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Los Angeles Rams @ New Orleans Saints
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176552.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Detroit Lions @ New York Giants" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Detroit Lions @ New York Giants
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176553.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Las Vegas Raiders @ Denver Broncos" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Las Vegas Raiders @ Denver Broncos
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176554.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Dallas Cowboys @ Minnesota Vikings" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Dallas Cowboys @ Minnesota Vikings
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176555.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Kansas City Chiefs @ Los Angeles Chargers" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Kansas City Chiefs @ Los Angeles Chargers
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176557.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | Cincinnati Bengals @ Pittsburgh Steelers" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | Cincinnati Bengals @ Pittsburgh Steelers
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176556.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Gamepass | San Francisco 49ers @ Arizona Cardinals" tvg-logo="https://www.nflgamepass.com/assets/img/common/gp-logo__white.svg" group-title="US Gamepass",US: NFL Gamepass | San Francisco 49ers @ Arizona Cardinals
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176558.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: Discovery Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/265962835e09d484d52e2baee09036ad.png" group-title="USA",US: Discovery Channel HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/297.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/053c24d23c0a6562bd288f09cb1e8c3a.png" group-title="USA",US: NFL Network HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/336.ts
+#EXTINF:-1 timeshift="7" tvg-id="MTVSCH" tvg-name="DE: MTV HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/362770eb29c09110907ce92def8ff37b.png" group-title="HEVC FHD",DE: MTV HD (HEVC)
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/10159.ts
+#EXTINF:-1 tvg-id="BEINS1C" tvg-name="CA: Bein Sports HD" tvg-logo="http://iptv.watchhd.cc:5050/images/bafe8bf2f06e28bbb7f619882e747e22.png" group-title="Canada",CA: Bein Sports HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/115628.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: Bein Sports Connect 7 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 7 HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/545.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: Bein Sports Connect 6 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 6 HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/492.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: Bein Sports Connect 5 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 5 HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/491.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: Bein Sports Connect 4 HD" tvg-logo="" group-title="USA",US: Bein Sports Connect 4 HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/490.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="US: Bein Sports LaLiga TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ba60d4bf4c7e38ffd7773ced97ee9497.png" group-title="USA",US: Bein Sports LaLiga TV HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/482.ts
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="US: Bein Sports Xtra HD" tvg-logo="" group-title="USA",US: Bein Sports Xtra HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/13372.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: BeIn Sports HD" tvg-logo="http://iptv.watchhd.cc:5050/images/45dad58f58fe51cdec7f6aeb21a8a1b3.png" group-title="USA",US: BeIn Sports HD
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/219.ts
+#EXTINF:-1 timeshift="3" tvg-id="Magenta TV" tvg-name="DE: FUSSBALL.TV 1 FIFA WM 2022 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/fifa_worldcup.png" group-title="WM 2022 Livespiele",DE: FUSSBALL.TV 1 FIFA WM 2022 HD (HEVC)
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/176770.ts
+#EXTINF:-1 timeshift="7" tvg-id="" tvg-name="DE: FUSSBALL.TV 2 FIFA WM 2022 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/fifa_worldcup.png" group-title="WM 2022 Livespiele",DE: FUSSBALL.TV 2 FIFA WM 2022 HD (HEVC)
+http://iptv.watchhd.cc:5050/Takaishi/WTsdbdOYDGW8/177034.ts

@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/22091
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_0.png" group-title="Auslands-TV",IT: DAZN 1 HD
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2186
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD (720p)
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2169
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/22092
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_0.png" group-title="Auslands-TV",IT: DAZN 2 HD
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2187
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD (720p)
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2196
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga 1 SD" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga 1 SD
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2106
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2117
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1 #2" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1 #2
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2120
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1 (720p)" tvg-logo="http://logo.watchhd.cc/logo/bulihd1v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1 (720p)
+http://iptv.watchhd.cc:8000/redstone/q5c2V2dCUN/2121

@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-id="ebfb5bdb78f54b09d4b3183f7ae6e00c" tvg-name="DE: RTL UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/6f8153c11b268380517a6ad5b0b5b3b6.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/34.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/379.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (Kabel)
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/130704.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/3.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 1" tvg-name="DE: RTL+ Event HD 1" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 1
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/108532.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 2" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 2
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/108533.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 3" tvg-name="DE: RTL+ Event HD 3" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 3
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110292.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 4" tvg-name="DE: RTL+ Event HD 4" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 4
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110293.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 5" tvg-name="DE: RTL+ Event HD 5" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 5
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110294.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 6" tvg-name="DE: RTL+ Event HD 6" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 6
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110295.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 7" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 7
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110296.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 10" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 10
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110299.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 9" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 9
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110298.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 8" tvg-logo="http://logo.watchhd.cc/logo/watchhd_rtl+_sport.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 8
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/110297.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTLplus | RTL HD" tvg-logo="http://fanc.tmsimg.com/assets/s53951_ll_h3_aa.png" group-title="DAZN & RTL+",DE: RTLplus | RTL HD
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/134995.ts
+#EXTINF:-1 tvg-id="RTLPLUS" tvg-name="DE: RTLplus | NOW! HD" tvg-logo="http://fanc.tmsimg.com/assets/s53951_ll_h3_aa.png" group-title="DAZN & RTL+",DE: RTLplus | NOW! HD
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/135003.ts
+#EXTINF:-1 tvg-id="b83c0c86a14966276d856fee71cf91c6" tvg-name="DE: RTLplus | Nitro" tvg-logo="http://fanc.tmsimg.com/assets/s53951_ll_h3_aa.png" group-title="DAZN & RTL+",DE: RTLplus | Nitro
+http://iptv.watchhd.cc:5050/yogi/kwBsW8Z18P4Z/134998.ts

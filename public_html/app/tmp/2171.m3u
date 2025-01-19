@@ -1,0 +1,354 @@
+#EXTINF:-1 timeshift="2" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/1.ts
+#EXTINF:-1 timeshift="7" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/4678.ts
+#EXTINF:-1 timeshift="2" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/2.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (Kabel)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/177153.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/3.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (Kabel)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130704.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/4.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD (Kabel)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130785.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/33.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/18480.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/5.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/356.ts
+#EXTINF:-1 timeshift="7" tvg-id="PRO7FHD" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/359.ts
+#EXTINF:-1 timeshift="2" tvg-id="PROMXHD" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/7.ts
+#EXTINF:-1 tvg-id="PROMXHD" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/637.ts
+#EXTINF:-1 tvg-id="RTL2HD" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/6.ts
+#EXTINF:-1 tvg-id="RTL2CHH" tvg-name="DE: RTL ZWEI HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/387.ts
+#EXTINF:-1 tvg-id="VOXHD" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/41.ts
+#EXTINF:-1 tvg-id="VOXHD" tvg-name="DE: VOX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/612.ts
+#EXTINF:-1 tvg-id="SIXXHD" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/40.ts
+#EXTINF:-1 tvg-id="SIXXHD" tvg-name="DE: SIXX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10096.ts
+#EXTINF:-1 timeshift="2" tvg-id="DMAXDHD" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/42.ts
+#EXTINF:-1 tvg-id="DMAXDHD" tvg-name="DE: DMAX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/381.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_NITRO_HD.png" group-title="Free-TV",DE: Nitro HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/35.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_NITRO_HD.png" group-title="Free-TV",DE: Nitro HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10097.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Now! (Web 720p)" tvg-logo="" group-title="Free-TV",DE: RTL Now! (Web 720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310052.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Super_RTL_HD.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/360.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Super_RTL_HD.png" group-title="Free-TV",DE: Super RTL HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10103.ts
+#EXTINF:-1 tvg-id="COCECH" tvg-name="DE: Comedy Central HD" tvg-logo="http://logo.watchhd.cc/logo/cchd.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/44.ts
+#EXTINF:-1 tvg-id="CCHDCH" tvg-name="DE: Comedy Central HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/cchd.png" group-title="Free-TV",DE: Comedy Central HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10421.ts
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/tele_5.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/50.ts
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="DE: Tele 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/tele_5.png" group-title="Free-TV",DE: Tele 5 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10242.ts
+#EXTINF:-1 tvg-id="SPO1HD" tvg-name="DE: Sport1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/43.ts
+#EXTINF:-1 tvg-id="SPO1HD" tvg-name="DE: Sport1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/2602.ts
+#EXTINF:-1 tvg-id="953738258e0888df54b5baca3489f3d3" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/159.ts
+#EXTINF:-1 tvg-id="DE: BILD" tvg-name="DE: Bild TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_BILD_TV.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/69254.ts
+#EXTINF:-1 tvg-id="N24DOKU" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/N24_Doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/1944.ts
+#EXTINF:-1 tvg-id="DEAJ0500413A" tvg-name="DE: Focus TV Reportage" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Focus_TV_Reportage.png" group-title="Free-TV",DE: Focus TV Reportage
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/115105.ts
+#EXTINF:-1 tvg-id="NTVHD" tvg-name="DE: n-tv HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_NTV_HD.png" group-title="Free-TV",DE: n-tv HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/52.ts
+#EXTINF:-1 tvg-id="NTVHD" tvg-name="DE: n-tv HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_NTV_HD.png" group-title="Free-TV",DE: n-tv HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/115056.ts
+#EXTINF:-1 tvg-id="PHONXHD" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/51.ts
+#EXTINF:-1 timeshift="7" tvg-id="DPHOENXG" tvg-name="DE: Phoenix HD (lowbit)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD (lowbit)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/11834.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/53.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10430.ts
+#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDFInfo HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDFInfo HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/60.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFNGHD" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/61.ts
+#EXTINF:-1 tvg-id="3SATGEH" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_3Sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/429.ts
+#EXTINF:-1 timeshift="7" tvg-id="6058e0608cbe571ef21513b1b1cab8d1" tvg-name="DE: ARTE HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/965.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prime Video Sportsbar HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Web)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/9313.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prime Video Sportsbar HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Kabel)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/79717.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prime Video Sportsbar HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/99434.ts
+#EXTINF:-1 timeshift="5" tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136094.ts
+#EXTINF:-1 tvg-id="f62d7dd199abae7431585580c795ae70" tvg-name="DE: Sky Sport Bundesliga HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122092.ts
+#EXTINF:-1 timeshift="5" tvg-id="SKYBUHD" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130804.ts
+#EXTINF:-1 tvg-id="SKYBUHD" tvg-name="DE: Sky Sport Bundesliga 1 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310120.ts
+#EXTINF:-1 timeshift="5" tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/129356.ts
+#EXTINF:-1 tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310122.ts
+#EXTINF:-1 timeshift="5" tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/129357.ts
+#EXTINF:-1 tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 3 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310124.ts
+#EXTINF:-1 timeshift="7" tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/129358.ts
+#EXTINF:-1 tvg-id="be7f4ab701d5449ee2d69df2a7b3ea75" tvg-name="DE: Sky Sport Bundesliga 4 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 4 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310126.ts
+#EXTINF:-1 timeshift="5" tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130798.ts
+#EXTINF:-1 tvg-id="6551e2f20f3c36d5d2d3a03a82db2a03" tvg-name="DE: Sky Sport Bundesliga 5 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_5_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 5 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310128.ts
+#EXTINF:-1 timeshift="5" tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130799.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 6 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_6_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 6 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310130.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 7 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310132.ts
+#EXTINF:-1 tvg-id="584c91ecdc559e27553f769668474a1c" tvg-name="DE: Sky Sport Bundesliga 7 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_7_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 7 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/10275.ts
+#EXTINF:-1 timeshift="5" tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130801.ts
+#EXTINF:-1 tvg-id="468fe53c119fedb008de7b4bb69b7927" tvg-name="DE: Sky Sport Bundesliga 8 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_8_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 8 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310134.ts
+#EXTINF:-1 timeshift="5" tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130802.ts
+#EXTINF:-1 tvg-id="6beb5d2a0eb61ae50cdd78ea9b6945c3" tvg-name="DE: Sky Sport Bundesliga 9 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_9a_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 9 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310136.ts
+#EXTINF:-1 tvg-id="17631c67e2466a8aa41ec1b2498ba947" tvg-name="DE: Sky Sport Bundesliga 10 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130803.ts
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.10.HD.de" tvg-name="DE: Sky Sport Bundesliga 10 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_10_HD.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 10 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310138.ts
+#EXTINF:-1 tvg-id="SKYSPUH" tvg-name="DE: Sky Sport UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_UHD.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/116.ts
+#EXTINF:-1 tvg-id="a8613361176f2c6da097651edd0a179c" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_1_HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139249.ts
+#EXTINF:-1 tvg-id="a8613361176f2c6da097651edd0a179c" tvg-name="DE: Sky Sport 1 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_1_HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310099.ts
+#EXTINF:-1 timeshift="5" tvg-id="cc264c7e2e002c57a491ee32944acf7a" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="https://logo.watchhd.cc/logo/test/Logo_Sky_Sport_2_HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139250.ts
+#EXTINF:-1 tvg-id="cc264c7e2e002c57a491ee32944acf7a" tvg-name="DE: Sky Sport 2 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_2_HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310101.ts
+#EXTINF:-1 tvg-id="f93f119a7d7e69d6d1ac7d4c39175e58" tvg-name="DE: Sky Sport 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_3_HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139251.ts
+#EXTINF:-1 tvg-id="f93f119a7d7e69d6d1ac7d4c39175e58" tvg-name="DE: Sky Sport 3 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_3_HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310103.ts
+#EXTINF:-1 tvg-id="7546a7f053c1485c7d4f470eb99052b9" tvg-name="DE: Sky Sport 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_4_HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139252.ts
+#EXTINF:-1 tvg-id="7546a7f053c1485c7d4f470eb99052b9" tvg-name="DE: Sky Sport 4 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_4_HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310105.ts
+#EXTINF:-1 timeshift="5" tvg-id="77e4a2742c174a23e77194d5c0f8c9cf" tvg-name="DE: Sky Sport 5 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_5_HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139253.ts
+#EXTINF:-1 tvg-id="77e4a2742c174a23e77194d5c0f8c9cf" tvg-name="DE: Sky Sport 5 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_5_HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310107.ts
+#EXTINF:-1 tvg-id="e1b39f271ba08f035e5464db9bd49813" tvg-name="DE: Sky Sport 6 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_6_HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139254.ts
+#EXTINF:-1 tvg-id="e1b39f271ba08f035e5464db9bd49813" tvg-name="DE: Sky Sport 6 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_6_HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310109.ts
+#EXTINF:-1 tvg-id="de530b47afb5ae057e48953f3563a627" tvg-name="DE: Sky Sport 7 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_7_HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139255.ts
+#EXTINF:-1 tvg-id="de530b47afb5ae057e48953f3563a627" tvg-name="DE: Sky Sport 7 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_7_HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310111.ts
+#EXTINF:-1 tvg-id="ada5b5f96dc54dd90f35c06b79913624" tvg-name="DE: Sky Sport 8 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_8_HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139256.ts
+#EXTINF:-1 tvg-id="ada5b5f96dc54dd90f35c06b79913624" tvg-name="DE: Sky Sport 8 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_8_HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310113.ts
+#EXTINF:-1 tvg-id="642d478b9a6cc573d58481572925c743" tvg-name="DE: Sky Sport 9 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_9_HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139257.ts
+#EXTINF:-1 tvg-id="642d478b9a6cc573d58481572925c743" tvg-name="DE: Sky Sport 9 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_9_HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310115.ts
+#EXTINF:-1 timeshift="5" tvg-id="3f2bff6c9efd766f337ddea3c442798b" tvg-name="DE: Sky Sport 10 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_10_HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/139258.ts
+#EXTINF:-1 tvg-id="fdaef980ae56dfaec850feebf979d8de" tvg-name="DE: Sky Sport 10 HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_10_HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD (Web 1080p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/310117.ts
+#EXTINF:-1 tvg-id="SKY11GH" tvg-name="DE: Sky Sport 11 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_11_HD.png" group-title="Sky Sport",DE: Sky Sport 11 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/16341.ts
+#EXTINF:-1 tvg-id="a64dd8cba6fde2645d72c19716b38e7a" tvg-name="DE: Sky Sport Austria 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_1_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136088.ts
+#EXTINF:-1 tvg-id="a64dd8cba6fde2645d72c19716b38e7a" tvg-name="DE: Sky Sport Austria 1 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_1_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/323702.ts
+#EXTINF:-1 tvg-id="SKYSA2H" tvg-name="DE: Sky Sport Austria 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_2_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136089.ts
+#EXTINF:-1 tvg-id="SKYSA2H" tvg-name="DE: Sky Sport Austria 2 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_2_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324029.ts
+#EXTINF:-1 tvg-id="SKYSA3H" tvg-name="DE: Sky Sport Austria 3 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_3_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 3 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136090.ts
+#EXTINF:-1 tvg-id="SKYSA3H" tvg-name="DE: Sky Sport Austria 3 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_3_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 3 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324030.ts
+#EXTINF:-1 tvg-id="SKYSA4H" tvg-name="DE: Sky Sport Austria 4 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_4_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 4 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136091.ts
+#EXTINF:-1 tvg-id="SKYSA4H" tvg-name="DE: Sky Sport Austria 4 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_4_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 4 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324031.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 5 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_5_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 5 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324032.ts
+#EXTINF:-1 timeshift="7" tvg-id="013a4e766525cb546edecbb04f9e617b" tvg-name="DE: Sky Sport Austria 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_5_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 5 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/134375.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 6 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_6_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 6 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324033.ts
+#EXTINF:-1 timeshift="7" tvg-id="52de7b162d4622c977618862af6815a7" tvg-name="DE: Sky Sport Austria 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_austria_6_HD.png" group-title="Sky Sport",DE: Sky Sport Austria 6 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/134376.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_1_HD.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/155.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD (WEB 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_1_HD.png" group-title="Sky Sport",DE: Eurosport 1 HD (WEB 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324821.ts
+#EXTINF:-1 tvg-id="EURS2HD" tvg-name="DE: Eurosport 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Eurosport_2_HD.png" group-title="Sky Sport",DE: Eurosport 2 HD (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/25982.ts
+#EXTINF:-1 tvg-id="E3603A" tvg-name="DE: Eurosport360 HD 3" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_3_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 3
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/15849.ts
+#EXTINF:-1 tvg-id="E3604A" tvg-name="DE: Eurosport360 HD 4" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_4_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 4
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/15953.ts
+#EXTINF:-1 tvg-id="E3605A" tvg-name="DE: Eurosport360 HD 5" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_5_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 5
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/75182.ts
+#EXTINF:-1 tvg-id="E3606A" tvg-name="DE: Eurosport360 HD 6" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_6_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 6
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/75181.ts
+#EXTINF:-1 tvg-id="E3607A" tvg-name="DE: Eurosport360 HD 7" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_7_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 7
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/75180.ts
+#EXTINF:-1 tvg-id="E3608A" tvg-name="DE: Eurosport360 HD 8" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Eurosport_360_8_HD.png" group-title="Sky Sport",DE: Eurosport360 HD 8
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/75179.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN FAST HD (Teststream)" tvg-logo="http://logo.watchhd.cc/logo/dazn%20fast.png" group-title="DAZN & RTL+",DE: DAZN FAST HD (Teststream)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/292505.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN RISE HD(Teststream)" tvg-logo="" group-title="DAZN & RTL+",DE: DAZN RISE HD(Teststream)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/321265.ts
+#EXTINF:-1 timeshift="7" tvg-id="ba1cd348038447ab732890ba429f8eb7" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/102.ts
+#EXTINF:-1 tvg-id="ba1cd348038447ab732890ba429f8eb7" tvg-name="DE: DAZN 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/136053.ts
+#EXTINF:-1 tvg-id="fdaef980ae56dfaec850feebf979d8de" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/103.ts
+#EXTINF:-1 tvg-id="303bf9795eb8574b64883e002ac9501d" tvg-name="DE: DAZN 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD (Sat)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/138891.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 1 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_01.png" group-title="DAZN & RTL+",DE: DAZN Event 1 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108575.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 2 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_02.png" group-title="DAZN & RTL+",DE: DAZN Event 2 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108576.ts
+#EXTINF:-1 tvg-id="ba1cd348038447ab732890ba429f8eb7" tvg-name="DE: DAZN 1 HD (Web 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (Web 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/129973.ts
+#EXTINF:-1 tvg-id="303bf9795eb8574b64883e002ac9501d" tvg-name="DE: DAZN 2 HD (Web 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD (Web 1080)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130156.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 3 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_03.png" group-title="DAZN & RTL+",DE: DAZN Event 3 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108577.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 4 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_04.png" group-title="DAZN & RTL+",DE: DAZN Event 4 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108578.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 5 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_05.png" group-title="DAZN & RTL+",DE: DAZN Event 5 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 6 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_06.png" group-title="DAZN & RTL+",DE: DAZN Event 6 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 7 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_07.png" group-title="DAZN & RTL+",DE: DAZN Event 7 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 8 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="DAZN & RTL+",DE: DAZN Event 8 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108582.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 9 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_09.png" group-title="DAZN & RTL+",DE: DAZN Event 9 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108585.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 10 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_10.png" group-title="DAZN & RTL+",DE: DAZN Event 10 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108643.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 11 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_11.png" group-title="DAZN & RTL+",DE: DAZN Event 11 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122053.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 12 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_12.png" group-title="DAZN & RTL+",DE: DAZN Event 12 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/112898.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 13 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_13.png" group-title="DAZN & RTL+",DE: DAZN Event 13 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122055.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 14 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_14.png" group-title="DAZN & RTL+",DE: DAZN Event 14 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122056.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 15 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_15.png" group-title="DAZN & RTL+",DE: DAZN Event 15 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122057.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 16 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_16.png" group-title="DAZN & RTL+",DE: DAZN Event 16 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122058.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 17 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="DAZN & RTL+",DE: DAZN Event 17 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/122059.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 18 HD (Backup)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_18.png" group-title="DAZN & RTL+",DE: DAZN Event 18 HD (Backup)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/130089.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 1" tvg-name="DE: RTL+ Event HD 1" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 1
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108532.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 1" tvg-name="DE: RTL+ Event HD 1 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 1 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324841.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 2" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_2.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 2
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/108533.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 2 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 2 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324842.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 3" tvg-name="DE: RTL+ Event HD 3" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_3.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 3
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110292.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 3" tvg-name="DE: RTL+ Event HD 3 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 3 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324843.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 4" tvg-name="DE: RTL+ Event HD 4" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_4.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 4
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110293.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 4" tvg-name="DE: RTL+ Event HD 4 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 4 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324844.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 5" tvg-name="DE: RTL+ Event HD 5" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_5.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 5
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110294.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 5" tvg-name="DE: RTL+ Event HD 5 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 5 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324845.ts
+#EXTINF:-1 timeshift="7" tvg-id="RTL+ LIVE 6" tvg-name="DE: RTL+ Event HD 6" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_6.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 6
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110295.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 6" tvg-name="DE: RTL+ Event HD 6 (720p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_1.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 6 (720p)
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/324846.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 7" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_7.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 7
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110296.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 8" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_8.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 8
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110297.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 9" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_9.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 9
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110298.ts
+#EXTINF:-1 tvg-id="RTL+ LIVE 2" tvg-name="DE: RTL+ Event HD 10" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_RTL+_EVENT_10.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 10
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/110299.ts
+#EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Magenta Sport",DE: Magenta Sport 1 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113720.ts
+#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Magenta Sport",DE: Magenta Sport 2 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113721.ts
+#EXTINF:-1 tvg-id="Sport 3 - myTeamTV" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Magenta Sport",DE: Magenta Sport 3 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113722.ts
+#EXTINF:-1 tvg-id="Sport 4 - myTeamTV" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_4.png" group-title="Magenta Sport",DE: Magenta Sport 4 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113723.ts
+#EXTINF:-1 tvg-id="Sport 5 - myTeamTV" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_5.png" group-title="Magenta Sport",DE: Magenta Sport 5 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113724.ts
+#EXTINF:-1 tvg-id="Sport 6 - myTeamTV" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_6.png" group-title="Magenta Sport",DE: Magenta Sport 6 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113725.ts
+#EXTINF:-1 tvg-id="Sport 7 - myTeamTV" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_7.png" group-title="Magenta Sport",DE: Magenta Sport 7 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113726.ts
+#EXTINF:-1 tvg-id="Sport 8 - myTeamTV" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_8.png" group-title="Magenta Sport",DE: Magenta Sport 8 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113727.ts
+#EXTINF:-1 tvg-id="Sport 9 - myTeamTV" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_9.png" group-title="Magenta Sport",DE: Magenta Sport 9 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113728.ts
+#EXTINF:-1 tvg-id="Sport 10 - myTeamTV" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_10.png" group-title="Magenta Sport",DE: Magenta Sport 10 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113729.ts
+#EXTINF:-1 tvg-id="Sport 11 - myTeamTV" tvg-name="DE: Magenta Sport 11 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_11.png" group-title="Magenta Sport",DE: Magenta Sport 11 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113730.ts
+#EXTINF:-1 tvg-id="Sport 12 - myTeamTV" tvg-name="DE: Magenta Sport 12 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_12.png" group-title="Magenta Sport",DE: Magenta Sport 12 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113731.ts
+#EXTINF:-1 tvg-id="Sport 13 - myTeamTV" tvg-name="DE: Magenta Sport 13 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_13.png" group-title="Magenta Sport",DE: Magenta Sport 13 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113732.ts
+#EXTINF:-1 tvg-id="Sport 14 - myTeamTV" tvg-name="DE: Magenta Sport 14 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_14.png" group-title="Magenta Sport",DE: Magenta Sport 14 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113733.ts
+#EXTINF:-1 tvg-id="Sport 15 - myTeamTV" tvg-name="DE: Magenta Sport 15 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_15.png" group-title="Magenta Sport",DE: Magenta Sport 15 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113734.ts
+#EXTINF:-1 tvg-id="Sport 16 - myTeamTV" tvg-name="DE: Magenta Sport 16 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_16.png" group-title="Magenta Sport",DE: Magenta Sport 16 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113735.ts
+#EXTINF:-1 tvg-id="Sport 17 - myTeamTV" tvg-name="DE: Magenta Sport 17 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_17.png" group-title="Magenta Sport",DE: Magenta Sport 17 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113736.ts
+#EXTINF:-1 tvg-id="Sport 18 - myTeamTV" tvg-name="DE: Magenta Sport 18 HD" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_18.png" group-title="Magenta Sport",DE: Magenta Sport 18 HD
+http://iptv.watchhd.cc:5050/mrbene2711/xyqxIw-6butde-gepfis/113737.ts

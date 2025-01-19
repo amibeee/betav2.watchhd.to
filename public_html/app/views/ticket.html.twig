@@ -1,0 +1,56 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	Ticket #{{ ticket.id }}
+{% endblock %}
+
+{% block content %}
+	<div class="f-settings-container-fluid" style="color:white">
+<div class="step2-bg"></div>
+
+		{% if ticket.closed  %}
+			<a href="{{ base_url() }}ticket/{{ ticket.public_id }}/open" class="Main-btn-click">{{ t('Ticket öffnen') }}</a>
+		{% else %}
+			<a href="{{ base_url() }}ticket/{{ ticket.public_id }}/close" class="Main-btn-click">{{ t('Ticket schließen') }}</a>
+		{% endif %}
+
+	<h1 style="font-size: clamp(1.5rem, 4vw, 2.5rem); line-height: 1.2; margin-bottom: 0.5rem; word-wrap: break-word;">
+    <span style="display: block; margin-bottom: 0.25rem;">{{ ticket.subject }}</span>
+    <span style="display: inline-block; font-size: 0.8em; color: #666; margin-right: 0.5rem; ">({{ ticket.category }})</span>
+    <small style="display: block; font-size: 0.6em; color: #888; font-weight: normal; margin-top: 0.25rem;">{{ ticket.created_at|date('d.m.Y H:i') }}</small>
+</h1>
+
+		<p>
+			<strong>{{ ticket.name }}</strong>
+		</p>
+		<q>{{ ticket.contents }}</q>
+		<p></p>
+		{% for reply in ticket.replies %}
+
+			<strong>{{ reply.name }}</strong>
+			am
+			{{ reply.created_at|date('d.m.Y H:i') }}
+			<p>
+				<q>{{ reply.contents }}
+				</q>
+			</p>
+
+		{% endfor %}
+		{% if ticket.closed == 0  %}
+			{{ form_open()|raw }}
+			<div class="form-group">
+
+				<div class="i">
+
+					<textarea class="form-control" name="contents" id="contents" rows="5"></textarea>
+<br>
+					<span class="input-group-btn">
+						<input type="submit" value="{{ t('speichern') }}" class="Main-btn-click"/>
+					</span>
+				</div>
+
+			</div>
+			{{ form_close()|raw }}
+		{% endif %}
+        </div>
+	{% endblock %}

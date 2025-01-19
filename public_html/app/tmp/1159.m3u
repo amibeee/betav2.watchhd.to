@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:5050/hdmw/n6u8HRKaYdTL/131
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD (720p)
+http://iptv.watchhd.cc:5050/hdmw/n6u8HRKaYdTL/460
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="HEVC FHD",DE: Sky Sport News HD (HEVC)
+http://iptv.watchhd.cc:5050/hdmw/n6u8HRKaYdTL/10130

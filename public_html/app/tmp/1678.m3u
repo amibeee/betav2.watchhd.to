@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e47084e5825ecf2c22d45f6f3406c219.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/46.ts
+#EXTINF:-1 tvg-id="MOTVHD" tvg-name="DE: Motorvision" tvg-logo="http://iptv.watchhd.cc:5050/images/205f6c4ca69f5fbb641cbf5deeaea4c7.png" group-title="Free-TV",DE: Motorvision
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/45.ts
+#EXTINF:-1 tvg-id="CIHDKDG" tvg-name="DE: Crime & Investigation HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6811410b1e5cf5a337d0fb95e5555ff5.png" group-title="Sky Doku",DE: Crime & Investigation HD
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/134.ts
+#EXTINF:-1 timeshift="3" tvg-id="CIHDKDG" tvg-name="DE: Crime & Investigation HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/6811410b1e5cf5a337d0fb95e5555ff5.png" group-title="Sky Doku",DE: Crime & Investigation HD (720p)
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/111487.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 1" tvg-logo="http://iptv.watchhd.cc:5050/images/1b269eea0f94da38081c86d28c41e6c6.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 1
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/108532.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ Event HD 2" tvg-logo="http://iptv.watchhd.cc:5050/images/1b269eea0f94da38081c86d28c41e6c6.png" group-title="DAZN & RTL+",DE: RTL+ Event HD 2
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/108533.ts
+#EXTINF:-1 tvg-id="mtvomg.uk" tvg-name="UK: MTV OMG" tvg-logo="https://i.imgur.com/9PVRAWD.png?1" group-title="Music",UK: MTV OMG
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/28273.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="https://i.imgur.com/u4CSW2z.png?1" group-title="Music",UK: MTV HITS
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/28270.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: MTV Club" tvg-logo="http://iptv.watchhd.cc:5050/images/4c35e8c4710b9765f8c50cd3607a6742.jpg" group-title="Music",UK: MTV Club
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/28272.ts
+#EXTINF:-1 tvg-id="MTVBSE" tvg-name="UK: MTV Base" tvg-logo="http://iptv.watchhd.cc:5050/images/e64b3727c5e1820aec4117b1acc0ff70.png" group-title="Music",UK: MTV Base
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/28269.ts
+#EXTINF:-1 tvg-id="5209af825175478b958950ee72d77729" tvg-name="UK: MTV 90s" tvg-logo="http://iptv.watchhd.cc:5050/images/2559361cfe02e08b6e6d298dfab6cd6e.jpg" group-title="Music",UK: MTV 90s
+http://iptv.watchhd.cc:5050/druma111/d7KCiA8FDB/28271.ts

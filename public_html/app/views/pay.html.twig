@@ -1,0 +1,60 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+    {{ t('Zahlung') }} #{{ payment.id }} |
+{% endblock %}
+
+{% block content %}
+    <div class="f-settings-container-fluid">
+        <h1>{{ t('Zahlung') }} #{{ payment.id }} / {{ anonpay_data.ID }}</h1>
+        <div class="friend-settings-container-fluid2" style="color:white">
+            <div class="panel-body" align="center">
+                <h2>{{ t('Trocador Payment') }}</h2>
+                <!-- Trocador AnonPay payment iframe -->
+                <iframe id="paymentIframe" src="{{ anonpay_iframe_url|raw }}" width="310" height="350" style="border:0" scrolling="no"></iframe>
+
+                <p>{{ t('Total amount') }}: <span id="totalAmount">{{ payment.amount }}</span> EUR</p>
+                <p id="multilineStatus" {% if not payment.data.multiline %}style="display:none;"{% endif %}>
+                    {{ t('Multiline Option aktiviert') }}
+                </p>
+                
+                <!-- Button to confirm payment and redirect to account page -->
+                <a href="{{ base_url() }}account" class="btn btn-lg btn-success btn-block">{{ t('Ich habe gezahlt!') }}</a>
+            </div>
+        </div>
+    </div>
+        
+    <script>
+    $(document).ready(function(){
+        function updateIframeSrc() {
+            var selectedPrice = localStorage.getItem('selectedPrice');
+            var isMultiline = localStorage.getItem('isMultiline') === 'true';
+            console.log(isMultiline);
+            if (selectedPrice) {
+                var url = new URL($("#paymentIframe").attr('src'));
+                url.searchParams.set(blank, '');
+                url.searchParams.set('amount', selectedPrice);
+                 
+                if (isMultiline) {
+                    url.searchParams.set('description', '#{{ payment.id }} Multiline');
+                    $('#multilineStatus').show();
+                } else {
+                    url.searchParams.set('description', '#{{ payment.id }}');
+                    $('#multilineStatus').hide();
+                }
+                
+                $('#paymentIframe').attr('src', url.toString());
+                $('#totalAmount').text(selectedPrice);
+            }
+        }
+        
+        // Call the function when the page loads
+        updateIframeSrc();
+    });
+    
+    // Redirect after 3 minutes
+    setTimeout(function(){
+        window.location = '{{ base_url() }}?error=Payment+Timeout';
+    }, (3*60000));
+    </script>
+{% endblock %}

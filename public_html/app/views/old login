@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate="pageTitle">Login</title>
+  <link rel="stylesheet" href="assets/Login/styles.css">
+</head>
+<body>
+  <?php include 'navbar.html'; ?>
+
+  <div class="login-container">
+    <div class="logocontainerlog">
+      <img class="logo-loginpage" src="assets/Login/assets/icons/Logowhite.svg" alt="Logo" />
+      <p class="welcome" data-translate="welcomeMessage">Welcome Back!</p>
+      <p class="subtitle" data-translate="subtitleMessage">
+        Sign in to continue enjoying high-definition entertainment
+        <br />
+        with WatchHD
+      </p>
+    </div>
+    <form action="login" method="post" class="signinputs">
+      <?php echo Form::csrf(); ?>
+      <input class="input-username" type="text" id="username" name="username" required placeholder="Username" data-translate="usernamePlaceholder">
+      <input class="input-password" type="password" id="password" name="password" required placeholder="Password" data-translate="passwordPlaceholder">
+      
+      <label for="captcha" class="captcha">
+        <input type="checkbox" id="captcha" name="captcha" class="checkbox" required>
+        <span class="i-m-not-a-robot" data-translate="captchaLabel">I’m not a robot</span>
+      </label>      
+      <button type="submit" class="button-login" data-translate="loginButton">Login</button>
+      <a href="passwordrecovery" class="forgot-password" data-translate="forgotPasswordLink">Forgot password?</a>
+
+    </form>
+  </div>      
+</body>
+<?php include 'footer.html'; ?>
+
+</html>

@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
+:root {
+    --primary-color: #100d63;
+    --secondary-color: #4463ee;
+    --background-color: #D9D9D9;
+    --text-color: #0f0e14;
+    --accent-color: #7209b7;
+    --highlight-gradient: linear-gradient(135deg, #4463ee, #3a0ca3);
+    --icon-color: #0f0e14;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+ 
+}
+header{
+  height: 40vh;
+
+}
+
+.hero {
+  background-image: url(/assets/img/pricingimg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  gap: 1%;
+  z-index: 0;
+}
+
+
+.news-logo {
+  width: 60px;
+  height: 60px;
+}
+
+.news-title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(6, 2, 27, 0) 9.5%, rgba(6, 2, 24, 0.53) 32.5%, rgba(7, 2, 27, 0.83) 58%, rgb(4, 1, 14) 86.5%);
+  z-index: -1;
+  
+}
+
+@media (max-width: 1000px) {
+  header{
+      height:20vh ;
+      
+  }
+  .hero h1{
+  font-size:1.8rem ;        
+  }
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.welcoming {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+    margin: 3% auto;
+    box-sizing: border-box; /* Ensure padding and border are included in width/height */
+  }
+  
+  .welcoming-title {
+    color: var(--text-color);
+    text-align: center;
+    font-size: 1.5rem; /* Base font size */
+    line-height: 130%;
+    letter-spacing: -0.01em;
+    font-weight: 600;
+    height: auto; /* Allow height to adjust based on content */
+    max-width: 90%; /* Ensure title doesn't stretch too wide */
+  }
+  
+  .welcoming-subtitle {
+    width: 70%;
+    color: var(--text-color);
+    text-align: center;
+    font-size: 0.99rem; /* Base font size */
+    line-height: 130%;
+    letter-spacing: -0.01em;
+    font-weight: 400;
+    height: auto; /* Allow height to adjust based on content */
+    max-width: 90%; /* Ensure subtitle doesn't stretch too wide */
+  }
+.news {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.news-1 {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.news-1:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      background: var(--highlight-gradient);
+      color: #fff;
+  }
+  
+.news-1:hover .title i,
+.news-1:hover .title ,
+.news-1:hover .date i,
+.news-1:hover .content,
+.news-1:hover .content2,
+.news-1:hover .fa,
+.news-1:hover .content-2-span2 {
+    color: #fff;
+}
+
+.news-1:hover .date{
+  color: var(--icon-color);
+  font-weight: 600;
+}
+.icon {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 2.5rem;
+    color: var(--icon-color);
+    opacity: 0.1;
+}
+
+.news-1:hover .icon {
+    opacity: 0.3;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.title i {
+    margin-right: 10px;
+    color: var(--primary-color);
+}
+
+.date {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.date i {
+    margin-right: 5px;
+    color: var(--primary-color);
+}
+
+.content, .content2 {
+    font-size: 1rem;
+    color: var(--text-color);
+    line-height: 1.8;
+}
+
+.content-2-span2 {
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+
+@media (max-width: 768px) {
+    .news {
+        grid-template-columns: 1fr;
+    }
+
+    .welcoming-title {
+        font-size: 1.5rem;
+    }
+
+    .welcoming-subtitle {
+        font-size: 1rem;
+    }
+
+    .news-1 {
+        padding: 20px;
+    }
+
+    .icon {
+        font-size: 2rem;
+    }
+}
+
+
+
+
+
+
+/* Footer styling */
+.footer {
+  background-color: #4f33ef;
+  padding: 20px;
+  margin: 16px;
+  border-radius: 8px;
+}
+
+.footer-container {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.footer-logo-img {
+  height: 32px;
+  margin-right: 8px;
+}
+
+.footer-logo-text {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.footer-links {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.footer-link {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 20px;
+  transition: color 0.3s;
+}
+
+.footer-link:hover {
+  color: #4f33ef;
+}
+
+.footer-divider {
+  border: 0;
+  border-top: 1px solid #e5e5e5;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.footer-copy {
+  text-align: center;
+  font-size: 14px;
+  color: #d6d6d6;
+}
+
+.footerlogolink{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  transition: transform 0.2s;
+}
+.footerlogolink:hover{
+  transform: scale(0.98);
+}
+
+/* Responsive design */
+@media (min-width: 768px) {
+  .footer-container {
+      flex-direction: row;
+      align-items: center;
+  }
+
+  .footer-logo {
+      margin-bottom: 0;
+  }
+
+  .footer-links {
+      margin-bottom: 0;
+  }
+}
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .welcoming-title {
+      font-size: 1.25rem; /* Adjust font size for smaller screens */
+    }
+  
+    .welcoming-subtitle {
+      font-size: 0.9rem; /* Adjust font size for smaller screens */
+      width: 85%; /* Increase width for smaller screens */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .welcoming-title {
+      font-size: 1rem; /* Further adjust font size for very small screens */
+    }
+  
+    .welcoming-subtitle {
+      font-size: 0.85rem; /* Further adjust font size for very small screens */
+      width: 90%; /* Increase width for very small screens */
+    }
+  }
+  

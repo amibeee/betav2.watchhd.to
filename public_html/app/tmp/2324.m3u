@@ -1,0 +1,10 @@
+#EXTINF:-1 timeshift="5" tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/hundertwasser/fYmQSlzNJZ1K/1.ts
+#EXTINF:-1 tvg-id="141ae99453b7dc4d9b33cd104c2dbe39" tvg-name="DE: Sky One HD (Web 1080p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Web 1080p)
+http://iptv.watchhd.cc:5050/hundertwasser/fYmQSlzNJZ1K/310077.ts
+#EXTINF:-1 tvg-id="SKY1DEH" tvg-name="DE: Sky One HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (720p)
+http://iptv.watchhd.cc:5050/hundertwasser/fYmQSlzNJZ1K/88.ts
+#EXTINF:-1 tvg-id="141ae99453b7dc4d9b33cd104c2dbe39" tvg-name="DE: Sky One HD (Web 720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Web 720p)
+http://iptv.watchhd.cc:5050/hundertwasser/fYmQSlzNJZ1K/310078.ts
+#EXTINF:-1 tvg-id="141ae99453b7dc4d9b33cd104c2dbe39" tvg-name="DE: Sky One HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_One_HD.png" group-title="Sky Film",DE: Sky One HD (Sat)
+http://iptv.watchhd.cc:5050/hundertwasser/fYmQSlzNJZ1K/136085.ts

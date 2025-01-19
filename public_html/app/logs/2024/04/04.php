@@ -1,0 +1,6 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-04 17:41:33 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Stan1987&amp;password=5838GSAMVcU6&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-04-04 17:41:40 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Stan1987&amp;password=5838GSAMVcU6&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-04-04 17:42:34 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Stan1987&amp;password=5838GSAMVcU6&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-04-04 20:36:58 --> Error - Listing columns failed, you have to set the model properties with a static $_properties setting in the model. Original exception: Error while sending QUERY packet. PID=2072219 in /home/seychu/web/watchhd.to/public_html/fuel/packages/orm/classes/model.php on line 333

@@ -1,0 +1,31 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	{{ t('Emailadresse ändern') }}
+{% endblock %}
+
+{% block content %}
+	<div class="container-fluid">
+
+		<div class="mail-container-fluid">
+
+			<h2 class="change-email-title">{{ t('Emailadresse ändern') }}</h2>
+			<!--<div class="alert alert-info">Lorem Ipsum</div>-->
+
+			{{ form_open()|raw }}
+
+			<div class="form-group">
+				<label>{{ t('Neue Emailadresse') }}</label>
+				<input type="email" name="email1" id="email1" class="form-control"/>
+			</div>
+			<div class="form-group">
+				<label>{{ t('Neue Emailadresse (wiederholen)') }}</label>
+				<input type="email" name="email2" id="email2" class="form-control"/>
+			</div>
+			<div class="form-group" >
+				<center><input type="submit" value="{{ t('weiter') }}" class="mirrors-btns-acc" /></center>
+			</div>
+			{{ form_close()|raw }}
+		</div>
+	</div>
+{% endblock %}

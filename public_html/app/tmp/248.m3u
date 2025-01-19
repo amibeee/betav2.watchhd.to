@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/71.ts
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="General Streams",DE: ZDF HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/72.ts
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/1501.ts
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="General Streams",DE: Kabel1 HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/1500.ts
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="General Streams",DE: NDR HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/78.ts
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="General Streams",DE: Kabel1 Doku
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/1491.ts
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/54.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="General Streams",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/109.ts
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/1499.ts
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="",DE: RTL 2 HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/1498.ts
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="General Streams",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/76.ts
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: Sixx HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="General Streams",DE: Sixx HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/2302.ts
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="General Streams",DE: VOX HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/56.ts
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="General Streams",DE: DMAX HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/166.ts
+#EXTINF:-1 tvg-id="Sport1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="General Streams",DE: Sport 1 HD
+http://iptv.watchhd.cc:8000/live/rickbouchard/q1uC2eemFP/90.ts

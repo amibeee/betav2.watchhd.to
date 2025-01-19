@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 HD (variable Bitrate) Test" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (variable Bitrate) Test
+http://163.172.52.50:5050/dacr0ss/L20dN7gGzDCO/68482.ts
+#EXTINF:-1 timeshift="7" tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD
+http://163.172.52.50:5050/dacr0ss/L20dN7gGzDCO/102.ts
+#EXTINF:-1 tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_1.png" group-title="DAZN & RTL+",DE: DAZN 1 HD (Sat)
+http://163.172.52.50:5050/dacr0ss/L20dN7gGzDCO/136053.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD
+http://163.172.52.50:5050/dacr0ss/L20dN7gGzDCO/103.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_DAZN_BAR_2.png" group-title="DAZN & RTL+",DE: DAZN 2 HD (Sat)
+http://163.172.52.50:5050/dacr0ss/L20dN7gGzDCO/138891.ts

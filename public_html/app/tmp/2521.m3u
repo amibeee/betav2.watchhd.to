@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="DE: SPORT1" tvg-name="DE: Sport1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/43.ts
+#EXTINF:-1 timeshift="2" tvg-id="DE: SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/159.ts
+#EXTINF:-1 tvg-id="DE: More Than Sports TV" tvg-name="DE: More Than Sports TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_More_Than_Sports_HD.png" group-title="Free-TV",DE: More Than Sports TV HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/115486.ts
+#EXTINF:-1 tvg-id="EXTRSP" tvg-name="DE: Extreme Sports Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Extreme_Sport_Channel.png" group-title="Free-TV",DE: Extreme Sports Channel HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/113991.ts
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" tvg-name="DE: Auto Motor und Sport Channel UHD" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Free-TV",DE: Auto Motor und Sport Channel UHD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/341858.ts
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/46.ts
+#EXTINF:-1 timeshift="5" tvg-id="DE: Motorvision" tvg-name="DE: Motorvision HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sportdigital Scooore HD" tvg-logo="" group-title="Free-TV",DE: Sportdigital Scooore HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/346087.ts
+#EXTINF:-1 timeshift="5" tvg-id="DF1" tvg-name="DE: DF1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Servus_TV_Deutschland_HD.png" group-title="Free-TV",DE: DF1 HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/361.ts
+#EXTINF:-1 tvg-id="791208ec3c39f30987695a96af95edcd" tvg-name="DE: Prime Video Sportsbar HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Web)
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/9313.ts
+#EXTINF:-1 tvg-id="20deda86df51b73cd8c85780a75155f2" tvg-name="DE: EDGE Sport HD" tvg-logo="http://logo.watchhd.cc/logo/edge_sport.png" group-title="Sky Sport",DE: EDGE Sport HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/16093.ts
+#EXTINF:-1 tvg-id="DE: eSPORTS1" tvg-name="DE: eSports1 HD" tvg-logo="http://logo.watchhd.cc/logo/eSport1_HD.png" group-title="Sky Sport",DE: eSports1 HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/158.ts
+#EXTINF:-1 timeshift="7" tvg-id="DE: SPORTDIGITAL FUSSBALL" tvg-name="DE: Sportdigital HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sportdigital_HD.png" group-title="Sky Sport",DE: Sportdigital HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/160.ts
+#EXTINF:-1 tvg-id="Sportdigital FUSSBALL 2" tvg-name="DE: Sportdigital FUSSBALL 2 HD" tvg-logo="" group-title="Sky Sport",DE: Sportdigital FUSSBALL 2 HD
+http://iptv.watchhd.cc:5050/Razor1902/Meiderich-1902/343661.ts

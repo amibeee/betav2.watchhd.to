@@ -1,0 +1,7 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2024-12-30 00:10:12 --> Error - An exception has been thrown during the rendering of a template ("Listing columns failed, you have to set the model properties with a static $_properties setting in the model. Original exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away"). in /home/betav2user/web/betav2.watchhd.to/public_html/app/views/pay.html.twig on line 4
+ERROR - 2024-12-30 00:27:04 --> Error - Too few arguments to function Fuel\Core\Controller::__construct(), 0 passed in /home/betav2user/web/betav2.watchhd.to/public_html/app/classes/controller/pay.php on line 10 and exactly 1 expected in /home/betav2user/web/betav2.watchhd.to/public_html/fuel/core/classes/controller.php on line 32
+ERROR - 2024-12-30 00:27:12 --> Error - Too few arguments to function Fuel\Core\Controller::__construct(), 0 passed in /home/betav2user/web/betav2.watchhd.to/public_html/app/classes/controller/pay.php on line 10 and exactly 1 expected in /home/betav2user/web/betav2.watchhd.to/public_html/fuel/core/classes/controller.php on line 32
+ERROR - 2024-12-30 01:41:35 --> Payment processing error: Trying to access array offset on value of type null
+ERROR - 2024-12-30 01:41:35 --> Notice - Trying to access array offset on value of type null in /home/betav2user/web/betav2.watchhd.to/public_html/app/classes/controller/pay.php on line 304

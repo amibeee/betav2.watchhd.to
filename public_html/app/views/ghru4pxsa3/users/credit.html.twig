@@ -1,0 +1,62 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Premium Laufzeit gutschreiben
+{% endblock %}
+{% block content %}
+{{  form_open()|raw }}
+		<div class="f-settings-container-fluid">
+		<div class="friend-settings-container-fluid">
+<input type="hidden" name="user_id" value="" id="user_id" />
+
+    <input type="hidden" name="bonustime" value="" id="bonustime" />
+
+  <div class="modal-dialog" role="document">
+
+    <div class="modal-content">
+
+      <div class="modal-header">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+        <h4 class="modal-title">Premium Tage gutschreiben</h4>
+
+      </div>
+
+      <div class="modal-body" align="center">
+
+        
+
+        <div id="creditbonustimemodalmessage"></div>
+
+      
+
+        <p>
+
+            <button type="button" class="btn btn-raised btn-default setPremiumTime" data-premium-bonus-time="86400" style="padding: 15px;">1 Tag</button>
+
+            <button type="button" class="btn btn-raised btn-default setPremiumTime" data-premium-bonus-time="{{ (2*86400) }}" style="padding: 15px;">2 Tage</button>
+
+            <button type="button" class="btn btn-raised btn-default setPremiumTime" data-premium-bonus-time="{{ (7*86400) }}" style="padding: 15px;">7 Tage</button>
+
+            <button type="button" class="btn btn-raised btn-default setPremiumTime" data-premium-bonus-time="{{ (14*86400) }}" style="padding: 15px;">14 Tage</button>
+
+            <button type="button" class="btn btn-raised btn-default setPremiumTime" data-premium-bonus-time="{{ (30*86400) }}" style="padding: 15px;">30 Tage</button>
+
+        </p>
+
+      </div>
+
+      <div class="modal-footer">
+		<input type="submit" value="Tage gutschreiben" class="btn btn-raised btn-block btn-lg btn-success" />
+       
+      
+      </div>
+
+    </div><!-- /.modal-content -->
+
+  </div><!-- /.modal-dialog -->
+
+  {{ form_close()|raw }}
+
+{% endblock %}

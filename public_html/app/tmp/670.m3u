@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD (Low bit)" tvg-logo="" group-title="General Streams",DE: Das Erste HD (Low bit)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/2141
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="General Streams",DE: Das Erste HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/71
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free TV",DE: ZDF HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/72
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD (Low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free TV",DE: ZDF HD (Low bit)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/23052
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD (720p)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/52
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/1499
+#EXTINF:-1 tvg-id="RTL Television" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="General Streams",DE: RTL UHD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/2116
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/75
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="General Streams",DE: Sat.1 HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/1501
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="General Streams",DE: RTL 2 HD (720p)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/55
+#EXTINF:-1 tvg-id="RTL2" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="General Streams",DE: RTL 2 HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/1498
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/1430
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="General Streams",DE: Prosieben HD
+http://iptv.watchhd.cc:8000/XavierPedro/ZbMxUf1lbP/54

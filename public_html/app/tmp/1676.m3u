@@ -1,0 +1,86 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/1.ts
+#EXTINF:-1 timeshift="7" tvg-id="DASERST" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/4678.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/4740.ts
+#EXTINF:-1 tvg-id="a2b6e3e0e35a51dbe5e4a43a8fffd885" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/3.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/2.ts
+#EXTINF:-1 timeshift="3" tvg-id="a2b6e3e0e35a51dbe5e4a43a8fffd885" tvg-name="DE: RTL HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/379.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/4.ts
+#EXTINF:-1 timeshift="3" tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/380.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4317b59d27479a4f882d3b478a5a76e6.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/33.ts
+#EXTINF:-1 timeshift="3" tvg-id="e88a7f8bfe60e1ac32e59cc002a9d493" tvg-name="DE: Kabel 1 Doku HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/4317b59d27479a4f882d3b478a5a76e6.png" group-title="Free-TV",DE: Kabel 1 Doku HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/18480.ts
+#EXTINF:-1 tvg-id="KAB1H" tvg-name="DE: Kabel 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ec77ae9fce18f79ced3fd3270a73d073.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/31.ts
+#EXTINF:-1 timeshift="3" tvg-id="5a51ad65369c8cb0a755645c239d0123" tvg-name="DE: Kabel 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/ec77ae9fce18f79ced3fd3270a73d073.png" group-title="Free-TV",DE: Kabel 1 HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/372.ts
+#EXTINF:-1 tvg-id="PRO7GRH" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/5.ts
+#EXTINF:-1 timeshift="3" tvg-id="PRO7HD" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/356.ts
+#EXTINF:-1 timeshift="3" tvg-id="6bbf9c8de1ca56b460eb09640082b9f9" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3b8a137e3d2159e27ee9e5cb3551e854.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/359.ts
+#EXTINF:-1 tvg-id="PRO7MXCH" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8353d03e59ddc1a6e7842828e7b6fc9b.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/7.ts
+#EXTINF:-1 timeshift="3" tvg-id="PROMXHD" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/8353d03e59ddc1a6e7842828e7b6fc9b.png" group-title="Free-TV",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/637.ts
+#EXTINF:-1 tvg-id="5a22beb0e12fc2173e002737e7cb01b5" tvg-name="DE: RTL II HD" tvg-logo="http://iptv.watchhd.cc:5050/images/99d52c9df02ed4b94bf60182907b7da9.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/6.ts
+#EXTINF:-1 timeshift="3" tvg-id="6b12979fd4454a0ffc75b682d2061fa4" tvg-name="DE: RTL II HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/99d52c9df02ed4b94bf60182907b7da9.png" group-title="Free-TV",DE: RTL II HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/387.ts
+#EXTINF:-1 tvg-id="702f5305034a9048ee4a235c95f31474" tvg-name="DE: VOX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/41.ts
+#EXTINF:-1 timeshift="3" tvg-id="9765945dc085f7c94e75d4641f3db030" tvg-name="DE: VOX HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/612.ts
+#EXTINF:-1 tvg-id="23e85e66473a3697f25515810cd2db7b" tvg-name="DE: VOXup HD" tvg-logo="http://iptv.watchhd.cc:5050/images/5cba257353acd5a724421192ba8ad5a1.png" group-title="Free-TV",DE: VOXup HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/625.ts
+#EXTINF:-1 tvg-id="2c9b3d7f03c2853ec8dba8164d84b3da" tvg-name="DE: SIXX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8b1ee6f8d489a69d9182aa1d1d14a783.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/40.ts
+#EXTINF:-1 timeshift="3" tvg-id="2c9b3d7f03c2853ec8dba8164d84b3da" tvg-name="DE: SIXX HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/8b1ee6f8d489a69d9182aa1d1d14a783.png" group-title="Free-TV",DE: SIXX HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10096.ts
+#EXTINF:-1 tvg-id="97ba5c3c26c22d7aeac56336d341fb48" tvg-name="DE: DMAX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/42.ts
+#EXTINF:-1 timeshift="3" tvg-id="97ba5c3c26c22d7aeac56336d341fb48" tvg-name="DE: DMAX HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="Free-TV",DE: DMAX HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/381.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: RTL Nitro HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d10cbdda4c41556fe4d89ab4b4f35d27.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/35.ts
+#EXTINF:-1 tvg-id="INSGER" tvg-name="DE: Insight HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b8fb74271e8b729b5db9583e0c0cff76.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10245.ts
+#EXTINF:-1 timeshift="3" tvg-id="RTLNIHD" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/d10cbdda4c41556fe4d89ab4b4f35d27.png" group-title="Free-TV",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10097.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d03ce90695563bbc9f05e74e192e2191.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/360.ts
+#EXTINF:-1 timeshift="3" tvg-id="0b1f558bfa749a04a129954c6f894211" tvg-name="DE: Super RTL HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/d03ce90695563bbc9f05e74e192e2191.png" group-title="Free-TV",DE: Super RTL HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10103.ts
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="DE: Tele 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/642a704e1dd30e4d12fde1a789fddad8.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/50.ts
+#EXTINF:-1 timeshift="3" tvg-id="TELE5HD" tvg-name="DE: Tele 5 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/642a704e1dd30e4d12fde1a789fddad8.png" group-title="Free-TV",DE: Tele 5 HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10242.ts
+#EXTINF:-1 tvg-id="7321d1e742b6ba0c69586babb5837c45" tvg-name="DE: Sport1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b05fdcf4b53dfd9870e498d5b8166ca6.png" group-title="Free-TV",DE: Sport1 HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/43.ts
+#EXTINF:-1 timeshift="3" tvg-id="7321d1e742b6ba0c69586babb5837c45" tvg-name="DE: Sport1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/b05fdcf4b53dfd9870e498d5b8166ca6.png" group-title="Free-TV",DE: Sport1 HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/2602.ts
+#EXTINF:-1 tvg-id="b73e67ba35757a9c883dbe7415746e9d" tvg-name="DE: Sport1+ HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4d7fe20dc2fac373ae311850354c4033.png" group-title="Free-TV",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/159.ts
+#EXTINF:-1 tvg-id="a8720fe6ebce5f2c43b6812dbb0c8516" tvg-name="DE: Bild TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e335094f67237ecacd2a71bd671cf536.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/69254.ts
+#EXTINF:-1 tvg-id="828b937d873f32acffca03d2abce1750" tvg-name="DE: N24 Doku" tvg-logo="http://iptv.watchhd.cc:5050/images/4421af456b7fae1236f481845c8022a6.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/1944.ts
+#EXTINF:-1 tvg-id="59afd351061bdb28d41c22425495c3b0" tvg-name="DE: N-TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa0409373f9553631f1848f14234bda9.png" group-title="Free-TV",DE: N-TV HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/52.ts
+#EXTINF:-1 tvg-id="PHONXHD" tvg-name="DE: Phoenix HD" tvg-logo="http://iptv.watchhd.cc:5050/images/19dee580274fae3c9370210563a63a6f.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/51.ts
+#EXTINF:-1 timeshift="3" tvg-id="3e9761254aa5a754fcdc730f1a7a3767" tvg-name="DE: Phoenix HD (lowbit)" tvg-logo="http://iptv.watchhd.cc:5050/images/19dee580274fae3c9370210563a63a6f.png" group-title="Free-TV",DE: Phoenix HD (lowbit)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/11834.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0755ebbe6160b2ed34458910dd92dd70.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/53.ts
+#EXTINF:-1 timeshift="3" tvg-id="WELTHDE" tvg-name="DE: Welt HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/0755ebbe6160b2ed34458910dd92dd70.png" group-title="Free-TV",DE: Welt HD (720p)
+http://iptv.watchhd.cc:5050/rainerrainer/CdPtKsbLBM99/10430.ts

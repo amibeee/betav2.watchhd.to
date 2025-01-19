@@ -1,0 +1,134 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/1
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:25461/images/JAmQYleQyLQmaZNyre6IOKjTKBVbrs70.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/2
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/3
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/379
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Free-TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/4
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/380
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/5
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/356
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/7
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/41
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/612
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UHD" tvg-logo="" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/34
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/35
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/40
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport 1 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/43
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/102
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/357
+#EXTINF:-1 tvg-id="dazn2bar.de" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/103
+#EXTINF:-1 tvg-id="dazn2bar.de" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/358
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 " tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/391
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/106
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/278
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/107
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/279
+#EXTINF:-1 tvg-id="Sky Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/108
+#EXTINF:-1 tvg-id="Sky Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/280
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/109
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/281
+#EXTINF:-1 tvg-id="Sky Bundesliga 5" tvg-name="DE: Sky Sport Bundesliga 5 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/110
+#EXTINF:-1 tvg-id="Sky Bundesliga 5" tvg-name="DE: Sky Sport Bundesliga 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/282
+#EXTINF:-1 tvg-id="Sky Bundesliga 7" tvg-name="DE: Sky Sport Bundesliga 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/283
+#EXTINF:-1 tvg-id="Sky Bundesliga 6" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/111
+#EXTINF:-1 tvg-id="Sky Bundesliga 7" tvg-name="DE: Sky Sport Bundesliga 7 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/112
+#EXTINF:-1 tvg-id="Sky Bundesliga 8" tvg-name="DE: Sky Sport Bundesliga 8 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/113
+#EXTINF:-1 tvg-id="Sky Bundesliga 9" tvg-name="DE: Sky Sport Bundesliga 9 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/114
+#EXTINF:-1 tvg-id="Sky Bundesliga 10" tvg-name="DE: Sky Sport Bundesliga 10 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_10HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/115
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 Mobile" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 1 Mobile
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/444
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/117
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/621
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:25461/images/dsllhfbKeF5JHzBhFeNJNWBmBVi574Uh.png" group-title="Sky Sport",DE: Sky Sport 1 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/284
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/118
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/622
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd2v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/285
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd33v2.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/119
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd3v2.png" group-title="Sky Sport",DE: Sky Sport 3 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/286
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd44v2.png" group-title="Sky Sport",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/120
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd4v2.png" group-title="Sky Sport",DE: Sky Sport 4 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/287
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd55v2.png" group-title="Sky Sport",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/121
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd5v2.png" group-title="Sky Sport",DE: Sky Sport 5 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/288
+#EXTINF:-1 tvg-id="Teleclub Cinema HD" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd66v2.png" group-title="Sky Sport",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/122
+#EXTINF:-1 tvg-id="Sky Sport 6" tvg-name="DE: Sky Sport 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd66v2.png" group-title="Sky Sport",DE: Sky Sport 6 HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/289
+#EXTINF:-1 tvg-id="Sky Sport HD 7" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd7.png" group-title="Sky Sport",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/123
+#EXTINF:-1 tvg-id="Sky Sport HD 8" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd8.png" group-title="Sky Sport",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/124
+#EXTINF:-1 tvg-id="Sky Sport HD 9" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd9.png" group-title="Sky Sport",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/125
+#EXTINF:-1 tvg-id="Teleclub Cinema HD" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd10.png" group-title="Sky Sport",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/126
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/131
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/460
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2xtra HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD (720p)
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/386
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2xtra HD" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/157
+#EXTINF:-1 tvg-id="fubball1.de" tvg-name="DE: Magenta Sport Fussball 1 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_1.png" group-title="Sky Sport",DE: Magenta Sport Fussball 1 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/162
+#EXTINF:-1 tvg-id="fubball2.de" tvg-name="DE: Magenta Sport Fussball 2 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_2.png" group-title="Sky Sport",DE: Magenta Sport Fussball 2 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/163
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sky Sport",DE: Sport1+ HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/159
+#EXTINF:-1 tvg-id="fubball3.de" tvg-name="DE: Magenta Sport Fussball 3 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_3.png" group-title="Sky Sport",DE: Magenta Sport Fussball 3 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/164
+#EXTINF:-1 tvg-id="fubball4.de" tvg-name="DE: Magenta Sport Fussball 4 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_4.png" group-title="Sky Sport",DE: Magenta Sport Fussball 4 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/165
+#EXTINF:-1 tvg-id="fubball5.de" tvg-name="DE: Magenta Sport Fussball 5 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_5.png" group-title="Sky Sport",DE: Magenta Sport Fussball 5 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/166
+#EXTINF:-1 tvg-id="fubball6.de" tvg-name="DE: Magenta Sport Fussball 6 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_6.png" group-title="Sky Sport",DE: Magenta Sport Fussball 6 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/167
+#EXTINF:-1 tvg-id="eishockey7.de" tvg-name="DE: Magenta Sport Fussball 7 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_7.png" group-title="Sky Sport",DE: Magenta Sport Fussball 7 HD
+http://iptv.watchhd.cc:25461/HansSarpei/KgJs4mJnFT/168

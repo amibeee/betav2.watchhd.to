@@ -1,0 +1,20 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Benutzerkonten migrieren') }} |  
+{% endblock %}
+
+{% block content %}
+<h1>{{ t('Benutzerkonten migrieren') }}</h1>
+<p>{{ t('Hallo. Und schön das du dabei bist. Wir haben in den letzten Wochen eine neue Plattform für euch entwickelt über welche ihr die Streams gucken und euch mit anderen Benutzern unterhalten könnt. Wir konnten die Passwörter der Boardsoftware leider nicht übernehmen. Es ist notwendig das du über dieses Formular einen Link anforderst der es dir ermöglicht das Passwort für dein Benutzerkonto bestimmen.') }}</p>
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>{{ t('Benutzername') }}</label>
+    <input type="text" name="user" id="user" class="form-control" value="{{ form_value('user', input_get('username')) }}"  />
+</div>
+<div class="form-group">
+    <input type="submit" name="submitBtn" class="btn btn-raised btn-success btn-block btn-lg" value="{{ t('weiter') }}" />
+</div>
+{{ form_close()|raw }}
+
+{% endblock %}

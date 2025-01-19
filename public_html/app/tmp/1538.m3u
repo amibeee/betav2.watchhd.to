@@ -1,0 +1,52 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/2.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/3.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/4.ts
+#EXTINF:-1 tvg-id="e165894999fca0db4992b7736f5e2300" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4317b59d27479a4f882d3b478a5a76e6.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/33.ts
+#EXTINF:-1 tvg-id="1e879980458e8c62da910edc2c082992" tvg-name="DE: Kabel 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ec77ae9fce18f79ced3fd3270a73d073.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/31.ts
+#EXTINF:-1 tvg-id="5442b78cb4512d05fabf7e2ce9b89aa1" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/5.ts
+#EXTINF:-1 timeshift="3" tvg-id="PRO7FHD" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3b8a137e3d2159e27ee9e5cb3551e854.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/359.ts
+#EXTINF:-1 tvg-id="01fa9074a719d032dea35ffc949b7fe3" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8353d03e59ddc1a6e7842828e7b6fc9b.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/7.ts
+#EXTINF:-1 tvg-id="683e75b3b06d15eaf9cb149b8507f739" tvg-name="DE: RTL II HD" tvg-logo="http://iptv.watchhd.cc:5050/images/99d52c9df02ed4b94bf60182907b7da9.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/6.ts
+#EXTINF:-1 tvg-id="3f88daf93ee22317ddeeb2520c65366c" tvg-name="DE: VOX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/41.ts
+#EXTINF:-1 tvg-id="ade85552bb09d35b2d65a946d241bcd3" tvg-name="DE: VOXup" tvg-logo="http://iptv.watchhd.cc:5050/images/5cba257353acd5a724421192ba8ad5a1.png" group-title="Free-TV",DE: VOXup
+http://iptv.watchhd.cc:5050/milizeus/saganakai/625.ts
+#EXTINF:-1 tvg-id="248de1937e3b4266aa849659817127a9" tvg-name="DE: SIXX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8b1ee6f8d489a69d9182aa1d1d14a783.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/40.ts
+#EXTINF:-1 tvg-id="b8e0aaf6b4e3f978cb25520470630e64" tvg-name="DE: DMAX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/42.ts
+#EXTINF:-1 tvg-id="INSGER" tvg-name="DE: Insight HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b8fb74271e8b729b5db9583e0c0cff76.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/10245.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: RTL Nitro HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d10cbdda4c41556fe4d89ab4b4f35d27.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/35.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d03ce90695563bbc9f05e74e192e2191.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/360.ts
+#EXTINF:-1 tvg-id="ff43099530da41902d903a571b09fa68" tvg-name="DE: Tele 5 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/642a704e1dd30e4d12fde1a789fddad8.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/50.ts
+#EXTINF:-1 tvg-id="f1bb3d8464f8a39491460f8492f2c03c" tvg-name="DE: Sport 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b05fdcf4b53dfd9870e498d5b8166ca6.png" group-title="Free-TV",DE: Sport 1 HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/43.ts
+#EXTINF:-1 tvg-id="BILDTV" tvg-name="DE: Bild TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e335094f67237ecacd2a71bd671cf536.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/69254.ts
+#EXTINF:-1 tvg-id="9bdb208c3a32ec6b8d3eb350b843c8ac" tvg-name="DE: N24 Doku" tvg-logo="http://iptv.watchhd.cc:5050/images/4421af456b7fae1236f481845c8022a6.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/milizeus/saganakai/1944.ts
+#EXTINF:-1 tvg-id="f2b2c92aa1dadb3778b9993fab82f5a9" tvg-name="DE: N-TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa0409373f9553631f1848f14234bda9.png" group-title="Free-TV",DE: N-TV HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/52.ts
+#EXTINF:-1 tvg-id="9389d9d9adf157c781e27f299172bc33" tvg-name="DE: Phoenix HD" tvg-logo="http://iptv.watchhd.cc:5050/images/19dee580274fae3c9370210563a63a6f.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/51.ts
+#EXTINF:-1 tvg-id="806368d848ca0bf2d317470119fea3c4" tvg-name="DE: Welt HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0755ebbe6160b2ed34458910dd92dd70.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/53.ts
+#EXTINF:-1 tvg-id="72027971bf16c7185cd3fb7cfa4a9eaf" tvg-name="DE: ZDF Info HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1228112c1aa112fbf99e8b119bbd8160.png" group-title="Free-TV",DE: ZDF Info HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/60.ts
+#EXTINF:-1 tvg-id="b5d4e7ada43f9ef00c4f8c3da973b818" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/milizeus/saganakai/429.ts

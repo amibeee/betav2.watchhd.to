@@ -1,0 +1,32 @@
+#EXTINF:-1 timeshift="7" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="WM 2022 Livespiele",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/4678.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="WM 2022 Livespiele",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/4740.ts
+#EXTINF:-1 tvg-id="59afd351061bdb28d41c22425495c3b0" tvg-name="DE: n-tv HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/17d29cfa2abb46e6a7b37408f6d1a6d9.png" group-title="Free-TV",DE: n-tv HD (720p)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/115056.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/0755ebbe6160b2ed34458910dd92dd70.png" group-title="Free-TV",DE: Welt HD (720p)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/10430.ts
+#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDFInfo HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1228112c1aa112fbf99e8b119bbd8160.png" group-title="Free-TV",DE: ZDFInfo HD
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/60.ts
+#EXTINF:-1 tvg-id="MTVSCH" tvg-name="DE: MTV HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/362770eb29c09110907ce92def8ff37b.png" group-title="Free-TV",DE: MTV HD (720p)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/10423.ts
+#EXTINF:-1 tvg-id="0ae168e8be45d94616aceca392a69fe7" tvg-name="DE: Sky Sport Bundesliga 1 (Mobil)" tvg-logo="http://iptv.watchhd.cc:5050/images/8753c41ba14554492750c48239b2e15a.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 1 (Mobil)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/391.ts
+#EXTINF:-1 tvg-id="00083d5fff282ee56ec0eeade72c5f36" tvg-name="DE: Sky Sport Bundesliga 2 (Mobil)" tvg-logo="http://iptv.watchhd.cc:5050/images/40e24e42205a47a8416f24aaa081cb42.png" group-title="Sky Bundesliga",DE: Sky Sport Bundesliga 2 (Mobil)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/10439.ts
+#EXTINF:-1 tvg-id="cceebc670d5c08fa7ec1d456b010e339" tvg-name="DE: DAZN 1 (Mobile)" tvg-logo="http://iptv.watchhd.cc:5050/images/4026c7cfabbfb46636d864e4b9191f32.png" group-title="DAZN & RTL+",DE: DAZN 1 (Mobile)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/10240.ts
+#EXTINF:-1 tvg-id="2f3e94e68dc1451f9fada1f15663585f" tvg-name="DE: DAZN 2 (Mobile)" tvg-logo="http://iptv.watchhd.cc:5050/images/438c9903c7e22c054142263e67299a9a.png" group-title="DAZN & RTL+",DE: DAZN 2 (Mobile)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/10241.ts
+#EXTINF:-1 tvg-id="Magenta TV" tvg-name="DE: FUSSBALL.TV 1 FIFA WM 2022 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/fifa_worldcup.png" group-title="WM 2022 Livespiele",DE: FUSSBALL.TV 1 FIFA WM 2022 HD (720p)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/176769.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: FUSSBALL.TV 2 FIFA WM 2022 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/fifa_worldcup.png" group-title="WM 2022 Livespiele",DE: FUSSBALL.TV 2 FIFA WM 2022 HD (720p)
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/177035.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: WELT" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Magenta TV",DE: WELT
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/135036.ts
+#EXTINF:-1 tvg-id="CIHDKDG" tvg-name="DE: Crime+Investigation HD" tvg-logo="http://logo.watchhd.cc/logo/crime_investigation.png" group-title="Magenta TV",DE: Crime+Investigation HD
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/135112.ts
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BeIN Sports 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f504e23dfcc20fec4452c6845278a3a3.png" group-title="Frankreich",FR: BeIN Sports 1 HD
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="Türkei",TR: POWER TURK HD
+http://iptv.watchhd.cc:5050/patman/8FzIRo46clYK/68892.ts

@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/GANJAMAN420/7db45eb0/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/GANJAMAN420/7db45eb0/2.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/GANJAMAN420/7db45eb0/3.ts
+#EXTINF:-1 tvg-id="1e879980458e8c62da910edc2c082992" tvg-name="DE: Kabel 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ec77ae9fce18f79ced3fd3270a73d073.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/GANJAMAN420/7db45eb0/31.ts
+#EXTINF:-1 tvg-id="5442b78cb4512d05fabf7e2ce9b89aa1" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/GANJAMAN420/7db45eb0/5.ts

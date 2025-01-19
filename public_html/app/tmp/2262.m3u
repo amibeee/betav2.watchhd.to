@@ -1,0 +1,84 @@
+#EXTINF:-1 tvg-id="RTLUHD" tvg-name="DE: RTL UHD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_UHD.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/34.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/3.ts
+#EXTINF:-1 tvg-id="SATVFKD" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/4.ts
+#EXTINF:-1 tvg-id="PRO7HD" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/5.ts
+#EXTINF:-1 tvg-id="RTL2HD" tvg-name="DE: RTL ZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Free-TV",DE: RTL ZWEI HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Now! (Web 720p)" tvg-logo="https://forum.watchhd.to/uploads/monthly_2023_09/rtl_now.png.d5b977d8334626bc334c0d84dd545850.png" group-title="Free-TV",DE: RTL Now! (Web 720p)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/310052.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/31.ts
+#EXTINF:-1 tvg-id="VOXHD" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/41.ts
+#EXTINF:-1 tvg-id="TLCGHD" tvg-name="DE: TLC HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Sky Doku",DE: TLC HD (720p)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/10429.ts
+#EXTINF:-1 tvg-id="KAB1DOH" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_Doku_HD.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/33.ts
+#EXTINF:-1 tvg-id="DISHDKD" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Discovery_Channel_HD.png" group-title="Sky Doku",DE: Discovery HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/146.ts
+#EXTINF:-1 tvg-id="HISTD" tvg-name="DE: History HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Doku",DE: History HD (720p)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/385.ts
+#EXTINF:-1 tvg-id="NGWKDG" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/265.ts
+#EXTINF:-1 tvg-id="NATGEKD" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/149.ts
+#EXTINF:-1 tvg-id="ANPGEHD" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Animal_Planet_HD.png" group-title="Sky Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/145.ts
+#EXTINF:-1 tvg-id="a0000277385d0724fda710da2af8239a" tvg-name="DE: Sky Nature HD (Web 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Nature_HD.png" group-title="Sky Doku",DE: Sky Nature HD (Web 1080)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/78229.ts
+#EXTINF:-1 tvg-id="NTVHD" tvg-name="DE: n-tv HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_NTV_HD.png" group-title="Free-TV",DE: n-tv HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/52.ts
+#EXTINF:-1 tvg-id="N24DOKU" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/N24_Doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/1944.ts
+#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="DE: Terra X HD" tvg-logo="" group-title="Free-TV",DE: Terra X HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/332990.ts
+#EXTINF:-1 tvg-id="62d66e296d7781c25471d6dc3f7ca554" tvg-name="DE: Sky Documentaries HD (Web 1080)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Documentaries_HD.png" group-title="Sky Doku",DE: Sky Documentaries HD (Web 1080)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/78230.ts
+#EXTINF:-1 tvg-id="SPIEGHD" tvg-name="DE: Spiegel TV Geschichte HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_SpiegelGeschichte_HD.png" group-title="Sky Doku",DE: Spiegel TV Geschichte HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/152.ts
+#EXTINF:-1 tvg-id="GEOTHD" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/147.ts
+#EXTINF:-1 tvg-id="RTLCRHD" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_CRIME_HD.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/37.ts
+#EXTINF:-1 tvg-id="23378a8ab89be6dff1de7847cbffae76" tvg-name="DE: Sky Crime HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Crime_HD.png" group-title="Sky Film",DE: Sky Crime HD (720p)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/43778.ts
+#EXTINF:-1 timeshift="7" tvg-id="CIHDKDG" tvg-name="DE: Crime & Investigation HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/crime_investigation.png" group-title="Sky Doku",DE: Crime & Investigation HD (720p)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/111487.ts
+#EXTINF:-1 tvg-id="84144bdc2c5e46b551e24384feed7e86" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Kids",DE: KiKA HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/58.ts
+#EXTINF:-1 tvg-id="NIMTVP1" tvg-name="DE: Nick HD" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Kids",DE: Nick HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/111355.ts
+#EXTINF:-1 tvg-id="TOGPLUS" tvg-name="DE: TOGGO Plus HD" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="Kids",DE: TOGGO Plus HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/135266.ts
+#EXTINF:-1 tvg-id="DISCHHD" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/55.ts
+#EXTINF:-1 timeshift="7" tvg-id="524e490c7936136a7f2bb4b3d570d2d5" tvg-name="DE: Cartoon Network HD" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Kids",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/54.ts
+#EXTINF:-1 timeshift="2" tvg-id="MOTVHD" tvg-name="DE: Motorvision HD" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/45.ts
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/46.ts
+#EXTINF:-1 tvg-id="EXTRSP" tvg-name="DE: Extreme Sports Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Extreme_Sport_Channel.png" group-title="Free-TV",DE: Extreme Sports Channel HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/113991.ts
+#EXTINF:-1 tvg-id="DEBC2300001EU" tvg-name="DE: RedBullTV" tvg-logo="http://logo.watchhd.cc/logo/red_bull_tv.png" group-title="Free-TV",DE: RedBullTV
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/107960.ts
+#EXTINF:-1 tvg-id="KINTVHD" tvg-name="DE: Kinowelt HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kinowelt_HD.png" group-title="Sky Film",DE: Kinowelt HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/139.ts
+#EXTINF:-1 tvg-id="56afa52845820c7ff84f7953a9e6ee0d" tvg-name="DE: Motorvision TV (Sat)" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision TV (Sat)
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/136060.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFNGHD" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/61.ts
+#EXTINF:-1 tvg-id="PHONXHD" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/51.ts
+#EXTINF:-1 tvg-id="WELTHDE" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Crime Time" tvg-logo="http://logo.watchhd.cc/logo/crime_time.png" group-title="Free-TV",DE: Crime Time
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/322048.ts
+#EXTINF:-1 tvg-id="DE: BILD" tvg-name="DE: Bild TV HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_BILD_TV.png" group-title="Free-TV",DE: Bild TV HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/69254.ts
+#EXTINF:-1 tvg-id="9ec70c799bc38e029e32b5b472e2995b" tvg-name="DE: Curiosity Channel HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Curiosity_Channel_HD.png" group-title="Sky Doku",DE: Curiosity Channel HD
+http://iptv.watchhd.cc:5050/Konyconcha/Lexanichrom2010/153.ts

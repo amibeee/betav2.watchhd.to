@@ -1,0 +1,44 @@
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/380
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Free-TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HD" tvg-logo="" group-title="UK",UK: ITV 4 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/462
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK: ITV HD" tvg-logo="https://www.maleon.com/wp-content/uploads/itv.png" group-title="UK",UK: ITV HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/407
+#EXTINF:-1 tvg-id="beinsport8.fr" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 8 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/521
+#EXTINF:-1 tvg-id="beinsport7.fr" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="" group-title="Europe",FR: Bein Sports Max 7 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/520
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="" group-title="Europe",FR: Canal+ Sport HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/507
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="Europe",FR: RMC Sport 4 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/271
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 6 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 6 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/498
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 5 HD" tvg-logo="" group-title="Europe",NL: Fox Sports 5 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/497
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="" group-title="Türkei",TR: Tivibu Spor 3 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/515
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="" group-title="Türkei",TR: Tivibu Spor 2 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/514
+#EXTINF:-1 tvg-id="ESPN.01.HD" tvg-name="US: ESPN Plus 1 HD" tvg-logo="" group-title="USA",US: ESPN Plus 1 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/220
+#EXTINF:-1 tvg-id="ESPN.02.HD" tvg-name="US: ESPN Plus 2 HD" tvg-logo="" group-title="USA",US: ESPN Plus 2 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/221
+#EXTINF:-1 tvg-id="ESPN.08.HD" tvg-name="US: ESPN Plus 8 HD" tvg-logo="" group-title="USA",US: ESPN Plus 8 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/227
+#EXTINF:-1 tvg-id="ESPN.09.HD" tvg-name="US: ESPN Plus 9 HD" tvg-logo="" group-title="USA",US: ESPN Plus 9 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/228
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports 6 HD" tvg-logo="" group-title="USA",US: Rush Sports 6 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/417
+#EXTINF:-1 tvg-id="" tvg-name="US: Rush Sports EPL HD" tvg-logo="" group-title="USA",US: Rush Sports EPL HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/418
+#EXTINF:-1 tvg-id="LESPORTS1.LESPORTS" tvg-name="US: Rush Sports 1 HD" tvg-logo="" group-title="USA",US: Rush Sports 1 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/412
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5 HD" tvg-logo="" group-title="USA",US: TSN 5 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/344
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sports 5 HD" tvg-logo="" group-title="Australia",AU: Optus Sports 5 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/1737
+#EXTINF:-1 tvg-id="" tvg-name="AU: Optus Sports 4 HD" tvg-logo="" group-title="Australia",AU: Optus Sports 4 HD
+http://iptv.watchhd.cc:5050/effect/HRWFxByzMW/1736

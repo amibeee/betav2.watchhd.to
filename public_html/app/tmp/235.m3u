@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="General Streams",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2165.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_0.png" group-title="Auslands-TV",IT: DAZN 1 HD
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2186.ts
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="General Streams",DE: DAZN 1 HD (720p)
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2169.ts
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="General Streams",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2168.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_0.png" group-title="Auslands-TV",IT: DAZN 2 HD
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2187.ts
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="General Streams",DE: DAZN 2 HD (720p)
+http://iptv.watchhd.cc:8000/live/ackerman/f6Psj0NiJg/2196.ts

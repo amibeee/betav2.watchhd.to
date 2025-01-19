@@ -1,0 +1,6 @@
+#EXTINF:-1 timeshift="5" tvg-id="DF1" tvg-name="DE: DF1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Servus_TV_Deutschland_HD.png" group-title="Free-TV",DE: DF1 HD
+http://iptv.watchhd.cc:5050/berl1n/bGVeAaLiMTzf/361.ts
+#EXTINF:-1 tvg-id="e7b67268c4a7cbc12a8a92402b7c8297" tvg-name="DE: SERIEN + HD" tvg-logo="http://logo.watchhd.cc/logo/serien_plus.png" group-title="Free-TV",DE: SERIEN + HD
+http://iptv.watchhd.cc:5050/berl1n/bGVeAaLiMTzf/341450.ts
+#EXTINF:-1 tvg-id="081fd50e5ec17b04e7f9c8d550aabece" tvg-name="DE: Red Adventure HD" tvg-logo="http://logo.watchhd.cc/logo/red_adventure.png" group-title="Free-TV",DE: Red Adventure HD
+http://iptv.watchhd.cc:5050/berl1n/bGVeAaLiMTzf/341451.ts

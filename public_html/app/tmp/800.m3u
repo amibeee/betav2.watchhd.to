@@ -1,0 +1,68 @@
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/66
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/67
+#EXTINF:-1 tvg-id="ORF III" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/68
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="Free-TV",AT: ATV
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/65
+#EXTINF:-1 tvg-id="servustv.de" tvg-name="DE: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/361
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/3
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Free-TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/4
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/5
+#EXTINF:-1 tvg-id="RTL II" tvg-name="DE: RTL II HD" tvg-logo="http://logo.watchhd.cc/logo/rtl2hd.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/6
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/41
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/31
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/50
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/1
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/2
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/7
+#EXTINF:-1 tvg-id="kk1cla" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/32
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UHD" tvg-logo="" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/34
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/35
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion HD" tvg-logo="http://logo.watchhd.cc/logo/rtlpassion.png" group-title="Free-TV",DE: RTL Passion HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/36
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/crimehdv2.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/37
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_living_hd_500.png" group-title="Free-TV",DE: RTL Living HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/38
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="DE: RTL Plus" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="Free-TV",DE: RTL Plus
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/39
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/40
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/42
+#EXTINF:-1 tvg-id="ZDFINFO" tvg-name="DE: ZDF Info HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDF Info HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/60
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="DE: ZDF Neo" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/61
+#EXTINF:-1 tvg-id="3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/429
+#EXTINF:-1 tvg-id="BR" tvg-name="DE: BR HD" tvg-logo="http://logo.watchhd.cc/logo/brhd.png" group-title="Free-TV",DE: BR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/433
+#EXTINF:-1 tvg-id="HR" tvg-name="DE: HR HD" tvg-logo="https://kress.de/uploads/pics/hr-Hessischer-Rundfunk-2010.jpg" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/428
+#EXTINF:-1 tvg-id="MDR" tvg-name="DE: MDR HD" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="Free-TV",DE: MDR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/431
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/430
+#EXTINF:-1 tvg-id="RBB" tvg-name="DE: RBB HD" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/434
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SWR HD" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/432
+#EXTINF:-1 tvg-id="WDR" tvg-name="DE: WDR HD" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD
+http://iptv.watchhd.cc:25461/StyrianIPTV/1b3ff257/427

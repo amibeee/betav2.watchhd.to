@@ -1,0 +1,44 @@
+#EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Magenta TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135025.ts
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Magenta TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135026.ts
+#EXTINF:-1 timeshift="7" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Magenta TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135027.ts
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Magenta TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135028.ts
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="DE: ProSieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Magenta TV",DE: ProSieben HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135029.ts
+#EXTINF:-1 tvg-id="DE: VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Magenta TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135030.ts
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: Kabel Eins HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Kabel1_HD.png" group-title="Magenta TV",DE: Kabel Eins HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135031.ts
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="DE: RTLZWEI HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTLZWEI_HD.png" group-title="Magenta TV",DE: RTLZWEI HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135032.ts
+#EXTINF:-1 tvg-id="DE: ZDFneo" tvg-name="DE: ZDFneo HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_ZDF_NEO_HD.png" group-title="Magenta TV",DE: ZDFneo HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135039.ts
+#EXTINF:-1 tvg-id="DTAGDAB" tvg-name="DE: #dabeiTV HD" tvg-logo="http://logo.watchhd.cc/logo/dabei_TV.png" group-title="Magenta TV",DE: #dabeiTV HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135040.ts
+#EXTINF:-1 tvg-id="DE: WDR Aachen" tvg-name="DE: WDR HD Aachen" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Aachen
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/13578.ts
+#EXTINF:-1 tvg-id="DE: BR Süd" tvg-name="DE: BR Fernsehen Süd HD" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Magenta TV",DE: BR Fernsehen Süd HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135041.ts
+#EXTINF:-1 tvg-id="DE: HR" tvg-name="DE: hr-fernsehen HD" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Magenta TV",DE: hr-fernsehen HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135042.ts
+#EXTINF:-1 tvg-id="DE: MDR Sachsen" tvg-name="DE: MDR-Fernsehen Sachsen HD" tvg-logo="http://logo.watchhd.cc/logo/mdr_hd.png" group-title="Magenta TV",DE: MDR-Fernsehen Sachsen HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135043.ts
+#EXTINF:-1 tvg-id="DE: NDR Niedersachsen" tvg-name="DE: NDR Fernsehen Niedersachsen HD" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="Magenta TV",DE: NDR Fernsehen Niedersachsen HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135044.ts
+#EXTINF:-1 tvg-id="DE: rbb Berlin" tvg-name="DE: rbb fernsehen Berlin HD" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Magenta TV",DE: rbb fernsehen Berlin HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135046.ts
+#EXTINF:-1 tvg-id="DE: SR" tvg-name="DE: SR Fernsehen HD" tvg-logo="http://logo.watchhd.cc/logo/sr.png" group-title="Magenta TV",DE: SR Fernsehen HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135047.ts
+#EXTINF:-1 tvg-id="DE: SWR BW" tvg-name="DE: SWR Fernsehen BW HD" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Magenta TV",DE: SWR Fernsehen BW HD
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/135048.ts
+#EXTINF:-1 timeshift="7" tvg-id="da65d8db345ac8c791077fc4c86f3dc4" tvg-name="DE: Sky Sport Bundesliga 1 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_1_HD.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/10084.ts
+#EXTINF:-1 timeshift="7" tvg-id="9e7a5e8bea152a6b5abc53d871cf8adc" tvg-name="DE: Sky Sport Bundesliga 2 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_2_HD.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 2 HD (HEVC)
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/10163.ts
+#EXTINF:-1 timeshift="7" tvg-id="97150f8851a1039371d89152c2b33f3d" tvg-name="DE: Sky Sport Bundesliga 3 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_3_HD.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 3 HD (HEVC)
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/10431.ts
+#EXTINF:-1 timeshift="7" tvg-id="d4949a12c28d43e2a10f1216e1722d6a" tvg-name="DE: Sky Sport Bundesliga 4 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sky_Sport_Bundesliga_4_HD.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 4 HD (HEVC)
+http://iptv.watchhd.cc:5050/freetv/IgIPTVdfig2022/10432.ts

@@ -1,0 +1,37 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}Two-Factor Authentication{% endblock %}
+
+{% block content %}
+<div class="login-container">
+    <div class="logocontainerlog">
+        <img src="{{ base_url() }}assets/assets/icons/Logowhite.svg" alt="Logo" class="logo-loginpage">
+        <h2 class="welcomesign">Verify Your Identity</h2>
+        <p class="subtitlesign">
+            Enter the Two-Factor Authentication token sent to your email to continue.
+        </p>
+    </div>
+
+    <!-- 2FA Form -->
+    <form method="POST" action="{{ base_url() }}verify_2fa" class="signinputs">
+
+        <input class="input-username" type="text" id="token" name="token" placeholder="2FA Token">
+        
+        <!-- Button container -->
+        <div class="button-container">
+            <button type="submit" class="button-login">Verify</button>
+            <button type="button" class="button-cancel" onclick="cancelAction()">Cancel</button>
+        </div>
+    </form>
+
+</div>
+
+<script src="{{ base_url() }}assets/js/script.js"></script>
+<script src="{{ base_url() }}assets/js/navbarscript.js"></script>
+
+<script>
+    function cancelAction() {
+        window.location.href = "{{ base_url() }}login"; // Redirect to the login page
+    }
+</script>
+{% endblock %}

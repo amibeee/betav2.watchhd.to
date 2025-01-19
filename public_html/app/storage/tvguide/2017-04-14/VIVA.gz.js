@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"VIVA Top 20 Singlecharts"},"start":1492164000,"stop":1492167600,"channel":"VIVA"},{"title":{"de":"#TweetClips"},"start":1492167600,"stop":1492171200,"channel":"VIVA"},{"title":{"de":"Sendepause"},"start":1492171200,"stop":1492214400,"channel":"VIVA"}]}}

@@ -1,0 +1,208 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/2.ts
+#EXTINF:-1 tvg-id="WDRDORH" tvg-name="DE: WDR HD Dortmund" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Dortmund
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/427.ts
+#EXTINF:-1 timeshift="3" tvg-id="cde2ae86091dc52b907696a927b154fd" tvg-name="DE: ARTE HD" tvg-logo="http://iptv.watchhd.cc:5050/images/692b543868fd84472209a6ff8195cc02.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/965.ts
+#EXTINF:-1 tvg-id="b5d4e7ada43f9ef00c4f8c3da973b818" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/429.ts
+#EXTINF:-1 tvg-id="01a83c7ee1eac1a254fdf7492d064040" tvg-name="DE: BR Fernsehen HD Süd" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR Fernsehen HD Süd
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13592.ts
+#EXTINF:-1 tvg-id="216214dd74004955e6650e874951c379" tvg-name="DE: Servus TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d864093adcd11b378e1c28599a9717cd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/361.ts
+#EXTINF:-1 tvg-id="f21d84741bb6b6cab2d0b90c6f3109ce" tvg-name="DE: Anixe Serie HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0aba072926597cb1b88575dc76ad0c47.png" group-title="Free-TV",DE: Anixe Serie HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/47.ts
+#EXTINF:-1 tvg-id="5cead0e8a52da785e6d5228d022f83c0" tvg-name="DE: One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc7d874cfcc551c16065ba575a8fc66b.png" group-title="Free-TV",DE: One HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/2398.ts
+#EXTINF:-1 tvg-id="7de8f5131748c9dd40f7fd046fd58d8f" tvg-name="DE: Kinowelt HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9015363ae98cc005a2412effe57115cf.png" group-title="Sky Film",DE: Kinowelt HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/139.ts
+#EXTINF:-1 tvg-id="SNYEHDK" tvg-name="DE: Sony Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7637a2b26f43ef45f8ad25972d49dcad.png" group-title="Sky Film",DE: Sony Channel HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/140.ts
+#EXTINF:-1 tvg-id="AXNDKD" tvg-name="DE: Sony AXN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6617449842655e082c2b2a2814b2133d.png" group-title="Sky Film",DE: Sony AXN HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10246.ts
+#EXTINF:-1 tvg-id="98d10436f218b66d3309211b5fb710aa" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b7898fbe725ccf07888bd6aaa7e16f51.png" group-title="Sky Film",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/89.ts
+#EXTINF:-1 tvg-id="af078594122e16efafc552b2177fde37" tvg-name="DE: Sky Replay HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9ed421f21cbc1ccf423a7c46e99c70d0.png" group-title="Sky Film",DE: Sky Replay HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/137.ts
+#EXTINF:-1 tvg-id="89b50511aa1507303cbab4ae2f95447d" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://iptv.watchhd.cc:5050/images/227af0e8858d64bf07ea4fd6995cedcf.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/93.ts
+#EXTINF:-1 tvg-id="f0b26842045d0a15044e42619ac427d3" tvg-name="DE: Sky Cinema Best of HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1a8cdafa18882991356843e0acc5727b.png" group-title="Sky Film",DE: Sky Cinema Best of HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/97.ts
+#EXTINF:-1 timeshift="3" tvg-id="4934ca3bb1a1485b06b510811a52d8d5" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://iptv.watchhd.cc:5050/images/730d63240050a7f6b035bf6ad5b442b3.png" group-title="Sky Film",DE: Sky Cinema Classics
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/100.ts
+#EXTINF:-1 tvg-id="872c7e24ca05784b1fc884abd57c8534" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a47d2fa40a1ff155a55d5c02c5ce610b.png" group-title="Sky Film",DE: Sky Cinema Family HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/95.ts
+#EXTINF:-1 tvg-id="06faa64d685eec3b33d8e6149fc31fe5" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b30cf2f83fb6e156afea0ffe1560e8e3.png" group-title="Sky Film",DE: Sky Cinema Premieren HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/90.ts
+#EXTINF:-1 tvg-id="73299e75457d4d4b7389c492c2691031" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/bde387ef7b7646e491f9087b9f1f1334.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/92.ts
+#EXTINF:-1 tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6ee25c4b6139e21c403e5605862a361a.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/94.ts
+#EXTINF:-1 tvg-id="81ac9e4b07d71241b293de2b05c0fa24" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e0e0b3323a37e5f58f3bf72cc4ac6ecb.png" group-title="Sky Film",DE: Sky Cinema Thriller HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/91.ts
+#EXTINF:-1 tvg-id="3b63020826560c0320df50432b721882" tvg-name="DE: SyFy HD" tvg-logo="http://iptv.watchhd.cc:5050/images/acd3bc2ff6c147ba9eb9c94abe00dc97.png" group-title="Sky Film",DE: SyFy HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/154.ts
+#EXTINF:-1 tvg-id="8e0a1c908fb75d3c690d128537b3f76e" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6354618884a1deb0548baae79677690e.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/32.ts
+#EXTINF:-1 tvg-id="af22fc12c99e3ff109fe35c9c3b8adff" tvg-name="DE: 13th Street HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7afadd850135f1a9a7dae8231a3e7053.png" group-title="Sky Film",DE: 13th Street HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/133.ts
+#EXTINF:-1 tvg-id="f34553111013897899c3277e08418740" tvg-name="DE: RTL Living HD" tvg-logo="http://iptv.watchhd.cc:5050/images/073f52c736c93129992259436459e2b7.png" group-title="Free-TV",DE: RTL Living HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/38.ts
+#EXTINF:-1 tvg-id="SILVLHD" tvg-name="DE: Silverline" tvg-logo="http://iptv.watchhd.cc:5050/images/a9d68f3fbba5d20a474f78f270c1ddee.png" group-title="Sky Film",DE: Silverline
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/151.ts
+#EXTINF:-1 tvg-id="f80fa7156d32eac0d5b9ef492b3d0caf" tvg-name="DE: WarnerTV Comedy HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b58269bbda9fc0a0b5ab48dd59c1ea8a.png" group-title="Sky Film",DE: WarnerTV Comedy HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/142.ts
+#EXTINF:-1 tvg-id="23569fa4bb6415f6e0abff84669c7e19" tvg-name="DE: WarnerTV Film HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a4437baf95667e4c5af6ad29a05b461d.png" group-title="Sky Film",DE: WarnerTV Film HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/143.ts
+#EXTINF:-1 tvg-id="6701b4f1b74d6585d2468f17320b9be9" tvg-name="DE: WarnerTV Serie HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f12e3d718e6c19da11bb01f98e1e0ab0.png" group-title="Sky Film",DE: WarnerTV Serie HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/144.ts
+#EXTINF:-1 tvg-id="8d0814ae753e6e5e12caa902860c66eb" tvg-name="DE: Universal TV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/caf940e2e069f7b9d345d27bf7a7c84a.png" group-title="Sky Film",DE: Universal TV HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/138.ts
+#EXTINF:-1 tvg-id="WDRAAHD" tvg-name="DE: WDR HD Aachen" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Aachen
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13578.ts
+#EXTINF:-1 tvg-id="WDRBIEH" tvg-name="DE: WDR HD Bielefeld" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Bielefeld
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13579.ts
+#EXTINF:-1 tvg-id="WDRHD" tvg-name="DE: WDR HD Bonn" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Bonn
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13580.ts
+#EXTINF:-1 tvg-id="WDRSD" tvg-name="DE: WDR HD Duisburg" tvg-logo="http://iptv.watchhd.cc:5050/images/3e12b247539d2fa2dc4775d199afe460.png" group-title="Free-TV",DE: WDR HD Duisburg
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13581.ts
+#EXTINF:-1 tvg-id="WDRDUSH" tvg-name="DE: WDR HD Düsseldorf" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Düsseldorf
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13582.ts
+#EXTINF:-1 tvg-id="WDRESSH" tvg-name="DE: WDR HD Essen" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Essen
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13583.ts
+#EXTINF:-1 tvg-id="1e5a1999a4f7413962d043b717bcdc64" tvg-name="DE: WDR HD Köln" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Köln
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13584.ts
+#EXTINF:-1 tvg-id="WDRMUNH" tvg-name="DE: WDR HD Münster" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Münster
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13585.ts
+#EXTINF:-1 tvg-id="WDRSIEH" tvg-name="DE: WDR HD Siegen" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Siegen
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13586.ts
+#EXTINF:-1 tvg-id="WDRWHD" tvg-name="DE: WDR HD Wuppertal" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Wuppertal
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13587.ts
+#EXTINF:-1 tvg-id="b050868423fd715a2752406e4c7c3ba9" tvg-name="DE: Tagesschau 24 HD" tvg-logo="http://logo.watchhd.cc/logo/tagesschau24.png" group-title="Free-TV",DE: Tagesschau 24 HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/8116.ts
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e47084e5825ecf2c22d45f6f3406c219.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/46.ts
+#EXTINF:-1 tvg-id="16f9d51fb763a6be84002b549d0be28c" tvg-name="DE: Comedy Central HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1cfe4b1f1e7c9a34fb71ca53b23d7fd3.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/44.ts
+#EXTINF:-1 timeshift="3" tvg-id="16f9d51fb763a6be84002b549d0be28c" tvg-name="DE: Comedy Central HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/1cfe4b1f1e7c9a34fb71ca53b23d7fd3.png" group-title="Free-TV",DE: Comedy Central HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10421.ts
+#EXTINF:-1 tvg-id="RTLPLUS" tvg-name="DE: RTL up HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a4f6d92a0b58e14069f31cd625b8b093.png" group-title="Free-TV",DE: RTL up HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/39.ts
+#EXTINF:-1 tvg-id="MOTVHD" tvg-name="DE: Motorvision" tvg-logo="http://iptv.watchhd.cc:5050/images/205f6c4ca69f5fbb641cbf5deeaea4c7.png" group-title="Free-TV",DE: Motorvision
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/45.ts
+#EXTINF:-1 tvg-id="16f90376de3303295aaa66b5e72f9651" tvg-name="DE: Sat.1 Emotions HD" tvg-logo="http://iptv.watchhd.cc:5050/images/e983b5a820179fc1c3b1b3ecb0f79037.png" group-title="Free-TV",DE: Sat.1 Emotions HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/49.ts
+#EXTINF:-1 tvg-id="854c5d0184e0de10630ff68665adb5b4" tvg-name="DE: Sat. 1 Gold HD" tvg-logo="http://iptv.watchhd.cc:5050/images/22361238567a93daf0c55e6cadb3bff8.png" group-title="Free-TV",DE: Sat. 1 Gold HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/48.ts
+#EXTINF:-1 tvg-id="MTVSCH" tvg-name="DE: MTV HD" tvg-logo="http://iptv.watchhd.cc:5050/images/362770eb29c09110907ce92def8ff37b.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/2622.ts
+#EXTINF:-1 timeshift="3" tvg-id="MTVSCH" tvg-name="DE: MTV HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/362770eb29c09110907ce92def8ff37b.png" group-title="Free-TV",DE: MTV HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10423.ts
+#EXTINF:-1 tvg-id="HSE24G" tvg-name="DE: HSE 24 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/0bb3fe6fcecf0c3fb07179a0b01fa5ae.png" group-title="Free-TV",DE: HSE 24 HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/15412.ts
+#EXTINF:-1 tvg-id="5101e49885dfbbf7646afe8d3dda302b" tvg-name="DE: Sonnenklar TV HD" tvg-logo="http://logo.watchhd.cc/logo/sonnenklar_tv.png" group-title="Free-TV",DE: Sonnenklar TV HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/353.ts
+#EXTINF:-1 tvg-id="aec8e7604fe84c2d635310e913c0d341" tvg-name="DE: QVC HD" tvg-logo="http://logo.watchhd.cc/logo/qvc.png" group-title="Free-TV",DE: QVC HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10244.ts
+#EXTINF:-1 tvg-id="31d398c33b07bc8699af73c7f69f516e" tvg-name="DE: QVC 2 HD" tvg-logo="http://logo.watchhd.cc/logo/qvc2.png" group-title="Free-TV",DE: QVC 2 HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/15413.ts
+#EXTINF:-1 tvg-id="QVCUHD" tvg-name="DE: QVC UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/c71568eb2405c045f2c169c0b6351a3e.png" group-title="Free-TV",DE: QVC UHD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/44149.ts
+#EXTINF:-1 tvg-id="31d398c33b07bc8699af73c7f69f516e" tvg-name="DE: QVC Zwei UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/a2e837a4b2d8513d45a5c7ba262fba15.png" group-title="Free-TV",DE: QVC Zwei UHD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/44150.ts
+#EXTINF:-1 tvg-id="a9a25bdf78ddcd6514440a478c4a5a22" tvg-name="DE: UHD1" tvg-logo="http://iptv.watchhd.cc:5050/images/16e2ebe87ad5c9dbcf63bb6c40a8b258.png" group-title="Free-TV",DE: UHD1
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/9042.ts
+#EXTINF:-1 tvg-id="RMNCHDK" tvg-name="DE: Romance TV" tvg-logo="http://iptv.watchhd.cc:5050/images/1349c17cfd879d6831cf29845eb0d333.png" group-title="Free-TV",DE: Romance TV
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/62.ts
+#EXTINF:-1 tvg-id="HEIMKAN" tvg-name="DE: Heimatkanal" tvg-logo="http://iptv.watchhd.cc:5050/images/29c164e3198674d8ea17151d780998e5.png" group-title="Free-TV",DE: Heimatkanal
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/63.ts
+#EXTINF:-1 tvg-id="BOOMDHD" tvg-name="DE: Boomerang HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a3f8f148e26573304c6ef57ced547f6e.png" group-title="Free-TV",DE: Boomerang HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/394.ts
+#EXTINF:-1 tvg-id="543553a292e8b8b717ef290a8643f306" tvg-name="DE: Cartoon Network HD" tvg-logo="http://iptv.watchhd.cc:5050/images/4fb2201e86699ae18718eabc7b58a6c7.png" group-title="Free-TV",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/54.ts
+#EXTINF:-1 tvg-id="ecab04deecd7b60d50c2a026fc397d46" tvg-name="DE: Disney Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c83ee3f33cf47d3aedec69656d00de99.png" group-title="Free-TV",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/55.ts
+#EXTINF:-1 timeshift="3" tvg-id="ecab04deecd7b60d50c2a026fc397d46" tvg-name="DE: Disney Channel HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/c83ee3f33cf47d3aedec69656d00de99.png" group-title="Free-TV",DE: Disney Channel HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10247.ts
+#EXTINF:-1 tvg-id="aced96b51724cc88d35b14cea8bf0bd6" tvg-name="DE: Junior" tvg-logo="http://iptv.watchhd.cc:5050/images/1f63f38a5028703009c512515d03685e.png" group-title="Free-TV",DE: Junior
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/411.ts
+#EXTINF:-1 tvg-id="eb3ae12e51b63867f308048548d46523" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Free-TV",DE: KiKA HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/58.ts
+#EXTINF:-1 tvg-id="FIXFOXV" tvg-name="DE: Fix & Foxi SD" tvg-logo="http://iptv.watchhd.cc:5050/images/ee4be05b6381f627d7afa45bae990e2a.png" group-title="Free-TV",DE: Fix & Foxi SD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/90681.ts
+#EXTINF:-1 tvg-id="NICKJDH" tvg-name="DE: Nick Jr." tvg-logo="http://iptv.watchhd.cc:5050/images/2fcf9efe650eb64333ebc2edc688ce17.png" group-title="Free-TV",DE: Nick Jr.
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/15349.ts
+#EXTINF:-1 tvg-id="a5f37f38b626fdbe8b80c971a1c0ed04" tvg-name="DE: Nickelodeon" tvg-logo="http://iptv.watchhd.cc:5050/images/2bca42e547ef5fc12e78798e7ec74029.png" group-title="Free-TV",DE: Nickelodeon
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/59.ts
+#EXTINF:-1 tvg-id="89f9e6a2a5c1aff3feb91b5fb0432135" tvg-name="DE: Nicktoons" tvg-logo="http://iptv.watchhd.cc:5050/images/c10db6a47b5566f8f965c023c8b8ce45.png" group-title="Free-TV",DE: Nicktoons
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/8079.ts
+#EXTINF:-1 tvg-id="9b1235b13b3778a4b08d539cfde3c36d" tvg-name="DE: RiC" tvg-logo="http://iptv.watchhd.cc:5050/images/cdc28bd4fe50fc1205a134cd01b6f6f1.png" group-title="Free-TV",DE: RiC
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/16353.ts
+#EXTINF:-1 tvg-id="37892bf84fd4cc7469c56be99eaa3d37" tvg-name="DE: TOGGO plus" tvg-logo="http://iptv.watchhd.cc:5050/images/6323726eca4db23c20f76e134a05bd53.png" group-title="Free-TV",DE: TOGGO plus
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/15348.ts
+#EXTINF:-1 tvg-id="cb134e17f4dd28395843069f1610bb5d" tvg-name="DE: Sky One HD" tvg-logo="http://iptv.watchhd.cc:5050/images/eaa5b90a7cecdefed8281b7e4add2cd0.png" group-title="Sky Film",DE: Sky One HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/630.ts
+#EXTINF:-1 timeshift="3" tvg-id="cb134e17f4dd28395843069f1610bb5d" tvg-name="DE: Sky One HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/eaa5b90a7cecdefed8281b7e4add2cd0.png" group-title="Sky Film",DE: Sky One HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/88.ts
+#EXTINF:-1 timeshift="3" tvg-id="98d10436f218b66d3309211b5fb710aa" tvg-name="DE: Sky Atlantic HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/b7898fbe725ccf07888bd6aaa7e16f51.png" group-title="Sky Film",DE: Sky Atlantic HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/374.ts
+#EXTINF:-1 timeshift="3" tvg-id="af078594122e16efafc552b2177fde37" tvg-name="DE: Sky Replay HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/9ed421f21cbc1ccf423a7c46e99c70d0.png" group-title="Sky Film",DE: Sky Replay HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/355.ts
+#EXTINF:-1 timeshift="3" tvg-id="ccb0e90faa5e89a4fcb5736ca4c70100" tvg-name="DE: Sky Cinema Action HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/227af0e8858d64bf07ea4fd6995cedcf.png" group-title="Sky Film",DE: Sky Cinema Action HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/375.ts
+#EXTINF:-1 timeshift="3" tvg-id="f0b26842045d0a15044e42619ac427d3" tvg-name="DE: Sky Cinema Best of HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/1a8cdafa18882991356843e0acc5727b.png" group-title="Sky Film",DE: Sky Cinema Best of HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/383.ts
+#EXTINF:-1 timeshift="3" tvg-id="1e5e56aaa45becba55d2c4e4ba129ff6" tvg-name="DE: Sky Cinema Family HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/a47d2fa40a1ff155a55d5c02c5ce610b.png" group-title="Sky Film",DE: Sky Cinema Family HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/2609.ts
+#EXTINF:-1 timeshift="3" tvg-id="114941cb296d69c38b6fe4d3f0ed98f8" tvg-name="DE: Sky Cinema Fun" tvg-logo="http://iptv.watchhd.cc:5050/images/3c758ee3c6fbbc199dcb31f4ebf4f748.png" group-title="Sky Film",DE: Sky Cinema Fun
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/96.ts
+#EXTINF:-1 timeshift="3" tvg-id="ee1d39ff4f894e0f0738d5b0e540874c" tvg-name="DE: Sky Cinema Premieren HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/b30cf2f83fb6e156afea0ffe1560e8e3.png" group-title="Sky Film",DE: Sky Cinema Premieren HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/267.ts
+#EXTINF:-1 timeshift="3" tvg-id="73299e75457d4d4b7389c492c2691031" tvg-name="DE: Sky Cinema Premieren +24 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/bde387ef7b7646e491f9087b9f1f1334.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/631.ts
+#EXTINF:-1 timeshift="3" tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/6ee25c4b6139e21c403e5605862a361a.png" group-title="Sky Film",DE: Sky Cinema Special HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/382.ts
+#EXTINF:-1 timeshift="3" tvg-id="81ac9e4b07d71241b293de2b05c0fa24" tvg-name="DE: Sky Cinema Thriller HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/e0e0b3323a37e5f58f3bf72cc4ac6ecb.png" group-title="Sky Film",DE: Sky Cinema Thriller HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10085.ts
+#EXTINF:-1 tvg-id="9fdaf7f39126c55d2baec35c5538e781" tvg-name="DE: Sky Comedy HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9427472ca5033c6d130df2c82e680ff3.png" group-title="Sky Film",DE: Sky Comedy HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/8056.ts
+#EXTINF:-1 tvg-id="9fdaf7f39126c55d2baec35c5538e781" tvg-name="DE: Sky Comedy HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/9427472ca5033c6d130df2c82e680ff3.png" group-title="Sky Film",DE: Sky Comedy HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/43776.ts
+#EXTINF:-1 tvg-id="b4bae69421ff0053321594c17afdd913" tvg-name="DE: Sky Crime HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8d8796006cca430dbbecc3c67729e15a.png" group-title="Sky Film",DE: Sky Crime HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/43777.ts
+#EXTINF:-1 timeshift="3" tvg-id="b4bae69421ff0053321594c17afdd913" tvg-name="DE: Sky Crime HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/8d8796006cca430dbbecc3c67729e15a.png" group-title="Sky Film",DE: Sky Crime HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/43778.ts
+#EXTINF:-1 tvg-id="c12d1ebfaf832175926f3cb6f64e7c64" tvg-name="DE: Sky Krimi HD" tvg-logo="http://iptv.watchhd.cc:5050/images/31bc52424cd51583802966acb3db855b.png" group-title="Sky Film",DE: Sky Krimi HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/99.ts
+#EXTINF:-1 timeshift="3" tvg-id="c12d1ebfaf832175926f3cb6f64e7c64" tvg-name="DE: Sky Krimi HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/31bc52424cd51583802966acb3db855b.png" group-title="Sky Film",DE: Sky Krimi HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10102.ts
+#EXTINF:-1 timeshift="3" tvg-id="af22fc12c99e3ff109fe35c9c3b8adff" tvg-name="DE: 13th Street HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/7afadd850135f1a9a7dae8231a3e7053.png" group-title="Sky Film",DE: 13th Street HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10086.ts
+#EXTINF:-1 tvg-id="cf0dc17425986cd01c0ce9b77e608294" tvg-name="DE: RTL Crime HD" tvg-logo="http://iptv.watchhd.cc:5050/images/a3b43abc3a1784ff05e58ee74683ce17.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/37.ts
+#EXTINF:-1 timeshift="3" tvg-id="cf0dc17425986cd01c0ce9b77e608294" tvg-name="DE: RTL Crime (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/a3b43abc3a1784ff05e58ee74683ce17.png" group-title="Free-TV",DE: RTL Crime (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/27192.ts
+#EXTINF:-1 timeshift="3" tvg-id="f34553111013897899c3277e08418740" tvg-name="DE: RTL Living HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/073f52c736c93129992259436459e2b7.png" group-title="Free-TV",DE: RTL Living HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/11833.ts
+#EXTINF:-1 tvg-id="RTLPSHD" tvg-name="DE: RTL Passion HD" tvg-logo="http://iptv.watchhd.cc:5050/images/9b10fb550206cb4a78bf6f63e5282064.png" group-title="Free-TV",DE: RTL Passion HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/36.ts
+#EXTINF:-1 timeshift="3" tvg-id="RTLPSHD" tvg-name="DE: RTL Passion HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/9b10fb550206cb4a78bf6f63e5282064.png" group-title="Free-TV",DE: RTL Passion HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/15695.ts
+#EXTINF:-1 tvg-id="c868e551cfd78e3b519b0d2c59abb635" tvg-name="DE: Bergblick HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b3fab64793e1a984f7cf4eab657ac594.png" group-title="Sky Doku",DE: Bergblick HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/150.ts
+#EXTINF:-1 tvg-id="f7b14a8caab0a861f7a1082aaf64b52d" tvg-name="DE: Sky Nature HD" tvg-logo="http://iptv.watchhd.cc:5050/images/828b1abf76aa1975cf1aeafa06517a10.png" group-title="Sky Doku",DE: Sky Nature HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/78229.ts
+#EXTINF:-1 tvg-id="be8fd9d61ebeadb8aad132df8103eadd" tvg-name="DE: Sky Documentaries HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2ade109ffdc84ec4b5e403eafc6f2094.png" group-title="Sky Doku",DE: Sky Documentaries HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/78230.ts
+#EXTINF:-1 tvg-id="849df4b7a3f09c80d1e2fbf4beac4827" tvg-name="DE: TLC HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b15886fd3fba19c54d62b1e313be23e3.png" group-title="Sky Doku",DE: TLC HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/141.ts
+#EXTINF:-1 tvg-id="5378def8c16a45e18bafa37789584f2a" tvg-name="DE: Waidwerk HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6b25093e4d729390576a7f5419751786.png" group-title="Sky Sport",DE: Waidwerk HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/13514.ts
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR: France 2 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1a627eeaa2ff795ccd863db036c92c7d.png" group-title="Frankreich",FR: France 2 HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/9967.ts
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: Canal+ HD" tvg-logo="http://iptv.watchhd.cc:5050/images/f3e53fdb53fc881ea5980b08fbdf59c4.png" group-title="Frankreich",FR: Canal+ HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/9977.ts
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b6d65dfc88d3de0dedcf35da9ad8bf35.png" group-title="Frankreich",FR: Canal+ Cinema HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/9980.ts

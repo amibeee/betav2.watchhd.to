@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="EUNHDDE" tvg-name="DE: euronews" tvg-logo="http://iptv.watchhd.cc:5050/images/c2b6ae5df0dba548a7f4bdb7f01cd572.png" group-title="Free-TV",DE: euronews
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/107961.ts
+#EXTINF:-1 tvg-id="BBCNWHD" tvg-name="UK: BBC News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3a64725da0a941a9000d22ffc04ab566.png" group-title="UK",UK: BBC News HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/72254.ts
+#EXTINF:-1 tvg-id="SKYNEHD" tvg-name="UK: Sky News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d462fafee23c2ef7a965c3d29636e92b.png" group-title="UK",UK: Sky News HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/72255.ts
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN International HD" tvg-logo="http://iptv.watchhd.cc:5050/images/331f1120abfa41d24df6ed346e8d85c4.png" group-title="UK",UK: CNN International HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/188.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: Euronews" tvg-logo="http://logo.watchhd.cc/logo/uk-euronews.png" group-title="UK",UK: Euronews
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/200.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News HD" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_news.png" group-title="UK",UK: Sky News HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/199.ts
+#EXTINF:-1 tvg-id="thewordnetwork.us" tvg-name="US: ABC News Live HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8777c2b4fdcdc289f2e187b6fb7b2d69.png" group-title="USA",US: ABC News Live HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/10081.ts
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="US: BBC World News HD" tvg-logo="http://iptv.watchhd.cc:5050/images/19c7fc14094a2bcfcf81c4e42cd1c653.png" group-title="USA",US: BBC World News HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/10253.ts
+#EXTINF:-1 tvg-id="CBSNSTR" tvg-name="US: CBS NEWS" tvg-logo="" group-title="USA",US: CBS NEWS
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/19885.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/2a935fc0fe363a106225211c525a74f1.png" group-title="USA",US: CNN HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/296.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: Fox News Channel HD" tvg-logo="http://iptv.watchhd.cc:5050/images/6944560e795b7052e2f9c6c11cdcf161.png" group-title="USA",US: Fox News Channel HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/301.ts

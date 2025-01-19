@@ -1,0 +1,76 @@
+#EXTINF:-1 tvg-id="Sport1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="DE: Sport",DE: Sport 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/90.ts
+#EXTINF:-1 tvg-id="MySports 1" tvg-name="Swiss: Mysports 1 FHD" tvg-logo="http://logo.watchhd.cc/logo/MySports_ONE.png" group-title="DE: Sport",Swiss: Mysports 1 FHD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1415.ts
+#EXTINF:-1 tvg-id="MySports 2/Sky 2" tvg-name="Swiss: MySports 2 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_2.png" group-title="DE: Sport",Swiss: MySports 2 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1414.ts
+#EXTINF:-1 tvg-id="MySports 3/Sky 3" tvg-name="Swiss: MySports 3 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_3.png" group-title="DE: Sport",Swiss: MySports 3 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1413.ts
+#EXTINF:-1 tvg-id="MySports 4/Sky 4" tvg-name="Swiss: MySports 4 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_4.png" group-title="DE: Sport",Swiss: MySports 4 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1412.ts
+#EXTINF:-1 tvg-id="MySports 5/Sky 5" tvg-name="Swiss: MySports 5 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_5.png" group-title="DE: Sport",Swiss: MySports 5 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1411.ts
+#EXTINF:-1 tvg-id="MySports 6/Sky 6" tvg-name="Swiss: MySports 6 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_6.png" group-title="DE: Sport",Swiss: MySports 6 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1410.ts
+#EXTINF:-1 tvg-id="MySports 7Sky 7" tvg-name="Swiss: MySports 7 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_7.png" group-title="DE: Sport",Swiss: MySports 7 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2197.ts
+#EXTINF:-1 tvg-id="MySports 8Sky 8" tvg-name="Swiss: MySports 8 FHD (CH)" tvg-logo="http://logo.watchhd.cc/logo/MySports_8.png" group-title="DE: Sport",Swiss: MySports 8 FHD (CH)
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sky Sport 1 HD" tvg-logo="" group-title="DE: Sport",Swiss: TC Sky Sport 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/tcsport1.png" group-title="DE: Sport",Swiss: TC Sport 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1153.ts
+#EXTINF:-1 tvg-id="TCSport2.ch" tvg-name="Swiss: TC Sport 2 HD" tvg-logo="" group-title="DE: Sport",Swiss: TC Sport 2 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1502.ts
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="DE: Sport",DE: DAZN 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2165.ts
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="DE: Sport",DE: DAZN 2 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2168.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="DE: Sky Bundesliga HD 1" tvg-logo="http://logo.watchhd.cc/logo/bulihd11v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 1
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2117.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="DE: Sky Bundesliga HD 2" tvg-logo="http://logo.watchhd.cc/logo/bulihd22v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 2
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2124.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="DE: Sky Bundesliga HD 3" tvg-logo="http://logo.watchhd.cc/logo/bulihd33v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 3
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2127.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="DE: Sky Bundesliga HD 4" tvg-logo="http://logo.watchhd.cc/logo/bulihd4v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 4
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2132.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="DE: Sky Bundesliga HD 5" tvg-logo="http://logo.watchhd.cc/logo/bulihd55v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 5
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2130.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="DE: Sky Bundesliga HD 6" tvg-logo="http://logo.watchhd.cc/logo/bulihd66v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 6
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/2119.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 7" tvg-name="DE: Sky Bundesliga HD 7" tvg-logo="http://logo.watchhd.cc/logo/bulihd77v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 7
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1179.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 8" tvg-name="DE: Sky Bundesliga HD 8" tvg-logo="http://logo.watchhd.cc/logo/bulihd88v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 8
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/961.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 9" tvg-name="DE: Sky Bundesliga HD 9" tvg-logo="http://logo.watchhd.cc/logo/bulihd99v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 9
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/962.ts
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 10" tvg-name="DE: Sky Bundesliga HD 10" tvg-logo="http://logo.watchhd.cc/logo/bulihd10v2.png" group-title="DE: Sport",DE: Sky Bundesliga HD 10
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/963.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="DE: Sport",DE: Sky Sport 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/67.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="DE: Sport",DE: Sky Sport 2 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/33.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 3" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd33v2.png" group-title="DE: Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/41.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 4" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd44v2.png" group-title="DE: Sport",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/42.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 5" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd55v2.png" group-title="DE: Sport",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/43.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 6" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd66v2.png" group-title="DE: Sport",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1189.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 7" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd7.png" group-title="DE: Sport",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1188.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 8" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd8.png" group-title="DE: Sport",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1191.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 9" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd9.png" group-title="DE: Sport",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1192.ts
+#EXTINF:-1 tvg-id="Sky Sport HD 10" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/skysporthd10.png" group-title="DE: Sport",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1194.ts
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="DE: Sport 1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="DE: Sport",DE: Sport 1+ HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/15.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="DE: Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/23.ts
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="DE: Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/66.ts
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD XTRA" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="DE: Sport",DE: Eurosport 2 HD Xtra
+http://iptv.watchhd.cc:8000/live/schiri52/npoAyNpKwM/1185.ts

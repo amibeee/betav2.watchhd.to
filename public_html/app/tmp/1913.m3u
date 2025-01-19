@@ -1,0 +1,16 @@
+#EXTINF:-1 timeshift="7" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="WM 2022 Livespiele",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/4678.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="WM 2022 Livespiele",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/4740.ts
+#EXTINF:-1 tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/23f625499daa31f8113831c2677f7ec0.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/379.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/fefa5021e3b2b1254d052b8f6c0df3a9.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/380.ts
+#EXTINF:-1 tvg-id="5a51ad65369c8cb0a755645c239d0123" tvg-name="DE: Kabel 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/15604514c61cd96550c3cfc30ef96f9f.png" group-title="Free-TV",DE: Kabel 1 HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/372.ts
+#EXTINF:-1 tvg-id="92b68a2a0472e54776ef0ab23d418c1a" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/53edc9f80c4bb3e2c5bb6068003a9730.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/356.ts
+#EXTINF:-1 tvg-id="RTL2CHH" tvg-name="DE: RTL ZWEI HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/0e664938262406fd17fc4f8502a4b3dd.png" group-title="Free-TV",DE: RTL ZWEI HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/387.ts
+#EXTINF:-1 tvg-id="702f5305034a9048ee4a235c95f31474" tvg-name="DE: VOX HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD (720p)
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/612.ts

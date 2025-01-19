@@ -1,0 +1,45 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}Line bearbeiten{% endblock %}
+
+{% block content %}
+<div class="f-settings-container-fluid">
+    <div class="friend-settings-container-fluid">
+        <form id="editLineForm" method="post">
+            <div class="form-group">
+                <label>Benutzername</label>
+                <input type="text" class="form-control" name="username" id="username" value="{{ user.username }}" />
+            </div>
+            <div class="form-group">
+                <label>Passwort</label>
+                <input type="text" class="form-control" name="password" id="password" value="{{ user.password }}" />
+            </div>
+            <div class="form-group">
+                <label>Premium Laufzeit</label>
+                <input type="date" class="form-control" name="premium_until" id="premium_until" value="{{ user.premium_until|date('Y-m-d') }}" />    
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-lg btn-block btn-raised btn-success" value="speichern" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Get the current URL
+        const url = new URL(window.location.href);
+
+        // Extract the type query parameter
+        const type = url.searchParams.get("type");
+
+        // Construct the form action dynamically
+        const uriSegment3 = "{{ uri_segment(3) }}"; // Replace with dynamic server-side value
+        const baseUrl = "{{ base_url() }}"; // Replace with dynamic server-side value
+        const actionUrl = `${baseUrl}ghru4pxsa3/line/${uriSegment3}/edit?type=${type}`;
+
+        // Update the form's action attribute
+        document.getElementById("editLineForm").setAttribute("action", actionUrl);
+    });
+</script>
+{% endblock %}

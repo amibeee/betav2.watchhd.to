@@ -1,0 +1,51 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}Templates{% endblock %}
+
+{% block content %}
+
+
+<div class="row">
+    <div class="col-md-9 pull-left">
+        <h1>Templates</h1>
+    </div>
+</div>
+
+<a href="{{ base_url() }}ghru4pxsa3/templates/create" class="btn btn-raised btn-primary btn-block btn-lg">Template erstellen</a>
+{{ form_open()|raw }}
+<table class="table table-striped table-bordered table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th width="30%">Aktionen</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% if templates|length %}
+    
+        {% for template in templates %}
+        <tr>
+            <td>{{ template.name }}</td>
+    
+             <td>
+                <a href="{{ base_url() }}ghru4pxsa3/template/{{ template.id }}/edit" class="btn btn-raised btn-sm btn-primary"><i class="fa fa-pencil"></i></a>
+                <a href="{{ base_url() }}ghru4pxsa3/template/{{ template.id }}/setup" class="btn btn-raised btn-default btn-sm"><i class="fa fa-wrench"></i></a>
+                <a href="{{ securelink('ghru4pxsa3/template/'~template.id~'/delete', 'template.delete.'~template.id) }}" class="btn btn-raised btn-sm btn-danger confirm"><i class="fa fa-trash"></i></a>
+                
+            </td>
+        </tr>
+        {% endfor %}
+    
+    {% else %}
+    <tr>
+        <td colspan="8">We doesnt have any template until now.</td>
+    </tr>
+    {% endif %}
+    </tbody>
+</table>
+
+
+{{ form_close()|raw }}
+{{ pagination|raw }}
+
+{% endblock %}

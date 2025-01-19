@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/94.ts
+#EXTINF:-1 tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD (720p)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/382.ts
+#EXTINF:-1 tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="HEVC FHD",DE: Sky Cinema Special HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10123.ts

@@ -1,0 +1,108 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+    {{ user.username ~ ' Pakete' }}
+{% endblock %}
+
+{% block content %}
+    <div class="container-fluid">
+        <h1>{{ t(user.username ~ ' Pakete') }}</h1>
+
+        {{ form_open({
+            'method': 'post',
+            'action': base_url() ~ 'ghru4pxsa3/line/' ~ uri_segment(3) ~ '/packages'
+        })|raw }}
+        
+        <input type="hidden" name="type" value="{{ input_post('type') }}">
+
+        <div class="mb-3">
+            <input type="submit" value="Setup ausführen" name="setup" class="btn btn-primary me-2"/>
+            
+            {{ form_open({
+                'method': 'post',
+                'action': base_url() ~ 'ghru4pxsa3/line/' ~ uri_segment(3) ~ '/packages',
+                'class': 'd-inline'
+            })|raw }}
+                <input type="hidden" name="type" value="{{ input_post('type') }}">
+                <input type="hidden" name="cmd" value="repair-packages">
+                <button type="submit" class="btn btn-secondary">Pakete reparieren</button>
+            {{ form_close()|raw }}
+        </div>
+
+        <table class="table table-bordered table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Paket</th>
+                    <th width="30%">Laufzeit</th>
+                    <th width="10%">Aktiv</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for package in packages %}
+                    <tr>
+                        <td>
+                            {{ package.name }}
+                            <br/>
+                            <small>
+                                {% if package.booked_until < timestamp %}
+                                    <span class="text-danger">
+                                        {{ package.booked_until|date('d.m.Y H:i') }} (abgelaufen)
+                                    </span>
+                                {% else %}
+                                    {{ package.booked_until|date('d.m.Y H:i') }}
+                                {% endif %}
+                            </small>
+                        </td>
+                        <td>
+                            <div class="row g-2">
+                                <div class="col-md-6">
+                                    <input type="date" 
+                                           name="date[{{ package.id }}]" 
+                                           value="{{ package.booked_until|date('Y-m-d') }}" 
+                                           class="form-control"/>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="time" 
+                                           name="time[{{ package.id }}]" 
+                                           value="{{ package.booked_until|date('H:i') }}" 
+                                           class="form-control"/>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="form-check form-switch">
+                                <input type="checkbox" 
+                                       class="form-check-input package" 
+                                       id="package-{{ package.id }}"
+                                       data-package-id="{{ package.id }}"
+                                       name="package[{{ package.id }}]"
+                                       {% if package.status == 'active' or package.bouquet_id == 24 %}checked{% endif %}
+                                       {% if package.bouquet_id == 24 %}disabled{% endif %}/>
+                                <label class="form-check-label" for="package-{{ package.id }}"></label>
+                            </div>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <input type="submit" value="Speichern" name="saveBtn" class="btn btn-success"/>
+        {{ form_close()|raw }}
+
+        <!-- Erfolgs-Modal -->
+        <div class="modal fade" id="packageOptionSuccessfullyChanged" tabindex="-1" aria-labelledby="successModalTitle" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="successModalTitle">Erfolg</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Das Paket wurde deinen Wünschen entsprechend angepasst. Bitte beachte, dass es einige Minuten dauern kann, bis die Änderung sichtbar wird.</p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

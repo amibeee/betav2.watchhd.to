@@ -1,0 +1,134 @@
+{% extends 'layout.html.twig' %}
+
+{% block title %}
+	{{ t('Hilfe') }}
+{% endblock %}
+
+
+{% block content %}
+	<div class="help-container2">
+		<div class="herohelp">
+			<img src="{{ base_url }}assets/assets/icons/help.svg" alt="Help Logo" class="help-logo">
+			<h1 id="help" class="help-title">{{ t('Hilfe') }}</h1>
+		</div>
+
+		<div class="welcominghelp">
+			<h1 class="welcominghelp-title"style=" font-size: 2em;" >{{ t('Willkommen auf der WatchHD-Hilfeseite') }}</h1>
+			<p class="welcominghelp-subtitle" style=" font-size: 2em;">{{ t('Brauchen Sie Hilfe? Entdecken Sie unsere Ressourcen für Antworten, Fehlerbehebungstipps und Funktionsanleitungen. Wir sind hier, um Ihnen bei jedem Schritt mit WatchHD zu helfen.') }}</p>
+		</div>
+
+		<div class="containerhelp">
+			<div
+				id="notification-container"><!-- Notifications will be dynamically added here by JavaScript -->
+			</div>
+
+			<div class="help-sections-container">
+				<div id="general" class="help-section" style=" font-size: 2em;">
+					<h2>{{ t('Allgemein') }}</h2>
+					<div class="scrollable-content">
+						{% for value in helpers['Allgemein'] %}
+							<div class="help-item">
+								<input type="checkbox" id="question{{ value.id }}" class="help-toggle">
+								<label for="question{{ value.id }}" class="help-question">
+									{{ value.title }}
+									<span class="expand-icon"></span>
+								</label>
+								<div class="help-answer">
+									<div class="channel-list">
+										<ul>
+											{% set items = value.text|split('<br>') %}
+											{% for item in items %}
+												<li>{{ item|raw|trim }}</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+
+				<div id="streams" class="help-section" style=" font-size: 2em;">
+					<h2>{{ t('Streams') }}</h2>
+					<div class="scrollable-content">
+						{% for value in helpers['Streams'] %}
+							<div class="help-item">
+								<input type="checkbox" id="question{{ value.id }}" class="help-toggle">
+								<label for="question{{ value.id }}" class="help-question">
+									{{ value.title }}
+									<span class="expand-icon"></span>
+								</label>
+								<div class="help-answer">
+									<div class="channel-list">
+										<ul>
+											{% set items = value.text|split('<br>') %}
+											{% for item in items %}
+												<li>{{ item|raw|trim }}</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+
+				<div id="premium-account" class="help-section" style=" font-size: 2em;">
+					<h2>{{ t('Premium') }}
+						&
+						{{ t('Account') }}</h2>
+					<div class="scrollable-content">
+						{% for value in helpers['Premium'] %}
+							<div class="help-item">
+								<input type="checkbox" id="question{{ value.id }}" class="help-toggle">
+								<label for="question{{ value.id }}" class="help-question">
+									{{ value.title }}
+									<span class="expand-icon"></span>
+								</label>
+								<div class="help-answer">
+									<div class="channel-list">
+										<ul>
+											{% set items = value.text|split('<br>') %}
+											{% for item in items %}
+												<li>{{ item|raw|trim }}</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							</div>
+						{% endfor %}
+						{% for value in helpers['Account'] %}
+							<div class="help-item">
+								<input type="checkbox" id="question{{ value.id }}" class="help-toggle">
+								<label for="question{{ value.id }}" class="help-question">
+									{{ value.title }}
+									<span class="expand-icon"></span>
+								</label>
+								<div class="help-answer">
+									<div class="channel-list">
+										<ul>
+											{% set items = value.text|split('<br>') %}
+											{% for item in items %}
+												<li>{{ item|raw|trim }}</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Scroll to Top Button -->
+		<button id="scrollToTopBtn" title="{{ t('Nach oben') }}">
+			<img src="{{ base_url }}assets/assets/icons/gg_arrow-up.svg" alt="">
+		</button>
+	</div>
+{% endblock %}
+
+{% block javascripts %}
+	{{ parent() }}
+	<script src="{{ base_url }}assets/js/script.js"></script>
+{% endblock %}

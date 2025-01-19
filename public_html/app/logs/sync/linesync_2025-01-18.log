@@ -1,0 +1,5470 @@
+[2025-01-18 00:35:07] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737156907
+}
+[2025-01-18 00:35:07] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 00:35:07] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 00:35:07] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 00:35:07] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 00:35:07] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 00:35:07] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:35:07] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:35:08] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 00:35:08] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 00:35:08] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 00:35:08] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 00:35:08] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 00:35:08] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 00:35:08] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 00:35:08] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 00:35:08] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 00:35:08] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:35:08] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 00:35:08] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 00:35:08] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 00:35:08] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 00:35:09] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 00:35:09] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 00:35:09] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:35:09] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:35:09] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:35:09] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:35:09] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 00:35:09] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 00:35:09] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 00:35:09] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:35:09] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:35:09] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:35:09] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:35:09] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 00:35:09] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 00:40:57] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737157257
+}
+[2025-01-18 00:40:57] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 00:40:57] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 00:40:57] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 00:40:57] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 00:40:57] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 00:40:57] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:40:57] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:40:57] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 00:40:58] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 00:40:58] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 00:40:58] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 00:40:58] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 00:40:58] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 00:40:58] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 00:40:58] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 00:40:58] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 00:40:58] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:40:58] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 00:40:58] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 00:40:58] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 00:40:58] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 00:40:58] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 00:40:58] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 00:40:58] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:40:58] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:40:58] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:40:58] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:40:59] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 00:40:59] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 00:40:59] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 00:40:59] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:40:59] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 00:40:59] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 00:40:59] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 00:40:59] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 00:40:59] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:05:03] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737158703
+}
+[2025-01-18 01:05:03] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:05:03] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:05:03] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:05:03] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:05:03] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:05:03] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:05:03] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:05:03] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:05:03] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:05:03] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:05:03] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:05:03] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:05:03] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:05:03] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:05:04] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:05:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:05:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:05:04] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:05:04] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:05:04] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:05:04] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:05:04] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:05:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:05:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:05:04] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:05:04] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:05:04] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:05:04] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:05:04] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:05:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:05:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:05:04] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:05:04] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:05:04] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:05:04] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:05:04] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:34:57] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160497
+}
+[2025-01-18 01:34:57] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:34:57] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:34:57] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:34:57] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:34:57] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:34:57] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:34:57] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:34:57] [ERROR] API request failed {
+    "userId": "22514",
+    "username": "amibeee123",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:57] [ERROR] Failed to process user {
+    "userId": "22514",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:58] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:34:58] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:34:58] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:34:58] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:34:58] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:34:58] [ERROR] API request failed {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:58] [ERROR] Failed to process user {
+    "userId": "22516",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:58] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:34:58] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:34:58] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:34:58] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:34:58] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:34:58] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:34:58] [ERROR] API request failed {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:58] [ERROR] Failed to process user {
+    "userId": "22518",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:59] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:34:59] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:34:59] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:34:59] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:34:59] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:34:59] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:34:59] [ERROR] API request failed {
+    "userId": "22519",
+    "username": "Moon",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:59] [ERROR] Failed to process user {
+    "userId": "22519",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:59] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:34:59] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:34:59] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:34:59] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:34:59] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:34:59] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:34:59] [ERROR] API request failed {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:59] [ERROR] Failed to process user {
+    "userId": "22520",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:34:59] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:36:27] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160587
+}
+[2025-01-18 01:36:27] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:36:27] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:36:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:36:27] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:36:27] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:36:27] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:27] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:27] [ERROR] API request failed {
+    "userId": "22514",
+    "username": "amibeee123",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:27] [ERROR] Failed to process user {
+    "userId": "22514",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:27] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:36:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:36:27] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:36:27] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:36:27] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:36:27] [ERROR] API request failed {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:27] [ERROR] Failed to process user {
+    "userId": "22516",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:36:28] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:36:28] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:28] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:36:28] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:36:28] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:36:28] [ERROR] API request failed {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [ERROR] Failed to process user {
+    "userId": "22518",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:36:28] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:36:28] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:28] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:28] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:28] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:28] [ERROR] API request failed {
+    "userId": "22519",
+    "username": "Moon",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [ERROR] Failed to process user {
+    "userId": "22519",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:36:28] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:36:28] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:28] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:28] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:28] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:28] [ERROR] API request failed {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:28] [ERROR] Failed to process user {
+    "userId": "22520",
+    "error": "log() expects at most 2 parameters, 3 given"
+}
+[2025-01-18 01:36:29] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:36:48] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160608
+}
+[2025-01-18 01:36:48] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:36:48] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:36:48] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:36:48] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:36:48] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:36:48] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:48] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:48] [INFO] API response received {
+    "userId": "22514",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1744394102"
+            }
+        }
+    }
+}
+[2025-01-18 01:36:48] [ERROR] API request failed {
+    "userId": "22514",
+    "username": "amibeee123",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:48] [ERROR] Failed to process user {
+    "userId": "22514",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:48] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:36:48] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:36:48] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:36:48] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:36:48] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:36:48] [INFO] API response received {
+    "userId": "22516",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1743275670"
+            }
+        }
+    }
+}
+[2025-01-18 01:36:48] [ERROR] API request failed {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:48] [ERROR] Failed to process user {
+    "userId": "22516",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:48] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:36:48] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:36:48] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:48] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:36:48] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:36:48] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:36:49] [INFO] API response received {
+    "userId": "22518",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1748290608"
+            }
+        }
+    }
+}
+[2025-01-18 01:36:49] [ERROR] API request failed {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:49] [ERROR] Failed to process user {
+    "userId": "22518",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:49] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:36:49] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:36:49] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:49] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:49] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:49] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:50] [INFO] API response received {
+    "userId": "22519",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1742333477"
+            }
+        }
+    }
+}
+[2025-01-18 01:36:50] [ERROR] API request failed {
+    "userId": "22519",
+    "username": "Moon",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:50] [ERROR] Failed to process user {
+    "userId": "22519",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:50] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:36:50] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:36:50] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:50] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:36:50] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:36:50] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:36:50] [INFO] API response received {
+    "userId": "22520",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1739745801"
+            }
+        }
+    }
+}
+[2025-01-18 01:36:50] [ERROR] API request failed {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:50] [ERROR] Failed to process user {
+    "userId": "22520",
+    "error": "Max connections mismatch after update"
+}
+[2025-01-18 01:36:50] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:40:33] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160833
+}
+[2025-01-18 01:40:33] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:40:33] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:40:33] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:40:33] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:40:33] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:40:33] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:40:33] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:40:33] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:40:33] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:40:33] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:40:33] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:40:33] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:40:33] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:40:34] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:40:34] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:40:34] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:40:34] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:40:34] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:40:34] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:40:34] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:40:34] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:40:34] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:40:34] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:40:34] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:40:34] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:40:34] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:40:34] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:40:34] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:40:35] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:40:35] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:40:35] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:40:35] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:40:35] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:40:35] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:40:35] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:40:35] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:41:00] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160860
+}
+[2025-01-18 01:41:00] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:41:00] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:41:00] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:41:00] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:41:00] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:41:00] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:41:00] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:41:00] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:41:00] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:41:00] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:41:00] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:41:00] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:41:00] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:41:00] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:41:00] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:41:00] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:41:00] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:41:00] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:41:00] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:41:00] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:41:01] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:41:01] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:41:01] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:41:01] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:41:01] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:41:01] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:41:01] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:41:01] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:41:01] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:41:01] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:41:01] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:41:01] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:41:01] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:41:01] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:41:01] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:41:01] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:42:03] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737160923
+}
+[2025-01-18 01:42:03] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:42:03] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:42:03] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:42:03] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:42:03] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:42:03] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:42:03] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:42:03] [INFO] API response received {
+    "userId": "22514",
+    "username": "amibeee123",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1744394102"
+            }
+        }
+    }
+}
+[2025-01-18 01:42:03] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:42:03] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:42:03] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:42:03] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:42:03] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:42:03] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:42:03] [INFO] API response received {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1743275670"
+            }
+        }
+    }
+}
+[2025-01-18 01:42:03] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:42:03] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:42:03] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:42:03] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:42:03] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:42:03] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:42:03] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:42:03] [INFO] API response received {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1748290608"
+            }
+        }
+    }
+}
+[2025-01-18 01:42:03] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:42:04] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:42:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:42:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:42:04] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:42:04] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:42:04] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:42:04] [INFO] API response received {
+    "userId": "22519",
+    "username": "Moon",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1742333477"
+            }
+        }
+    }
+}
+[2025-01-18 01:42:04] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:42:04] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:42:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:42:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:42:04] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:42:04] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:42:04] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:42:04] [INFO] API response received {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1739745801"
+            }
+        }
+    }
+}
+[2025-01-18 01:42:04] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:42:04] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:52:26] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737161546
+}
+[2025-01-18 01:52:26] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:52:26] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:52:26] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:52:26] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:52:26] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:52:26] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:52:26] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:52:26] [INFO] API response received {
+    "userId": "22514",
+    "username": "amibeee123",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1744394102"
+            }
+        }
+    }
+}
+[2025-01-18 01:52:26] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:52:27] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:52:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:52:27] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:52:27] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:52:27] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:52:27] [INFO] API response received {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1743275670"
+            }
+        }
+    }
+}
+[2025-01-18 01:52:27] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:52:27] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:52:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:52:27] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:52:27] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:52:27] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:52:27] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:52:27] [INFO] API response received {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1748290608"
+            }
+        }
+    }
+}
+[2025-01-18 01:52:27] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:52:27] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:52:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:52:27] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:52:27] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:52:27] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:52:27] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:52:27] [INFO] API response received {
+    "userId": "22519",
+    "username": "Moon",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1742333477"
+            }
+        }
+    }
+}
+[2025-01-18 01:52:27] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:52:27] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:52:27] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:52:27] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:52:27] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:52:27] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:52:27] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:52:28] [INFO] API response received {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1739745801"
+            }
+        }
+    }
+}
+[2025-01-18 01:52:28] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:52:28] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 01:57:04] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737161824
+}
+[2025-01-18 01:57:04] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 01:57:04] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 01:57:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 01:57:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:57:04] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 01:57:04] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:57:04] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:57:04] [INFO] API response received {
+    "userId": "22514",
+    "username": "amibeee123",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1744394102"
+            }
+        }
+    }
+}
+[2025-01-18 01:57:04] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 01:57:04] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 01:57:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:57:04] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 01:57:04] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:57:04] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:57:04] [INFO] API response received {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1743275670"
+            }
+        }
+    }
+}
+[2025-01-18 01:57:04] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 01:57:04] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 01:57:04] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 01:57:04] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:57:04] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 01:57:04] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 01:57:04] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 01:57:05] [INFO] API response received {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1748290608"
+            }
+        }
+    }
+}
+[2025-01-18 01:57:05] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 01:57:05] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 01:57:05] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 01:57:05] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:57:05] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:57:05] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:57:05] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:57:05] [INFO] API response received {
+    "userId": "22519",
+    "username": "Moon",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1742333477"
+            }
+        }
+    }
+}
+[2025-01-18 01:57:05] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 01:57:05] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 01:57:05] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 01:57:05] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:57:05] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 01:57:05] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 01:57:05] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 01:57:06] [INFO] API response received {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1739745801"
+            }
+        }
+    }
+}
+[2025-01-18 01:57:06] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 01:57:06] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 02:00:21] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737162021
+}
+[2025-01-18 02:00:21] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 02:00:21] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 02:00:21] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 02:00:21] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 02:00:21] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 02:00:21] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 02:00:21] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 02:00:21] [INFO] API response received {
+    "userId": "22514",
+    "username": "amibeee123",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1744394102"
+            }
+        }
+    },
+    "rawResponse": "{\"success\":true,\"message\":\"User updated\",\"data\":{\"user\":{\"exp_date\":\"1744394102\"}}}"
+}
+[2025-01-18 02:00:21] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 02:00:21] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 02:00:21] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 02:00:21] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 02:00:21] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 02:00:21] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 02:00:22] [INFO] API response received {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1743275670"
+            }
+        }
+    },
+    "rawResponse": "{\"success\":true,\"message\":\"User updated\",\"data\":{\"user\":{\"exp_date\":\"1743275670\"}}}"
+}
+[2025-01-18 02:00:22] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 02:00:22] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 02:00:22] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 02:00:22] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 02:00:22] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 02:00:22] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 02:00:22] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 02:00:22] [INFO] API response received {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1748290608"
+            }
+        }
+    },
+    "rawResponse": "{\"success\":true,\"message\":\"User updated\",\"data\":{\"user\":{\"exp_date\":\"1748290608\"}}}"
+}
+[2025-01-18 02:00:22] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 02:00:22] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 02:00:22] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 02:00:22] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 02:00:22] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 02:00:22] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 02:00:22] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 02:00:22] [INFO] API response received {
+    "userId": "22519",
+    "username": "Moon",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1742333477"
+            }
+        }
+    },
+    "rawResponse": "{\"success\":true,\"message\":\"User updated\",\"data\":{\"user\":{\"exp_date\":\"1742333477\"}}}"
+}
+[2025-01-18 02:00:22] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 02:00:22] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 02:00:22] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 02:00:22] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 02:00:22] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 02:00:22] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 02:00:22] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 02:00:23] [INFO] API response received {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "response": {
+        "success": true,
+        "message": "User updated",
+        "data": {
+            "user": {
+                "exp_date": "1739745801"
+            }
+        }
+    },
+    "rawResponse": "{\"success\":true,\"message\":\"User updated\",\"data\":{\"user\":{\"exp_date\":\"1739745801\"}}}"
+}
+[2025-01-18 02:00:23] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 02:00:23] [SUCCESS] LineSync process completed successfully-------------------- 
+[2025-01-18 02:07:48] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737162468
+}
+[2025-01-18 14:59:16] [INFO] Starting LineSync process {
+    "userId": 0,
+    "startId": null,
+    "endId": null,
+    "timestamp": 1737208756
+}
+[2025-01-18 14:59:16] [INFO] Found users to process {
+    "count": 5
+}
+[2025-01-18 14:59:16] [INFO] Processing user {
+    "userId": "22514",
+    "username": "amibeee123",
+    "premiumUntil": "1744394102"
+}
+[2025-01-18 14:59:16] [INFO] Retrieved bouquet IDs {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "count": 12
+}
+[2025-01-18 14:59:16] [INFO] Payment data retrieved {
+    "user-----------------Id": "22514",
+    "payment--------------Data": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 14:59:16] [INFO] Multiline enabled for user {
+    "userId": "22514",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 180,
+        "buy": {
+            "type": "subline",
+            "line_id": 7918,
+            "username": "amibeee123_JFOZ7qjogN",
+            "multiline": "1"
+        },
+        "packages": [
+            1,
+            9,
+            10,
+            11,
+            12,
+            24,
+            27,
+            28
+        ]
+    }
+}
+[2025-01-18 14:59:16] [INFO] User data prepared {
+    "userId": "22514",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24",
+        11,
+        12,
+        27,
+        28
+    ],
+    "max_connections": 2
+}
+[2025-01-18 14:59:16] [INFO] Sending API request {
+    "userId": "22514",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "amibeee123",
+        "password": "4OF0UYd64hU90",
+        "exp_date": "1744394102",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 14:59:16] [INFO] API response received {
+    "userId": "22514",
+    "username": "amibeee123",
+    "response": {
+        "success": true,
+        "message": "User updated successfully",
+        "data": {
+            "user": {
+                "exp_date": "1744394102",
+                "max_connections": 2,
+                "is_isplock": 0,
+                "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\",11,12,27,28]",
+                "username": "amibeee123"
+            }
+        }
+    }
+}
+[2025-01-18 14:59:16] [SUCCESS] User line updated successfully {
+    "userId": "22514",
+    "username": "amibeee123"
+}
+[2025-01-18 14:59:16] [INFO] Processing user {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "premiumUntil": "1743275670"
+}
+[2025-01-18 14:59:16] [INFO] Retrieved bouquet IDs {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 14:59:16] [INFO] Standard connection limit for user {
+    "userId": "22516",
+    "max_connections": 1
+}
+[2025-01-18 14:59:16] [INFO] User data prepared {
+    "userId": "22516",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 14:59:16] [INFO] Sending API request {
+    "userId": "22516",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Testusergggffffffff",
+        "password": "e4HeOQEaTkRv",
+        "exp_date": "1743275670",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 14:59:16] [INFO] API response received {
+    "userId": "22516",
+    "username": "Testusergggffffffff",
+    "response": {
+        "success": true,
+        "message": "User updated successfully",
+        "data": {
+            "user": {
+                "exp_date": "1743275670",
+                "max_connections": 1,
+                "is_isplock": 0,
+                "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+                "username": "Testusergggffffffff"
+            }
+        }
+    }
+}
+[2025-01-18 14:59:16] [SUCCESS] User line updated successfully {
+    "userId": "22516",
+    "username": "Testusergggffffffff"
+}
+[2025-01-18 14:59:16] [INFO] Processing user {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "premiumUntil": "1748290608"
+}
+[2025-01-18 14:59:16] [INFO] Retrieved bouquet IDs {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "count": 8
+}
+[2025-01-18 14:59:16] [INFO] Payment data retrieved {
+    "user-----------------Id": "22518",
+    "payment--------------Data": {
+        "premium_days": 120,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22518",
+            "username": "begehrenswert"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 14:59:16] [INFO] Standard connection limit for user {
+    "userId": "22518",
+    "max_connections": 1
+}
+[2025-01-18 14:59:16] [INFO] User data prepared {
+    "userId": "22518",
+    "bouquets": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "24"
+    ],
+    "max_connections": 1
+}
+[2025-01-18 14:59:16] [INFO] Sending API request {
+    "userId": "22518",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "begehrenswert",
+        "password": "re7tQbeDOOiu",
+        "exp_date": "1748290608",
+        "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+        "max_connections": 1
+    }
+}
+[2025-01-18 14:59:16] [INFO] API response received {
+    "userId": "22518",
+    "username": "begehrenswert",
+    "response": {
+        "success": true,
+        "message": "User updated successfully",
+        "data": {
+            "user": {
+                "exp_date": "1748290608",
+                "max_connections": 1,
+                "is_isplock": 0,
+                "bouquet": "[\"1\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"24\"]",
+                "username": "begehrenswert"
+            }
+        }
+    }
+}
+[2025-01-18 14:59:16] [SUCCESS] User line updated successfully {
+    "userId": "22518",
+    "username": "begehrenswert"
+}
+[2025-01-18 14:59:17] [INFO] Processing user {
+    "userId": "22519",
+    "username": "Moon",
+    "premiumUntil": "1742333477"
+}
+[2025-01-18 14:59:17] [INFO] Retrieved bouquet IDs {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "count": 13
+}
+[2025-01-18 14:59:17] [INFO] Payment data retrieved {
+    "user-----------------Id": "22519",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 14:59:17] [INFO] Multiline enabled for user {
+    "userId": "22519",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "subline",
+            "line_id": 7921,
+            "username": "Moon_mbVW4gjf0z",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 14:59:17] [INFO] User data prepared {
+    "userId": "22519",
+    "bouquets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24",
+        "27",
+        "28"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 14:59:17] [INFO] Sending API request {
+    "userId": "22519",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "Moon",
+        "password": "4Xyiv8WezxER",
+        "exp_date": "1742333477",
+        "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 14:59:17] [INFO] API response received {
+    "userId": "22519",
+    "username": "Moon",
+    "response": {
+        "success": true,
+        "message": "User updated successfully",
+        "data": {
+            "user": {
+                "exp_date": "1742333477",
+                "max_connections": 2,
+                "is_isplock": 0,
+                "bouquet": "[\"1\",\"2\",\"3\",\"4\",\"5\",\"8\",\"9\",\"10\",\"11\",\"12\",\"24\",\"27\",\"28\"]",
+                "username": "Moon"
+            }
+        }
+    }
+}
+[2025-01-18 14:59:17] [SUCCESS] User line updated successfully {
+    "userId": "22519",
+    "username": "Moon"
+}
+[2025-01-18 14:59:17] [INFO] Processing user {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "premiumUntil": "1739745801"
+}
+[2025-01-18 14:59:17] [INFO] Retrieved bouquet IDs {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "count": 1
+}
+[2025-01-18 14:59:17] [INFO] Payment data retrieved {
+    "user-----------------Id": "22520",
+    "payment--------------Data": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 14:59:17] [INFO] Multiline enabled for user {
+    "userId": "22520",
+    "max_connections": 2,
+    "paymentData": {
+        "premium_days": 30,
+        "buy": {
+            "type": "mainline",
+            "line_id": "22520",
+            "username": "WhoopWhoop",
+            "multiline": "1"
+        },
+        "packages": [
+            1
+        ]
+    }
+}
+[2025-01-18 14:59:17] [INFO] User data prepared {
+    "userId": "22520",
+    "bouquets": [
+        "1"
+    ],
+    "max_connections": 2
+}
+[2025-01-18 14:59:17] [INFO] Sending API request {
+    "userId": "22520",
+    "endpoint": "http:\/\/iptv.watchhd.cc:5050\/api\/api.php?action=update_user",
+    "postData": {
+        "username": "WhoopWhoop",
+        "password": "O2WjFxtOiu8d",
+        "exp_date": "1739745801",
+        "bouquet": "[\"1\"]",
+        "max_connections": 2
+    }
+}
+[2025-01-18 14:59:17] [INFO] API response received {
+    "userId": "22520",
+    "username": "WhoopWhoop",
+    "response": {
+        "success": true,
+        "message": "User updated successfully",
+        "data": {
+            "user": {
+                "exp_date": "1739745801",
+                "max_connections": 2,
+                "is_isplock": 0,
+                "bouquet": "[\"1\"]",
+                "username": "WhoopWhoop"
+            }
+        }
+    }
+}
+[2025-01-18 14:59:17] [SUCCESS] User line updated successfully {
+    "userId": "22520",
+    "username": "WhoopWhoop"
+}
+[2025-01-18 14:59:17] [SUCCESS] LineSync process completed successfully-------------------- 

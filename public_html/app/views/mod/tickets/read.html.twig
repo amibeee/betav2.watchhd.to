@@ -1,0 +1,40 @@
+{% extends "mod/layout.html.twig" %}
+
+{% block title %}
+Ticket #{{ ticket.id }}
+{% endblock %}
+
+{% block content %}
+{% if ticket.closed  %}
+<a href="{{ base_url() }}mod/ticket/{{ ticket.id }}/open" class="btn btn-raised btn-success btn-lg btn-block">Ticket öffnen</a>
+{% else %}
+<a href="{{ base_url() }}mod/ticket/{{ ticket.id }}/close" class="btn btn-raised btn-danger btn-lg btn-block">Ticket schließen</a>
+{% endif %}
+<h1>{{ ticket.subject }} ({{ ticket.category }}) <small>{{ ticket.created_at|date('d.m.Y H:i') }}</small></h1>
+
+<p><strong>{{ ticket.name }}</strong></p>
+<q>{{ ticket.contents|nl2br }}</q>
+<p></p>
+{% for reply in ticket.replies %}
+
+    <strong>{% if reply.uid == current_user.uid  %}Du{% else %}{{ reply.name }}{% endif %}</strong> am {{ reply.created_at|date('d.m.Y H:i') }}
+    <p><q>{{ reply.contents|nl2br }} </q></p>
+
+{% endfor %}
+
+{{ form_open()|raw }}
+<div class="form-group">
+
+    <div class="input-group">
+        
+        <textarea class="form-control" name="contents" id="contents" rows="5"></textarea>
+    
+        <span class="input-group-btn">
+            <input type="submit" value="speichern" class="btn btn-raised btn-success" />
+        </span>
+    </div>
+
+</div>
+{{ form_close()|raw }}
+
+{% endblock %}

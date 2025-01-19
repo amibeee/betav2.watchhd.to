@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="RTL II" tvg-name="DE: RTL II HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/6
+#EXTINF:-1 tvg-id="Insight TV HD" tvg-name="DE: Insight HD" tvg-logo="" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/10245
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/106
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/117
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/118
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_1.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/127
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2xtra HD" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/157
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV" tvg-logo="http://logo.watchhd.cc/logo/atv.png" group-title="Free-TV",AT: ATV
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/65
+#EXTINF:-1 tvg-id="ATV II" tvg-name="AT: ATV //" tvg-logo="http://logo.watchhd.cc/logo/atv_II.png" group-title="Free-TV",AT: ATV //
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/688
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls4 " tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="Free-TV",AT: Puls4 
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/546
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/66
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/67
+#EXTINF:-1 tvg-id="ORF III" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/68
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://logo.watchhd.cc/logo/orfsportplus.png" group-title="Free-TV",AT: ORF Sport+ HD
+http://iptv.watchhd.cc:5050/DiosMios/c1568fae/69

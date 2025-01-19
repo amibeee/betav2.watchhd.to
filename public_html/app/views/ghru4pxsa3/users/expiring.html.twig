@@ -1,0 +1,89 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+
+
+{% block title %}
+
+Ablaufende Accounts
+
+{% endblock %}
+
+
+
+{% block content %}
+
+<div class="f-settings-container-fluid">
+
+
+
+<div class="row">
+
+    <div class="col-md-12 ">
+
+        <h1>Ablaufende Accounts</h1>
+
+    </div>
+
+
+</div>
+
+
+<p class='text-center' style="color:white">In den nächsten 30 Tagen laufen <strong>{{ total }}</strong> Premium Accounts aus.</p>
+
+<table class="table table-striped table-bordered table-hover">
+
+    <thead>
+
+        <tr>
+
+
+            <th>Datum</th>
+
+            <th>Ablaufende Accounts</th>
+
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+    {% if values|length %}
+
+    
+
+        {% for date, accounts in values %}
+
+        <tr>
+
+            <td>{{ date }}</td>
+
+            
+            <td>{{ accounts }}</td>
+
+
+
+
+        </tr>
+
+        {% endfor %}
+
+    
+
+    {% else %}
+
+    <tr>
+
+        <td colspan="8">We doesnt have any users until now.</td>
+
+    </tr>
+
+    {% endif %}
+
+    </tbody>
+
+</table>
+
+
+
+{% endblock %}

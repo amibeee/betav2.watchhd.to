@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="37a9ee91aa9d65b9dfc38e58e6430027" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/2
+#EXTINF:-1 tvg-id="37a9ee91aa9d65b9dfc38e58e6430027" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/4740
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/3
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/379
+#EXTINF:-1 tvg-id="683e75b3b06d15eaf9cb149b8507f739" tvg-name="DE: RTL II HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/6
+#EXTINF:-1 tvg-id="683e75b3b06d15eaf9cb149b8507f739" tvg-name="DE: RTL II HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD (720p)
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/387
+#EXTINF:-1 tvg-id="3f88daf93ee22317ddeeb2520c65366c" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/41
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/10097
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/360
+#EXTINF:-1 tvg-id="e4f3769f08484b28f03fa0088ab06a64" tvg-name="DE: Super RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="Free-TV",DE: Super RTL HD (720p)
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/10103
+#EXTINF:-1 tvg-id="" tvg-name="TR: D" tvg-logo="" group-title="Türkei",TR: D
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/18129
+#EXTINF:-1 tvg-id="" tvg-name="TR: D" tvg-logo="" group-title="Türkei",TR: D
+http://iptv.watchhd.cc:5050/Tommi73/kW7Q96YdBQVY/18290

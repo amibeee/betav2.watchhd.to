@@ -1,0 +1,26 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Zahlung') }} #{{ payment.id }} |  
+{% endblock %}
+
+{% block content %}
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{ t('Zahlung') }} #{{ payment.id }}</h3>
+  </div>
+  <div class="panel-body" align="center">
+                        <div class="col-md-6">
+                            <h2>Cryptocurrency</h2>
+                            <iframe target="_blank" src="https://trocador.app/anonpay/?{{ trocador_params|url_encode }}" width="100%" height="350" style="border:0; color: #4f33ef;" scrolling="no"></iframe>
+                        </div>
+    <a href="{{ base_url() }}account" class="btn btn-raised btn-lg btn-block">{{ t('Ich habe gezahlt!') }}</a>
+    <script>
+    setInterval(function(){
+    	window.location = '{{ base_url() }}?error=Payment+Timeout';
+    }, (3*60000));
+    </script>
+
+</div>
+</div>
+{% endblock %}

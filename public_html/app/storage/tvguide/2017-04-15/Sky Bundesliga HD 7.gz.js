@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live Bundesliga"},"start":1492260900,"stop":1492262100,"channel":"Sky Bundesliga HD 7"},{"title":{"de":"Live BL: VfL Wolfsburg - FC Ingolstadt 04, 29. Spieltag"},"start":1492262100,"stop":1492270200,"channel":"Sky Bundesliga HD 7"}]}}

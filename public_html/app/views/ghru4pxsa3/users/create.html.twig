@@ -1,0 +1,58 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Benutzer erstellen
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+		<div class="friend-settings-container-fluid">
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>Benutzername</label>
+    <input type="text" class="form-control" name="username" value="{{ form_value('username') }}" />
+</div>
+<div class="form-group">
+    <label>Emailadresse</label>
+    <input type="email" style="width: 0;height: 0; visibility: hidden;position:absolute;left:0;top:0;"/>
+    <input type="email" class="form-control" name="email" value="{{ form_value('email') }}" />
+</div>
+<div class="form-group">
+    <label>Password</label>
+    <div class="input-group2">
+        <input type="password" style="width: 100%;height: 0; visibility: hidden;position:absolute;left:0;top:0;"/>
+        <input type="password" class="form-control" name="password" value="{{ form_value('password', password) }}" />
+        <span class="input-group-addon"><i class="fa fa-eye showpassword"></i></span>
+    </div>
+</div>
+<div class="form-group">
+    <label>Benutzergruppe</label>
+    <select name="group" class="form-control">
+        <option value=""{% if form_value('group') == '' %} selected=""{% endif %}>Bitte auswählen</option>
+        <option value="1"{% if form_value('group') == '1' %} selected=""{% endif %}>Benutzer</option>
+        <option value="25"{% if form_value('group') == '25' %} selected=""{% endif %}>Werbepartner</option>
+        <option value="75"{% if form_value('group') == '75' %} selected=""{% endif %}>Moderatoren</option>
+        <option value="100"{% if form_value('group') == '100' %} selected=""{% endif %}>Administatoren</option>
+    </select>
+</div>
+<div class="fom-group">
+    <label>Premium Laufzeit</label>
+    <input type="date" class="form-control" name="premium_until" id="premium_until" />    
+</div>
+<div class="fom-group">
+    <label>Rekorder Tokens</label>
+    <input type="number" class="form-control" name="tokens" id="tokens" value="{{ form_value('tokens', 0) }}" />    
+</div>
+<div class="fom-group">
+    <label>Geworben durch?</label>
+    <input type="number" class="form-control" name="referred_user_id" id="referred_user_id" value="{{ form_value('referred_user_id', 0) }}" />    
+</div>
+<div class="form-group">
+    <label>Tracking ID</label>
+    <input type="text" class="form-control" name="affiliate_tracking_id" value="{{ form_value('affiliate_tracking_id') }}" />
+</div>
+<div class="form-group">
+    <input type="submit" class="btn btn-success btn-raised btn-block btn-lg" value="Benutzer erstellen" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

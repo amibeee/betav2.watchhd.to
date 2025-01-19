@@ -1,0 +1,92 @@
+#EXTINF:-1 timeshift="5" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/1.ts
+#EXTINF:-1 tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Magenta TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135025.ts
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/2.ts
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Magenta TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135026.ts
+#EXTINF:-1 timeshift="3" tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/3.ts
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_RTL_HD.png" group-title="Magenta TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135027.ts
+#EXTINF:-1 tvg-id="92b68a2a0472e54776ef0ab23d418c1a" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Pro7_HD.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/5.ts
+#EXTINF:-1 tvg-id="DE: SIXX" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/40.ts
+#EXTINF:-1 tvg-id="DE: TELE 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/tele_5.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/50.ts
+#EXTINF:-1 tvg-id="DE: Phoenix" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/51.ts
+#EXTINF:-1 tvg-id="DE: Animal Planet" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Animal_Planet_HD.png" group-title="Sky Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/145.ts
+#EXTINF:-1 tvg-id="DE: Discovery" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Discovery_Channel_HD.png" group-title="Sky Doku",DE: Discovery HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/146.ts
+#EXTINF:-1 tvg-id="DE: GEO" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/147.ts
+#EXTINF:-1 tvg-id="DE: National Geographic" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/149.ts
+#EXTINF:-1 tvg-id="DE: National Geographic" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Magenta TV",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135116.ts
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="DE: SAT.1 HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Sat1_HD.png" group-title="Magenta TV",DE: SAT.1 HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135028.ts
+#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-name="DE: Spiegel TV Geschichte HD" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_SpiegelGeschichte_HD.png" group-title="Magenta TV",DE: Spiegel TV Geschichte HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/331823.ts
+#EXTINF:-1 tvg-id="DE: ZDFinfo" tvg-name="DE: ZDFinfo HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Magenta TV",DE: ZDFinfo HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/135070.ts
+#EXTINF:-1 tvg-id="f0a0a9a8113509ffb3e3d211d047c2d3" tvg-name="DE: Syfy HD" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Sky Komplett (Web Backup)",DE: Syfy HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/343062.ts
+#EXTINF:-1 tvg-id="7d3c9855e7752cdaf6f37647a531c432" tvg-name="DE: History HD" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Komplett (Web Backup)",DE: History HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/343067.ts
+#EXTINF:-1 tvg-id="43d9aa115cd504b5f423ee98f64802cb" tvg-name="DE: Deluxe Lounge HD" tvg-logo="" group-title="Music",DE: Deluxe Lounge HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/341453.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vixen HD" tvg-logo="" group-title="XXX",XXX: Vixen HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/179972.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid TV Europe" tvg-logo="" group-title="XXX",XXX: Vivid TV Europe
+http://iptv.watchhd.cc:5050/Marquis/marius99/179860.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV (P)" tvg-logo="http://logo.watchhd.cc/logo/xxx/dorcel.png" group-title="XXX",XXX: Dorcel TV (P)
+http://iptv.watchhd.cc:5050/Marquis/marius99/302730.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Gold" tvg-logo="http://logo.watchhd.cc/logo/xxx/penthouse_gold.png" group-title="XXX",XXX: Penthouse Gold
+http://iptv.watchhd.cc:5050/Marquis/marius99/302696.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans Mix HD" tvg-logo="" group-title="XXX",XXX: OnlyFans Mix HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/302624.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/reality_kings_tv.png" group-title="XXX",XXX: Reality Kings HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/302621.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Evil Angel HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/evil_angel.png" group-title="XXX",XXX: Evil Angel HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/302620.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Taxi TV" tvg-logo="http://logo.watchhd.cc/logo/xxx/fake_taxi.png" group-title="XXX",XXX: Fake Taxi TV
+http://iptv.watchhd.cc:5050/Marquis/marius99/302583.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Redlight HD" tvg-logo="" group-title="XXX",XXX: Redlight HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/302738.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV" tvg-logo="http://logo.watchhd.cc/logo/xxx/reality_kings_tv.png" group-title="XXX",XXX: Reality Kings TV
+http://iptv.watchhd.cc:5050/Marquis/marius99/179861.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy TV" tvg-logo="http://logo.watchhd.cc/logo/xxx/playboy_tv.png" group-title="XXX",XXX: Playboy TV
+http://iptv.watchhd.cc:5050/Marquis/marius99/179866.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Erotic 4" tvg-logo="http://logo.watchhd.cc/logo/xxx/pink_tv.png" group-title="XXX",XXX: Pink Erotic 4
+http://iptv.watchhd.cc:5050/Marquis/marius99/179865.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Erotic 3" tvg-logo="http://logo.watchhd.cc/logo/xxx/pink_tv.png" group-title="XXX",XXX: Pink Erotic 3
+http://iptv.watchhd.cc:5050/Marquis/marius99/179864.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Erotic 2" tvg-logo="http://logo.watchhd.cc/logo/xxx/pink_tv.png" group-title="XXX",XXX: Pink Erotic 2
+http://iptv.watchhd.cc:5050/Marquis/marius99/179863.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Erotic" tvg-logo="http://logo.watchhd.cc/logo/xxx/pink_tv.png" group-title="XXX",XXX: Pink Erotic
+http://iptv.watchhd.cc:5050/Marquis/marius99/179862.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Gold HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/penthouse_gold.png" group-title="XXX",XXX: Penthouse Gold HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/179867.ts
+#EXTINF:-1 tvg-id="LSPURHD" tvg-name="XXX: Lustpur" tvg-logo="http://fanc.tmsimg.com/assets/s83618_h3_aa.png" group-title="XXX",XXX: Lustpur
+http://iptv.watchhd.cc:5050/Marquis/marius99/191297.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler TV" tvg-logo="http://logo.watchhd.cc/logo/xxx/hustler_tv.png" group-title="XXX",XXX: Hustler TV
+http://iptv.watchhd.cc:5050/Marquis/marius99/302733.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/hustler_tv.png" group-title="XXX",XXX: Hustler HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/179858.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/dorcel.png" group-title="XXX",XXX: Dorcel HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/179868.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Candy TV" tvg-logo="" group-title="XXX",XXX: Candy TV
+http://iptv.watchhd.cc:5050/Marquis/marius99/179885.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers TV  (P)" tvg-logo="http://logo.watchhd.cc/logo/xxx/brazzers_tv.png" group-title="XXX",XXX: Brazzers TV  (P)
+http://iptv.watchhd.cc:5050/Marquis/marius99/302724.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers TV Europe" tvg-logo="http://logo.watchhd.cc/logo/xxx/brazzers_tv.png" group-title="XXX",XXX: Brazzers TV Europe
+http://iptv.watchhd.cc:5050/Marquis/marius99/179869.ts
+#EXTINF:-1 tvg-id="BUHSEHD" tvg-name="XXX: Beate-Uhse.TV HD" tvg-logo="http://logo.watchhd.cc/logo/xxx/beate_uhse_tv.png" group-title="XXX",XXX: Beate-Uhse.TV HD
+http://iptv.watchhd.cc:5050/Marquis/marius99/191296.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Balkan Erotic  (P)" tvg-logo="http://logo.watchhd.cc/logo/xxx/balkan_erotic.png" group-title="XXX",XXX: Balkan Erotic  (P)
+http://iptv.watchhd.cc:5050/Marquis/marius99/302728.ts

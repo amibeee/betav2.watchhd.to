@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="DE: Kids",DE: Disney Channel HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/61.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="DE: Disney Cinemagic HD" tvg-logo="http://logo.watchhd.cc/logo/cinemagic.png" group-title="DE: Kids",DE: Disney Cinemagic HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/173.ts
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.watchhd.cc/logo/disneyjunior.png" group-title="DE: Kids",DE: Disney Junior HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1366.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="DE: Disney XD HD" tvg-logo="http://logo.watchhd.cc/logo/disneyxd.png" group-title="DE: Kids",DE: Disney XD HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/155.ts
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="DE: Romance TV" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="General Streams",DE: Romance TV
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1616.ts
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="DE: Kabel1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="DE: Filme",DE: Kabel1 Classics HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1190.ts
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV HD" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="General Streams",AT: ATV HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1235.ts
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="General Streams",AT: ORF 1 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/142.ts
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="General Streams",AT: ORF 2 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/976.ts
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls 4" tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="General Streams",AT: Puls 4
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1236.ts
+#EXTINF:-1 tvg-id="ServusTV HD" tvg-name="AT: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="General Streams",AT: Servus TV HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1486.ts
+#EXTINF:-1 tvg-id="SRF 1 HD" tvg-name="Swiss: SRF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/srf1.png" group-title="Auslands-TV",Swiss: SRF 1 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1172.ts
+#EXTINF:-1 tvg-id="SRF zwei HD" tvg-name="Swiss: SRF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/srf2.png" group-title="Auslands-TV",Swiss: SRF 2 HD
+http://iptv.watchhd.cc:8000/live/susiwall/HZn6onVvSq/1171.ts

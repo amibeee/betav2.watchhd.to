@@ -1,0 +1,245 @@
+[2025-01-12 19:31:54] Fetched status for idtrc 920cnukeFw: confirming
+Failed to update payment ID 67103: Execute failed: Data truncated for column 'status' at row 1
+[2025-01-12 19:33:21] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:35:27] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:37:19] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:38:54] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:40:01] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:46:51] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:48:11] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 19:50:32] Fetched status for idtrc 920cnukeFw: confirming
+Payment ID 67103 updated with status_trc: confirming and status: pending
+[2025-01-12 20:00:01] Fetched status for idtrc 920cnukeFw: finished
+Successfully updated premium status for user 22517. New premium_until: 1739304001, multiline: 1
+Payment ID 67103 updated with status_trc: finished and status: paid
+[2025-01-12 20:04:01] Fetched status for idtrc 920cnukeFw: finished
+Successfully updated premium status for user 22517. New premium_until: 1739304241, multiline: 1
+Payment ID 67103 updated with status_trc: finished and status: paid
+
+[2025-01-17 22:20:01] Fetched status for idtrc nwq3i91UQK: anonpaynew
+Payment ID 67109 updated with status_trc: anonpaynew and status: pending
+[2025-01-18 19:00:02] Fetched status for idtrc TKyS5M2GA4: anonpaynew
+Payment ID 67112 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 00:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 00:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 01:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 02:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 03:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 04:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 05:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 06:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 07:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 08:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 09:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 10:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 11:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:40:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 12:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 13:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 14:40:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 15:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 16:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:00:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:00:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:20:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:20:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:40:01] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 17:40:01] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 18:00:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 18:00:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 18:20:02] Fetched status for idtrc oyUmrRsnUp: anonpaynew
+Payment ID 67114 updated with status_trc: anonpaynew and status: pending
+[2025-01-19 18:20:02] Fetched status for idtrc rKRhwRyh3O: anonpaynew
+Payment ID 67115 updated with status_trc: anonpaynew and status: pending

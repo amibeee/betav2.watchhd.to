@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="9489242598bd85880ae1d53d2c5d1df2" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/1.ts
+#EXTINF:-1 tvg-id="37a9ee91aa9d65b9dfc38e58e6430027" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/2.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/3.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/4.ts
+#EXTINF:-1 tvg-id="5442b78cb4512d05fabf7e2ce9b89aa1" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/5.ts
+#EXTINF:-1 tvg-id="Insight TV HD" tvg-name="DE: Insight HD" tvg-logo="http://logo.watchhd.cc/logo/INsight_TV_HD.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/Feistus/X4sVTRXMuxfM/10245.ts

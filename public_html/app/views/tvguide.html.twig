@@ -1,0 +1,227 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+EPG |  
+{% endblock %}
+
+{% block content %}
+    	<div class="f-settings-container-fluid" >
+
+<h1>EPG</h1>
+
+<!-- 132x26 -->
+<div class="row">
+    
+    {% for channel in channels %}
+    <div class="channel-card">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <div class="pull-left"><img src="{{ base_url() }}channellogo/{{ channel.id }}/132x26" /></div>
+                <div class="pull-left">&nbsp;<h4 style="display: inline-block;margin-top: 4px;">{{ channel.name }}</h4></div>
+                <div class="pull-right"><a href="{{ base_url() }}channel/{{ channel.public_id }}" class="eeyee"><i class="fa fa-eye" aria-hidden="true"></i></a></div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-body channel">
+                <table class="table">
+                    
+                    {%  set on_tv = on_tv(channel.tvguideapi_id) %}
+                    <tr>
+                        <td width="15%">{{ on_tv.start|date('H:i') }}</td>
+                        <td>
+                            {{ on_tv.title.de }}
+                            {% if on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ on_tv.subTitle.de }}</small>
+                            {% endif %}
+                            <br />
+                            <div class="progressbar" style="height: 5px;">
+                                <div class="progress"  style="background-color: yellow; width: {{ calculate_status(on_tv.start, on_tv.stop) }}%;"></div>
+                            </div>
+                            <br />
+                            <div align="right"><small>{{ calculate_minutes(on_tv.start, on_tv.stop) }} {{ t('Minuten') }}</small></div>
+                        </td>
+                    </tr>
+                    
+                    {% set continuous_channel_programm_list = continuous_channel_programm_list(channel.tvguideapi_id, 2) %}
+                    {% for programm in continuous_channel_programm_list  %}
+                    <tr>
+                        <td width="15%">{{ programm.start|date('H:i') }}</td>
+                        <td>{{ programm.title.de }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    
+</div>
+</div>
+<style>
+/* Basic responsive grid */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -15px;
+}
+
+.channel-card {
+  width: 100%;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+/* Panel styles */
+.panel {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  height: 100%; /* Ensure all panels have the same height */
+}
+
+.panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid #ddd;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  background-color: #f5f5f5;
+}
+
+.panel-body {
+  padding: 15px;
+}
+
+/* Utility classes */
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Table styles */
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+/* Progress bar */
+.progressbar {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+}
+
+/* Responsive adjustments */
+@media (min-width: 576px) {
+  .channel-card {
+    width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .channel-card {
+    width: 33.333%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .channel-card {
+    width: 25%;
+  }
+}
+
+/* Additional responsive tweaks */
+@media (max-width: 575px) {
+  .panel-heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .panel-heading .pull-left,
+  .panel-heading .pull-right {
+    float: none;
+    margin-bottom: 5px;
+  }
+
+  .panel-heading h4 {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  .table td {
+    display: block;
+    width: 100%;
+  }
+
+  .table td:first-child {
+    font-weight: bold;
+    padding-bottom: 0;
+  }
+}
+
+/* Ensure images are responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Button styles */
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.btn-xs {
+  padding: 1px 5px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.btn-raised {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+</style>
+
+{% endblock %}

@@ -1,0 +1,756 @@
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/1
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/4678
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/4740
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/3
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/379
+#EXTINF:-1 tvg-id="20f9b7f8941a5013738197f58ccf3d97" tvg-name="DE: RTL UHD" tvg-logo="https://forum.watchhd.to/uploads/monthly_2019_11/rtl_uhd.png.d25bff03c4d81d7e48b27589373d1b86.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/34
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/4
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Sat.1_HD.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/380
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="Free-TV",DE: Kabel 1 Doku HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/33
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="DE: Kabel 1 Doku HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="Free-TV",DE: Kabel 1 Doku HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/18480
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/31
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="DE: Kabel 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Free-TV",DE: Kabel 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/372
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/5
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="DE: Prosieben HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Free-TV",DE: Prosieben HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/356
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/359
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/7
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Free-TV",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/637
+#EXTINF:-1 tvg-id="RTL II" tvg-name="DE: RTL II HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/6
+#EXTINF:-1 tvg-id="RTL II" tvg-name="DE: RTL II HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl_2.png" group-title="Free-TV",DE: RTL II HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/387
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/41
+#EXTINF:-1 tvg-id="VOX" tvg-name="DE: VOX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Free-TV",DE: VOX HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/612
+#EXTINF:-1 tvg-id="voxup" tvg-name="DE: VOXup" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Free-TV",DE: VOXup
+http://iptv.watchhd.cc:5050/touros123/stream4272test/625
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/40
+#EXTINF:-1 tvg-id="sixx" tvg-name="DE: SIXX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SIXX.png" group-title="Free-TV",DE: SIXX HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10096
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/42
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DE: DMAX HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Free-TV",DE: DMAX HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/381
+#EXTINF:-1 tvg-id="Insight TV HD" tvg-name="DE: Insight HD" tvg-logo="http://logo.watchhd.cc/logo/INsight_TV_HD.png" group-title="Free-TV",DE: Insight HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10245
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/35
+#EXTINF:-1 tvg-id="NITRO" tvg-name="DE: RTL Nitro HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/nitrohd.png" group-title="Free-TV",DE: RTL Nitro HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10097
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/360
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="DE: Super RTL HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/superrtl.png" group-title="Free-TV",DE: Super RTL HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10103
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="DE: Tele 5 HD" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="Free-TV",DE: Tele 5 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/50
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="DE: Tele 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="Free-TV",DE: Tele 5 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10242
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="DE: Sport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/43
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="DE: Sport 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Free-TV",DE: Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2602
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="DE: N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/n24_doku.png" group-title="Free-TV",DE: N24 Doku
+http://iptv.watchhd.cc:5050/touros123/stream4272test/1944
+#EXTINF:-1 tvg-id="n-tv" tvg-name="DE: N-TV HD" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="Free-TV",DE: N-TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/52
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.watchhd.cc/logo/Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/51
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="DE: Phoenix HD (lowbit)" tvg-logo="http://logo.watchhd.cc/logo/Phoenix_HD.png" group-title="Free-TV",DE: Phoenix HD (lowbit)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/11834
+#EXTINF:-1 tvg-id="WELT" tvg-name="DE: Welt HD" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/53
+#EXTINF:-1 tvg-id="WELT" tvg-name="DE: Welt HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/welthd.png" group-title="Free-TV",DE: Welt HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10430
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="DE: ZDF Info HD" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Free-TV",DE: ZDF Info HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/60
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="DE: ZDF Neo HD" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="Free-TV",DE: ZDF Neo HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/61
+#EXTINF:-1 tvg-id="3sat" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/429
+#EXTINF:-1 tvg-id="ARTE" tvg-name="DE: ARTE HD" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/965
+#EXTINF:-1 tvg-id="BR" tvg-name="DE: BR Fernsehen HD Nord" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR Fernsehen HD Nord
+http://iptv.watchhd.cc:5050/touros123/stream4272test/433
+#EXTINF:-1 tvg-id="BR" tvg-name="DE: BR Fernsehen HD Süd" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR Fernsehen HD Süd
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13592
+#EXTINF:-1 tvg-id="HR" tvg-name="DE: HR HD" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/428
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD Hamburg" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Hamburg
+http://iptv.watchhd.cc:5050/touros123/stream4272test/430
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD Mecklenburg V." tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Mecklenburg V.
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13593
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD Niedersachsen" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Niedersachsen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13594
+#EXTINF:-1 tvg-id="NDR" tvg-name="DE: NDR HD Schleswig-Holstein" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Schleswig-Holstein
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13515
+#EXTINF:-1 tvg-id="MDR" tvg-name="DE: MDR HD S-Anhalt" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="Free-TV",DE: MDR HD S-Anhalt
+http://iptv.watchhd.cc:5050/touros123/stream4272test/431
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD Thüringen" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="Free-TV",DE: MDR HD Thüringen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13590
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD Sachsen" tvg-logo="http://logo.watchhd.cc/logo/mdrhd.png" group-title="Free-TV",DE: MDR HD Sachsen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13589
+#EXTINF:-1 tvg-id="RBB" tvg-name="DE: RBB HD Berlin" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD Berlin
+http://iptv.watchhd.cc:5050/touros123/stream4272test/434
+#EXTINF:-1 tvg-id="RBB" tvg-name="DE: RBB HD Brandenburg" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD Brandenburg
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13588
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SWR HD Baden-Württemberg" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD Baden-Württemberg
+http://iptv.watchhd.cc:5050/touros123/stream4272test/432
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SWR HD Rheinland-Pfalz" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD Rheinland-Pfalz
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13591
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="DE: SR HD" tvg-logo="http://logo.watchhd.cc/logo/sr.png" group-title="Free-TV",DE: SR HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2396
+#EXTINF:-1 tvg-id="WDR" tvg-name="DE: WDR HD Dortmund" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Dortmund
+http://iptv.watchhd.cc:5050/touros123/stream4272test/427
+#EXTINF:-1 tvg-id="b765543c70506ab92eb7afe35057b1b1" tvg-name="DE: WDR HD Aachen" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Aachen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13578
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD Bielefeld" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Bielefeld
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13579
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD Bonn" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Bonn
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13580
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD Duisburg" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Duisburg
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13581
+#EXTINF:-1 tvg-id="782aaa4d6ac2d765004f7022ee77deb9" tvg-name="DE: WDR HD Düsseldorf" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Düsseldorf
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13582
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD Essen" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Essen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13583
+#EXTINF:-1 tvg-id="1e5a1999a4f7413962d043b717bcdc64" tvg-name="DE: WDR HD Köln" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Köln
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13584
+#EXTINF:-1 tvg-id="37de27770b42d5610cea4eabd19345e4" tvg-name="DE: WDR HD Münster" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Münster
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13585
+#EXTINF:-1 tvg-id="26240752080472dadbb6c708fca015bc" tvg-name="DE: WDR HD Siegen" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Siegen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13586
+#EXTINF:-1 tvg-id="df4e5680f240eef1ef9c4c0ead0d7b3e" tvg-name="DE: WDR HD Wuppertal" tvg-logo="http://logo.watchhd.cc/logo/WDR_HD.png" group-title="Free-TV",DE: WDR HD Wuppertal
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13587
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="DE: Tagesschau 24 HD" tvg-logo="http://logo.watchhd.cc/logo/tagesschau24.png" group-title="Free-TV",DE: Tagesschau 24 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/8116
+#EXTINF:-1 tvg-id="Auto Motor Sport Ch." tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="https://forum.watchhd.to/uploads/monthly_2019_11/auto_motor_sport.png.46d80b60a6ce60f0830e52864a77177c.png" group-title="Free-TV",DE: Auto Motor Sport Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/46
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="DE: Anixe Serie HD" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Free-TV",DE: Anixe Serie HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/47
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="DE: Comedy Central HD" tvg-logo="http://logo.watchhd.cc/logo/Comedy_Central_HD.png" group-title="Free-TV",DE: Comedy Central HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/44
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="DE: Comedy Central HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/Comedy_Central_HD.png" group-title="Free-TV",DE: Comedy Central HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10421
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/32
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="DE: RTL Plus" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="Free-TV",DE: RTL Plus
+http://iptv.watchhd.cc:5050/touros123/stream4272test/39
+#EXTINF:-1 tvg-id="MOTORVISION TV HD" tvg-name="DE: Motorvision" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Free-TV",DE: Motorvision
+http://iptv.watchhd.cc:5050/touros123/stream4272test/45
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="DE: Sat. 1 Emotions HD" tvg-logo="http://logo.watchhd.cc/logo/sat1_emotions.png" group-title="Free-TV",DE: Sat. 1 Emotions HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/49
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="DE: Sat. 1 Gold HD" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="Free-TV",DE: Sat. 1 Gold HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/48
+#EXTINF:-1 tvg-id="MTV" tvg-name="DE: MTV HD" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Free-TV",DE: MTV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2622
+#EXTINF:-1 tvg-id="MTV" tvg-name="DE: MTV HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Free-TV",DE: MTV HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10423
+#EXTINF:-1 tvg-id="ONE" tvg-name="DE: One HD" tvg-logo="http://logo.watchhd.cc/logo/ard_one.png" group-title="Free-TV",DE: One HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2398
+#EXTINF:-1 tvg-id="HSE24" tvg-name="DE: HSE 24 HD" tvg-logo="http://logo.watchhd.cc/logo/hse24.png" group-title="Free-TV",DE: HSE 24 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15412
+#EXTINF:-1 tvg-id="sonnenklar.TV" tvg-name="DE: Sonnenklar TV HD" tvg-logo="http://logo.watchhd.cc/logo/sonnenklar_tv.png" group-title="Free-TV",DE: Sonnenklar TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/353
+#EXTINF:-1 tvg-id="QVC" tvg-name="DE: QVC HD" tvg-logo="http://logo.watchhd.cc/logo/qvc.png" group-title="Free-TV",DE: QVC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10244
+#EXTINF:-1 tvg-id="QVC2" tvg-name="DE: QVC 2 HD" tvg-logo="http://logo.watchhd.cc/logo/qvc2.png" group-title="Free-TV",DE: QVC 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15413
+#EXTINF:-1 tvg-id="UHD1" tvg-name="DE: UHD1" tvg-logo="http://logo.watchhd.cc/logo/UHD1.png" group-title="Free-TV",DE: UHD1
+http://iptv.watchhd.cc:5050/touros123/stream4272test/9042
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="DE: Romance TV" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Free-TV",DE: Romance TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/62
+#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-name="DE: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/361
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="DE: Heimatkanal" tvg-logo="http://logo.watchhd.cc/logo/heimatkanal.png" group-title="Free-TV",DE: Heimatkanal
+http://iptv.watchhd.cc:5050/touros123/stream4272test/63
+#EXTINF:-1 tvg-id="13a1881dbc8ab751ff639b767f7f8a3f" tvg-name="DE: Boomerang HD" tvg-logo="http://logo.watchhd.cc/logo/Boomerang.png" group-title="Free-TV",DE: Boomerang HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/394
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="DE: Cartoon Network HD" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Free-TV",DE: Cartoon Network HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/54
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Free-TV",DE: Disney Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/55
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Free-TV",DE: Disney Channel HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10247
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.watchhd.cc/logo/disneyjunior.png" group-title="Free-TV",DE: Disney Junior HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/57
+#EXTINF:-1 tvg-id="287bfbabe8d3e02358e26d5fffbc903f" tvg-name="DE: Junior" tvg-logo="http://logo.watchhd.cc/logo/junior.png" group-title="Free-TV",DE: Junior
+http://iptv.watchhd.cc:5050/touros123/stream4272test/411
+#EXTINF:-1 tvg-id="KiKA" tvg-name="DE: KiKA HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Free-TV",DE: KiKA HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/58
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="DE: Nick.Jr." tvg-logo="http://logo.watchhd.cc/logo/nick_jr.png" group-title="Free-TV",DE: Nick.Jr.
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15349
+#EXTINF:-1 tvg-id="nick/MTV+" tvg-name="DE: Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Free-TV",DE: Nickelodeon
+http://iptv.watchhd.cc:5050/touros123/stream4272test/59
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="DE: Nicktoons" tvg-logo="http://logo.watchhd.cc/logo/nicktoons.png" group-title="Free-TV",DE: Nicktoons
+http://iptv.watchhd.cc:5050/touros123/stream4272test/8079
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="DE: TOGGO plus" tvg-logo="http://logo.watchhd.cc/logo/toggoplus.png" group-title="Free-TV",DE: TOGGO plus
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15348
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="DE: Sky One HD" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Sky Film",DE: Sky One HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/630
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="DE: Sky One HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Sky Film",DE: Sky One HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/88
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="Sky Film",DE: Sky Atlantic HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/89
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="DE: Sky Atlantic HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="Sky Film",DE: Sky Atlantic HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/374
+#EXTINF:-1 tvg-id="skyserienandshows.de" tvg-name="DE: Sky Serien & Shows HD" tvg-logo="http://logo.watchhd.cc/logo/sky_serien_shows.png" group-title="Sky Doku",DE: Sky Serien & Shows HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/7388
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="Sky Film",DE: Sky Cinema Action HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/93
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="DE: Sky Cinema Action HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="Sky Film",DE: Sky Cinema Action HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/375
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="DE: Sky Cinema Best of HD" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="Sky Film",DE: Sky Cinema Best of HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/97
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="DE: Sky Cinema Best of HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="Sky Film",DE: Sky Cinema Best of HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/383
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://logo.watchhd.cc/logo/skynostalgie.png" group-title="Sky Film",DE: Sky Cinema Classics
+http://iptv.watchhd.cc:5050/touros123/stream4272test/100
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="Sky Film",DE: Sky Cinema Family HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/95
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="DE: Sky Cinema Family HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="Sky Film",DE: Sky Cinema Family HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/2609
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="DE: Sky Cinema Fun" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_fun.png" group-title="Sky Film",DE: Sky Cinema Fun
+http://iptv.watchhd.cc:5050/touros123/stream4272test/96
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Sky Film",DE: Sky Cinema Premieren HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/90
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="DE: Sky Cinema Premieren HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Sky Film",DE: Sky Cinema Premieren HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/267
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="http://logo.watchhd.cc/logo/cinema24hd.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/92
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="DE: Sky Cinema Premieren +24 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/cinema24hd.png" group-title="Sky Film",DE: Sky Cinema Premieren +24 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/631
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/94
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="DE: Sky Cinema Special HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="Sky Film",DE: Sky Cinema Special HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/382
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="Sky Film",DE: Sky Cinema Thriller HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/91
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="DE: Sky Cinema Thriller HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="Sky Film",DE: Sky Cinema Thriller HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10085
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_comedy.png" group-title="Sky Film",DE: Sky Comedy HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/8056
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="DE: Sky Krimi HD" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="Sky Film",DE: Sky Krimi HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/99
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="DE: Sky Krimi HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="Sky Film",DE: Sky Krimi HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10102
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="DE: 13th Street HD" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Sky Film",DE: 13th Street HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/133
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="DE: 13th Street HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Sky Film",DE: 13th Street HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10086
+#EXTINF:-1 tvg-id="AXN" tvg-name="DE: AXN HD" tvg-logo="http://logo.watchhd.cc/logo/axn.png" group-title="Sky Film",DE: AXN HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/135
+#EXTINF:-1 tvg-id="BonGusto" tvg-name="DE: Bon Gusto HD" tvg-logo="http://logo.watchhd.cc/logo/bon_gusto.png" group-title="Sky Doku",DE: Bon Gusto HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/354
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="DE: Crime & Investigation HD" tvg-logo="http://logo.watchhd.cc/logo/crime_investigation.png" group-title="Sky Doku",DE: Crime & Investigation HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/134
+#EXTINF:-1 tvg-id="E! Entertainm." tvg-name="DE: E! Entertainment HD" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="Sky Doku",DE: E! Entertainment HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/136
+#EXTINF:-1 tvg-id="E! Entertainm." tvg-name="DE: E! Entertainment HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="Sky Doku",DE: E! Entertainment HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10422
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: Fox HD" tvg-logo="http://logo.watchhd.cc/logo/fox.png" group-title="Sky Film",DE: Fox HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/137
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="DE: Fox HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/fox.png" group-title="Sky Film",DE: Fox HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/355
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="DE: Kinowelt HD" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Sky Film",DE: Kinowelt HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/139
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.watchhd.cc/logo/crimehdv2.png" group-title="Free-TV",DE: RTL Crime HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/37
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.watchhd.cc/logo/rtl_living_hd.png" group-title="Free-TV",DE: RTL Living HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/38
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="DE: RTL Living HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtl_living_hd.png" group-title="Sky Film",DE: RTL Living HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/11833
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion HD" tvg-logo="http://logo.watchhd.cc/logo/rtlpassion.png" group-title="Free-TV",DE: RTL Passion HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/36
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="DE: RTL Passion HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/rtlpassion.png" group-title="Free-TV",DE: RTL Passion HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15695
+#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="DE: Silverline" tvg-logo="http://logo.watchhd.cc/logo/silverline1.png" group-title="Sky Film",DE: Silverline
+http://iptv.watchhd.cc:5050/touros123/stream4272test/151
+#EXTINF:-1 tvg-id="AXN" tvg-name="DE: Sony AXN HD" tvg-logo="http://logo.watchhd.cc/logo/sony_axn.png" group-title="Sky Film",DE: Sony AXN HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10246
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="DE: Sony Channel HD" tvg-logo="http://logo.watchhd.cc/logo/Sony_Channel_SW.png" group-title="Sky Film",DE: Sony Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/140
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="DE: SyFy HD" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Sky Film",DE: SyFy HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/154
+#EXTINF:-1 tvg-id="Syfy" tvg-name="DE: SyFy HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Sky Film",DE: SyFy HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10428
+#EXTINF:-1 tvg-id="TLC" tvg-name="DE: TLC HD" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Sky Doku",DE: TLC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/141
+#EXTINF:-1 tvg-id="TLC" tvg-name="DE: TLC HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Sky Doku",DE: TLC HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10429
+#EXTINF:-1 tvg-id="TNT Comedy HD" tvg-name="DE: TNT Comedy HD" tvg-logo="http://logo.watchhd.cc/logo/tnt_comedy.png" group-title="Sky Film",DE: TNT Comedy HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/142
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="DE: TNT Comedy HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/tnt_comedy.png" group-title="Sky Film",DE: TNT Comedy HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10101
+#EXTINF:-1 tvg-id="TNT Film HD" tvg-name="DE: TNT Film HD" tvg-logo="http://logo.watchhd.cc/logo/tntfilmhdv2.png" group-title="Sky Film",DE: TNT Film HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/143
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="DE: TNT Film HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/tntfilmhdv2.png" group-title="Sky Film",DE: TNT Film HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10100
+#EXTINF:-1 tvg-id="TNT Serie HD" tvg-name="DE: TNT Serie HD" tvg-logo="http://logo.watchhd.cc/logo/tntseriehdv2.png" group-title="Sky Film",DE: TNT Serie HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/144
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="DE: TNT Serie HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/tntseriehdv2.png" group-title="Sky Film",DE: TNT Serie HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10099
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="DE: Universal TV HD" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="Sky Film",DE: Universal TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/138
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="DE: Universal TV HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="Sky Film",DE: Universal TV HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/632
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="DE: Animal Planet HD" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="Sky Doku",DE: Animal Planet HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/145
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="DE: Animal Planet HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="Sky Doku",DE: Animal Planet HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/11832
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="DE: Discovery HD" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="Sky Doku",DE: Discovery HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/146
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="DE: Discovery HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="Sky Doku",DE: Discovery HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/373
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/147
+#EXTINF:-1 tvg-id="Home & Garden TV" tvg-name="DE: HGTV" tvg-logo="http://logo.watchhd.cc/logo/hgtv.png" group-title="Sky Doku",DE: HGTV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/769
+#EXTINF:-1 tvg-id="HistoryHD" tvg-name="DE: History HD" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Doku",DE: History HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/148
+#EXTINF:-1 tvg-id="HistoryHD" tvg-name="DE: History HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Sky Doku",DE: History HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/385
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/265
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="DE: Nat Geo Wild HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Sky Doku",DE: Nat Geo Wild HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/266
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="DE: National Geographic HD" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/149
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="DE: National Geographic HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Sky Doku",DE: National Geographic HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/384
+#EXTINF:-1 tvg-id="Planet HD" tvg-name="DE: Planet HD" tvg-logo="http://logo.watchhd.cc/logo/Planet_HD.png" group-title="Sky Doku",DE: Planet HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/150
+#EXTINF:-1 tvg-id="" tvg-name="DE: RiC" tvg-logo="" group-title="Sky Doku",DE: RiC
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16353
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte" tvg-name="DE: Spiegel TV Geschichte HD" tvg-logo="http://logo.watchhd.cc/logo/spiegelgeschichte.png" group-title="Sky Doku",DE: Spiegel TV Geschichte HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/152
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte" tvg-name="DE: Spiegel TV Geschichte HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/spiegelgeschichte.png" group-title="Sky Doku",DE: Spiegel TV Geschichte HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10427
+#EXTINF:-1 tvg-id="SPIEGEL TV WISSEN" tvg-name="DE: Spiegel TV Wissen" tvg-logo="http://logo.watchhd.cc/logo/Spiegel_TV_Wissen.png" group-title="Sky Doku",DE: Spiegel TV Wissen
+http://iptv.watchhd.cc:5050/touros123/stream4272test/153
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN.png" group-title="Sky Sport",DE: DAZN Event Stream HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/9383
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/102
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/357
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_1.png" group-title="Sky Sport",DE: DAZN Bar 1 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10240
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/103
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/358
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_2.png" group-title="Sky Sport",DE: DAZN Bar 2 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10241
+#EXTINF:-1 tvg-id="1:0:1F:228:C:85:FFFF0000:0:0:0:" tvg-name="DE: Sky Sport Bundesliga UHD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_UHD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga UHD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/105
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/623
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (Sat)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/106
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/278
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 1 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/391
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/107
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/279
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2 Mobile" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 2 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10439
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/108
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/280
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3 Mobile" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 3 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10440
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/109
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/281
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="DE: Sky Sport Bundesliga 4 Mobile" tvg-logo="" group-title="Sky Sport",DE: Sky Sport Bundesliga 4 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10441
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5" tvg-name="DE: Sky Sport Bundesliga 5 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/110
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5" tvg-name="DE: Sky Sport Bundesliga 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 5 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/282
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/111
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6" tvg-name="DE: Sky Sport Bundesliga 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 6 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/283
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 7 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/112
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7" tvg-name="DE: Sky Sport Bundesliga 7 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 7 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10275
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 8 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/113
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8" tvg-name="DE: Sky Sport Bundesliga 8 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 8 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10276
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9" tvg-name="DE: Sky Sport Bundesliga 9 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/114
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9" tvg-name="DE: Sky Sport Bundesliga 9 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 9 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10277
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport Bundesliga 10 HD" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_10HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/115
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10" tvg-name="DE: Sky Sport Bundesliga 10 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_10HD.png" group-title="Sky Sport",DE: Sky Sport Bundesliga 10 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10278
+#EXTINF:-1 tvg-id="1:0:1F:229:C:85:FFFF0000:0:0:0:" tvg-name="DE: Sky Sport UHD" tvg-logo="http://logo.watchhd.cc/logo/SKY_SPORT_UHD.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/116
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/117
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/621
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sky Sport",DE: Sky Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/284
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="DE: Sky Sport 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/444
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/118
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/622
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sky Sport",DE: Sky Sport 2 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/285
+#EXTINF:-1 tvg-id="Sky Sport HD 2" tvg-name="DE: Sky Sport 2 Mobile" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 2 Mobile
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10442
+#EXTINF:-1 tvg-id="Sky Sport 3" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_3HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/119
+#EXTINF:-1 tvg-id="Sky Sport 3" tvg-name="DE: Sky Sport 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_3HD.png" group-title="Sky Sport",DE: Sky Sport 3 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/286
+#EXTINF:-1 tvg-id="Sky Sport 4" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_4HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/120
+#EXTINF:-1 tvg-id="Sky Sport 4" tvg-name="DE: Sky Sport 4 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_4HD.png" group-title="Sky Sport",DE: Sky Sport 4 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/287
+#EXTINF:-1 tvg-id="Sky Sport 5" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_5HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/121
+#EXTINF:-1 tvg-id="Sky Sport 5" tvg-name="DE: Sky Sport 5 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_5HD.png" group-title="Sky Sport",DE: Sky Sport 5 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/288
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_6HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/122
+#EXTINF:-1 tvg-id="Sky Sport 6" tvg-name="DE: Sky Sport 6 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_6HD.png" group-title="Sky Sport",DE: Sky Sport 6 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/289
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_7HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/123
+#EXTINF:-1 tvg-id="Sky Sport 7" tvg-name="DE: Sky Sport 7 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_7HD.png" group-title="Sky Sport",DE: Sky Sport 7 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16334
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_8HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/124
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_8HD.png" group-title="Sky Sport",DE: Sky Sport 8 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16335
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_9HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/125
+#EXTINF:-1 tvg-id="Sky Sport 9" tvg-name="DE: Sky Sport 9 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_9HD.png" group-title="Sky Sport",DE: Sky Sport 9 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16339
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: Sky Sport 10 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_10HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/126
+#EXTINF:-1 tvg-id="Sky Sport 10" tvg-name="DE: Sky Sport 10 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_10HD.png" group-title="Sky Sport",DE: Sky Sport 10 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16340
+#EXTINF:-1 tvg-id="Sky Sport 11" tvg-name="DE: Sky Sport 11 HD" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 11 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16310
+#EXTINF:-1 tvg-id="Sky Sport 11" tvg-name="DE: Sky Sport 11 HD (720p)" tvg-logo="" group-title="Sky Sport",DE: Sky Sport 11 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16341
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_1.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/127
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="DE: Sky Sport Austria 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_1.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10424
+#EXTINF:-1 tvg-id="Sky Sport Austria 2" tvg-name="DE: Sky Sport Austria 2 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_2.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/128
+#EXTINF:-1 tvg-id="Sky Sport Austria 2" tvg-name="DE: Sky Sport Austria 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_2.png" group-title="Sky Sport",DE: Sky Sport Austria 2 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10425
+#EXTINF:-1 tvg-id="Sky Sport Austria 3" tvg-name="DE: SKy Sport Austria 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_3.png" group-title="Sky Sport",DE: SKy Sport Austria 3 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/129
+#EXTINF:-1 tvg-id="Sky Sport Austria 3" tvg-name="DE: SKy Sport Austria 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_3.png" group-title="Sky Sport",DE: SKy Sport Austria 3 HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10426
+#EXTINF:-1 tvg-id="Sky Sport Austria 4" tvg-name="DE: Sky Sport Austria 4 HD" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_austria_4.png" group-title="Sky Sport",DE: Sky Sport Austria 4 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/130
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/131
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="DE: Sky Sport News HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/460
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="Sky Sport",DE: Eurosport 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/155
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sky Sport",DE: Eurosport 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/156
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE: Eurosport 2xtra HD" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/157
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2xtra HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/eurosp2xtrahd.png" group-title="Sky Sport",DE: Eurosport 2xtra HD (720p)
+http://iptv.watchhd.cc:5050/touros123/stream4272test/386
+#EXTINF:-1 tvg-id="Eurosport360 HD 1" tvg-name="DE: Eurosport360 HD 1" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 1
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15847
+#EXTINF:-1 tvg-id="Eurosport360 HD 2" tvg-name="DE: Eurosport360 HD 2" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 2
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15848
+#EXTINF:-1 tvg-id="Eurosport360 HD 3" tvg-name="DE: Eurosport360 HD 3" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 3
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15849
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport360 HD 4" tvg-logo="" group-title="Sky Sport",DE: Eurosport360 HD 4
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15953
+#EXTINF:-1 tvg-id="" tvg-name="DE: EDGE Sport HD" tvg-logo="" group-title="Sky Sport",DE: EDGE Sport HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/16093
+#EXTINF:-1 tvg-id="eSports1" tvg-name="DE: eSports1 HD" tvg-logo="http://logo.watchhd.cc/logo/esportshd.png" group-title="Sky Sport",DE: eSports1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/158
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: Sportdigital HD" tvg-logo="http://logo.watchhd.cc/logo/sportdigitalhdv2.png" group-title="Sky Sport",DE: Sportdigital HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/160
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="DE: Sport1+ HD" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sky Sport",DE: Sport1+ HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/159
+#EXTINF:-1 tvg-id="5378def8c16a45e18bafa37789584f2a" tvg-name="DE: Waidwerk HD" tvg-logo="" group-title="Sky Sport",DE: Waidwerk HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13514
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 1" tvg-name="DE: Magenta Sport Fussball 1 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_1.png" group-title="Sky Sport",DE: Magenta Sport Fussball 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/162
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 2" tvg-name="DE: Magenta Sport Fussball 2 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_2.png" group-title="Sky Sport",DE: Magenta Sport Fussball 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/163
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 3" tvg-name="DE: Magenta Sport Fussball 3 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_3.png" group-title="Sky Sport",DE: Magenta Sport Fussball 3 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/164
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 4" tvg-name="DE: Magenta Sport Fussball 4 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_4.png" group-title="Sky Sport",DE: Magenta Sport Fussball 4 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/165
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 5" tvg-name="DE: Magenta Sport Fussball 5 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_5.png" group-title="Sky Sport",DE: Magenta Sport Fussball 5 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/166
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 6" tvg-name="DE: Magenta Sport Fussball 6 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_6.png" group-title="Sky Sport",DE: Magenta Sport Fussball 6 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/167
+#EXTINF:-1 tvg-id="MyTeam TV - Fußball 7" tvg-name="DE: Magenta Sport Fussball 7 HD" tvg-logo="http://logo.watchhd.cc/logo/telekom_fussball_7.png" group-title="Sky Sport",DE: Magenta Sport Fussball 7 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/168
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 8 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 8 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/9450
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 9 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 9 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/9451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 10 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 10 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/9452
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport Fussball 11 HD" tvg-logo="" group-title="Sky Sport",DE: Magenta Sport Fussball 11 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/11830
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US: Cartoon Network HD" tvg-logo="" group-title="USA",US: Cartoon Network HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/6972
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS NEWS" tvg-logo="" group-title="USA",US: CBS NEWS
+http://iptv.watchhd.cc:5050/touros123/stream4272test/19885
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US: A&E HD" tvg-logo="" group-title="USA",US: A&E HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/8301
+#EXTINF:-1 tvg-id="abckgo.us" tvg-name="US: ABC HD" tvg-logo="" group-title="USA",US: ABC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/292
+#EXTINF:-1 tvg-id="thewordnetwork.us" tvg-name="US: ABC News Live HD" tvg-logo="" group-title="USA",US: ABC News Live HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10081
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="" group-title="USA",US: AMC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/293
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="US: BBC World News HD" tvg-logo="" group-title="USA",US: BBC World News HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10253
+#EXTINF:-1 tvg-id="cbs29kima.us" tvg-name="US: CBS HD" tvg-logo="" group-title="USA",US: CBS HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/294
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="US: CMT HD" tvg-logo="" group-title="USA",US: CMT HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/14970
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US: CBS Sports Network HD" tvg-logo="" group-title="USA",US: CBS Sports Network HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/295
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN HD" tvg-logo="" group-title="USA",US: CNN HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/296
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: Discovery Channel HD" tvg-logo="" group-title="USA",US: Discovery Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/297
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US: Discovery Science HD" tvg-logo="" group-title="USA",US: Discovery Science HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/298
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E! Entertainment HD" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="USA",US: E! Entertainment HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/392
+#EXTINF:-1 tvg-id="foxcollegesportscentral.us" tvg-name="US: Fox College Sports HD" tvg-logo="" group-title="USA",US: Fox College Sports HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/328
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: Fox News Channel HD" tvg-logo="" group-title="USA",US: Fox News Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/301
+#EXTINF:-1 tvg-id="fox7kttw.us" tvg-name="US: Fox HD" tvg-logo="" group-title="USA",US: Fox HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/300
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US: Fox Soccer Plus HD" tvg-logo="" group-title="USA",US: Fox Soccer Plus HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/339
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: Fox Sports 1 HD" tvg-logo="" group-title="USA",US: Fox Sports 1 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/330
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: Fox Sports 2 HD" tvg-logo="" group-title="USA",US: Fox Sports 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/331
+#EXTINF:-1 tvg-id="foxsportsneworleans.us" tvg-name="US: Fox Sports NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png" group-title="USA",US: Fox Sports NEWS HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/442
+#EXTINF:-1 tvg-id="foxsportsprimeticket.us" tvg-name="US: Fox Sports Prime Ticket HD" tvg-logo="" group-title="USA",US: Fox Sports Prime Ticket HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/329
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US: FX HD" tvg-logo="" group-title="USA",US: FX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/299
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX HD" tvg-logo="" group-title="USA",US: FXX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/537
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family HD" tvg-logo="" group-title="USA",US: HBO Family HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/534
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO HD" tvg-logo="" group-title="USA",US: HBO HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/302
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US: History Channel HD" tvg-logo="" group-title="USA",US: History Channel HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/303
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MSNBC HD" tvg-logo="" group-title="USA",US: MSNBC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/305
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US: Nat Geo Wild HD" tvg-logo="" group-title="USA",US: Nat Geo Wild HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15564
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US: Nat Geo HD" tvg-logo="" group-title="USA",US: Nat Geo HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/304
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US: Showtime 2 HD" tvg-logo="" group-title="USA",US: Showtime 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15682
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US: Showtime Extreme HD" tvg-logo="" group-title="USA",US: Showtime Extreme HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15686
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US: Showtime Family Zone HD" tvg-logo="" group-title="USA",US: Showtime Family Zone HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15683
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US: Showtime HD" tvg-logo="" group-title="USA",US: Showtime HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/306
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US: Showtime Next HD" tvg-logo="" group-title="USA",US: Showtime Next HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15685
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US: Showtime Showcase HD" tvg-logo="" group-title="USA",US: Showtime Showcase HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15684
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US: Showtime Women HD" tvg-logo="" group-title="USA",US: Showtime Women HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15681
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US: Starz Cinema HD" tvg-logo="" group-title="USA",US: Starz Cinema HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/529
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US: Starz Comedy HD" tvg-logo="" group-title="USA",US: Starz Comedy HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/530
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US: Starz Edge HD" tvg-logo="" group-title="USA",US: Starz Edge HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/531
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US: Starz Encore Action HD" tvg-logo="" group-title="USA",US: Starz Encore Action HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15680
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US: Starz Encore Black HD" tvg-logo="" group-title="USA",US: Starz Encore Black HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15676
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US: Starz Encore Classic HD" tvg-logo="" group-title="USA",US: Starz Encore Classic HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15678
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US: Starz Encore Family HD" tvg-logo="" group-title="USA",US: Starz Encore Family HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15677
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US: Starz Encore HD" tvg-logo="" group-title="USA",US: Starz Encore HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/532
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="US: Starz Encore Suspense HD" tvg-logo="" group-title="USA",US: Starz Encore Suspense HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15674
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US: Starz Encore Western HD" tvg-logo="" group-title="USA",US: Starz Encore Western HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15679
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US: Starz HD" tvg-logo="" group-title="USA",US: Starz HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/217
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US: Starz in Black HD" tvg-logo="" group-title="USA",US: Starz in Black HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/533
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids & Family HD" tvg-logo="" group-title="USA",US: Starz Kids & Family HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/15675
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US: TBS HD" tvg-logo="" group-title="USA",US: TBS HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/307
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US: TNT HD" tvg-logo="" group-title="USA",US: TNT HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/308
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="" group-title="Europe",FR: EUROSPORT 2 HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10017
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR: EUROSPORT HD" tvg-logo="" group-title="Europe",FR: EUROSPORT HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/10016
+#EXTINF:-1 tvg-id="Beate-Uhse.TV" tvg-name="XXX: Beate-Uhse.TV HD" tvg-logo="" group-title="XXX",XXX: Beate-Uhse.TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/624
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler" tvg-logo="" group-title="XXX",XXX: Blue Hustler
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13375
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV" tvg-logo="" group-title="XXX",XXX: BRAZZERS TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/365
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV HD" tvg-logo="" group-title="XXX",XXX: Dorcel TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/886
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Glory HD" tvg-logo="" group-title="XXX",XXX: Glory HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/884
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Gay Gold HD" tvg-logo="" group-title="XXX",XXX: Gay Gold HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/14528
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="XXX",XXX: Hustler HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/13377
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Mofos HD" tvg-logo="" group-title="XXX",XXX: Mofos HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/368
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PrivateTV HD" tvg-logo="" group-title="XXX",XXX: PrivateTV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/371
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RealityKings HD" tvg-logo="" group-title="XXX",XXX: RealityKings HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/366
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MY DIRTY HOBBY" tvg-logo="" group-title="XXX",XXX: MY DIRTY HOBBY
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17840
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden Van Holland" tvg-logo="" group-title="XXX",XXX: Meiden Van Holland
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17852
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Super ONE HD" tvg-logo="" group-title="XXX",XXX: Super ONE HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17851
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover" tvg-logo="" group-title="XXX",XXX: French Lover
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17853
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV" tvg-logo="" group-title="XXX",XXX: BABES TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17855
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOTWIFE PREMIUM" tvg-logo="" group-title="XXX",XXX: HOTWIFE PREMIUM
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17856
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNHUB PREMIUM" tvg-logo="" group-title="XXX",XXX: PORNHUB PREMIUM
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17857
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vixen TV ELITE" tvg-logo="" group-title="XXX",XXX: Vixen TV ELITE
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17858
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY TV" tvg-logo="" group-title="XXX",XXX: TUSHY TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17859
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DIGITAL PLAYGROUND" tvg-logo="" group-title="XXX",XXX: DIGITAL PLAYGROUND
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17860
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ROCCO TV PREMIUM" tvg-logo="" group-title="XXX",XXX: ROCCO TV PREMIUM
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17862
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ROCCO TV 7/24" tvg-logo="" group-title="XXX",XXX: ROCCO TV 7/24
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17863
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED TV PREMIUM" tvg-logo="" group-title="XXX",XXX: BLACKED TV PREMIUM
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17864
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED TV ELITE" tvg-logo="" group-title="XXX",XXX: BLACKED TV ELITE
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17865
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE TAXI FHD" tvg-logo="" group-title="XXX",XXX: FAKE TAXI FHD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17867
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS" tvg-logo="" group-title="XXX",XXX: REALITY KINGS
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17868
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SL EROTIC HD" tvg-logo="" group-title="XXX",XXX: SL EROTIC HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17879
+#EXTINF:-1 tvg-id="" tvg-name="XXX: YESILCAM" tvg-logo="" group-title="XXX",XXX: YESILCAM
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17878
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse Gold HD" tvg-logo="" group-title="XXX",XXX: Penthouse Gold HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17905
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV HD" tvg-logo="" group-title="XXX",XXX: DORCEL TV HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17914
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX TV" tvg-logo="" group-title="XXX",XXX: DORCEL XXX TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17915
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD" tvg-logo="" group-title="XXX",XXX: REDLIGHT HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17913
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="" group-title="XXX",XXX: HUSTLER HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17912
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O-LA-LA" tvg-logo="" group-title="XXX",XXX: O-LA-LA
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17911
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL HD" tvg-logo="" group-title="XXX",XXX: XXL HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17908
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="" group-title="XXX",XXX: PENTHOUSE QUICKIES
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17906
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE TV" tvg-logo="" group-title="XXX",XXX: PRIVATE TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17916
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER" tvg-logo="" group-title="XXX",XXX: BLUE HUSTLER
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17917
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY TV" tvg-logo="" group-title="XXX",XXX: PLAYBOY TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17921
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Free X TV" tvg-logo="" group-title="XXX",XXX: Free X TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17919
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART TV" tvg-logo="" group-title="XXX",XXX: NUART TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17923
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Playhouse" tvg-logo="" group-title="XXX",XXX: Playhouse
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17922
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CANDY" tvg-logo="" group-title="XXX",XXX: CANDY
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17924
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED" tvg-logo="" group-title="XXX",XXX: VIVID RED
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17925
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie TV" tvg-logo="" group-title="XXX",XXX: Passie TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17926
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV" tvg-logo="" group-title="XXX",XXX: HOT TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17927
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX HD" tvg-logo="" group-title="XXX",XXX: EROX HD
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17929
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 1" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 1
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17930
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 2" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 2
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17931
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 3" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 3
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17932
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 4" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 4
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17933
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 6" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 6
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17935
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 7" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 7
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17936
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTICA 8" tvg-logo="" group-title="XXX",XXX: PINK EROTICA 8
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17937
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Compilation TV" tvg-logo="" group-title="XXX",XXX: Compilation TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17952
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lesbian TV" tvg-logo="" group-title="XXX",XXX: Lesbian TV
+http://iptv.watchhd.cc:5050/touros123/stream4272test/17957

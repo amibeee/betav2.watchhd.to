@@ -1,0 +1,10 @@
+#EXTINF:-1 timeshift="2" tvg-id="btsport1.uk" tvg-name="UK: TNT Sports 1 HD" tvg-logo="http://logo.watchhd.cc/logo/UK/uk_tnt_sports_01.png" group-title="UK",UK: TNT Sports 1 HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/203.ts
+#EXTINF:-1 timeshift="2" tvg-id="btsport2.uk" tvg-name="UK: TNT Sports 2 HD" tvg-logo="http://logo.watchhd.cc/logo/UK/uk_tnt_sports_02.png" group-title="UK",UK: TNT Sports 2 HD
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/204.ts
+#EXTINF:-1 tvg-id="791208ec3c39f30987695a96af95edcd" tvg-name="DE: Prime Video Sportsbar HD (Web)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Web)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/9313.ts
+#EXTINF:-1 timeshift="7" tvg-id="500a316f025034f46d84e653887a5ff7" tvg-name="DE: Prime Video Sportsbar HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (Kabel)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/79717.ts
+#EXTINF:-1 tvg-id="500a316f025034f46d84e653887a5ff7" tvg-name="DE: Prime Video Sportsbar HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/test/Logo_Amazon_Prime_Sport.png" group-title="Sky Sport",DE: Prime Video Sportsbar HD (720p)
+http://iptv.watchhd.cc:5050/realcoach/VIHoXzQJmoSh777/99434.ts

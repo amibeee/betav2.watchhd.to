@@ -1,0 +1,5 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2024-08-02 16:04:21 --> 23000 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mailkonto@gmx-topmail.de' for key 'email' with query: "UPDATE `users` SET `email` = 'mailkonto@gmx-topmail.de', `updated_at` = 1722607461 WHERE `id` = '22209'" in /home/seychu/web/watchhd.to/public_html/fuel/core/classes/database/pdo/connection.php on line 253
+ERROR - 2024-08-02 16:06:00 --> 23000 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mailkonto@gmx-topmail.de' for key 'email' with query: "UPDATE `users` SET `email` = 'mailkonto@gmx-topmail.de', `updated_at` = 1722607560 WHERE `id` = '22209'" in /home/seychu/web/watchhd.to/public_html/fuel/core/classes/database/pdo/connection.php on line 253
+ERROR - 2024-08-02 19:07:31 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Donnie&amp;password=HAHAHASV1904&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96

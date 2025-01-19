@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Chronicles of a Champion Golfer"},"start":1492466400,"stop":1492468200,"channel":"Sky Sports 4 HD"},{"title":{"de":"Chronicles of a Champion Golfer"},"start":1492468200,"stop":1492470000,"channel":"Sky Sports 4 HD"}]}}

@@ -1,0 +1,42 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/2.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/3.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat.1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/4.ts
+#EXTINF:-1 tvg-id="5442b78cb4512d05fabf7e2ce9b89aa1" tvg-name="DE: Prosieben HD" tvg-logo="http://iptv.watchhd.cc:5050/images/b1a3f8006d1f346791745ed7b3e1d66c.png" group-title="Free-TV",DE: Prosieben HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/5.ts
+#EXTINF:-1 tvg-id="1e879980458e8c62da910edc2c082992" tvg-name="DE: Kabel 1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/ec77ae9fce18f79ced3fd3270a73d073.png" group-title="Free-TV",DE: Kabel 1 HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/31.ts
+#EXTINF:-1 tvg-id="683e75b3b06d15eaf9cb149b8507f739" tvg-name="DE: RTL II HD" tvg-logo="http://iptv.watchhd.cc:5050/images/99d52c9df02ed4b94bf60182907b7da9.png" group-title="Free-TV",DE: RTL II HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/6.ts
+#EXTINF:-1 tvg-id="SRTLCHH" tvg-name="DE: Super RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/d03ce90695563bbc9f05e74e192e2191.png" group-title="Free-TV",DE: Super RTL HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/360.ts
+#EXTINF:-1 tvg-id="3f88daf93ee22317ddeeb2520c65366c" tvg-name="DE: VOX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/41.ts
+#EXTINF:-1 tvg-id="c7f4542540132b0bfeb98ab76bc56f98" tvg-name="DE: RBB HD Brandenburg" tvg-logo="http://logo.watchhd.cc/logo/rbb_HD.png" group-title="Free-TV",DE: RBB HD Brandenburg
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/13588.ts
+#EXTINF:-1 tvg-id="MDRSCHD" tvg-name="DE: MDR HD Sachsen" tvg-logo="http://iptv.watchhd.cc:5050/images/b7353a9ee2bcf1f1de2adfb3916572b7.png" group-title="Free-TV",DE: MDR HD Sachsen
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/13589.ts
+#EXTINF:-1 tvg-id="2333c14b8aef701ffaa9f7337bb7c99b" tvg-name="DE: NDR HD Niedersachsen" tvg-logo="http://logo.watchhd.cc/logo/NDR_HD_Logo.png" group-title="Free-TV",DE: NDR HD Niedersachsen
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/13594.ts
+#EXTINF:-1 tvg-id="WDRESSH" tvg-name="DE: WDR HD Essen" tvg-logo="http://iptv.watchhd.cc:5050/images/70c1a45f563ee3a6f7e7011fb99357aa.png" group-title="Free-TV",DE: WDR HD Essen
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/13583.ts
+#EXTINF:-1 tvg-id="2e60ff7e3170f4cd2dda047df5889a3a" tvg-name="DE: BR Fernsehen HD Nord" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Free-TV",DE: BR Fernsehen HD Nord
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/433.ts
+#EXTINF:-1 tvg-id="9587d7213b711106e56f3409e2e3fab2" tvg-name="DE: HR HD" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Free-TV",DE: HR HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/428.ts
+#EXTINF:-1 tvg-id="2e3cc16875d1fac9717758689c861151" tvg-name="DE: SWR HD Baden-Württemberg" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD Baden-Württemberg
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/432.ts
+#EXTINF:-1 tvg-id="1bfbc5a54cb4248c21946f33886ea157" tvg-name="DE: SR HD" tvg-logo="http://iptv.watchhd.cc:5050/images/8b0ad31369e9f3b6ef367b6593264761.png" group-title="Free-TV",DE: SR HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/2396.ts
+#EXTINF:-1 tvg-id="b5d4e7ada43f9ef00c4f8c3da973b818" tvg-name="DE: 3sat HD" tvg-logo="http://logo.watchhd.cc/logo/3sat_HD.png" group-title="Free-TV",DE: 3sat HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/429.ts
+#EXTINF:-1 timeshift="3" tvg-id="cde2ae86091dc52b907696a927b154fd" tvg-name="DE: ARTE HD" tvg-logo="http://iptv.watchhd.cc:5050/images/692b543868fd84472209a6ff8195cc02.png" group-title="Free-TV",DE: ARTE HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/965.ts
+#EXTINF:-1 tvg-id="72027971bf16c7185cd3fb7cfa4a9eaf" tvg-name="DE: ZDF Info HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1228112c1aa112fbf99e8b119bbd8160.png" group-title="Free-TV",DE: ZDF Info HD
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/60.ts
+#EXTINF:-1 tvg-id="f385c525c7bf4eaad813b93b16666397" tvg-name="DE: SWR HD Rheinland-Pfalz" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Free-TV",DE: SWR HD Rheinland-Pfalz
+http://iptv.watchhd.cc:5050/freeplanet/cWAAblRxpJ/13591.ts

@@ -1,0 +1,44 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Feedback Formular
+{% endblock %}
+
+{% block content %}
+
+<h1>Feedback Formular</h1>
+<p>Uns ist aufgefallen das deine Zahlung nicht erfolgreich abgeschlossen werden konnte. Wir möchten dich nun bitten uns kurz mitzuteilen was das Problem war. Mit diesen Informationen können wir unsere Seite noch besser für dich gestalten.</p>
+{{ form_open()|raw }}
+<div class="form-group">
+    <input type="radio" name="reason" value="mistaken" /> Bei der Zahlungsmethode vertan 
+</div>
+<div class="form-group">
+    <input type="radio" name="reason" value="404" /> Wusste nicht wo ich Bitcoins kaufen kann 
+</div>
+<div class="form-group">
+    <input type="radio" name="reason" value="boredom" /> Ich hatte zuviel Langeweile
+</div>
+<div class="form-group">
+    <input type="radio" name="reason" value="other" /> Anderer Grund
+</div>
+<div class="form-group">
+    <label>Wie bewertest du den Kaufprozess</label>
+   <select name="rating" class="form-control">
+        <option value="0">bitte auswählen</option>
+        <option value="1">sehr gut</option>
+        <option value="2">gut</option>
+        <option value="3">befriedigend</option>
+        <option value="4">ausreichend</option>
+        <option value="5">mangelhaft</option>
+        <option value="6">ungenügend (sehr schlecht)</option>
+   </select>
+</div>
+<div class="form-group">
+    <label>Nachricht</label>
+    <textarea class="form-control" name="feedback" rows="5"></textarea>
+</div>
+<div class="form-group">
+    <input type="submit" value="Feedback senden" class="btn btn-raised btn-success btn-lg btn-block" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

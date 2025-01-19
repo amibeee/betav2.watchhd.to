@@ -1,0 +1,36 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Einstellungen') }} |  
+{% endblock %}
+
+{% block content %}
+{{ form_open()|raw }}
+<div class="form-group">
+    <label>{{ t('Benutzername')  }}</label>
+    <input type="username" class="form-control" id="username" name="username" value="{{ current_user.username }}" readonly="" />
+</div>
+<div class="form-group">
+
+        <label>{{ t('Email Adresse') }}</label>
+        <input type="email" name="email" id="email" class="form-control" value="{{ current_user.email }}" />
+  
+</div>
+<div class="form-group">
+    <label>{{ t('Dein neues Passwort') }}</label>
+    <input type="password" name="password1" id="password1" class="form-control" />
+</div>
+<div class="form-group">
+    <label>{{ t('Dein neues Passwort (wiederholen)') }}</label>
+    <input type="password" name="password2" id="password2" class="form-control" />
+</div>
+<div class="form-group">
+    <label>Dein altes Passwort</label>
+    <input type="password" name="current_password" id="current_password" class="form-control" />
+</div>
+
+<div class="form-group">
+    <input type="submit" class="btn btn-raised btn-success btn-lg btn-block" value="speichern" />
+</div>
+{{ form_close()|raw }}
+{% endblock %}

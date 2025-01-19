@@ -1,0 +1,6 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2024-08-07 00:35:18 --> Warning - Missing argument 1 for Controller_Feedback::action_index(), called in /home/seychu/web/watchhd.to/public_html/app/classes/controller/base.php on line 159 and defined in /home/seychu/web/watchhd.to/public_html/app/classes/controller/feedback.php on line 8
+ERROR - 2024-08-07 10:00:45 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=CarstenR89&amp;password=FYgTL4Ioht&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-08-07 17:06:36 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Rooney09&amp;password=GB5ZNKEn96t1&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-08-07 17:07:30 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Rooney09&amp;password=GB5ZNKEn96t1&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96

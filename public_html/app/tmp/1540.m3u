@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/621.ts
+#EXTINF:-1 tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/117.ts
+#EXTINF:-1 timeshift="3" tvg-id="139e036398e4cc6417c90ccf410aa72a" tvg-name="DE: Sky Sport 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/4e29950242edbd0d06c75fcd8c94d7f5.png" group-title="Sky Sport",DE: Sky Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/HansWurst89/TryIDJNfrJJL/284.ts

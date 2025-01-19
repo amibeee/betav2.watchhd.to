@@ -1,0 +1,297 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: "Montserrat", system-ui;
+
+  }
+  body {
+    height: 2000px;
+    background-color:white ;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10; /* Adjust as needed to ensure it stays on top of other elements */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for better separation from the content below */
+}
+
+
+
+  .navbar {
+    background: rgba(15, 14, 20, 0.8);
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    position: relative;
+  }
+  .logo {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    transition:  0.3s ;
+  }
+
+  .logo2 {
+    width: 100%;
+    height: 40px;
+    object-fit: cover;
+  }
+  .watchhd {
+    color: #ffffff;
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+  }
+  .Navmenu {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+  }
+  .home, .news, .forum, .help, .btc {
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+
+  .home:hover, .news:hover, .forum:hover, .help:hover, .btc:hover,
+  .home.active, .news.active, .forum.active, .help.active, .btc.active {
+    background: linear-gradient(
+      0deg,   rgba(79, 51, 239, 0) 0%,
+      rgba(79, 51, 239, 1) 87.5%
+    );
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+  }
+  .Signsbutt {
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .Signsbutt button {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+    outline: none;
+    transition: background 0.1s;
+  }
+  
+  .Signsbutt .log {
+    font-weight: 500;
+    width: 90px;
+    background: #ffffff;
+  }
+  
+  .Signsbutt .sign {
+    font-weight: 500;
+    width: 90px;
+    background: #4f33ef;
+    color: #ffffff;
+  }
+  
+  .Signsbutt .sign:hover {
+    border: 1px solid #4f33ef;
+    background-color:#160a58 ;
+    color: white;
+  }
+
+  .Signsbutt .log:hover {
+    border: 1px solid #4f33ef;
+    background-color:#160a58 ;
+    color: white;
+  }
+  
+  .language {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    position: relative;
+  }
+  
+  .vector {
+    width: 8px;
+    height: 5px;
+  }
+  
+  .current-language {
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+  }
+  
+  .Flags {
+    width: 23px;
+    height: 23px;
+  }
+  
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    background-color: #15151b;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+  }
+  
+  .language-option {
+    display: flex;
+    align-items: center;
+    width: 110px;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .language-option img{
+   margin-right: 10%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .language-option:hover {
+    border-radius: 50px;
+    background-color: #4f33ef;
+  }
+  
+  .hamburger-button {
+    display: none; /* Hidden by default on larger screens */
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    position: absolute; /* Position it absolutely within the parent */
+    left: 20px; /* Distance from the left edge of the parent */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+  }
+  
+  .drawer {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
+    background-color: #15151bc9;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    z-index: 2;
+  }
+  
+  .drawer-item {
+    padding: 10px 20px;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .drawer-item:hover, .drawer-item.active {
+    background-color: #4f33ef;
+  }
+  
+  @media (max-width: 930px) {
+    .Navmenu, .Signsbutt {
+      display: none;
+    }
+    .hamburger-button {
+      display: block;
+    }
+    .navbar {
+      justify-content: space-between;
+    }
+    .logo {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    .language {
+      position: absolute;
+      right: 20px;
+    }
+  }
+
+
+  /* Custom scrollbar for WebKit browsers */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4f33ef; /* Color of the scrollbar thumb */
+  border-radius: 8px; /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3c2db6; /* Darker color when hovered */
+}
+
+
+/* Custom scrollbar for WebKit browsers */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4f33ef;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3c2db6;
+}
+
+/* Custom scrollbar for Firefox */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #4f33ef #f1f1f1;
+}

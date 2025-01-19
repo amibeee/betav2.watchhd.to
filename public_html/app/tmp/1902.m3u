@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="WM 2022 Livespiele",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/1.ts
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/1.ts
+#EXTINF:-1 timeshift="7" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="WM 2022 Livespiele",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/4678.ts
+#EXTINF:-1 timeshift="7" tvg-id="79ce20574b68a61835dd860a6b149c9d" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/4678.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="WM 2022 Livespiele",DE: ZDF HD
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/2.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/2.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (Kabel)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/177153.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="WM 2022 Livespiele",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/4740.ts
+#EXTINF:-1 timeshift="7" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/4740.ts
+#EXTINF:-1 timeshift="7" tvg-id="5e5db2ac3e1ccf11f3237566656eaad2" tvg-name="DE: Sky Cinema Classics HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/730d63240050a7f6b035bf6ad5b442b3.png" group-title="HEVC FHD",DE: Sky Cinema Classics HD (HEVC)
+http://iptv.watchhd.cc:5050/itzLeon/yPerCr2G4jou/138931.ts

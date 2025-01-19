@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/4678.ts
+#EXTINF:-1 tvg-id="37a9ee91aa9d65b9dfc38e58e6430027" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/4740.ts
+#EXTINF:-1 tvg-id="4ab77c2b280cc88e02dbcba86446b445" tvg-name="DE: Servus TV HD" tvg-logo="http://logo.watchhd.cc/logo/servustvhd.png" group-title="Free-TV",DE: Servus TV HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/361.ts
+#EXTINF:-1 tvg-id="8e0a1c908fb75d3c690d128537b3f76e" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Free-TV",DE: Kabel 1 Classics HD
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/32.ts
+#EXTINF:-1 tvg-id="1e879980458e8c62da910edc2c082992" tvg-name="DE: Kabel 1 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="HEVC FHD",DE: Kabel 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10157.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="DE: Fox HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/fox.png" group-title="HEVC FHD",DE: Fox HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10154.ts
+#EXTINF:-1 tvg-id="98d10436f218b66d3309211b5fb710aa" tvg-name="DE: Sky Atlantic HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/atlantichdv2.png" group-title="HEVC FHD",DE: Sky Atlantic HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10117.ts
+#EXTINF:-1 tvg-id="ccb0e90faa5e89a4fcb5736ca4c70100" tvg-name="DE: Sky Cinema Action HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/actionhdv2.png" group-title="HEVC FHD",DE: Sky Cinema Action HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10118.ts
+#EXTINF:-1 tvg-id="f0b26842045d0a15044e42619ac427d3" tvg-name="DE: Sky Cinema Best Of HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/hitshdv2.png" group-title="HEVC FHD",DE: Sky Cinema Best Of HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10119.ts
+#EXTINF:-1 tvg-id="73299e75457d4d4b7389c492c2691031" tvg-name="DE: Sky Cinema Premieren +24 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/cinema24hd.png" group-title="HEVC FHD",DE: Sky Cinema Premieren +24 HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10121.ts
+#EXTINF:-1 tvg-id="dc1eb60616304499090446584a8b32a8" tvg-name="DE: Sky Cinema Special HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_special.png" group-title="HEVC FHD",DE: Sky Cinema Special HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10123.ts
+#EXTINF:-1 tvg-id="81ac9e4b07d71241b293de2b05c0fa24" tvg-name="DE: Sky Cinema Thriller HD (HEVC)" tvg-logo="http://77.73.67.101:25500/resize.php?max=32&url=http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="HEVC FHD",DE: Sky Cinema Thriller HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10124.ts
+#EXTINF:-1 tvg-id="954a26e7266c007d220d7964d2a1b758" tvg-name="DE: Sky Serien & Shows HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/sky_serien_shows.png" group-title="HEVC FHD",DE: Sky Serien & Shows HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10126.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="DE: SYFY HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="HEVC FHD",DE: SYFY HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10134.ts
+#EXTINF:-1 tvg-id="872c7e24ca05784b1fc884abd57c8534" tvg-name="DE: Sky Cinema Family HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="HEVC FHD",DE: Sky Cinema Family HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10120.ts
+#EXTINF:-1 tvg-id="ff43099530da41902d903a571b09fa68" tvg-name="DE: TELE 5 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/TELE_5_HD.png" group-title="HEVC FHD",DE: TELE 5 HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10135.ts
+#EXTINF:-1 tvg-id="23569fa4bb6415f6e0abff84669c7e19" tvg-name="DE: TNT Film HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/tntfilmhdv2.png" group-title="HEVC FHD",DE: TNT Film HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10138.ts
+#EXTINF:-1 tvg-id="123.tv" tvg-name="DE: TNT Serie HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/tntseriehdv2.png" group-title="HEVC FHD",DE: TNT Serie HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10139.ts
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="DE: Universal TV HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="HEVC FHD",DE: Universal TV HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10140.ts
+#EXTINF:-1 tvg-id="3f88daf93ee22317ddeeb2520c65366c" tvg-name="DE: VOX HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="HEVC FHD",DE: VOX HD (HEVC)
+http://iptv.watchhd.cc:5050/Sauerkraut/s6A2rPNB/10141.ts

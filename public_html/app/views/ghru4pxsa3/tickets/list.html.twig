@@ -1,0 +1,82 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+	Tickets
+{% endblock %}
+
+{% block content %}
+	<div class="container-fluid-home" style="width:100%">
+		<div class="main-tickets-container">
+			<div class="row" style="display: flex;flex-direction: column; width:100%">
+				<div class="col-md-9 " style="width:100%" >
+					<h1>Tickets</h1>
+				</div>
+				<div class="col-md-3"  style="width:90%; margin: 0 auto;" >
+					<form method="POST">
+						<div class="Tickets-Searchbar" >
+							<div class="Tickets-search-continer" style="width:100%">
+								<input type="search" class="searchbar-input-ticket"  name="query" id="query" value="{{ input_get('query') }}"/>
+								<span class="searchbar">
+									<input type="submit" value="suchen" class="Searchbutton"/>
+								</span>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+
+			<form method="POST">
+				<div class="form-group">
+					<div class="input-group" >
+						<select name="action" class="dropmenu-30-60-90" style="height: 100%;">
+							<option value="delete_30Days">30 Tage löschen</option>
+							<option value="delete_60Days">60 Tage löschen</option>
+							<option value="delete_90Days">90 Tage löschen</option>
+						</select>
+						<span class="input-group-btn">
+							<input type="submit" value="ausführen" class="dropmenu-btn"/>
+						</span>
+					</div>
+				</div>
+			</form>
+
+			<table class="table-tickets">
+					<thead>
+						<tr>
+							<th>LetzteBenutzer</th> 
+							<th> änderung</th> 
+							<th>Kategorie</th>
+							<th>Betreff</th>
+							<th>Aktionen</th>
+						</tr>
+					</thead>
+				<tbody>
+				{% if tickets|length %}
+
+					{% for ticket in tickets %}
+						<tr>
+							<td data-label="Last Updated">{{ ticket.updated_at|date('d.m.Y H:i') }}</td>
+							<td data-label="Name">{{ ticket.name }}</td>
+							<td data-label="Category">{{ ticket.category }}</td>
+							<td data-label="Subject">{{ ticket.subject }}</td>
+							<td data-label="Actions">
+								<a href="{{ base_url() }}ghru4pxsa3/ticket/{{ ticket.id }}/read" target="_blank" class="btn-read-tickets">
+									<i class="fa fa-external-link"></i>
+								</a>
+								<a href="{{ securelink('ghru4pxsa3/ticket/'~ticket.id~'/delete', 'ticket.delete.'~ticket.id) }}" class="btn-delete-tickets">
+									<i class="fa fa-trash"></i>
+								</a>
+							</td>
+						</tr>
+					{% endfor %}
+
+				{% else %}
+					<tr>
+						<td colspan="5" class="no-tickets-message">We doesnt have any tickets until now.</td>
+					</tr>
+				{% endif %}
+				</tbody>
+			</table>
+		</div>
+	</div>
+{{ pagination|raw }}{% endblock %}

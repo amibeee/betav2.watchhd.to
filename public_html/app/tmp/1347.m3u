@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="RTL" tvg-name="DE: RTL HD" tvg-logo="http://logo.watchhd.cc/logo/rtlhd1.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/3
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN International HD" tvg-logo="http://logo.watchhd.cc/logo/uk-cnn_international.png" group-title="UK",UK: CNN International HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/188
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="UK: Fox HD" tvg-logo="http://logo.watchhd.cc/logo/uk-fox.png" group-title="UK",UK: Fox HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/10445
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN HD" tvg-logo="" group-title="USA",US: CNN HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/296
+#EXTINF:-1 tvg-id="bbconelondon.uk" tvg-name="UK: BBC One HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_one.png" group-title="UK",UK: BBC One HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/186
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two HD" tvg-logo="http://logo.watchhd.cc/logo/uk-bbc_two.png" group-title="UK",UK: BBC Two HD
+http://iptv.watchhd.cc:5050/OnkelHo/kpv7ZPZymj/187

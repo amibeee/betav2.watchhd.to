@@ -1,0 +1,32 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}M3U für PVR IPTV Simple Client (Kodi), VLC & Co.{% endblock %}
+
+{% block content %}
+                                            
+    
+    <div class="panel panel-default">
+  <div class="panel-heading">M3U für PVR IPTV Simple Client (Kodi), VLC & Co.</div>
+</div>
+
+<p>Ab sofort könnt ihr unsere Streams auch über alle Clients gucken die M3U als Quelle unterstützten.</p>
+<p>Dafür einfach folgenden Link, zum Beispiel in VLC einfügen. Fertig.</p>
+<p></p>
+<!--<p>Version: <button type="button" data-type="vlc" class="btn btn-raised btn-default changeVersionBtn">VLC</button> <button type="button" data-type="iptv-simple-pvr-client" class="btn btn-raised btn-default changeVersionBtn">PVR IPTV Simple Client</button></p>-->
+<script>
+	var m3u = '{{ base_url() }}m3u/{{ token }}';
+</script>
+<!--
+<code>{{ base_url() }}m3u/{{ token }}</code>
+-->
+{% if current_user.is_premium %}
+<code>http://iptv.watchhd.cc:8000/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u_plus&output=ts</code> (für Kodi Simple TV)<br>
+<code>http://iptv.watchhd.cc:8000/get.php?username={{ current_user.username }}&password={{ user.line_password }}&type=m3u&output=ts</code>(für VLC)
+<h3>EPG Link (Simple IPTV Client)</h3>
+<code>http://epg.watchhd.cc/epg/EU_guide.xml.gz</code>
+<h3>Logo Link (Simple IPTV Client)</h3>
+<code>http://logo.watchhd.cc/logo/</code>
+{% else %}
+<span style="color:red;">Du bist leider kein Premium Mitglied.</span>
+{% endif %}
+{% endblock %}

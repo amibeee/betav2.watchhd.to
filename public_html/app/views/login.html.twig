@@ -1,0 +1,31 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}Login
+{% endblock %}
+
+{% block content %}
+		<div class="login-container">
+			<div class="logocontainerlog">
+				<img src="{{ base_url() }}/assets/assets/icons/Logowhite.svg" alt="Logo" class="logo-loginpage">
+				<h2 class="welcomesign">Welcome Back!</h2>
+				<p class="subtitlesign">Sign in to continue enjoying high-definition entertainment with WatchHD</p>
+			</div>
+
+			<form action="{{ base_url }}login.php" method="post" class="signinputs">
+				{{ form_open()|raw }}
+				<input class="input-username" type="text" id="username" name="username" required placeholder="Username">
+
+				<input class="input-password" type="password" id="password" name="password" required placeholder="Password">
+
+				<label for="captcha" class="captcha">
+					{{ captcha|raw }}
+				</label>
+
+				<button type="submit" class="button-login">Login</button>
+
+				<a href="{{ base_url }}passwordrecovery" class="forgot-password">Forgot your account?</a>
+				{{ form_close()|raw }}
+			</form>
+
+		</div>
+{% endblock %}

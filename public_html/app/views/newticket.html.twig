@@ -1,0 +1,50 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	{{ t('Support Ticket erstellen') }}
+	|
+{% endblock %}
+
+{% block content %}
+	<div class="f-settings-container-fluid" style="color:white">
+<div class="step2-bg"></div>
+	<h1>{{ t('Support Ticket erstellen') }}</h1>
+	<p>{{ t('Wenn du Fragen oder Probleme hast kannst du hier ein Support Ticket erstellen.') }}</p>
+	{{ form_open()|raw }}
+	<div class="form-group">
+		<label>{{ t('Wie sollen wir dich ansprechen?') }}</label>
+		<input type="text" name="name" id="name" class="form-control" value="{{ form_value('name', current_user.username) }}"/>
+	</div>
+	<div class="form-group">
+		<label>{{ t('Über welche Emailadresse können wir dich erreichen? Wir senden Ticket Updates an diese Adresse.') }}</label>
+		<input type="email" name="email" id="email" class="form-control" value="{{ form_value('email', current_user.email) }}"/>
+	</div>
+	<div class="form-group">
+		<label>{{ t('Um was geht es?') }}</label>
+		<input type="text" name="subject" id="subject" class="form-control" value="{{ form_value('subject') }}"/>
+	</div>
+	<div class="form-group">
+		<label>{{ t('Bitte ordne dein Anliegen in einer der folgenden Kategorien ein.') }}</label><br>
+		<select name="category" class="dropmenu-30-60-90" style="color:black">
+			<option value="" {% if form_value('category') == '' %} selected="" {% endif %}>{{ t('Bitte auswählen') }}</option>
+			<option value="Zahlung" {% if form_value('category') == 'Zahlung' %} selected="" {% endif %}>{{ t('Zahlung') }}</option>
+			<option value="Login & Registrierung" {% if form_value('category') == 'Login & Registrierung' %} selected="" {% endif %}>{{ t('Login & Registrierung') }}</option>
+			<option value="Technik" {% if form_value('category') == 'Technik (Bugs)' %} selected="" {% endif %}>{{ t('Technik (Bugs)') }}</option>
+			<option value="Line Änderung" {% if form_value('category') == 'Line Änderung' %} selected="" {% endif %}>{{ t('Line Änderung') }}</option>
+			<option value="Testline" {% if form_value('category') == 'Testline' %} selected="" {% endif %}>{{ t('Testline') }}</option>
+			<option value="Andere" {% if form_value('category') == 'Andere' %} selected="" {% endif %}>{{ t('Andere') }}</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label>{{ t('Was möchtest du uns mitteilen?') }}</label>
+		<textarea name="message" id="message" class="form-control" rows="10">{{ form_value('message') }}</textarea>
+	</div>
+	<div class="form-group">
+		{{ captcha|raw }}
+	</div>
+	<div class="form-group">
+		<input type="submit" name="submitBtn" class="Main-btn-click" value="{{ t('Ticket erstellen') }}"/>
+	</div>
+	{{ form_close()|raw }}
+</div>
+{% endblock %}

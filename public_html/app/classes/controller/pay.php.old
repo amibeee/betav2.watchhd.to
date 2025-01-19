@@ -1,0 +1,69 @@
+<?php class Controller_Pay extends Controller_Base_User {
+    /**
+     *
+     */
+    public function action_index($pid)
+    {
+        
+        $user_payment = Model_User_Payment::query()->where('id', '=', $pid)->where('user_id', '=', $this->user['uid'])->get_one();
+        if(!$user_payment) throw new HttpNotFoundException;
+        
+		$code = 'BTC';
+		if($user_payment->method == 'monero') $code = 'XMR';
+		if($user_payment->method == 'ethereum') $code = 'ETH';
+		if($user_payment->method == 'litecoin') $code = 'LTC';
+		if($user_payment->method == 'bitcoincash') $code = 'BCH';
+		if($user_payment->method == 'verge') $code = 'XVG';
+		if($user_payment->method == 'tokenpay') $code = 'TPAY';
+		
+        $bitcoin = new Bitcoin;
+        $bitcoin->Setup('5c8f0C41766fad723e34fdeC438C3d54b51D31460eB72Aa5d6AA9bA3ff13a475', '69eb0ce4fc7e349e35a9d67a2744972f1cdf401241f95f664fc257c5eacfec3d');
+                 
+        $response = $bitcoin->CreateTransactionSimple($user_payment->amount, 'EUR', $code, '', 
+URI::base().'callback/'.$user_payment->token, $this->user['email']);
+       
+	if($response['error'] != 'ok')
+        {
+            \Messages::error(i18n::t('Es ist ein Problem mit unserem Zahlungsanbieter aufgetreten. Bitte versuche es später nochmal.'));
+            \Messages::redirect('buy/premium');
+        }
+	
+        $data['bitcoin'] = $response;
+        $data['payment'] = $user_payment;
+	
+	switch($code){
+		
+		case 'BTC':
+			return Response::forge(View::forge('pay.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'XMR':
+			return Response::forge(View::forge('pay_xmr.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'ETH':
+			return Response::forge(View::forge('pay_eth.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'BCH':
+			return Response::forge(View::forge('pay_bch.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'LTC':
+			return Response::forge(View::forge('pay_ltc.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'XVG':
+			return Response::forge(View::forge('pay_xvg.html.twig', isset($data) ? $data : array(), false));
+		break;
+		
+		case 'TPAY':
+			return Response::forge(View::forge('pay_tpay.html.twig', isset($data) ? $data : array(), false));
+		break;
+	
+	}
+	
+	          
+    }
+    
+}

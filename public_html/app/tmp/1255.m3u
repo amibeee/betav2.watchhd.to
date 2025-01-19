@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DE: DAZN Event Stream HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN.png" group-title="Sky Sport",DE: DAZN Event Stream HD
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/9383
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/102
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sky Sport",DE: DAZN Bar 1 HD (720p)
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/357
+#EXTINF:-1 tvg-id="1157a3e7621c91abbfd4c45f03282d52" tvg-name="DE: DAZN Bar 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_1.png" group-title="Sky Sport",DE: DAZN Bar 1 Mobile
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/10240
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/103
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 Mobile" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_2.png" group-title="Sky Sport",DE: DAZN Bar 2 Mobile
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/10241
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN Bar 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sky Sport",DE: DAZN Bar 2 HD (720p)
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/358
+#EXTINF:-1 tvg-id="DAZN Bar 1 HD" tvg-name="DE: DAZN BAR 1 HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_1.png" group-title="HEVC FHD",DE: DAZN BAR 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/10088
+#EXTINF:-1 tvg-id="DAZN Bar 2 HD" tvg-name="DE: DAZN 2 Bar HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/es-dazn_2.png" group-title="HEVC FHD",DE: DAZN 2 Bar HD (HEVC)
+http://iptv.watchhd.cc:5050/magenta623/8451gwWGag/10145

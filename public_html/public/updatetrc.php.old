@@ -1,0 +1,166 @@
+<?php
+// Improved database connection and error handling
+try {
+    $host = 'localhost';
+    $dbname = 'sucuk_site';
+    $username = 'sucuk_site';
+    $password = '6LVHAtKbaM6v1HGV';
+
+    // Use PDO instead of mysqli for better error handling and security
+    $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8mb4", $username, $password, [
+        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+        PDO::ATTR_EMULATE_PREPARES => false,
+    ]);
+
+    // Fetch all idtrc where status is "finished" and type is premium
+    $stmt = $pdo->prepare("SELECT * FROM user_payments WHERE status_trc = 'finished' AND status != 'paid' AND type = 'premium'");
+    $stmt->execute();
+
+    // Predefined defaults for IPTV packages
+    $defaults = [
+        [1, 'active', 'IPTV-DACH', true],
+        [2, 'inactive', 'IPTV-DE HEVC', true],
+        [3, 'active', 'IPTV-UK', true],
+        [4, 'active', 'IPTV-Frankreich', true],
+        [5, 'active', 'IPTV-Polen', true],
+        [8, 'active', 'IPTV-Türkei', true],
+        [9, 'active', 'IPTV-Rest von Europa', true],
+        [10, 'active', 'IPTV-USA/Canada', true],
+        [11, 'inactive', 'IPTV-Rest der Welt', true],
+        [12, 'inactive', 'IPTV-World Sport', true],
+        [24, 'active', 'IPTV-Music', true],
+        [27, 'inactive', 'IPTV-XXX', true],
+        [28, 'inactive', 'IPTV-VoD', true]
+    ];
+
+    // Iterate through each payment record
+    while ($payment = $stmt->fetch()) {
+        // Fetch user details
+        $userStmt = $pdo->prepare("SELECT * FROM users WHERE id = ?");
+        $userStmt->execute([$payment['user_id']]);
+        $user = $userStmt->fetch();
+
+        if (!$user) {
+            error_log("User not found for payment ID: " . $payment['id']);
+            continue;
+        }
+
+        // Decode payment data
+        $data = json_decode($payment['data'], true);
+
+        if (!isset($data['premium_days'])) {
+            error_log("Invalid payment data for payment ID: " . $payment['id']);
+            continue;
+        }
+
+        // Calculate premium duration
+        $add = ($data['premium_days'] * 86400);
+
+        // Update user premium status
+        $premiumUpdateStmt = $pdo->prepare("
+            UPDATE users 
+            SET premium_until = CASE 
+                WHEN premium_until = 0 OR premium_until < UNIX_TIMESTAMP() 
+                THEN UNIX_TIMESTAMP() + ? 
+                ELSE premium_until + ? 
+            END 
+            WHERE id = ?
+        ");
+        $premiumUpdateStmt->execute([$add, $add, $user['id']]);
+
+        // Determine line type and line ID
+        $type = isset($data['buy']['type']) && $data['buy']['type'] == 'subline' ? 'subline' : 'mainline';
+        $line_id = $data['buy']['line_id'] ?? null;
+
+        // Manage user packets (subscriptions)
+        foreach ($defaults as $default) {
+            // Check if packet exists
+            $packetStmt = $pdo->prepare("SELECT * FROM user_packets WHERE user_id = ? AND bouquet_id = ?");
+            $packetStmt->execute([$user['id'], $default[0]]);
+            $packet = $packetStmt->fetch();
+
+            // Determine booked packages
+            $booked_packages = isset($data['packages']) ? array_values($data['packages']) : [1, 3, 4, 5, 8, 9, 10, 24];
+            $booked_packages_expanded = array_merge($booked_packages, [2, 3, 4, 5, 8, 9, 10, 11, 12, 24, 27, 28]);
+            $booked_packages_expanded = array_unique($booked_packages_expanded);
+
+            // Determine packet status
+            $status = in_array($default[0], $booked_packages) || $default[3] ? $default[1] : 'inactive';
+
+            if ($packet) {
+                // Update existing packet
+                $updatePacketStmt = $pdo->prepare("
+                    UPDATE user_packets 
+                    SET 
+                        status = ?, 
+                        booked_until = CASE 
+                            WHEN booked_until < UNIX_TIMESTAMP() OR booked_until = 0 
+                            THEN UNIX_TIMESTAMP() + ? 
+                            ELSE booked_until + ? 
+                        END 
+                    WHERE id = ?
+                ");
+                $updatePacketStmt->execute([
+                    $status, 
+                    (in_array($default[0], $booked_packages_expanded) || $default[3]) ? $add : 0, 
+                    (in_array($default[0], $booked_packages_expanded) || $default[3]) ? $add : 0, 
+                    $packet['id']
+                ]);
+            } else {
+                // Create new packet
+                $insertPacketStmt = $pdo->prepare("
+                    INSERT INTO user_packets 
+                    (name, user_id, status, line_type, line_id, bouquet_id, booked_until) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                ");
+                $insertPacketStmt->execute([
+                    $default[2], 
+                    $user['id'], 
+                    $status, 
+                    $type, 
+                    $line_id, 
+                    $default[0], 
+                    (in_array($default[0], $booked_packages_expanded) || $default[3]) ? time() + $add : time()
+                ]);
+            }
+        }
+
+        // Affiliate tracking (optional, implement if needed)
+        if (!empty($user['affiliate_id'])) {
+            // Implement affiliate tracking logic similar to the original callback
+            $affiliateTrackingStmt = $pdo->prepare("
+                INSERT INTO affiliate_logs 
+                (affiliate_id, user_id, type, data, worth, sub_id) 
+                VALUES (?, ?, 'sale', ?, ?, ?)
+            ");
+            $affiliateTrackingStmt->execute([
+                $user['affiliate_id'], 
+                $user['id'], 
+                json_encode([
+                    'product' => $payment['product'],
+                    'amount' => $payment['amount'],
+                    'type' => $payment['type'],
+                    'payment_id' => $payment['id'],
+                    'method' => $payment['method']
+                ]), 
+                $payment['amount'], 
+                '' // You might want to fetch sub_id from previous logs
+            ]);
+        }
+
+        // Update payment status to paid
+        $updatePaymentStmt = $pdo->prepare("UPDATE user_payments SET status = 'paid' WHERE id = ?");
+        $updatePaymentStmt->execute([$payment['id']]);
+
+        echo "Processed payment ID {$payment['id']} for user {$user['id']}\n";
+    }
+
+} catch (PDOException $e) {
+    // Log database errors
+    error_log("Database error: " . $e->getMessage());
+    die("Database connection failed");
+} catch (Exception $e) {
+    // Log other unexpected errors
+    error_log("Unexpected error: " . $e->getMessage());
+}

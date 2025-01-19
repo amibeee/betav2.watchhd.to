@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="1:0:1F:229:C:85:FFFF0000:0:0:0:" tvg-name="DE: Sky Sport UHD" tvg-logo="http://logo.watchhd.cc/logo/SKY_SPORT_UHD.png" group-title="Sky Sport",DE: Sky Sport UHD
+http://iptv.watchhd.cc:5050/Brainy79/SvenPas1804197/116.ts
+#EXTINF:-1 tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 HD" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD
+http://iptv.watchhd.cc:5050/Brainy79/SvenPas1804197/27117.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD (Kabel)" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD (Kabel)
+http://iptv.watchhd.cc:5050/Brainy79/SvenPas1804197/72199.ts
+#EXTINF:-1 tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 HD (720p)
+http://iptv.watchhd.cc:5050/Brainy79/SvenPas1804197/27171.ts
+#EXTINF:-1 tvg-id="e4167e6f864adcc678928df41030cfd8" tvg-name="DE: Sky Sport F1 (Mobil)" tvg-logo="http://iptv.watchhd.cc:5050/images/1c122a01ea65aa043c9f9b63788975ac.png" group-title="Sky Sport",DE: Sky Sport F1 (Mobil)
+http://iptv.watchhd.cc:5050/Brainy79/SvenPas1804197/27186.ts

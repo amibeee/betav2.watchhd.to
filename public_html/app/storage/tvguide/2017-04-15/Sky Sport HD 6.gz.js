@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live tipico Bundesliga"},"start":1492271400,"stop":1492272000,"channel":"Sky Sport HD 6"},{"title":{"de":"Live tipico BL: SK Puntigamer Sturm Graz - SV Guntamatic Ried, 29. Runde *"},"start":1492272000,"stop":1492281000,"channel":"Sky Sport HD 6"}]}}

@@ -1,0 +1,174 @@
+<?php
+namespace Fuel\Tasks;
+class Linesync
+{
+
+	public static function run()
+	{
+		$argv = func_get_args();
+	
+		$user_id = isset($argv[0]) ? (int) $argv[0] : 0;
+
+		$panel_url = 'http://iptv.watchhd.cc:5050/';
+        $max_connections = 1;
+        $reseller = 0;
+        $bouquet_ids = array(
+            1,
+        );
+		
+		// haupt lines updaten
+		$query = \Model_User::query()->where('premium_until', '>', time());
+		if($user_id){
+			$query->where('id', $user_id);
+		}
+		
+		foreach($query->order_by('id', 'DESC')->get() as $user)
+        {
+
+        	$line['username'] = $user->username;
+            $line['password'] = $user->line_password;
+
+			$expire_date = $user->premium_until;
+			
+			// $bouquet_ids
+			$bouquet_ids = array(
+				1,
+			);
+
+			$last_payment = \Model_User_Payment::query()->where('user_id', $user->id)->where('status', 'paid')->where('data', 'LIKE', '%mainline%')->order_by('id', 'desc')->get_one();
+            if($last_payment){
+				
+				$payment_data = json_decode($last_payment['data'], true);
+				if(isset($payment_data['packages']) && count($payment_data['packages'])){
+					$bouquet_ids = $payment_data['packages'];
+				}
+               
+			}
+			
+			/*
+			if(count($bouquet_ids) == 0){
+				$bouquet_ids[] = 1;
+				$bouquet_ids[] = 18;
+				$bouquet_ids[] = 21;
+				$bouquet_ids[] = 16;
+				$bouquet_ids[] = 27;
+				$bouquet_ids[] = 26;
+				$bouquet_ids[] = 23;
+				$bouquet_ids[] = 24;
+			}
+			*/
+
+
+			// override bouquet ids with data from table user_packets
+			$user_packets = \Model_User_Packet::query()->where('line_id', $user->id)->where('booked_until', '>', time())->where('status', 'active')->order_by('id', 'asc')->get();
+
+
+			$active_packets = array();
+
+			$bouquet_ids = array();
+			foreach($user_packets as $user_packet){
+				
+				$active_packets[] = $user_packet->bouquet_id;
+			
+				if(!in_array($user_packet->bouquet_id, array(2, 3, 4, 5, 8, 9, 10, 11, 12, 24, 27, 28))){
+					$bouquet_ids[] = $user_packet->bouquet_id;
+				}
+			
+			}
+			
+			// $bouquet_ids <--- da sind die aktiven bükets drin gell da is aber normal halt quasi nix aktiv bzw die er beim kauf auswählt you knau?
+			//´also jetzt einmalig so rennen lassen ... aber danach anpasse ^^
+			// auf gut arisch: jetzt müssen wr gucken das nur fehlende geadded werdn die jeder haben soll egal wie
+			
+			if(in_array(1, $active_packets)){
+				$bouquet_ids[] = 1; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(2, $active_packets)){
+				$bouquet_ids[] = 2; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(3, $active_packets)){
+				$bouquet_ids[] = 3; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(4, $active_packets)){
+				$bouquet_ids[] = 4; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(5, $active_packets)){
+				$bouquet_ids[] = 5; // Polen
+			}
+			
+			if(in_array(8, $active_packets)){
+				$bouquet_ids[] = 8; // Türkei
+			}
+			
+			if(in_array(9, $active_packets)){
+				$bouquet_ids[] = 9; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(10, $active_packets)){
+				$bouquet_ids[] = 10; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(11, $active_packets)){
+				$bouquet_ids[] = 11; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(12, $active_packets)){
+				$bouquet_ids[] = 12; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(24, $active_packets)){
+				$bouquet_ids[] = 24; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(27, $active_packets)){
+				$bouquet_ids[] = 27; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+			if(in_array(28, $active_packets)){
+				$bouquet_ids[] = 28; // sex wird nicht geadded automatisch nur wenn aktiv
+			}
+			
+	
+			$bouquet_ids = array_unique($bouquet_ids);
+
+            $post_data = array(
+			    'username' => $line['username'],
+				'password' => $line['password'],
+				'exp_date' => $expire_date, 
+				'bouquet' => json_encode( array_values($bouquet_ids) )
+    		);
+
+			$opts = array( 'http' => array(
+			        'method' => 'POST',
+			        'header' => 'Content-type: application/x-www-form-urlencoded',
+			        'content' => http_build_query( $post_data ) ) );
+
+			$context = stream_context_create($opts);
+			$body =  file_get_contents("http://iptv.watchhd.cc:5050/api/api.php?action=update_user", false, $context);
+			$api_result = json_decode($body);
+			
+			echo "<pre>";
+			print_r([$post_data, $api_result]);
+			echo "</pre>";
+
+			if(isset($api_result->success) && $api_result->success)
+            {
+            	\Cli::write('[success] [UID:'.$user->id.'] Line Update');
+            }
+            else
+            {
+            	\Cli::write('[error] [UID:'.$user->id.'] Line Update ['.$body.']');
+            }
+			
+			usleep(400000);
+
+		}
+
+	
+	}
+
+}

@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live Bundesliga"},"start":1492346400,"stop":1492347600,"channel":"Sky Bundesliga HD 2"},{"title":{"de":"Live BL: Werder Bremen - Hamburger SV, 29. Spieltag"},"start":1492347600,"stop":1492357500,"channel":"Sky Bundesliga HD 2"}]}}

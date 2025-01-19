@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="DE: Prosieben Maxx HD (720p)" tvg-logo="" group-title="Free-TV",DE: Prosieben Maxx HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/637.ts
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: Sky 1 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sky1hd.png" group-title="Sky Film",DE: Sky 1 HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/88.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="DE: Sky Cinema +24 HD (720p)" tvg-logo="" group-title="Sky Film",DE: Sky Cinema +24 HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/631.ts
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE: Sky Cinema Special HD" tvg-logo="" group-title="Sky Film",DE: Sky Cinema Special HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/94.ts
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE: Sky Cinema Special HD (720p)" tvg-logo="" group-title="Sky Film",DE: Sky Cinema Special HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/382.ts
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/117.ts
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/621.ts
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/118.ts
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/622.ts
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sportnewshdv2.png" group-title="Sky Sport",DE: Sky Sport News HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/460.ts
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="DE: Universal TV HD (720p)" tvg-logo="" group-title="Sky Film",DE: Universal TV HD (720p)
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/632.ts
+#EXTINF:-1 tvg-id="travelxp 4K" tvg-name="DE: TravelXP UHD" tvg-logo="http://logo.watchhd.cc/logo/travelxp_4k.png" group-title="Free-TV",DE: TravelXP UHD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/352.ts
+#EXTINF:-1 tvg-id="Geo" tvg-name="DE: GEO HD" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Sky Doku",DE: GEO HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/147.ts

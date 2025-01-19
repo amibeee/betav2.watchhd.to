@@ -1,0 +1,6 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-24 00:31:58 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=User112345&amp;password=tsU43pK2nB72&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-06-24 18:43:05 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Quallmann&amp;password=sGuRYD7rg1IM&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-06-24 18:43:15 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Quallmann&amp;password=sGuRYD7rg1IM&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96
+ERROR - 2024-06-24 22:35:41 --> Warning - file_get_contents(https://iptv.watchhd.cc:25463/get.php?username=Papen&amp;password=FI01AdmU5aaC&amp;type=m3u&amp;output=m3u8): failed to open stream: Connection timed out in /home/seychu/web/watchhd.to/public_html/app/classes/controller/channel.php on line 96

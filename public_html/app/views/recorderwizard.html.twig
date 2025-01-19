@@ -1,0 +1,37 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Neue Aufnahme anlegen  
+{% endblock %}
+
+{% block content %}
+    
+<h1>Neue Aufnahme anlegen</h1>
+
+<div class="recorder-step-one">
+        <a name="channel"></a>
+        <h4>Sender auswählen</h4>   
+        <div class="row">
+            {% for channel in channels %}
+            <p data-category="{{ channel.category }}"><a href="#day" data-channel="{{ channel.id }}" class="btn btn-raised btn-default btn-lg btn-block selectChannelBtn">{{ channel.name }}</a></p>
+            {% endfor %}
+        </div>
+        
+</div>
+<div class="recorder-step-two">
+    <a name="day"></a>
+    <h4>Tag auswählen</h4>   
+    <div class="row" id="channelRecorderDays"></div>
+</div>
+<div class="recorder-step-three">
+    <a name="programme"></a>
+    <h4>Sendung auswählen</h4>
+    <div class="row" id="channelRecorderProgramme"></div>
+</div>
+<div class="recorder-step-four" style="display: none;" align="center">
+<a name="thanks"></a>
+<h1>Danke <span style="color: pink;"><3</span></h1>
+<h3 style="color: green;">Die Aufnahme wurde angelegt!</h3>
+</div>
+<button style="display: none;" class="recorderNextStepBtn">Click me!</button>
+{% endblock %}

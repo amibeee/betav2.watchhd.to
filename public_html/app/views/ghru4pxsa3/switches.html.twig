@@ -1,0 +1,84 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}Sender Schalter{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+
+<div class="row">
+    <div class="col-md-9 pull-left">
+        <h1>Sender Schalter</h1>
+    </div>
+</div>
+
+{{ form_open()|raw }}
+<table class="table table-striped table-bordered table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Sender</th>
+            <th>Einschalten</th>
+            <th>Abschalten</th>
+            <th>Aktionen</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% if switches|length %}
+    
+        {% for switch in switches %}
+        <tr>
+            <td>{{ switch.channel.name }}</td>
+            <td>{{ switch.date|date('d.m.Y H:i') }}</td>
+            <td>{{ switch.off_date|date('d.m.Y H:i') }}</td>
+            <td><a class="btn btn-sm btn-primary btn-raised" href="{{ base_url() }}ghru4pxsa3/switches?do=copy&id={{ switch.id }}">kopieren</a> <a href="{{ base_url() }}ghru4pxsa3/switches?do=delete&id={{ switch.id }}" class="btn btn-raised btn-sm btn-danger">löschen</a></td>
+        </tr>
+        {% endfor %}
+    
+    {% else %}
+  
+    {% endif %}
+    <tr>
+        <td>
+            <select name="channel_id" class="form-control">
+            <option>Bitte auswählen</option>
+            {% for channel in channels %}
+                <option value="{{ channel.id }}" {% if switch.channel_id == channel.id %} selected="selected"{% endif %}>{{ channel.name }}</option>
+            {% endfor %}
+        </select>
+        </td>
+        <td>
+        <div class="form-group">
+                <div class='input-group date' id='datetimepicker1'>
+                    <input type="text" name="on" class="form-control" value="{{ switch.on|date('d.m.Y') }} {{ switch.on|date('H:i') }}" />
+                    <span class="input-group-addon2">
+                        <span class="fa fa-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        
+        </td>
+        
+        <td>
+        <div class="form-group">
+                <div class='input-group date' id='datetimepicker2'>
+                    <input type="text" name="off" class="form-control" value="{{ switch.off|date('d.m.Y') }} {{ switch.off|date('H:i') }}" />
+                    <span class="input-group-addon2">
+                        <span class="fa fa-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </td>
+        <td>
+            <input type="submit" class="btn btn-raised btn-success" value="speichern" />
+        </td>
+    </tr>
+    </tbody>
+</table>
+<script type="text/javascript">
+            $(function () {
+                $('.date').each(function(){
+                    $(this).datetimepicker({locale:'de'});
+                });
+            });
+        </script>
+{{ form_close()|raw }}
+{% endblock %}

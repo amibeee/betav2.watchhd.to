@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="General Streams",DE: Disney Channel HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/61.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="DE: Disney Cinemagic HD" tvg-logo="http://logo.watchhd.cc/logo/cinemagic.png" group-title="General Streams",DE: Disney Cinemagic HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/173.ts
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.watchhd.cc/logo/disneyjunior.png" group-title="General Streams",DE: Disney Junior HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/1366.ts
+#EXTINF:-1 tvg-id="xd.disney.de" tvg-name="DE: Disney XD" tvg-logo="http://logo.watchhd.cc/logo/disneyxd.png" group-title="",DE: Disney XD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/155.ts
+#EXTINF:-1 tvg-id="KI.KA" tvg-name="DE: Kika HD" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="General Streams",DE: Kika HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/1233.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="DE: Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="General Streams",DE: Nickelodeon
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/977.ts
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="http://logo.watchhd.cc/logo/ukdisney.png" group-title="Auslands-TV",UK: Sky Cinema Disney HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/1481.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://logo.watchhd.cc/logo/ukfamily.png" group-title="Auslands-TV",UK: Sky Cinema Family HD
+http://iptv.watchhd.cc:8000/live/seb8888/HqXjI5XWUV/1476.ts

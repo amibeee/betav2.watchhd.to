@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 Mobile" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 Mobile
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/444
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Kabel)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/117
+#EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="DE: Sky Sport 1 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sporthd11v2.png" group-title="Sky Sport",DE: Sky Sport 1 HD (Sat)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/621
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:25461/images/dsllhfbKeF5JHzBhFeNJNWBmBVi574Uh.png" group-title="Sky Sport",DE: Sky Sport 1 HD (720p)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/284
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Kabel)" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Kabel)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/118
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="DE: Sky Sport 2 HD (Sat)" tvg-logo="http://logo.watchhd.cc/logo/sporthd22v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (Sat)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/622
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd2v2.png" group-title="Sky Sport",DE: Sky Sport 2 HD (720p)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/285
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://logo.watchhd.cc/logo/sporthd33v2.png" group-title="Sky Sport",DE: Sky Sport 3 HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/119
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD (720p)" tvg-logo="http://logo.watchhd.cc/logo/sporthd3v2.png" group-title="Sky Sport",DE: Sky Sport 3 HD (720p)
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/286
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/203
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/204
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/205
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="US: Fox HD" tvg-logo="" group-title="USA",US: Fox HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/300
+#EXTINF:-1 tvg-id="usanetworkwest.us" tvg-name="US: USA NETWORK TV HD" tvg-logo="" group-title="USA",US: USA NETWORK TV HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/841
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="US: UFC TV" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="USA",US: UFC TV
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/435
+#EXTINF:-1 tvg-id="wwenetwork.ca" tvg-name="US: WWE Channel HD" tvg-logo="" group-title="USA",US: WWE Channel HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/526
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US: WWE Network HD" tvg-logo="" group-title="USA",US: WWE Network HD
+http://iptv.watchhd.cc:5050/Sonja/OVvvzcf4dHcr/264

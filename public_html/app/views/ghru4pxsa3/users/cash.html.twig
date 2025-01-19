@@ -1,0 +1,157 @@
+{% extends "ghru4pxsa3/layout.html.twig" %}
+
+{% block title %}
+Affiliate Informationen
+{% endblock %}
+
+{% block content %}
+		<div class="f-settings-container-fluid">
+		<div class="friend-settings-container-fluid">
+<div class="row">
+
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Umsatz heute</h4>
+            </div>
+            <div class="panel-body" align="center">
+               <h3>{{ sum_format(stats.sales.today) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Umsatz diese Woche</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.sales.week) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Umsatz diesen Monat</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.sales.month) }}€</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Leads heute</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ stats.leads.today }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Leads diese Woche</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ stats.leads.week }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Leads diesen Monat</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ stats.leads.month }}</h3>
+            </div>
+        </div>
+    </div>
+	
+	 <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Leads total</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ stats.leads.total }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Verdienst heute</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.earnings.today, 2) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Verdienst diese Woche</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.earnings.week, 2) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Verdienst diesen Monat</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.earnings.month, 2) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+	<div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Verdienst total</h4>
+            </div>
+            <div class="panel-body" align="center">
+                <h3>{{ sum_format(stats.earnings.total, 2) }}€</h3>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="form-group">
+    <div class="input-group">
+        <select class="form-control" name="" id="">
+        <option>Bitte auswählen</option>
+        </select>
+        <span class="input-group-btn"><button class="btn btn-raised btn-success">Daten filtern</button></span>
+    </div>
+
+</div>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Datum</th>
+            <th>Leads</th>
+            <th>Umsatz</th>
+           </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+{% endblock %}

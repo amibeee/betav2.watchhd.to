@@ -1,0 +1,44 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+Kodi Plugin
+{% endblock %}
+
+{% block content %}
+
+ <style>
+ .f-settings-container-fluid{
+    color:white;
+    font-size: 2rem
+ }
+ </style>
+
+       <div class="f-settings-container-fluid">
+<h1>watchhd.biz Kodi Plugin</h1>    
+<p>Lorem Ipsum ...</p>    
+
+<h3>Kodi Plugin Download</h3>
+<a href="{{ base_url() }}downloads/plugin.video.watchhdiptv.zip" target="_blank" class="btn btn-default btn-block btn-raised btn-lg">Download</a>
+
+<h3>Kodi Token</h3>
+<input type="text" readonly="" value="{{ token }}" class="form-control" />
+
+{{ form_open()|raw }}
+{% if token_alias == '' %}
+<div class="alert alert-info">Du hast noch kein Alias gesetzt!</div>
+{% endif %}
+<div class="form-group">
+    <label>Kodi Token Alias</label>
+    <input type="text" class="form-control" name="alias" id="alias" value="{{ form_value('alias', token_alias) }}" />
+    <p class="help-block">Auf manchen Endgeräten ist es etwas mühselig den relativ langen Kodi Token einzutippen. Deswegen bieten wir euch nun an ein Token Alias zu setzen. Dein Token Alias muss min. 8 stellig lang und nicht so einfach zu eraten sein. Jeder der dein Kodi Token kennt kann unser Kodi Plugin über deinen Account nutzen. Leerzeichen sind nicht erlaubt.</p>
+</div>
+<div class="form-group">
+    <input type="submit" class="btn btn-success btn-raised btn-block btn-lg" value="Kodi Token Alias speichern" />
+</div>
+{{ form_close()|raw }}
+
+<h3>Anleitung</h3>
+<p>Nachdem du das Plugin heruntergeladen hast kannst du es in Kodi installieren. Wie das geht wird dir <a href="http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files" target="_blank">hier beschrieben</a>. Nach der Installation kannst du das Plugin starten und siehst dann eine Übersicht der verfügbaren Kategorien. Ein klick auf eine Kategorie führt zur Kanal Liste. Wenn du einen Sender gefunden hast den du gucken möchste klickst du einfach auf diesen. Nun fragt Kodi dich nach einer Information die wir benötigen um zu prüfen ob du a.) watchhd.biz Nutzer bist und b.) Premium Laufzeit gebucht hast. Stimmt die Eingabe oder die Information ist in Kodi hinterlegt startet der Stream.</p>
+</div>
+
+{% endblock %}

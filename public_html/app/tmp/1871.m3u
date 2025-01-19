@@ -1,0 +1,58 @@
+#EXTINF:-1 timeshift="7" tvg-id="bbd6ac7808e2672cd274ffcea3d521c5" tvg-name="DE: Sky Cinema Fun HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_fun.png" group-title="HEVC FHD",DE: Sky Cinema Fun HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/138933.ts
+#EXTINF:-1 timeshift="7" tvg-id="92b68a2a0472e54776ef0ab23d418c1a" tvg-name="DE: ProSieben HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/53edc9f80c4bb3e2c5bb6068003a9730.png" group-title="HEVC FHD",DE: ProSieben HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10110.ts
+#EXTINF:-1 timeshift="7" tvg-id="eedf3416d5ee3d194ca38b98fccf09a0" tvg-name="DE: Sky Showcase HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Showcase_HD.png" group-title="HEVC FHD",DE: Sky Showcase HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/138893.ts
+#EXTINF:-1 timeshift="7" tvg-id="5e5db2ac3e1ccf11f3237566656eaad2" tvg-name="DE: Sky Cinema Classics HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/730d63240050a7f6b035bf6ad5b442b3.png" group-title="HEVC FHD",DE: Sky Cinema Classics HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/138931.ts
+#EXTINF:-1 tvg-id="d3b9d6863f18c34569c0092acdbd6fab" tvg-name="DE: Sky Sport Austria 1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/e26dd99faa434f8b42193a9358e166ac.png" group-title="Sky Sport",DE: Sky Sport Austria 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/138890.ts
+#EXTINF:-1 timeshift="7" tvg-id="ATVHDAU" tvg-name="AT: ATV HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/6edaf73e0213d3a484061f985b24155f.png" group-title="HEVC FHD",AT: ATV HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10108.ts
+#EXTINF:-1 timeshift="7" tvg-id="SKY1GHD" tvg-name="DE: Sky Sport 1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/89a071adcba9c86e5065ac99ee195f8b.png" group-title="HEVC FHD",DE: Sky Sport 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10127.ts
+#EXTINF:-1 timeshift="7" tvg-id="SKY2GHD" tvg-name="DE: Sky Sport 2 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/e2db62bee182d6ccae59704b937e95b3.png" group-title="HEVC FHD",DE: Sky Sport 2 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10128.ts
+#EXTINF:-1 timeshift="7" tvg-id="Sky Sport Bundesliga" tvg-name="DE: Sky Sport Bundesliga HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Bundesliga.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10129.ts
+#EXTINF:-1 timeshift="7" tvg-id="0ae168e8be45d94616aceca392a69fe7" tvg-name="DE: Sky Sport Bundesliga 1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/8753c41ba14554492750c48239b2e15a.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10084.ts
+#EXTINF:-1 timeshift="7" tvg-id="9096009a3ca468a77460236df666f9a3" tvg-name="DE: Sky Sport Bundesliga 2 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/40e24e42205a47a8416f24aaa081cb42.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 2 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10163.ts
+#EXTINF:-1 timeshift="7" tvg-id="e9b9b87a72c041614a983f09ff481abf" tvg-name="DE: Sky Sport Bundesliga 3 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/2bad61fc6431a35348e868ebca1b7671.png" group-title="HEVC FHD",DE: Sky Sport Bundesliga 3 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10431.ts
+#EXTINF:-1 timeshift="7" tvg-id="71ed6dcdf51884339fb69c7f40069d06" tvg-name="DE: Sky Sport Premier League HD (HEVC)" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Premier_League.png" group-title="HEVC FHD",DE: Sky Sport Premier League HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/92526.ts
+#EXTINF:-1 timeshift="7" tvg-id="487e81cfcb0a41353be6cbde1a19a580" tvg-name="DE: DAZN 1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/4026c7cfabbfb46636d864e4b9191f32.png" group-title="HEVC FHD",DE: DAZN 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10088.ts
+#EXTINF:-1 timeshift="7" tvg-id="6d76ff28c8f69b4f74c4fd5037129fbe" tvg-name="DE: DAZN 2 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/438c9903c7e22c054142263e67299a9a.png" group-title="HEVC FHD",DE: DAZN 2 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10145.ts
+#EXTINF:-1 timeshift="7" tvg-id="8519c187fe95607d3e380d1833a0ca46" tvg-name="DE: Sky Comedy HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/9427472ca5033c6d130df2c82e680ff3.png" group-title="HEVC FHD",DE: Sky Comedy HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/44147.ts
+#EXTINF:-1 timeshift="7" tvg-id="SKYCTHG" tvg-name="DE: Sky Cinema Thriller HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/e0e0b3323a37e5f58f3bf72cc4ac6ecb.png" group-title="HEVC FHD",DE: Sky Cinema Thriller HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10124.ts
+#EXTINF:-1 timeshift="7" tvg-id="e445063b4a992c9ea9d0fa59cfcee05c" tvg-name="DE: Sky Cinema Special HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/6ee25c4b6139e21c403e5605862a361a.png" group-title="HEVC FHD",DE: Sky Cinema Special HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10123.ts
+#EXTINF:-1 timeshift="7" tvg-id="SKYCPSD" tvg-name="DE: Sky Cinema Premieren HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/b30cf2f83fb6e156afea0ffe1560e8e3.png" group-title="HEVC FHD",DE: Sky Cinema Premieren HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10122.ts
+#EXTINF:-1 timeshift="7" tvg-id="ecce0d0ffc38e2cf53394b550fdfac97" tvg-name="DE: Sky Cinema Action HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/227af0e8858d64bf07ea4fd6995cedcf.png" group-title="HEVC FHD",DE: Sky Cinema Action HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10118.ts
+#EXTINF:-1 timeshift="7" tvg-id="PROMXHD" tvg-name="DE: Prosieben Maxx HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/8353d03e59ddc1a6e7842828e7b6fc9b.png" group-title="HEVC FHD",DE: Prosieben Maxx HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10109.ts
+#EXTINF:-1 timeshift="7" tvg-id="6b30d4b2633847f965fb3f898dbe4f94" tvg-name="DE: RTL HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/23f625499daa31f8113831c2677f7ec0.png" group-title="HEVC FHD",DE: RTL HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10111.ts
+#EXTINF:-1 timeshift="7" tvg-id="5a22beb0e12fc2173e002737e7cb01b5" tvg-name="DE: RTL ZWEI HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/0e664938262406fd17fc4f8502a4b3dd.png" group-title="HEVC FHD",DE: RTL ZWEI HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10112.ts
+#EXTINF:-1 timeshift="7" tvg-id="3ade284d7ac52adf8d6847a521b68179" tvg-name="DE: SAT.1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/fefa5021e3b2b1254d052b8f6c0df3a9.png" group-title="HEVC FHD",DE: SAT.1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10114.ts
+#EXTINF:-1 timeshift="7" tvg-id="SIXXHD" tvg-name="DE: SIXX  HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/8b1ee6f8d489a69d9182aa1d1d14a783.png" group-title="HEVC FHD",DE: SIXX  HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10115.ts
+#EXTINF:-1 timeshift="7" tvg-id="702f5305034a9048ee4a235c95f31474" tvg-name="DE: VOX HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="HEVC FHD",DE: VOX HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10141.ts
+#EXTINF:-1 timeshift="7" tvg-id="5a51ad65369c8cb0a755645c239d0123" tvg-name="DE: Kabel 1 HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/15604514c61cd96550c3cfc30ef96f9f.png" group-title="HEVC FHD",DE: Kabel 1 HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10157.ts
+#EXTINF:-1 timeshift="7" tvg-id="97ba5c3c26c22d7aeac56336d341fb48" tvg-name="DE: DMAX HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="HEVC FHD",DE: DMAX HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10149.ts
+#EXTINF:-1 timeshift="7" tvg-id="59303271500f9c1e07b270b5fe2bb10e" tvg-name="DE: KiKA HD (HEVC)" tvg-logo="http://iptv.watchhd.cc:5050/images/cefd53818a23a589388093fa94f0ca96.png" group-title="HEVC FHD",DE: KiKA HD (HEVC)
+http://iptv.watchhd.cc:5050/WeedWood/VgXFeMM826hf/10158.ts

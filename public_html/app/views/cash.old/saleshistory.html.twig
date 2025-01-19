@@ -1,0 +1,26 @@
+{% extends "cash/layout.html.twig" %}
+
+{% block title %}
+Sales
+{% endblock %}
+
+{% block content %}
+<table class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Datum</th>
+            <th>Paket</th>
+            <th>Verdienst</th>
+           </tr>
+    </thead>
+    <tbody>
+    {% for sale in sales %}
+    <tr>
+        <td>{{ sale.created_at|date('d.m.Y') }}</td>
+        <td>{{ sale.data.product }}</td>
+        <td>{{ sale.worth }} Euro</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

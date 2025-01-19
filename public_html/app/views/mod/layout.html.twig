@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{% block title %}{% endblock %} - watchhd.biz Mod Backend</title>
+
+    <!-- Material Design fonts -->
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Bootstrap Material Design -->
+  <link href="{{ base_url() }}assets/css/bootstrap-material-design.css" rel="stylesheet">
+  <link href="{{ base_url() }}assets/css/ripples.min.css" rel="stylesheet">
+
+
+  <link href="//fezvrasta.github.io/snackbarjs/dist/snackbar.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <script type="text/javascript">
+        var base_url = '{{ base_url() }}';
+    </script>
+    
+    <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+ 
+</head>
+
+<body>
+<div id="declinePaymentModal" class="modal fade" tabindex="-1" role="dialog">
+{{ form_open({'id':'declinePaymentForm'})|raw }}
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Zahlung ablehnen</h4>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          
+          <label>Begründung:</label>
+          <textarea name="reason" rows="10" class="form-control"></textarea>
+
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default btn-raised" data-dismiss="modal">Fenster ohne Aktion schließen</button>
+        <button type="submit" class="btn btn-danger btn-raised">Zahlung ablehnen</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+  {{ form_close()|raw }}
+</div><!-- /.modal -->
+<div id="modal" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Modal title</h4>
+      </div>
+      <div class="modal-body">
+        <p>One fine body&hellip;</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<nav class="navbar navbar-inverse">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ base_url() }}backend?ref=logo">watchhd.biz Mod Backend</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+       {% if current_user.is_mod %}
+        <li{% if uri_segment(2) == '' %} class="active"{% endif %}><a href="{{ base_url() }}mod/dashboard">Dashboard <span class="sr-only">(current)</span></a></li>
+        <li{% if uri_segment(2) == 'tickets' or uri_segment(2) == 'ticket' %} class="active"{% endif %}><a href="{{ base_url() }}mod/tickets">Tickets</a></li>
+         {% endif %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        {% if current_user.is_mod %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hallo, {{ current_user.username }}<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ base_url() }}mod/settings">Settings</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="{{ base_url() }}mod/logout">Logout</a></li>
+          </ul>
+        </li>
+        {% else %}
+        <li{% if uri_segment(2) == 'login' %} class="active"{% endif %}><a href="{{ base_url() }}mod/login">Login</a></li>
+        {% endif %}
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<div class="container">
+
+    {% if messages|length %}
+        {% for message in messages %}
+            {{ message|raw }}
+        {% endfor %}
+    {% endif %}
+    
+    {% block content %}{% endblock %}
+    </div>
+    <script src="{{ base_url() }}assets/js/jquery.matchHeight.js"></script>
+    <script src="{{ base_url() }}assets/js/ripples.min.js"></script>
+    <script src="{{ base_url() }}assets/js/material.min.js"></script>
+    <script src="{{ base_url() }}assets/js/snackbar.min.js"></script>
+    <script src="{{ base_url() }}assets/js/app.js"></script>
+
+<script type="text/javascript">
+$(function() {
+	$('.channel-box').matchHeight({
+    byRow: true,
+    property: 'min-height',
+    target: null,
+    remove: false
+});
+
+$('input[id=query]').on('keyup', function(e){
+        
+        if($(this).val().length > 0)
+        {
+            
+            var query = $(this).val();
+            
+            $('.channel-box').each(function(){
+                
+                
+                if($(this).attr('data-channel').toLowerCase().search(query.toLowerCase()) === -1)
+                {
+                    
+                    console.log(query.toLowerCase()+' in '+$(this).attr('data-channel').toLowerCase()+' nicht gefunden');
+                    $(this).hide();
+                }
+   
+                
+            });
+            
+        }
+        else
+        {
+            $('.channel-box').show();
+        }
+    
+   });
+
+   $('.restart').on('click', function(e){
+      e.preventDefault();
+      $.post('{{ base_url }}ajax/cmd',{command:'restart',channel_id:$(this).attr('data-channel-id')}, function(response){
+
+        alert(response.message);
+
+      });
+
+   });
+
+});
+</script>
+    
+</body>
+
+</html>

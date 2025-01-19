@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="ATV" tvg-name="AT: ATV" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="Free-TV",AT: ATV
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/65.ts
+#EXTINF:-1 tvg-id="ATV II" tvg-name="AT: ATV //" tvg-logo="https://www.satlogo.com/hires/aa/atv2_at.png" group-title="Free-TV",AT: ATV //
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/688.ts
+#EXTINF:-1 tvg-id="PULS 4" tvg-name="AT: Puls4 " tvg-logo="http://logo.watchhd.cc/logo/puls4hd.png" group-title="Europe",AT: Puls4 
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/546.ts
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="AT: ORF 1 HD" tvg-logo="http://logo.watchhd.cc/logo/orf1hd.png" group-title="Free-TV",AT: ORF 1 HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/66.ts
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="AT: ORF 2 HD" tvg-logo="http://logo.watchhd.cc/logo/orf2.png" group-title="Free-TV",AT: ORF 2 HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/67.ts
+#EXTINF:-1 tvg-id="ORF III" tvg-name="AT: ORF 3 HD" tvg-logo="http://logo.watchhd.cc/logo/ORF_3.png" group-title="Free-TV",AT: ORF 3 HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/68.ts
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://logo.watchhd.cc/logo/orfsportplus.png" group-title="Free-TV",AT: ORF Sport+ HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: 3+ HD" tvg-logo="https://forum.watchhd.to/uploads/monthly_2019_11/swiss3plus.png.b97663b7d4e62accce7c35262fa8ebbc.png" group-title="Swiss",Swiss: 3+ HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info HD" tvg-logo="http://logo.watchhd.cc/logo/srf_info.png" group-title="Swiss",Swiss: SRF Info HD
+http://iptv.watchhd.cc:25461/live/hdmw/VJFxnEl6OyqJ/511.ts

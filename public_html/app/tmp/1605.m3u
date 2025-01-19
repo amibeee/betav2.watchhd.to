@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/sw00sh/ysxhbOsAcEO6rpfS/1.ts
+#EXTINF:-1 tvg-id="ZDFGERH" tvg-name="DE: ZDF HD" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD
+http://iptv.watchhd.cc:5050/sw00sh/ysxhbOsAcEO6rpfS/2.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/sw00sh/ysxhbOsAcEO6rpfS/3.ts
+#EXTINF:-1 tvg-id="20f9b7f8941a5013738197f58ccf3d97" tvg-name="DE: RTL UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/324e8d0fe6bd8b4733634f59d48593d2.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/sw00sh/ysxhbOsAcEO6rpfS/34.ts

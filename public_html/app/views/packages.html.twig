@@ -1,0 +1,187 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+    {{ t('Pakete bearbeiten') }}
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="package-container">
+        <h2 class="Friends-title">{{ t('Meine Pakete') }}</h2>
+        <p class="intro-text">{{ t('Du kannst hier die Pakete deiner Line aktivieren / deaktivieren.') }}</p>
+
+        <div class="responsive-table-container">
+            <table class="responsive-packages-table">
+                <thead>
+                    <tr>
+                        <th>Paket</th>
+                        <th class="text-center">Aktiv</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for package in packages %}
+                        <tr>
+                            <td>
+                                <div class="package-info">
+                                    <span class="package-name">{{ package.name }}</span>
+                                    <span class="package-expiry">
+                                        {% if package.booked_until < timestamp %}
+                                            <span class="text-danger">{{ package.booked_until|date('d.m.Y H:i') }} (expired)</span>
+                                        {% else %}
+                                            {{ package.booked_until|date('d.m.Y H:i') }}
+                                        {% endif %}
+                                    </span>
+                                </div>
+                            </td>
+                            <td class="text-center">
+                                <div class="custom-checkbox2">
+                                    <input type="checkbox" 
+                                           id="package_{{ package.id }}" 
+                                           name="package[{{ package.id }}]"
+                                           class="package"
+                                           data-package-id="{{ package.id }}"
+                                           {% if package.status == 'active' or package.bouquet_id == 1 %} checked {% endif %}
+                                           {% if package.bouquet_id == 1 %} disabled {% endif %}>
+                                    <label for="package_{{ package.id }}"></label>
+                                </div>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="packageOptionSuccessfullyChanged" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle">Erfolg</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Das Paket wurde deinen Wünschen entsprechend angepasst. Bitte beachte das es einige Minuten dauern kann bis die Änderung sichtbar wird.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn-primarysett" data-dismiss="modal">Fenster schließen</button>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<style>
+        
+   .package-info span {
+    color: #4f33ef;
+}
+        .responsive-table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-bottom: 1rem;
+        }
+        .responsive-table {
+            width: 100%;
+            min-width: 340px;
+            border-collapse: collapse;
+        }
+        .responsive-table th,
+        .responsive-table td {
+            padding: 0.75rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .responsive-table th {
+            background-color: #4f33ef;
+            color: white;
+            text-align: left;
+        }
+        .responsive-table tbody tr:hover {
+            background-color: #f7fafc;
+        }
+        .package-info {
+            display: flex;
+            flex-direction: column;
+        }
+        .package-name {
+            font-weight: bold;
+        }
+        .package-expiry {
+            font-size: 0.875rem;
+            color: #718096;
+        }
+        .text-danger {
+            color: #e53e3e;
+        }
+        .text-center {
+            text-align: center;
+        }
+        .custom-checkbox2 {
+            display: inline-block;
+            position: relative;
+            padding-left: 30px;
+            cursor: pointer;
+            user-select: none;
+        }
+        .custom-checkbox2 input {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+        }
+        .custom-checkbox2 label::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #4f33ef;
+            background-color: #fff;
+        }
+        .custom-checkbox2 input:checked + label::after {
+            content: '\2714';
+            position: absolute;
+            left: 5px;
+            top: 1px;
+            color: #4f33ef;
+            font-size: 14px;
+        }
+        .custom-checkbox2 input:disabled + label::before {
+            background-color: #e2e8f0;
+            cursor: not-allowed;
+        }
+        @media (max-width: 640px) {
+            .responsive-table th,
+            .responsive-table td {
+                padding: 0.5rem;
+            }
+        }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const packageCheckboxes = document.querySelectorAll('.package');
+
+    packageCheckboxes.forEach(checkbox => {
+        checkbox.addEventListener('change', function() {
+            const packageId = this.dataset.packageId;
+            const isChecked = this.checked;
+
+            // Here you would typically send an AJAX request to update the package status
+            // For demonstration purposes, we'll just show the modal
+            $('#packageOptionSuccessfullyChanged').modal('show');
+        });
+    });
+
+    // Add data-label attributes for mobile view
+    const tableRows = document.querySelectorAll('.table tbody tr');
+    tableRows.forEach(row => {
+        row.querySelector('td:nth-child(1)').setAttribute('data-label', 'Paket');
+        row.querySelector('td:nth-child(2)').setAttribute('data-label', 'Aktiv');
+    });
+});
+</script>
+{% endblock %}

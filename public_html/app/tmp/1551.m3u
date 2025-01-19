@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="20f9b7f8941a5013738197f58ccf3d97" tvg-name="DE: RTL UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/324e8d0fe6bd8b4733634f59d48593d2.png" group-title="Free-TV",DE: RTL UHD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/34.ts
+#EXTINF:-1 timeshift="3" tvg-id="DASERST" tvg-name="DE: Das Erste HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/4ce0bec67fe735f4997426101dd5292b.png" group-title="Free-TV",DE: Das Erste HD (low bit)
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/4678.ts
+#EXTINF:-1 timeshift="3" tvg-id="ZDFGERH" tvg-name="DE: ZDF HD (low bit)" tvg-logo="http://iptv.watchhd.cc:5050/images/fa844c182f3f407935fe5c7451347108.png" group-title="Free-TV",DE: ZDF HD (low bit)
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/4740.ts
+#EXTINF:-1 tvg-id="ee0beb1d1a1e792c3f6b08349d84cf45" tvg-name="DE: RTL HD" tvg-logo="http://iptv.watchhd.cc:5050/images/c528962e8315ce932dc0a1bcae8c4669.png" group-title="Free-TV",DE: RTL HD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/3.ts
+#EXTINF:-1 timeshift="3" tvg-id="2f773ee2990fde05e94a447a01f71258" tvg-name="DE: Sat.1 HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/7b4b3c1a689b5028d3d06ed78b1fff2e.png" group-title="Free-TV",DE: Sat.1 HD (720p)
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/380.ts
+#EXTINF:-1 tvg-id="ARDGRHD" tvg-name="DE: Das Erste HD" tvg-logo="http://iptv.watchhd.cc:5050/images/dc627e3c4bc8cce61311208c5fd9fafe.png" group-title="Free-TV",DE: Das Erste HD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSiebenSat.1 UHD" tvg-logo="http://iptv.watchhd.cc:5050/images/d0c98a81edb7b2bad97f82b4aab90147.png" group-title="Free-TV",DE: ProSiebenSat.1 UHD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/68047.ts
+#EXTINF:-1 timeshift="3" tvg-id="683e75b3b06d15eaf9cb149b8507f739" tvg-name="DE: RTL II HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/99d52c9df02ed4b94bf60182907b7da9.png" group-title="Free-TV",DE: RTL II HD (720p)
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/387.ts
+#EXTINF:-1 tvg-id="3f88daf93ee22317ddeeb2520c65366c" tvg-name="DE: VOX HD" tvg-logo="http://iptv.watchhd.cc:5050/images/32094150bdfc52cd2a4d0067c8bae582.png" group-title="Free-TV",DE: VOX HD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/41.ts
+#EXTINF:-1 tvg-id="PRO7FHD" tvg-name="DE: Prosieben FUN HD" tvg-logo="http://iptv.watchhd.cc:5050/images/3b8a137e3d2159e27ee9e5cb3551e854.png" group-title="Free-TV",DE: Prosieben FUN HD
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/359.ts
+#EXTINF:-1 timeshift="3" tvg-id="b8e0aaf6b4e3f978cb25520470630e64" tvg-name="DE: DMAX HD (720p)" tvg-logo="http://iptv.watchhd.cc:5050/images/ce85af8b92a8e38505114e8de4dff680.png" group-title="Free-TV",DE: DMAX HD (720p)
+http://iptv.watchhd.cc:5050/Artoz/ZF6u54Hr3YX/381.ts

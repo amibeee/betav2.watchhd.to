@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Es folgt: Live Bundesliga"},"start":1492260900,"stop":1492262100,"channel":"Sky Bundesliga HD 6"},{"title":{"de":"Live BL: 1. FSV Mainz 05 - Hertha BSC, 29. Spieltag"},"start":1492262100,"stop":1492270200,"channel":"Sky Bundesliga HD 6"}]}}

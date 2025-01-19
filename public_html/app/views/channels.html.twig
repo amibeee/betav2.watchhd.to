@@ -1,0 +1,113 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+{{ t('Kanäle') }} 
+{% endblock %}
+
+{% block content %}
+    <div class="f-settings-container-fluid">
+
+<div align="center">
+    
+	<div class="alert alert-info">Um in den vollen Genuss der Webstreams zu kommen, ist der Browser Microsoft Edge nötig. Dieser unterstützt alle Codecs die von uns verwendet werden!</div>
+
+    <div class="form-group">
+     
+            <input type="text" name="query" id="query" class="form-control" placeholder="{{ t('Sendersuche') }}" />
+            
+    </div>
+	<h1>{{ t('Keine Lust auf Webstreams? Nutze unsere M3U-Liste unter IPTV!') }}</h1>
+    
+    <h1>{{ t('Entertainment') }}</h1>
+    
+    <div class="row">
+     
+    {% for channel in channels['Entertainment'] %}
+    <div class="col-md-2 channel-box" data-channel="{{ channel.name }}">
+    <div class=" panel panel-default">
+               <div class="panel-body channel">
+             <a href="{{ base_url() }}channel/{{ channel.public_id }}"><img src="{{ base_url() }}{{ channel.logo }}" alt="{{ channel.name }} {{ t('Senderlogo') }}" width="180px" height="108px" /></a>
+                        {% set on_tv = on_tv(channel.tvguideapi_id)  %}
+            <p><strong>{{ t('Jetzt läuft') }}:</strong> <br />{{ on_tv.title.de }} {% if on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ on_tv.subTitle.de }}</small>
+                            {% endif %}</p>
+            {% set next_on_tv = next_on_tv(channel.tvguideapi_id) %}
+            <p><strong>{% if next_on_tv.start|date('d.m.Y') == timestamp|date('d.m.Y') %}{{ next_on_tv.start|date('H:i') }}:{% else %}{{ t('Morgen') }}, {{ next_on_tv.start|date('H:i') }}:{% endif %}</strong> <br />{{ next_on_tv.title.de }}{% if next_on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ next_on_tv.subTitle.de }}</small>
+                            {% endif %}</p>
+        </div>
+    </div>
+    </div>
+    </a>
+    {% endfor %}
+    
+    </div>
+    
+    <h1>{{ t('Sport') }}</h1>
+    
+    <div class="row">
+    
+    {% for channel in channels['Sport'] %}
+    <div class="col-md-2 channel-box" data-channel="{{ channel.name }}">
+    <div class=" panel panel-default">
+       
+        <div class="panel-body channel">
+             <a href="{{ base_url() }}channel/{{ channel.public_id }}"><img src="{{ base_url() }}{{ channel.logo }}" alt="{{ channel.name }} Senderlogo" width="180px" height="108px" /></a>
+            <blockquote>{{ channel.description }}</blockquote>
+            {% set on_tv = on_tv(channel.tvguideapi_id)  %}
+             <p><strong>{{ t('Jetzt läuft') }}:</strong><br /> {{ on_tv.title.de }} {% if on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ on_tv.subTitle.de }}</small>
+                            {% endif %}</p>
+            {% set next_on_tv = next_on_tv(channel.tvguideapi_id) %}
+            <p><strong>{% if next_on_tv.start|date('d.m.Y') == timestamp|date('d.m.Y') %}{{ next_on_tv.start|date('H:i') }}:{% else %}{{ t('Morgen') }}, {{ next_on_tv.start|date('H:i') }}:{% endif %}</strong> {{ next_on_tv.title.de }}{% if next_on_tv.subTitle.de %}
+                            <br />
+                            <small>{{ next_on_tv.subTitle.de }}</small>
+                            {% endif %}</p>
+        </div>
+    </div>
+    </div>
+    </a>
+    {% endfor %}
+    
+    </div>
+
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+   
+   $('input[id=query]').on('keyup', function(e){
+        
+        if($(this).val().length > 0)
+        {
+            
+            var query = $(this).val();
+            
+            $('.channel-box').each(function(){
+                
+                
+                if($(this).attr('data-channel').toLowerCase().search(query.toLowerCase()) === -1)
+                {
+                    
+                    console.log(query.toLowerCase()+' in '+$(this).attr('data-channel').toLowerCase()+' nicht gefunden');
+                    $(this).hide();
+                }
+   
+                
+            });
+            
+        }
+        else
+        {
+            $('.channel-box').show();
+        }
+    
+   });
+    
+});
+</script>
+
+{% endblock %}

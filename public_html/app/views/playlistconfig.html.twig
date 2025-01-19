@@ -1,0 +1,351 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}Playlist zusammenstellen{% endblock %}
+
+{% block content %}
+<style>
+.active{
+    border: 2px solid green;
+}
+ul#channels i {display:none}
+</style>
+<script>
+var isMultiMovement = false;
+var lastZone = null;
+var lastItem = null;
+function includes(k) {
+  for(var i=0; i < this.length; i++){
+    if( this[i] === k || ( this[i] !== this[i] && k !== k ) ){
+      return true;
+    }
+  }
+  return false;
+}
+var moveables = [];
+var list = [];
+
+function handleListItems(item){
+
+}
+
+function handleSubmitButtonStatus(){
+    if($('#dropzone li').length){
+        $('#submitBtn').prop('disabled', false);
+    }
+    else{
+        $('#submitBtn').prop('disabled', true);
+    }
+
+}
+
+function writeChannelIds(){
+    var ids = new Array();
+    $('#dropzone').find('li').each(function(index, value){
+        ids.push($(this).attr('id').replace('drag', ''));
+    });
+    $('#channels').val(JSON.stringify(ids));
+}
+
+function move(e){
+    
+    e.preventDefault();
+  
+    moveables.forEach(function(moveable){
+        
+            switch($(moveable).closest('ul').attr('id')){
+            
+                case 'channels':
+
+                    if(e.target.id != 'button_add') return false;
+                 
+                    var cln = moveable;
+
+                    document.getElementById("dropzone").appendChild(cln);
+                    handleSubmitButtonStatus();
+                
+                break;
+
+                case 'dropzone':
+
+                    if(e.target.id != 'button_remove') return false;
+
+                    var cln = moveable;
+                    document.getElementById("channels").appendChild(cln);
+                    //$('.channel .active').removeClass('active');
+                    handleSubmitButtonStatus();
+                
+                break;
+
+            }
+
+    });
+
+    resetMoveables();
+    writeChannelIds();
+
+
+}
+function resetMoveables(){
+    moveables = new Array();
+    $('li.active').removeClass('active');
+}
+/*
+function handleMultiSelection(elm){
+    
+    var zone = $(elm).parent('ul').attr('id');
+    if(zone != lastZone){
+        //resetMoveables();
+    }
+
+    lastZone = zone;
+
+}
+*/
+function handleMultiSelection(elm, e){
+
+    if(!e.ctrlKey){
+        return false;
+    }
+    
+    var active = ($('li[class="active"]').length+1);
+    var itemID = $(elm).attr('id').replace('drag', '');
+    if(active > 1){
+    
+        isMultiMovement = true;
+
+        
+    }
+
+    if(e.ctrlKey && itemID != lastItem){
+        
+        if(itemID > lastItem){
+            
+            for(var i = lastItem; i <= itemID; i++){
+                moveable($('#drag'+i).get());
+            }
+
+        }
+        else{
+            
+            for(var i = itemID; i <= lastItem; i++){
+                moveable($('#drag'+i).get());
+            }
+
+        }
+       
+    
+    }
+
+    lastItem = itemID;
+
+    return true;
+
+}
+
+function up(elm){
+  var $current = $(elm).closest('li')
+  var $previous = $current.prev('li');
+  if($previous.length !== 0){
+    $current.insertBefore($previous);
+  }
+  writeChannelIds();
+  return false;
+}
+
+function down(elm){
+  var $current = $(elm).closest('li')
+  var $next = $current.next('li');
+  if($next.length !== 0){
+    $current.insertAfter($next);
+  }
+  writeChannelIds();
+  return false;
+}
+
+function moveable(elm, e){
+
+    if(e && e.target.nodeName.toLowerCase() == 'i'){
+        return false;
+    }
+
+    if(elm instanceof Array){
+        elm = elm[0];
+    }
+
+    moveables.includes = includes;
+
+    //alert($('li[class="active"]').length);
+    if(e){
+        if(handleMultiSelection(elm, e)) return;
+    }
+    
+    if(moveables.includes(elm)){
+        $(elm).removeClass('active');
+        moveables = moveables.filter(value => value !== elm);
+    }
+    else{
+        $(elm).addClass('active');
+        moveables.push(elm);
+    }
+
+    /*
+    if(moveables.length)
+    {
+        $('#submitBtn').prop('disabled', false);
+    }
+    else
+    {
+        $('#submitBtn').prop('disabled', true);
+    }
+    */
+
+    // add elm to array moveables if not exists
+    //moveables.push(elm);
+    // remove elm from array moveables if exists
+    console.log(moveables);
+    //myArray.filter(value => value !== 5);
+
+
+}
+
+$(document).ready(function(e){
+	
+	var pre_selected_channels = JSON.parse('{{ pre_selected_channels|raw }}');
+	if(pre_selected_channels.length){
+		
+		for(var i = 0; i < pre_selected_channels.length; i++){
+			
+			$('.channel').each(function(index, o){
+				
+				if($(this).attr('data-channel') == pre_selected_channels[i]){
+					console.log('active');
+					moveables.push($(this).get(0));
+				}
+				
+			}); 
+			
+		}
+		
+		$('#button_add').trigger('click');
+		
+	}
+
+    $('#search').on('keyup', function(e){
+        //console.log('new query: '+$(this).val());
+        var query = $(this).val().toLowerCase();
+        $('#channels li').each(function(){
+           if($(this).attr('data-channel').toLowerCase().search(query) === -1){
+               $(this).hide();
+           }
+           else{
+               $(this).show();
+           }
+        });
+    
+    });
+
+    $('#type').on('change', function(e){
+        
+        var option = $('#type option:selected').val();
+
+        switch(option)
+        {
+
+            case 'channels':
+               $('.channel').show();
+                $('.channel').each(function(){
+                    if($(this).attr('data-type') == 'vod'){
+                        $(this).hide();
+                    }
+                });
+                $('#type option:selected').closest('select').show();
+
+            break;
+
+            case 'vod':
+             $('.channel').show();
+                $('.channel').each(function(){
+                    if($(this).attr('data-type') != 'vod'){
+                        $(this).hide();
+                    }
+                });
+                $('#type option:selected').closest('select').show();
+            break;
+			
+			case 'music':
+             $('.channel').show();
+                $('.channel').each(function(){
+                    if($(this).attr('data-type') != 'music'){
+                        $(this).hide();
+                    }
+                });
+                $('#type option:selected').closest('select').show();
+            break;
+
+            default:
+               $('.channel').show();
+                $('#type option:selected').closest('select').show();
+        }
+
+    });
+
+});
+
+</script>
+<style type="text/css">
+.channel{
+    border: 1px solid black;
+    padding: 5px;
+}
+ul {list-style: none;}
+.channel.active{
+    border: 2px solid #3BDCFD;
+}
+</style>
+{{ form_open({'action':base_url()~'line/customizer?line='~input_get('line')~'&cpid='~input_get('cpid', '')~'&type='~input_get('type')})|raw }}
+<input type="hidden" id="channels" value="" name="channels" />
+<h1>Playlist zusammenstellen</h1>
+<div class="row">
+
+    <div class="col-md-6">
+    <h4>Verfügbare Sender</h4>
+        <select id="type">
+            <option value="">beide</option>
+            <option value="channels">nur Sender (keine Musik Sender)</option>
+			<option value="music">nur Sender (Musik Sender)</option>
+            <option value="vod">nur VoD</option>
+        </select>
+
+        <input type="search" name="search" id="search" class="form-control" placeholder="Sendersuche" />
+    
+
+<div style="height:300px; overflow-y:scroll">
+        <ul id="channels" class="list-group">
+            {% for channel in channels %}
+            <li class="channel" data-type="{{ channel.type }}" data-channel="{{ channel.name }}" id="drag{{ loop.index0 }}" onclick="moveable(this, event)">{{ channel.name }} <i class="fa fa-arrow-up" onclick="up(this, event)"></i> <i class="fa fa-arrow-down" onclick="down(this, event)"></i></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <button onclick="move(event)" id="button_add">ausgewählte Sender verschieben</button>
+    </div>
+    <div class="col-md-6">
+        <h4>Deine ausgewählten Sender</h4>
+        <div style="height:300px; overflow-y:scroll">
+        <ul id="dropzone" class="list-group">
+        
+        </ul>
+        </div>
+        <button style="margin-top:10px" onclick="move(event)" id="button_remove">ausgewählte Sender löschen</button>
+    </div>
+
+</div>
+<div class="form-group">
+    <label>Bezeichnung</label>
+    <input type="text" class="form-control" placeholder="Bezeichnung" name="version" value="{% if version %}{{ version }}{% endif %}" />
+</div>
+<div class="form-group">
+    <input type="submit" name="submitBtn" id="submitBtn" class="btn btn-raised btn-success btn-block btn-lg" disabled value="Playlist generieren" />
+</div>
+{{ form_close()|raw }}
+
+{% endblock %}

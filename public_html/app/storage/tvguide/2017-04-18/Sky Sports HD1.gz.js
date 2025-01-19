@@ -1,0 +1,1 @@
+{"jsontv":{"programme":[{"title":{"de":"Scottish Football Round-Up"},"start":1492466400,"stop":1492467300,"channel":"Sky Sports HD1"},{"title":{"de":"Soccer AM: The Best Bits"},"start":1492467300,"stop":1492469100,"channel":"Sky Sports HD1"},{"title":{"de":"Scottish Football Round-Up"},"start":1492469100,"stop":1492470000,"channel":"Sky Sports HD1"}]}}

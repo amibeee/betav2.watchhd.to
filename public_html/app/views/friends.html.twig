@@ -1,0 +1,43 @@
+{% extends "layout.html.twig" %}
+
+{% block title %}
+	{{ t('Geworbene Freunde') }}
+{% endblock %}
+
+{% block content %}
+	<div class="container-fluid">
+		<div class="f-settings-container-fluid">
+				<p class="Friends-title">{{ t('Freunde werben und gratis Premium Laufzeit erhalten') }}</p>
+
+		<div class="friend-settings-container-fluid">
+			<p>{{ t('Pro geworbenen Benutzer, der ein Premium Account erwirbt, erhälst du 3 Tage Premium dazu. Für jeden weiteren Kauf des Benutzers erhälst du 1 Tag dazu.') }}</p>
+			<div class="form-group">
+				<label>{{ t('Dein persönlicher Link zum werben von Freunden') }}</label>
+				<input type="text" value="{{ base_url() }}signup?friend={{ current_user.uid }}" class="form-control"/>
+			</div>
+        </div>    
+        <h2 class="Friends-title">Geworbene Freunde</h2>
+		<div class="friend-settings-container-fluid">
+
+			
+
+			<table class="table table-striped table-bordered table-hover">
+				<thead>
+					<tr>
+						<th width="30%">{{ t('Datum') }}</th>
+						<th>{{ t('Benutzer') }}</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for friend in friends %}
+						<tr>
+							<td>{{ friend.created_at|date('d.m.Y H:i') }}</td>
+							<td>{{ friend.username }}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+		</div>
+	</div>
+	</div>
+{% endblock %}
